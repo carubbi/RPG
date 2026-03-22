@@ -1,50 +1,23 @@
 """
       Execution:
-        python -m algs4.degrees_of_separation filename delimiter source
+        python -m algs4.degrees_of_separation filename delimiter source queries.txt
       Data files:   ../dataset/routes.txt
-                    ../dataset/movies.txt
+                    ../dataset/airports.txt
     
     
-     % python -m algs4.degrees_of_separation ../dataset/routes.txt " " "JFK"
-      LAS
+     % python -m algs4.degrees_of_separation ../dataset/routes.txt " " "JFK" ../dataset/airports.txt
+      ATL
+         JFK
+         ATL
+      DEN
          JFK
          ORD
          DEN
-         LAS
-      DFW
+      LAX
          JFK
          ORD
-         DFW
-      EWR
-         Not in database.
-    
-     % python -m algs4.degrees_of_separation ../dataset/movies.txt "/" "Bacon, Kevin"
-      Kidman, Nicole
-         Bacon, Kevin
-         Woodsman, The(2004)
-         Grier, David Alan
-         Bewitched(2005)
-         Kidman, Nicole
-      Grant, Cary
-         Bacon, Kevin
-         Planes, Trains & Automobiles(1987)
-         Martin, Steve(I)
-         Dead Men Don't Wear Plaid(1982)
-         Grant, Cary
-    
-     % python -m algs4.degrees_of_separation ../dataset/movies.txt "/" "Animal House (1978)"
-      Titanic(1997)
-         Animal House(1978)
-         Allen, Karen(I)
-         Raiders of the Lost Ark(1981)
-         Taylor, Rocky(I)
-         Titanic(1997)
-      To Catch a Thief(1955)
-         Animal House(1978)
-         Vernon, John(I)
-         Topaz(1969)
-         Hitchcock, Alfred(I)
-         To Catch a Thief(1955)
+         PHX
+         LAX
     
 """
 from algs4.symbol_graph import SymbolGraph
@@ -52,7 +25,7 @@ from algs4.breadth_first_paths import BreadthFirstPaths
 
 if __name__ == "__main__":
     import sys
-    filename, delimiter, source = sys.argv[1], sys.argv[2], sys.argv[3]
+    filename, delimiter, source, queries = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
     sg = SymbolGraph(filename, delimiter)
     graph = sg.graph()
 
@@ -62,7 +35,7 @@ if __name__ == "__main__":
         s = sg.index(source)
         bfs = BreadthFirstPaths(graph, s)
 
-        for line in sys.stdin:
+        for line in open(queries):
             sink = line.strip()
             if sg.contains(sink):
                 t = sg.index(sink)

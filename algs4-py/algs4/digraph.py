@@ -5,7 +5,7 @@
                  ../dataset/mediumDG.txt
                  ../dataset/largeDG.txt
  
-   A graph, implemented using an array of sets.
+   A graph, implemented using an array of bags.
    Parallel edges and self-loops are permitted.
  
    % python -m algs4.digraph ../dataset/tinyDG.txt
@@ -33,16 +33,13 @@ class Digraph:
     def __init__(self, v=0, **kwargs):
         self.V = v
         self.E = 0
-        self.adj = {}
-        for v in range(self.V):
-            self.adj[v] = Bag()
+        self.adj = [Bag() for _ in range(self.V)]
 
         if 'file' in kwargs:
             # init a digraph by a file input
             in_file = kwargs['file']
             self.V = int(in_file.readline())
-            for v in range(self.V):
-                self.adj[v] = Bag()
+            self.adj = [Bag() for _ in range(self.V)]
             E = int(in_file.readline())
             for i in range(E):
                 v, w = in_file.readline().split()
@@ -60,11 +57,11 @@ class Digraph:
         self.E += 1
 
     def degree(self, v):
-        return len(self.adj[v])
+        return self.adj[v].size()
 
     def max_degree(self):
         max_deg = 0
-        for v in self.V:
+        for v in range(self.V):
             max_deg = max(max_deg, self.degree(v))
         return max_deg
 

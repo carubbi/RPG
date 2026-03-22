@@ -27,8 +27,8 @@
  *  Reverse postorder: 8 7 2 3 0 6 9 10 11 12 1 5 4
  *
 """
-from algs4.queue import Queue
-from algs4.stack import Stack
+from collections import deque
+
 from algs4.digraph import Digraph
 
 
@@ -36,26 +36,26 @@ class DepthFirstOrder:
 
     def __init__(self, G):
         self.marked = [False for _ in range(G.V)]
-        self.pre = Queue()
-        self.post = Queue()
+        self.pre = deque()
+        self.post = deque()
         for w in range(G.V):
             if not self.marked[w]:
                 self.dfs(G, w)
 
     def dfs(self, G, v):
-        self.pre.enqueue(v)
+        self.pre.append(v)
         self.marked[v] = True
 
         for w in G.adj[v]:
             if not self.marked[w]:
                 self.dfs(G, w)
-        self.post.enqueue(v)
+        self.post.append(v)
 
     def reverse_post(self):
-        reverse = Stack()
-        for v in self.post:
-            reverse.push(v)
-        return reverse
+        return reversed(self.post)
+
+    def reversePost(self):
+        return self.reverse_post()
 
 
 if __name__ == '__main__':

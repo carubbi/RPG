@@ -5,7 +5,7 @@
                  ../dataset/mediumG.txt
                  ../dataset/largeG.txt
  
-   A graph, implemented using an array of sets.
+   A graph, implemented using an array of bags.
    Parallel edges and self-loops allowed.
  
    % python -m algs4.graph ../dataset/tinyG.txt
@@ -39,15 +39,14 @@ class Graph:
     def __init__(self, v):
         self.V = v
         self.E = 0
-        self.adj = {}
-        for v in range(self.V):
-            self.adj[v] = Bag()
+        self.adj = [Bag() for _ in range(self.V)]
 
     def __str__(self):
-        s = "%d vertices, %d edges\n" % (self.V, self.E)
-        s += "\n".join("%d: %s" % (v, " ".join(str(w)
-                                               for w in self.adj[v])) for v in range(self.V))
-        return s
+        lines = ["%d vertices, %d edges" % (self.V, self.E)]
+        for v in range(self.V):
+            neighbors = " ".join(str(w) for w in self.adj[v])
+            lines.append("%d: %s" % (v, neighbors))
+        return "\n".join(lines)
 
     def add_edge(self, v, w):
         v, w = int(v), int(w)
@@ -56,11 +55,11 @@ class Graph:
         self.E += 1
 
     def degree(self, v):
-        return len(self.adj[v])
+        return self.adj[v].size()
 
     def max_degree(self):
         max_deg = 0
-        for v in self.V:
+        for v in range(self.V):
             max_deg = max(max_deg, self.degree(v))
         return max_deg
 
@@ -70,7 +69,7 @@ class Graph:
             for w in self.adj[v]:
                 if w == v:
                     count += 1
-        return count
+        return count // 2
 
 
 if __name__ == '__main__':

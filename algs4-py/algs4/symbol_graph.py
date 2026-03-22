@@ -1,37 +1,16 @@
 """
-   Execution:    python -m algs4.symbol_graph filename.txt delimiter
+   Execution:    python -m algs4.symbol_graph filename.txt delimiter queries.txt
    Data files:   ../dataset/routes.txt
-                 ../dataset/movies.txt
+                 ../dataset/airports.txt
 
-   %  python -m algs4.symbol_graph ../dataset/routes.txt " "
-   JFK
+   %  python -m algs4.symbol_graph ../dataset/routes.txt " " ../dataset/airports.txt
       MCO
-      ATL
       ORD
-   LAX
-      PHX
+      HOU
+      JFK
       LAS
+      PHX
 
-   % python -m algs4.symbol_graph ../dataset/movies.txt "/"
-   Tin Men (1987)
-      Hershey, Barbara
-      Geppi, Cindy
-      Jones, Kathy (II)
-      Herr, Marcia
-      ...
-      Blumenfeld, Alan
-      DeBoy, David
-   Bacon, Kevin
-      Woodsman, The (2004)
-      Wild Things (1998)
-      Where the Truth Lies (2005)
-      Tremors (1990)
-      ...
-      Apollo 13 (1995)
-      Animal House (1978)
-
-
-   Assumes that input file is encoded using UTF-8.
 
  """
 
@@ -75,11 +54,11 @@ class SymbolGraph:
 
 if __name__ == "__main__":
     import sys
-    filename, delimiter = sys.argv[1], sys.argv[2]
+    filename, delimiter, queries = sys.argv[1], sys.argv[2], sys.argv[3]
     sg = SymbolGraph(filename, delimiter)
     graph = sg.graph()
 
-    for line in sys.stdin:
+    for line in open(queries):
         source = line.strip()
         if sg.contains(source):
             s = sg.index(source)
