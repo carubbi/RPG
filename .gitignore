@@ -1,5 +1,6 @@
 .venv/
 .DS_Store
+algs4-py/algs4/utils/__pycache__
 
 # Arquivos grandes locais (não versionar)
 dataset/leipzig1M.txt
