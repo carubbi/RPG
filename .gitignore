@@ -1,5 +1,6 @@
 .venv/
 .DS_Store
+.githooks/
 algs4-py/algs4/__pycache__/
 algs4-py/algs4/utils/__pycache__
 
