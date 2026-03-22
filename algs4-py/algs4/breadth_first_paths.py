@@ -37,8 +37,8 @@
  *
 """
 
-from algs4.stack import Stack
-from algs4.queue import Queue
+from collections import deque
+
 from algs4.graph import Graph
 
 
@@ -52,15 +52,14 @@ class BreadthFirstPaths:
 
     def bfs(self, G, s):
         self._marked[s] = True
-        queue = Queue()
-        queue.enqueue(s)
-        while not queue.is_empty():
-            v = queue.dequeue()
+        queue = deque([s])
+        while queue:
+            v = queue.popleft()
             for w in G.adj[v]:
                 if not self._marked[w]:
                     self.edge_to[w] = v
                     self._marked[w] = True
-                    queue.enqueue(w)
+                    queue.append(w)
 
     def has_path_to(self, v):
         return self._marked[v]
@@ -68,13 +67,13 @@ class BreadthFirstPaths:
     def path_to(self, v):
         if not self.has_path_to(v):
             return
-        path = Stack()
+        path = []
         x = v
         while x != self.s:
-            path.push(x)
+            path.append(x)
             x = self.edge_to[x]
-        path.push(self.s)
-        return path
+        path.append(self.s)
+        return reversed(path)
 
 
 if __name__ == '__main__':

@@ -13,7 +13,6 @@
   No directed cycle
 
  """
-from algs4.stack import Stack
 from algs4.digraph import Digraph
 
 
@@ -39,13 +38,14 @@ class DirectedCycle:
                 self.edge_to[w] = v
                 self.dfs(G, w)
             elif self.on_stack[w]:
-                self.cycle = Stack()
+                cycle = []
                 x = v
                 while x != w:
-                    self.cycle.push(x)
+                    cycle.append(x)
                     x = self.edge_to[x]
-                self.cycle.push(w)
-                self.cycle.push(v)
+                cycle.append(w)
+                cycle.append(v)
+                self.cycle = list(reversed(cycle))
         self.on_stack[v] = False
 
     def marked(self, v):

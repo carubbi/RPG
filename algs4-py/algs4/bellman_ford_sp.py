@@ -1,5 +1,5 @@
-from algs4.queue import Queue
-from algs4.stack import Stack
+from collections import deque
+
 from algs4.edge_weighted_digraph import EdgeWeightedDigraph
 from algs4.edge_weighted_directed_cycle import EdgeWeightedDirectedCycle
 
@@ -12,16 +12,15 @@ class BellmanFordSP:
         self.cycle = None
         self.edgeTo = [None for _ in range(g.V)]
         self.distTo = [float("inf") for _ in range(g.V)]
-        self.onQ = [false for _ in range(g.V)]
+        self.onQ = [False for _ in range(g.V)]
         for v in range(g.V):
             self.distTo[v] = POSITIVE_INFINITY
         self.distTo[s] = 0.0
 
-        self.queue = Queue()
-        self.queue.enqueue(s)
+        self.queue = deque([s])
         self.onQ[s] = True
-        while not self.queue.is_empty() and not self.has_negative_cycle():
-            v = self.queue.dequeue()
+        while self.queue and not self.has_negative_cycle():
+            v = self.queue.popleft()
             self.onQ[v] = False
             self.relax(g, v)
 
@@ -32,7 +31,7 @@ class BellmanFordSP:
                 self.distTo[w] = self.distTo[v] + e.weight
                 self.edgeTo[w] = e
                 if not self.onQ[w]:
-                    self.queue.enqueue(w)
+                    self.queue.append(w)
                     self.onQ[w] = True
             self.cost += 1
             if self.cost % g.V == 0:
@@ -58,9 +57,9 @@ class BellmanFordSP:
     def path_to(self, v):
         if not self.has_path_to(v):
             return None
-        edges = Stack()
+        edges = []
         e = self.edgeTo[v]
         while e != None:
-            edges.push(e)
+            edges.append(e)
             e = self.edgeTo[e.From()]
-        return edges
+        return reversed(edges)

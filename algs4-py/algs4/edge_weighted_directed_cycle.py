@@ -11,7 +11,6 @@
 """
 import random
 
-from algs4.stack import Stack
 from algs4.directed_edge import DirectedEdge
 from algs4.edge_weighted_digraph import EdgeWeightedDigraph
 
@@ -34,17 +33,17 @@ class EdgeWeightedDirectedCycle:
             if self.cycle is not None:
                 return
             elif not self.marked[w]:
-                print("push stack", e)
                 self.edge_to[w] = e
                 self.dfs(G, w)
             elif self.on_stack[w]:
                 # trace back directed cycle
-                self.cycle = Stack()
+                cycle = []
                 f = e
                 while f.From() != w:
-                    self.cycle.push(f)
+                    cycle.append(f)
                     f = self.edge_to[f.From()]
-                self.cycle.push(f)
+                cycle.append(f)
+                self.cycle = list(reversed(cycle))
                 return
         self.on_stack[v] = False
 

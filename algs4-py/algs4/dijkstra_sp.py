@@ -29,7 +29,6 @@
 
 from algs4.edge_weighted_digraph import EdgeWeightedDigraph
 from algs4.index_min_pq import IndexMinPQ
-from algs4.stack import Stack
 
 POSITIVE_INFINITY = 999999.0
 
@@ -63,12 +62,12 @@ class DijkstraSP:
     def path_to(self, v):
         if not self.has_path_to(v):
             return None
-        edges = Stack()
+        edges = []
         e = self.edgeTo[v]
         while e != None:
-            edges.push(e)
+            edges.append(e)
             e = self.edgeTo[e.From()]
-        return edges
+        return reversed(edges)
 
 
 if __name__ == "__main__":

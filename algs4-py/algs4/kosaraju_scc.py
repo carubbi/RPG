@@ -62,8 +62,6 @@
 
 from algs4.depth_first_order import DepthFirstOrder
 from algs4.digraph import Digraph
-from algs4.queue import Queue
-
 
 class KosarajuSCC:
     def __init__(self, G):
@@ -97,9 +95,9 @@ if __name__ == "__main__":
     print(m, "strong components")
     components = []
     for i in range(m):
-        components.append(Queue())
+        components.append([])
     for v in range(g.V):
-        components[scc.id[v]].enqueue(v)
+        components[scc.id[v]].append(v)
 
     for i in range(m):
         for v in components[i]:

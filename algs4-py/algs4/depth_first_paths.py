@@ -27,7 +27,6 @@
    0 to 5:  0-2-3-5
 
 """
-from algs4.stack import Stack
 from algs4.graph import Graph
 
 
@@ -52,13 +51,13 @@ class DepthFirstPaths:
     def path_to(self, v):
         if not self.has_path_to(v):
             return
-        path = Stack()
+        path = []
         x = v
         while x != self.s:
-            path.push(x)
+            path.append(x)
             x = self.edge_to[x]
-        path.push(s)
-        return path
+        path.append(self.s)
+        return reversed(path)
 
 if __name__ == '__main__':
     import sys

@@ -36,29 +36,30 @@
  *
 """
 
+from collections import deque
+
 from algs4.edge_weighted_graph import EdgeWeightedGraph
 from algs4.min_pq import MinPQ
-from algs4.queue import Queue
 from algs4.uf import UF
 
 
 class KruskalMST:
     def __init__(self, g):
         self.weight = 0
-        self.mst = Queue()
+        self.mst = deque()
         self.pq = MinPQ()
         for e in g.edges():
             self.pq.insert(e)
 
         uf = UF(g.V)
-        while not self.pq.is_empty() and self.mst.size() < g.V - 1:
+        while not self.pq.is_empty() and len(self.mst) < g.V - 1:
             e = self.pq.del_min()
             v = e.either()
             w = e.other(v)
             if uf.connected(v, w):
                 continue
             uf.union(v, w)
-            self.mst.enqueue(e)
+            self.mst.append(e)
             self.weight += e.weight
 
     def edges(self):

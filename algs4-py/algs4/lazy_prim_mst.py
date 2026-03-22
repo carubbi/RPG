@@ -36,16 +36,17 @@
  *
 """
 
+from collections import deque
+
 from algs4.edge_weighted_graph import EdgeWeightedGraph
 from algs4.min_pq import MinPQ
-from algs4.queue import Queue
 
 
 class LazyPrimMST:
     def __init__(self, g):
         self.marked = [False for _ in range(g.V)]
         self.pq = MinPQ()
-        self.mst = Queue()
+        self.mst = deque()
         self.weight = 0
 
         for v in range(g.V):
@@ -60,7 +61,7 @@ class LazyPrimMST:
             w = e.other(v)
             if self.marked[v] and self.marked[w]:
                 continue
-            self.mst.enqueue(e)
+            self.mst.append(e)
             self.weight += e.weight
             if not self.marked[v]:
                 self.visit(g, v)
