@@ -12,7 +12,7 @@ Provide a compact package for teaching graph algorithms in Python, keeping the c
 
 ## Practical Guide
 
-Execution examples are documented in [guia_pratico.md](/Users/carubbi/Documents/aulas/T290/algs4-py/guia_pratico.md).
+Execution examples are documented in [guia_pratico.md](guia_pratico.md).
 
 ## Index
 
