@@ -1,6 +1,6 @@
 .venv/
 .DS_Store
-prof/
+
 # Arquivos grandes locais (não versionar)
 dataset/leipzig1M.txt
 dataset/largeEWD.txt

@@ -19,3 +19,5 @@ Material da disciplina **Resolução de Problemas com Grafos**.
 
 - Arquivos de dataset acima de 100 MB não são aceitos pelo GitHub e estão no `.gitignore`.
 - Para trabalhar com arquivos grandes, use armazenamento externo ou Git LFS.
+- Há um hook versionado em `.githooks/pre-commit` que bloqueia commits com arquivos staged acima de 50 MiB.
+- Para ativá-lo neste clone: `git config core.hooksPath .githooks`

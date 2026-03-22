@@ -1,0 +1,31 @@
+#!/bin/sh
+
+set -eu
+
+max_bytes=$((50 * 1024 * 1024))
+blocked=""
+
+while IFS= read -r path
+do
+    [ -n "$path" ] || continue
+
+    # Skip deletions and anything no longer present in the index.
+    if ! size=$(git cat-file -s ":$path" 2>/dev/null); then
+        continue
+    fi
+
+    if [ "$size" -gt "$max_bytes" ]; then
+        mib=$(awk "BEGIN { printf \"%.2f\", $size / 1024 / 1024 }")
+        blocked="${blocked}${path} (${mib} MiB)\n"
+    fi
+done <<EOF
+$(git diff --cached --name-only --diff-filter=ACMR)
+EOF
+
+if [ -n "$blocked" ]; then
+    limit_mib=$(awk "BEGIN { printf \"%.0f\", $max_bytes / 1024 / 1024 }")
+    printf "Commit bloqueado: arquivos staged acima de %s MiB.\n" "$limit_mib" >&2
+    printf "Remova-os do indice com 'git reset HEAD <arquivo>' ou use armazenamento externo/Git LFS.\n\n" >&2
+    printf "%b" "$blocked" >&2
+    exit 1
+fi
