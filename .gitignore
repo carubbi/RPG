@@ -1,8 +1,10 @@
+# Ignorar arquivos e pastas específicos
 .venv/
 .DS_Store
 .githooks/
 algs4-py/algs4/__pycache__/
 algs4-py/algs4/utils/__pycache__
+.codex
 
 # Arquivos grandes locais (não versionar)
 dataset/leipzig1M.txt
