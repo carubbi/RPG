@@ -4,14 +4,14 @@
 
 Qual é o percurso fechado de menor custo?
 
-![Example problem](../../imgs/T3/intro.png)
+![Example problem](./imgs/intro.png)
 
 ### Legenda
 
-![Vértice](../../imgs/T3/knoten.png)
+![Vértice](./imgs/knoten.png)
 Vértice
 
-![Aresta com peso 50](../../imgs/T3/kante.png)
+![Aresta com peso 50](./imgs/kante.png)
 Aresta com peso 50
 
 ## O Percurso do Carteiro
@@ -48,22 +48,22 @@ Após a adição desses caminhos suplementares, os **[graus de entrada](https://
 
 ## Descrição do Algoritmo
 
-![Grafo de saída](../../imgs/T3/grad.png)
+![Grafo de saída](./imgs/grad.png)
 
 O **grafo inicial** apresenta, em cada vértice, a diferença entre seu grau de saída e seu grau de entrada. Os vértices para os quais essa diferença é distinta de zero são chamados de **desbalanceados**.
 
-![Emparelhamento](../../imgs/T3/matching.png)
+![Emparelhamento](./imgs/matching.png)
 
 Esta figura apresenta o **grafo bipartido de emparelhamento** construído a partir dos vértices desbalanceados. É nesse grafo auxiliar que se determina entre quais pares de vértices devem ser inseridos novos caminhos. A representação à direita mostra o grafo resultante após a inserção desses caminhos adicionais.
 
-![Aresta de emparelhamento](../../imgs/T3/matching_edge.png)
+![Aresta de emparelhamento](./imgs/matching_edge.png)
 
 Uma **aresta de emparelhamento** indica um pareamento escolhido no grafo auxiliar. Esse pareamento determina onde novos caminhos devem ser inseridos no grafo original.
 
-![Nova aresta inserida](../../imgs/T3/new_edge.png)
+![Nova aresta inserida](./imgs/new_edge.png)
 
 Uma **nova aresta inserida** representa, no modelo expandido, a reutilização de uma aresta ou de um caminho no percurso ótimo. A linha pontilhada indica arestas que são percorridas múltiplas vezes.
 
-![Circuito euleriano](../../imgs/T3/tour.png)
+![Circuito euleriano](./imgs/tour.png)
 
 O **circuito euleriano** obtido após o balanceamento dos graus fornece o percurso fechado procurado. As diferentes cores destacam os subtours identificados durante a execução do método de Hierholzer.
