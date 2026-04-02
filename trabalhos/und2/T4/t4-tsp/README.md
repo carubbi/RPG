@@ -1,4 +1,4 @@
-<img src="../../T3/t3-pcc/imgs/UNIFOR_logo1b.png" width="400">
+<img src="imgs/UNIFOR_logo1b.png" width="400">
 
 # T4 - Problema do Caixeiro Viajante (PCV) com Heurísticas de Inserção
 
