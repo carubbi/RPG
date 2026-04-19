@@ -12,3 +12,6 @@ dataset/largeEWD.txt
 dataset/largeDG.txt
 dataset/largeEWG.txt
 dataset/largeG.txt
+
+# pastas locais
+_local/
