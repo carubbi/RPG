@@ -2,6 +2,7 @@
 .venv/
 venv.sh
 requirements.txt
+requirements-dev.txt
 .DS_Store
 .githooks/
 algs4-py/algs4/__pycache__/
