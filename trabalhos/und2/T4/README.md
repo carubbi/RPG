@@ -20,7 +20,7 @@ O restante do fluxo ja vem pronto:
 
 ## Bases oficiais
 
-- `algs4-kw` para Java
+- `algs4-java` para Java
 - `algs4-py` para Python
 
 O projeto ja inclui localmente as classes necessarias para leitura, modelagem,
