@@ -111,7 +111,7 @@ Find a way to assign three colors to the vertices of the graph
 
 such that no edge connects two vertices of the same color, or show that it is not possible to do so.
 
-## Exercises 18.1-18.4, 18.6, 18.8, 18.9, 18.15, 18.16, and 18.28
+## Exercises 18.1-18.60 (selected)
 
 ### 18.1
 Assume that intersections 6 and 7 (and all the hallways connected to them) are removed from the maze in Figures 18.2 and 18.3, and a hallway is added that connects 1 and 2. Show a Trémaux exploration of the resulting maze, in the style of Figures 18.2 and 18.3.
@@ -171,6 +171,68 @@ Draw the DFS forest that results from a standard adjacency-lists DFS of the grap
 
 ### 18.28
 Prove that a graph is two-colorable if and only if it contains no odd cycle. Hint: Prove by induction that Program 18.5 determines whether or not any given graph is two-colorable.
+
+### 18.33
+If a graph is a forest, all its edges are separation edges; but which vertices are separation vertices?
+
+### 18.34
+Consider the graph
+
+```text
+3-7 1-4 7-8 0-5 5-2 3-8 2-9 0-6 4-9 2-6 6-4
+```
+
+Draw the standard adjacency-lists DFS tree. Use it to find the bridges and the edge-connected components.
+
+### 18.47
+Write a class that allows clients to create objects that know the number of articulation points, bridges, and biconnected components in a graph.
+
+### 18.50
+Draw the BFS forest that results from a standard adjacency-lists BFS of the graph
+
+```text
+3-7 1-4 7-8 0-5 5-2 3-8 2-9 0-6 4-9 2-6 6-4
+```
+
+### 18.51
+Draw the BFS forest that results from a standard adjacency-matrix BFS of the graph
+
+```text
+3-7 1-4 7-8 0-5 5-2 3-8 2-9 0-6 4-9 2-6 6-4
+```
+
+### 18.52
+Modify Programs 18.7 and 18.8 to use a Java collection instead of the ADT from Section 4.8.
+
+### 18.53
+Give a BFS implementation (a version of Program 18.8) that uses a queue of vertices (see Program 5.22). Include a test in the BFS search code to ensure that no duplicates go on the queue.
+
+### 18.54
+Give the all-shortest-path matrices (in the style of Figure 18.23) for the graph
+
+```text
+3-7 1-4 7-8 0-5 5-2 3-8 2-9 0-6 4-9 2-6 6-4
+```
+
+assuming that you use the adjacency-matrix representation.
+
+### 18.55
+Develop a shortest-paths class, which supports shortest-path queries after preprocessing to compute all shortest paths. Specifically, define a two-dimensional matrix as a private data field, and write a constructor that assigns values to all its entries as illustrated in Figure 18.23. Then, implement two query methods `length(v, w)` (that returns the shortest-path length between `v` and `w`) and `path(v, w)` (that returns the vertex adjacent to `v` that is on a shortest path between `v` and `w`).
+
+### 18.56
+What does the BFS tree tell us about the distance from `v` to `w` when neither is at the root?
+
+### 18.57
+Develop a class whose objects know the path length that suffices to connect any pair of vertices in a graph. (This quantity is known as the graph's diameter). Note: You need to define a convention for the return value in the case that the graph is not connected.
+
+### 18.58
+Give a simple optimal recursive algorithm for finding the diameter of a tree (see Exercise 18.57).
+
+### 18.59
+Instrument the BFS class Program 18.8 by adding methods (and appropriate private data fields) that return the height of the BFS tree and the percentage of edges that must be processed for every vertex to be seen.
+
+### • 18.60
+Run experiments to determine empirically the average values of the quantities described in Exercise 18.59 for graphs of various sizes, drawn from various graph models (see Exercises 17.64-76).
 
 ## Material de Apoio do Livro
 
@@ -255,6 +317,66 @@ class GraphDFS
   int ST(int v) { return st[v]; }
 }
 ```
+
+### Program 18.7 Breadth-first search
+
+This graph-search class differs from Program 18.2 only in the implementation of `searchC`. It visits a vertex by scanning through its incident edges, putting any edges to unvisited vertices onto the queue of vertices to be visited. As in Program 18.2, vertices are marked in the visit order given by `ord`. The constructor builds an explicit parent-link representation of the BFS tree in `st`.
+
+```java
+class GraphBFSedge
+{
+  private Graph G;
+  private int cnt;
+  private int[] ord, st;
+  private void searchC(Edge e)
+  { EdgeQueue Q = new EdgeQueue(G.V());
+    Q.put(e);
+    while (!Q.empty())
+      if (ord[(e = Q.get()).w] == -1)
+      { int v = e.v, w = e.w;
+        ord[w] = cnt++; st[w] = v;
+        AdjList A = G.getAdjList(w);
+        for (int t = A.beg(); !A.end(); t = A.nxt())
+          if (ord[t] == -1) Q.put(new Edge(w, t));
+      }
+  }
+  GraphBFSedge(Graph G, int v)
+    { this.G = G; cnt = 0;
+      ord = new int[G.V()]; st = new int[G.V()];
+      for (int t = 0; t < G.V(); t++)
+        { ord[t] = -1; st[t] = -1; }
+      for (int t = 0; t < G.V(); t++)
+        if (ord[t] == -1) searchC(new Edge(t, t));
+    }
+  int order(int v) { return ord[v]; }
+  int ST(int v) { return st[v]; }
+}
+```
+
+### Program 18.8 Improved BFS
+
+To guarantee that the queue used during BFS has at most `V` entries, this version marks vertices as they are put on the queue.
+
+```java
+private void searchC(Edge e)
+  { EdgeQueue Q = new EdgeQueue(G.V());
+    Q.put(e); ord[e.w] = cnt++;
+    while (!Q.empty())
+      { e = Q.get(); int v = e.v, w = e.w;
+        st[w] = v;
+        AdjList A = G.getAdjList(w);
+        for (int t = A.beg(); !A.end(); t = A.nxt())
+          if (ord[t] == -1)
+          { Q.put(new Edge(w, t)); ord[t] = cnt++; }
+      }
+  }
+```
+
+### Figure 18.23 All-pairs shortest paths example
+
+This figure depicts the result of doing BFS from each vertex, computing the shortest paths connecting all pairs of vertices. The matrices at the bottom summarize the shortest-path lengths and the corresponding `st` arrays.
+
+![Figure 18.23 All-pairs shortest paths example](imgs/sedgewick_java_fig_18_23.png)
 
 ### Program 18.5 Two-colorability (bipartiteness)
 
