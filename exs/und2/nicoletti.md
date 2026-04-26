@@ -179,54 +179,10 @@ Resolva o problema do carteiro chinês para cada um os dois grafos a seguir:
 
 ![Grafos do exercício 9 da 5ª lista](imgs/nicoletti_lista5_ex9.png)
 
-### Exercício 10
-Use o algoritmo dois otimal para o problema do caixeiro-viajante para o grafo a seguir:
-
-![Grafo do exercício 10 da 5ª lista](imgs/nicoletti_lista5_ex10.png)
-
-### Exercício 11
-Mostre que, se `e` for qualquer aresta de `K_5`, então `K_5 - e` é planar.
-
-### Exercício 12
-Mostre que se `e` for qualquer aresta de `K_{3,3}`, então `K_{3,3} - e` é planar.
-
-### Exercício 13
-Verifique a fórmula de Euler para os grafos planos mostrados em (a) e (b) a seguir (Clark & Houlton, 1998).
-
-![Grafos do exercício 13 da 5ª lista](imgs/nicoletti_lista5_ex13.png)
-
-### Exercício 14
-Desenhe um grafo simples plano no qual o grau de todo vértice é pelo menos 5.
-
-### Exercício 15
-Considere `G` um grafo plano 4-regular com 10 faces. Determine quantos vértices `G` tem e desenhe `G`.
-
 ### Exercício 16
-Mostre que os grafos em (a) e (b) são isomorfos, mas têm duais não isomorfos (Clark & Holton, 1998).
+Mostre que os grafos em (a) e (b) são isomorfos.
 
 ![Grafos do exercício 16 da 5ª lista](imgs/nicoletti_lista5_ex16.png)
-
-### Exercício 17
-Determine se cada um dos grafos mostrados em (a)-(e) é planar. Quando o grafo em questão for planar, redesenhe-o de maneira que duas arestas não se cruzem. Quando o grafo não for planar, encontrar um seu subgrafo, homeomorfo a `K_5` ou `K_{3,3}`.
-
-![Grafos do exercício 17 da 5ª lista](imgs/nicoletti_lista5_ex17.png)
-
-### Exercício 18
-Desenhe o dual do grafo mostrado em (a) e mostrado em (b).
-
-![Grafos do exercício 18 da 5ª lista](imgs/nicoletti_lista5_ex18.png)
-
-### Exercício 19
-A adição ou remoção de um loop tem qualquer efeito na planaridade de um grafo? Explique sua resposta. E com relação à adição ou remoção de uma aresta múltipla?
-
-### Exercício 20
-Um grafo conectado planar pode ter 10 vértices, 16 arestas e 7 faces? Justifique sua resposta.
-
-### Exercício 21
-Prove que qualquer grafo com exatamente 4 vértices é planar.
-
-### Exercício 22
-Prove que qualquer grafo que tenha exatamente 5 vértices, um dos quais tem grau 2, deve ser planar.
 
 ### Exercício 23
 Uma firma deseja armazenar sete produtos químicos diferentes, `Q1`, `Q2`, `Q3`, `Q4`, `Q5`, `Q6` e `Q7`. Uma vez que alguns desses produtos não podem ser armazenados juntos, por problema de segurança, são necessários diferentes locais de armazenamento. A tabela a seguir mostra (com um asterisco) quais pares de produtos químicos não podem ser armazenados em um mesmo local. Use coloração de grafo para encontrar o número mínimo de locais necessários e identifique os produtos que podem ser alocados a esses locais, respectivamente.
@@ -242,6 +198,6 @@ Uma firma deseja armazenar sete produtos químicos diferentes, `Q1`, `Q2`, `Q3`,
 | C7 | * |   |   |   | * | * |   |
 
 ### Exercício 24
-Determine a coloração de cada um dos três grafos (a), (b) e (c) a seguir, usando cada um dos três algoritmos: coloração sequencial simples, Welsh & Powell e Matula-Marble-Isaacson.
+Determine a coloração de cada um dos três grafos (a), (b) e (c) a seguir, usando o algortimo de coloração sequencial simples.
 
 ![Grafos do exercício 24 da 5ª lista](imgs/nicoletti_lista5_ex24.png)
