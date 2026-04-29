@@ -109,6 +109,16 @@ A prova será objetiva. As questões poderão usar figuras, listas de adjacênci
 - ordenação dos códigos dos filhos;
 - problemas típicos: testar equivalência estrutural, comparar adjacências e aplicar codificação canônica em árvores.
 
+### 12. Emparelhamento em Grafos
+
+- definição de emparelhamento; vértices saturados e não saturados;
+- diferença entre emparelhamento maximal, máximo e perfeito;
+- tamanho de emparelhamento em grafos completos e bipartidos completos;
+- caminhos alternantes e caminhos de aumento;
+- ideia do Teorema de Berge: emparelhamento máximo quando não há caminho de aumento;
+- relação com eulerização e carteiro chinês em casos simples;
+- problemas típicos: identificar se um conjunto de arestas é emparelhamento, verificar se é maximal, máximo ou perfeito, encontrar caminho de aumento e interpretar emparelhamento em casos reais.
+
 ## Estruturas de Dados
 
 - papel operacional de fila, pilha, recursão e fila de prioridade;
