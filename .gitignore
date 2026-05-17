@@ -2,6 +2,9 @@
 .venv/
 .DS_Store
 .githooks/
+.env
+*.env
+.secrets/
 algs4-py/algs4/__pycache__/
 algs4-py/algs4/utils/__pycache__
 
@@ -18,3 +21,4 @@ livros/
 scripts/
 planos/
 AVs/
+aval/
