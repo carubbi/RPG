@@ -6,7 +6,9 @@
 - Nota base do grupo: `nota_repositorio/submissao (0 a 1) + nota_apresentacao (0 a 1)`, total `2,0`.
 - Usar `.venv/bin/python` como interpretador padrao.
 - Aplicar penalizacao de atraso a partir do HTML de avaliacao da entrega, presente em todas as turmas.
-- Acrescentar depreciacao individual de ate `0,20` para alunos que nao avaliaram os demais grupos como ouvintes.
+- Registrar nos feedbacks do T1 a participacao individual dos alunos como ouvintes.
+- Nao aplicar depreciacao por participacao incompleta como ouvinte no T1.
+- Avisar no feedback que, nos proximos trabalhos, a falta de participacao como ouvinte sera descontada.
 
 ## Criterios De Correcao
 
@@ -32,11 +34,12 @@
   - mais de `24h`: zera a etapa de repositorio/submissao.
 - A penalizacao de atraso nao reduz a nota de apresentacao, pois apresentacao e avaliacao dos ouvintes ocorreram em fluxo separado.
 
-## Metodologia Final De Depreciacao
+## Metodologia Final De Observacao Dos Ouvintes
 
-> Observacao: esta depreciacao e individual. Ela nao reduz a nota do grupo
-> apresentado; reduz apenas a nota final do aluno que nao participou
-> adequadamente da avaliacao dos demais grupos como ouvinte.
+> Observacao: esta etapa gera somente registro no feedback do T1. A
+> participacao incompleta como ouvinte nao gera desconto na nota individual
+> deste T1, mas o feedback deve avisar que a falta de participacao sera
+> descontada nos proximos trabalhos.
 
 - Definir `grupos_apresentados` por turma a partir do `T1_T290-XX.xlsx`: grupos com nota de apresentacao do professor `> 0`.
 - Usar o HTML de avaliacao da entrega como lista oficial de alunos por turma/grupo, pois ele contem nome, matricula, e-mail e grupo.
@@ -56,12 +59,13 @@ Formula:
 
 ```text
 fator_participacao = min(avaliacoes_validas / avaliacoes_esperadas, 1)
-desconto_individual = 0,20 * (1 - fator_participacao)
-nota_individual_T1 = nota_grupo_T1 - desconto_individual
+nota_individual_T1 = nota_grupo_T1
 ```
 
 - Se `avaliacoes_esperadas = 0`, usar `fator_participacao = 1`.
 - Se o integrante nao puder ser extraido ou associado com seguranca ao HTML dos ouvintes, nao aplicar desconto automatico; registrar pendencia para revisao manual.
+- O feedback do T1 deve informar a participacao observada como ouvinte.
+- A observacao do feedback deve usar o texto resumido: `Obs.: a participacao como ouvinte nao teve desconto neste T1, mas sera descontada nos proximos trabalhos.`
 
 ## Implementacao
 
@@ -72,19 +76,25 @@ Criar pipeline propria em `trabalhos/und3/aval/scripts/`:
 - `clonar_repositorios.py`: clonar repositorios avaliaveis em `entregas_extraidas/`.
 - `extrair_integrantes.py`: consolidar alunos pelo HTML de avaliacao da entrega, localizar `README.md`, extrair integrantes, normalizar nomes e gerar pendencias de divergencia/ambiguidade.
 - `calcular_ouvintes.py`: calcular nota recebida dos ouvintes por grupo e participacao individual como avaliador.
-- `corrigir_T1.py`: calcular repositorio, apresentacao, ouvintes, atraso, nota base do grupo, descontos individuais e nota individual.
-- `exportar_moodle.py`: gerar CSV/Markdown consolidado para lancamento.
+- `corrigir_T1.py`: calcular repositorio, apresentacao, ouvintes, atraso, nota base do grupo, participacao dos ouvintes e nota individual sem desconto por participacao.
+- `exportar_moodle.py`: gerar CSV/Markdown consolidado simples para lancamento.
+- `consolidar_subcriterios_T1.py`: gerar `resultados/T1_subcriterios_grupos.csv` com todos os subcriterios `R-*`, `P-*`, `O-*`, subtotais e total por grupo.
+- `exportar_feedback_grupos_T1.py`: gerar `resultados/<turma>/export_moodle/T1.md` no padrao final validado, agrupado por grupo, com alunos, participacao individual, checklist unico do grupo e sem pendencias tecnicas redundantes.
+- `converter_feedback_html_T1.py`: converter `resultados/<turma>/export_moodle/T1.md` para `T1.html` em HTML simples compativel com AVA/Moodle.
 
 Saidas por turma:
 
 - `resultados/<turma>/T1/manifesto.json`
 - `resultados/<turma>/T1/integrantes_por_grupo.csv`
 - `resultados/<turma>/T1/participacao_ouvintes.csv`
-- `resultados/<turma>/T1/descontos_individuais.csv`
+- `resultados/<turma>/T1/participacao_incompleta_ouvintes.csv`
 - `resultados/<turma>/T1/correcao_T1.json`
 - `resultados/<turma>/T1/notas_T1.csv`
 - `resultados/<turma>/T1/pendencias.csv`
 - `resultados/<turma>/export_moodle/notas_feedbacks.csv`
+- `resultados/T1_subcriterios_grupos.csv`
+- `resultados/<turma>/export_moodle/T1.md`
+- `resultados/<turma>/export_moodle/T1.html`
 
 ## Testes E Conferencias
 
@@ -92,7 +102,10 @@ Saidas por turma:
 - Conferir grupos detectados contra pastas, HTML de avaliacao, abas e resumo dos `.xlsx`.
 - Conferir status, data de envio, atraso e fator de penalizacao por grupo.
 - Conferir que a nota de ouvintes soma no maximo `0,20` e nao duplica a nota do professor.
-- Conferir roster extraido do HTML de avaliacao da entrega e divergencias contra os READMEs antes de aplicar descontos individuais.
+- Conferir roster extraido do HTML de avaliacao da entrega e divergencias contra os READMEs antes de registrar participacao individual.
+- Conferir que `T1.md` fique agrupado por grupo, com a nota base do grupo apenas no inicio da secao.
+- Conferir que o checklist substitua as pendencias tecnicas no feedback ao aluno.
+- Conferir que `T1.html` nao contenha marcadores Markdown brutos, como `#`, `[x]`, `[ ]` ou `**`.
 - Revisar manualmente casos com README sem integrantes, nomes ambiguos, repositorio inacessivel, PDF/evidencia de Accepted duvidosa ou aluno nao associado.
 
 ## Assuncoes E Riscos
@@ -100,4 +113,5 @@ Saidas por turma:
 - `T1_T290-XX.xlsx` e a fonte oficial da rubrica do T1 da Unidade 3.
 - A nota da planilha representa apenas a parte do professor ate `0,80`; o bloco dos ouvintes sera calculado pelo HTML.
 - O atraso sera aplicado somente a etapa de repositorio/submissao, nao a apresentacao.
-- A depreciacao individual usa o roster do HTML de avaliacao da entrega; divergencias com README devem gerar pendencia de revisao, nao desconto automatico adicional.
+- A participacao individual usa o roster do HTML de avaliacao da entrega; divergencias com README devem gerar pendencia de revisao, nao desconto automatico adicional.
+- Pendencias tecnicas internas, como `readme_sem_integrantes`, nao devem ser exibidas no feedback final quando o checklist ja mostrar o item nao atendido.
