@@ -7,7 +7,7 @@
  *
  ******************************************************************************/
 
-package edu.princeton.cs.algs4;
+package algs4;
 
 /**
  *  The {@code EulerianPath} class represents a data type

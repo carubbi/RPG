@@ -13,7 +13,7 @@
  *
  ******************************************************************************/
 
-package edu.princeton.cs.algs4;
+package algs4;
 
 /**
  *  The {@code EulerianCycle} class represents a data type
