@@ -66,7 +66,7 @@ O formato integrado obedecerá aos seguintes limites:
 
 ## 4. Tratamento dos feriados e alinhamento
 
-Não haverá reposição, compensação de carga horária nem criação de encontros. Cada feriado será registrado como **“feriado — sem aula”** e contará conforme as regras institucionais.
+Não haverá reposição, compensação de carga horária nem criação de encontros. Cada feriado será registrado com data, denominação oficial e indicação de que não haverá aula, por exemplo: **“07/09 — Dia da Independência do Brasil — feriado, sem aula”**. O registro contará conforme as regras institucionais.
 
 O cronograma será alinhado por **semana acadêmica**, e não apenas pela sequência individual de datas. Um conteúdo novo somente avançará quando todas as turmas tiverem oportunidade equivalente de iniciá-lo na mesma semana.
 
@@ -74,9 +74,9 @@ O cronograma será alinhado por **semana acadêmica**, e não apenas pela sequê
 
 | Semana | Situação | Tratamento |
 | --- | --- | --- |
-| 07 a 10/09 | Segunda-feira, 07/09, é feriado; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para síntese e aplicação de BFS/DFS. |
-| 12 a 15/10 | Segunda-feira, 12/10, e terça-feira, 13/10, são feriados | Não haverá encontro teórico. Quartas e quintas terão encontro integrado equivalente sobre representação de grafos ponderados, com prática reduzida. |
-| 02 a 05/11 | Segunda-feira, 02/11, é feriado; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para consolidação conceitual e computacional de Dijkstra. |
+| 07 a 10/09 | Segunda-feira, 07/09: Dia da Independência do Brasil — feriado, sem aula; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para síntese e aplicação de BFS/DFS. |
+| 12 a 15/10 | Segunda-feira, 12/10: Dia de Nossa Senhora Aparecida — feriado, sem aula; terça-feira, 13/10: antecipação do Dia do Professor — feriado estudantil, sem aula | Não haverá encontro teórico. Quartas e quintas terão encontro integrado equivalente sobre representação de grafos ponderados, com prática reduzida. |
+| 02 a 05/11 | Segunda-feira, 02/11: Dia de Finados — feriado, sem aula; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para consolidação conceitual e computacional de Dijkstra. |
 | 07 a 09/12 | O semestre termina na quarta-feira, 09/12 | Segunda e terça terão o mesmo fechamento teórico. A quarta-feira será dedicada ao feedback da AV3 e encerramento, sem conteúdo novo. |
 
 As terças-feiras de 08/09 e 03/11 não serão usadas para avaliações somativas que não possam ser aplicadas de modo equivalente às turmas de segunda-feira.
