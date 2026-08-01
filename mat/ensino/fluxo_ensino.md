@@ -31,21 +31,21 @@
 
 O T1 constitui uma única AP com dez problemas no total.
 
-### Trilha A — Modelagem de grafos simples e medidas estruturais
+### [Trilha A — Modelagem de grafos simples e medidas estruturais](../../trabalhos/und1/trilhas/trilha-a-grafos-simples.md)
 
 - Modelagem de relações não dirigidas.
 - Ordem, tamanho, densidade e sequência de graus.
 - Adjacência, incidência, regularidade, completude e conectividade.
 - Classificação dos tipos de grafos previstos no projeto de ensino.
 
-### Trilha B — Modelagem de dígrafos e medidas estruturais
+### [Trilha B — Modelagem de dígrafos e medidas estruturais](../../trabalhos/und1/trilhas/trilha-b-digrafos.md)
 
 - Modelagem de relações orientadas.
 - Ordem, tamanho, densidade e graus de entrada e saída.
 - Adjacência, incidência, fontes, sorvedouros e simetria.
 - Direção das arestas e alcançabilidade elementar.
 
-### Trilha C — Buscas simples com DFS/BFS
+### [Trilha C — Buscas simples com DFS/BFS](../../trabalhos/und1/trilhas/trilha-c-buscas.md)
 
 - Exploração e alcançabilidade.
 - Componentes e árvores de busca.
@@ -82,20 +82,20 @@ O T1 constitui uma única AP com dez problemas no total.
 
 O T2 constitui uma única AP com dez problemas no total.
 
-### Trilha A — Buscas e conectividade
+### [Trilha A — Buscas e conectividade](../../trabalhos/und2/T2/trilhas/trilha-a-conectividade.md)
 
 - Aplicações mais complexas de DFS/BFS.
 - Componentes conexas e fortemente conexas.
 - Pontes, vértices de articulação e critérios de conectividade.
 
-### Trilha B — Percursos e estruturas de ordem
+### [Trilha B — Percursos e estruturas de ordem](../../trabalhos/und2/T2/trilhas/trilha-b-percursos.md)
 
 - Ciclos dirigidos e ordenação topológica.
 - Caminhos e circuitos eulerianos.
 - Reconhecimento de propriedades de passeios, trilhas, caminhos, ciclos, circuitos e tours.
 - Modelagem e reconhecimento de estruturas hamiltonianas, sem exigir solução geral do problema hamiltoniano.
 
-### Trilha C — Relações estruturais
+### [Trilha C — Relações estruturais](../../trabalhos/und2/T2/trilhas/trilha-c-relacoes-estruturais.md)
 
 - Bipartição e coloração.
 - Emparelhamento.
@@ -128,20 +128,20 @@ O T2 constitui uma única AP com dez problemas no total.
 
 O T3 constitui uma única AP. Cada trilha manterá um banco com dez problemas, totalizando trinta opções. Em cada oferta, aproximadamente dez problemas serão selecionados e distribuídos entre os grupos.
 
-### Trilha A — Árvore geradora mínima
+### [Trilha A — Árvore geradora mínima](../../trabalhos/und3/T1/T1.md)
 
 - Modelagem de grafos ponderados.
 - Kruskal, Prim e Union-Find.
 - Propriedade do corte, existência de MST e variações compatíveis.
 
-### Trilha B — Caminhos mínimos
+### [Trilha B — Caminhos mínimos](../../trabalhos/und3/T2/T2.md)
 
 - Relaxamento e reconstrução de caminhos.
 - Dijkstra e restrição de pesos não negativos.
 - Bellman-Ford e detecção de ciclos negativos.
 - Floyd-Warshall como conteúdo da AT ou de atividade dirigida, sem obrigação de integrar o banco prático.
 
-### Trilha C — Fluxo máximo
+### [Trilha C — Fluxo máximo](../../trabalhos/und3/T3/T3.md)
 
 - Modelagem de redes, capacidades e conservação.
 - Grafo residual, caminhos aumentantes e gargalos.

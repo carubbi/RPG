@@ -201,13 +201,22 @@
 
 ### Distribuição dos conteúdos por avaliação
 
-- **AV1:** AT sobre fundamentos da teoria dos grafos, tipos, representação computacional e algoritmos de busca; AP correspondente ao T1, transversal entre a Unidade I e o início da Unidade II, sobre modelagem, representação, DFS/BFS, alcançabilidade e reconhecimento básico de passeio, trilha, caminho e ciclo.
-- **AV2:** AT sobre propriedades de grafos dirigidos e não dirigidos, conectividade e problemas clássicos; AP correspondente ao T2, sobre aplicações mais complexas de DFS/BFS, conectividade e problemas estruturais da Unidade II.
-- **AV3:** AT sobre algoritmos de otimização em grafos ponderados; AP correspondente ao T3, organizada em trilhas de árvore geradora mínima, caminhos mínimos e fluxo máximo.
+- **AV1:** AT sobre fundamentos da teoria dos grafos, tipos, representação computacional e algoritmos de busca; AP correspondente ao T1, transversal entre a Unidade I e o início da Unidade II, organizada nas trilhas de grafos simples e medidas estruturais, dígrafos e medidas estruturais e buscas simples com DFS/BFS.
+- **AV2:** AT sobre propriedades de grafos dirigidos e não dirigidos, conectividade e problemas clássicos; AP correspondente ao T2, organizada nas trilhas de buscas e conectividade, percursos e estruturas de ordem e relações estruturais.
+- **AV3:** AT sobre algoritmos de otimização em grafos ponderados; AP correspondente ao T3, organizada nas trilhas de árvore geradora mínima, caminhos mínimos e fluxo máximo.
+
+### Organização dos problemas por trilhas
+
+- O T1 terá dez problemas no total: três de grafos simples e medidas estruturais, três de dígrafos e medidas estruturais e quatro de buscas simples com DFS/BFS.
+- O T2 terá dez problemas no total: quatro de buscas e conectividade, três de percursos e estruturas de ordem e três de relações estruturais.
+- O T3 manterá dez problemas em cada trilha, totalizando trinta opções. Aproximadamente dez problemas serão selecionados em cada oferta, com equilíbrio de dificuldade e carga.
+- Cada grupo resolverá somente um problema por AP. A AT verificará a abrangência conceitual da unidade, enquanto a AP verificará a aplicação aprofundada na trilha atribuída.
+- Cada problema deverá explicitar o conhecimento teórico aferido, a razão pela qual ele é necessário, a evidência de acompanhamento e a complexidade esperada.
 
 ### Observações
 
 - As avaliações ocorrem preferencialmente em ambiente controlado com Safe Exam Browser.
 - A apresentação da AP ocorrerá antes da AT sempre que houver encontro prático regular dentro da janela institucional. Na AV3 das turmas de quarta-feira, a apresentação ocorrerá excepcionalmente em 09/12/2026, após a AT, porque a janela da AV3 começa em 03/12/2026 e não existe outro encontro regular de quarta-feira no período.
 - Os problemas de T1, T2 e T3 serão selecionados de plataformas com submissão verificável, como UVA/Online Judge, Kattis, Codeforces, CSES ou equivalentes, com dificuldade crescente entre os trabalhos.
+- Nenhum acompanhamento exigirá conteúdo ainda não ensinado. O `Accepted` comprovará a correção computacional, mas não substituirá a aferição de modelagem, fundamentação teórica, correção e complexidade.
 - A AV2 verificará se os alunos estão aptos, quanto aos fundamentos, à modelagem e à implementação, para desenvolver as trilhas de otimização da AV3.
