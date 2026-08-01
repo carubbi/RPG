@@ -54,7 +54,7 @@ Os encontros práticos serão dedicados a:
 - checkpoints e desenvolvimento dos trabalhos;
 - apresentações e feedback.
 
-As aulas práticas não serão convertidas em aulas teóricas para compensar feriados.
+As aulas práticas terão predominância computacional e não serão utilizadas como reposição automática de aulas teóricas canceladas por feriados. Quando necessário à continuidade da aprendizagem, poderão incluir uma breve retomada ou integração conceitual, sem acréscimo de carga horária e sem descaracterizar seu objetivo prático. Para manter as turmas alinhadas, essa retomada ocorrerá nas práticas equivalentes de quarta e quinta-feira.
 
 ## 4. Tratamento dos feriados e alinhamento
 
