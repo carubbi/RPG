@@ -69,7 +69,7 @@
 
 - **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
 - **Turma teórica — tipos e propriedades de grafos:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições; passeio; trilha; caminho.
-- **Turma prática — modelagem inicial do T1 (marco 1):** lançamento do T1; apresentação das trilhas; atribuição dos problemas; preparação do ambiente Python/Java; entrada; saída; restrições; vértices; arestas; classificação do grafo; ordem; tamanho; densidade; graus; modelagem de uma instância pequena; interpretação do exemplo fornecido pelo enunciado.
+- **Turma prática — modelagem inicial do T1 (marco 1):** lançamento do T1; apresentação das trilhas; atribuição dos problemas; preparação do ambiente Python/Java; enunciado; entrada; saída; restrições; modelagem de instância pequena; classificação do grafo; ordem; tamanho; densidade; graus.
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
 - **Produto/evidência:** ficha de modelagem; classificação justificada; instância pequena.
 
