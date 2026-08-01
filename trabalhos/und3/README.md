@@ -12,13 +12,13 @@ Otimização em grafos ponderados e redes.
 
 Cada grupo deverá resolver um problema de otimização, implementar a solução em Python ou Java, obter `Accepted`, manter um repositório autocontido e apresentar como a modelagem conduz ao algoritmo escolhido.
 
-O T3 é uma única AP organizada em três trilhas. Os arquivos de cada trilha funcionam como bancos de problemas e requisitos específicos, não como avaliações independentes:
+O T3 é uma única AP organizada em três trilhas. Cada trilha mantém dez opções, totalizando trinta problemas. Os arquivos funcionam como bancos e requisitos específicos, não como avaliações independentes:
 
 - **Trilha A — Árvore geradora mínima:** [banco de problemas de MST](T1/T1.md).
-- **Trilha B — Caminhos mínimos:** [banco de problemas de Dijkstra](T2/T2.md).
+- **Trilha B — Caminhos mínimos:** [banco de problemas de caminhos mínimos](T2/T2.md).
 - **Trilha C — Fluxo máximo:** [banco de problemas de fluxo](T3/T3.md).
 
-Para 2026.2, as regras de acompanhamento e a pontuação deste documento prevalecem sobre valores isolados registrados nos bancos de problemas.
+Em cada oferta, aproximadamente dez problemas serão selecionados e atribuídos aos grupos. A seleção deverá equilibrar trilhas, dificuldade, carga de implementação e profundidade de modelagem. As regras de acompanhamento, entrega, apresentação e pontuação pertencem exclusivamente a este documento.
 
 ## Acompanhamento processual
 
@@ -112,3 +112,5 @@ A avaliação pelos alunos ouvintes terá função pedagógica e integrará o cr
 ## Equivalência entre trilhas
 
 A dificuldade será controlada pela atribuição dos problemas e pela rubrica comum. Um grupo não será avaliado por conteúdos específicos de outra trilha, mas todos deverão demonstrar o mesmo nível de domínio em modelagem, implementação, análise e comunicação.
+
+Antes da distribuição, o professor deverá verificar os links oficiais, excluir problemas que exijam como núcleo algoritmos não ensinados e registrar no AVA/Moodle o problema atribuído a cada grupo. A existência de trinta opções não autoriza distribuição aleatória.

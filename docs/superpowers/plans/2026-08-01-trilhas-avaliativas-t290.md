@@ -145,7 +145,7 @@ git commit -m "docs: organiza T2 em trilhas avaliativas"
 
 - [ ] **Step 1: Verificar os trinta problemas nas páginas oficiais**
 
-Manter os dez problemas atuais de MST após verificar links e compatibilidade.
+Manter oito problemas atuais de MST. Substituir Kattis Broken Minimum Spanning Tree por Kattis Lost Map e Kattis Grid MST por Kattis Minimum Spanning Tree, pois os dois problemas removidos acrescentam dificuldade ou técnicas além da aplicação prevista de Kruskal/Prim.
 
 Manter os dez primeiros problemas do banco de caminhos mínimos e excluir Codeforces 715B Complete The Graph, pois exige manipulação de pesos e raciocínio além do núcleo previsto.
 
