@@ -33,7 +33,7 @@
 Executar:
 
 ```bash
-ruby -KU -e 's=File.read(%q[mat/ensino/cronograma_2026_2.md]); titles=s.scan(/^#### Semana \d+ — (.+?) — \d/).flatten; abort(%Q[esperados 19 títulos, encontrados #{titles.size}]) unless titles.size==19; labels=s.scan(/^- \*\*Turma (?:teórica|prática)[^:]*:\*\*/); puts %Q[títulos=#{titles.size}; rótulos=#{labels.size}]; exit(labels.all?{|x| x.match?(/Turma (?:teórica|prática) — /)} ? 0 : 1)'
+ruby -KU -e 's=File.read(%q[mat/ensino/cronograma_2026_2.md])[/## 4\. Cronograma por unidade.*?(?=## 5\.)/m]; titles=s.scan(/^#### Semana \d+ — (.+?) — \d/).flatten; abort(%Q[esperados 19 títulos, encontrados #{titles.size}]) unless titles.size==19; labels=s.scan(/^- \*\*Turma (?:teórica|prática)[^:]*:\*\*/); puts %Q[títulos=#{titles.size}; rótulos=#{labels.size}]; exit(labels.all?{|x| x.match?(/Turma (?:teórica|prática) — /)} ? 0 : 1)'
 ```
 
 Resultado esperado antes da edição: saída `títulos=19; rótulos=39` e código diferente de zero, pois ainda existem rótulos sem assunto ou com “integrada” antes do travessão.
@@ -51,13 +51,13 @@ Aplicar a forma **“Turma teórica/prática — assunto”**. Incorporar os mar
 Executar:
 
 ```bash
-ruby -KU -e 'expected=%q[Apresentação da disciplina e fundamentos de grafos|Tipos de grafos e modelagem do T1|Representações computacionais e implementação do T1|Busca em profundidade e aplicação no T1|Busca em largura e conclusão do T1|Síntese de fundamentos e apresentação do T1|AT1 e modelagem inicial do T2|Percursos, conectividade e desenvolvimento do T2|Dígrafos, problemas clássicos e conclusão do T2|Síntese de conectividade e apresentação do T2|Grafos ponderados e modelagem inicial do T3|AT2 e representação computacional do T3|Árvores geradoras mínimas e desenvolvimento do T3|Consolidação de MST e desenvolvimento do T3|Dijkstra e caminhos mínimos no T3|Fluxo máximo e redes no T3|Bellman–Ford e validação do T3|Floyd–Warshall, conclusão e apresentação do T3|AT3 e apresentação final do T3].split(%q[|]); s=File.read(%q[mat/ensino/cronograma_2026_2.md]); actual=s.scan(/^#### Semana \d+ — (.+?) — \d/).flatten; abort(%q[títulos divergentes]) unless actual==expected; labels=s.scan(/^- \*\*(Turma (?:teórica|prática) — [^:]+):\*\*/).flatten; abort(%Q[rótulos inválidos: #{labels.size}]) unless labels.size==39; puts %q[OK: 19 títulos e 39 rótulos padronizados]'
+ruby -KU -e 'expected=%q[Apresentação da disciplina e fundamentos de grafos|Tipos de grafos e modelagem do T1|Representações computacionais e implementação do T1|Busca em profundidade e aplicação no T1|Busca em largura e conclusão do T1|Síntese de fundamentos e apresentação do T1|AT1 e modelagem inicial do T2|Percursos, conectividade e desenvolvimento do T2|Dígrafos, problemas clássicos e conclusão do T2|Síntese de conectividade e apresentação do T2|Grafos ponderados e modelagem inicial do T3|AT2 e representação computacional do T3|Árvores geradoras mínimas e desenvolvimento do T3|Consolidação de MST e desenvolvimento do T3|Dijkstra e caminhos mínimos no T3|Fluxo máximo e redes no T3|Bellman–Ford e validação do T3|Floyd–Warshall, conclusão e apresentação do T3|AT3 e apresentação final do T3].split(%q[|]); s=File.read(%q[mat/ensino/cronograma_2026_2.md])[/## 4\. Cronograma por unidade.*?(?=## 5\.)/m]; actual=s.scan(/^#### Semana \d+ — (.+?) — \d/).flatten; abort(%q[títulos divergentes]) unless actual==expected; labels=s.scan(/^- \*\*(Turma (?:teórica|prática) — [^:]+):\*\*/).flatten; abort(%Q[rótulos inválidos: #{labels.size}]) unless labels.size==39; puts %q[OK: 19 títulos e 39 rótulos padronizados]'
 ```
 
 Executar:
 
 ```bash
-ruby -KU -e 'old=`git show HEAD:mat/ensino/cronograma_2026_2.md`; new=File.read(%q[mat/ensino/cronograma_2026_2.md]); body=->(s){s.lines.filter_map{|x| m=x.match(/^- \*\*Turma (?:teórica|prática)[^:]*:\*\* (.*)$/); m&&m[1]}}; abort(%q[conteúdo posterior aos rótulos foi alterado]) unless body.call(old)==body.call(new); puts %q[OK: conteúdo dos encontros preservado]'
+ruby -KU -e 'section=->(s){s[/## 4\. Cronograma por unidade.*?(?=## 5\.)/m]}; old=section.call(`git show HEAD:mat/ensino/cronograma_2026_2.md`); new=section.call(File.read(%q[mat/ensino/cronograma_2026_2.md])); body=->(s){s.lines.filter_map{|x| m=x.match(/^- \*\*Turma (?:teórica|prática)[^:]*:\*\* (.*)$/); m&&m[1]}}; abort(%q[conteúdo posterior aos rótulos foi alterado]) unless body.call(old)==body.call(new); puts %q[OK: conteúdo dos encontros preservado]'
 ```
 
 - [ ] **Passo 5: Verificar integridade do Markdown e escopo**
