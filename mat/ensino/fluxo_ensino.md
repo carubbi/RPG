@@ -13,17 +13,15 @@
 
 ## Turma teórica
 
-- Apresentação da disciplina e introdução a grafos por meio de casos práticos.
-- Introdução à teoria dos grafos.
+- Semana 1: apresentação da disciplina; problemas motivadores; conceitos iniciais e definições.
 - Modelagem e representação computacional.
 - Tipos de grafos e respectivas modelagens computacionais.
-- Medidas estruturais e tipológicas previstas no projeto de ensino.
+- Medidas estruturais e topológicas previstas no projeto de ensino.
 
 ## Turma prática
 
-- Prática não computacional sobre as Pontes de Königsberg.
-- Implementação das estruturas `Graph` e `Digraph`, com referência nas bases `algs4-java` e `algs4-py`.
-- Lançamento do T1, distribuição dos problemas e modelagem inicial.
+- Lançamento do T1, distribuição dos problemas e modelagem inicial após os conceitos fundamentais.
+- Implementação das estruturas `Graph` e `Digraph` após o ensino de representação computacional, com referência nas bases `algs4-java` e `algs4-py`.
 - Acompanhamento progressivo das trilhas conforme os conteúdos teóricos ensinados.
 - Apresentação final do T1.
 
