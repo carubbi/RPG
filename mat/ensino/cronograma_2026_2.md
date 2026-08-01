@@ -62,26 +62,26 @@
 #### Semana 1 — 03–06/08
 
 - **Datas:** teórica em 03/08 (seg.) e 04/08 (ter.); prática em 05/08 (qua.) e 06/08 (qui.).
-- **Turma teórica:** apresentação da disciplina; problemas de Königsberg, rotas e redes; modelagem por vértices e arestas; ordem, tamanho e densidade.
-- **Turma prática — acompanhamento T1, marco 1 comum:** preparação do ambiente Python/Java; apresentação das três trilhas; atribuição dos problemas; interpretação de entrada e saída; primeira modelagem de vértices e arestas.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java) e [`tinyG.txt`](../../dataset/tinyG.txt).
-- **Produto/evidência:** ambiente validado, resumo do problema e modelagem inicial no repositório.
+- **Turma teórica:** apresentação da disciplina; problemas das Pontes de Königsberg, rotas e redes; transformação de entidades em vértices e relações em arestas; vértice, aresta, ordem, tamanho, densidade, grau, adjacência e incidência.
+- **Turma prática — acompanhamento T1, marco 1 comum:** prática não computacional das Pontes de Königsberg; preparação do ambiente Python/Java; apresentação das três trilhas e atribuição dos problemas; interpretação de entrada, saída e restrições; primeira modelagem dos vértices e das arestas.
+- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`tinyG.txt`](../../dataset/tinyG.txt) e material para a prática das Pontes de Königsberg.
+- **Produto/evidência:** ambiente validado, resumo do problema, modelo inicial e cálculos de ordem, tamanho, densidade e graus em uma instância pequena.
 
 #### Semana 2 — 10–13/08
 
 - **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
-- **Turma teórica:** vértice, aresta, adjacência, incidência, grau, ponte e subgrafo; grafos simples, multigrafos, regulares, completos, bipartidos, planares e conexos; introdução às diferenças entre passeio, trilha, caminho e ciclo.
-- **Turma prática — acompanhamento T1, conclusão do marco 1:** classificação do grafo; cálculo de ordem, tamanho, densidade e graus; construção de uma instância pequena. A Trilha A enfatiza grafos simples; a Trilha B, direção, graus de entrada/saída, fontes e sorvedouros; a Trilha C permanece em modelagem e representação.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
-- **Produto/evidência:** classificação justificada e instância pequena com resposta esperada.
+- **Turma teórica:** ponte, subgrafo e ciclo; grafos rotulados, simples, multigrafos, não orientados, dígrafos e ponderados; grafos regulares, completos, bipartidos, planares e conexos; introdução às diferenças entre passeio, trilha e caminho. Para cada tipo, serão explicitadas as decisões de modelagem pertinentes: orientação para relações assimétricas, multiplicidade de arestas, pesos como atributos, associação entre rótulos e índices e partições em grafos bipartidos. Regularidade, completude, planaridade e conectividade serão tratadas como propriedades, não como estruturas de dados distintas.
+- **Turma prática — acompanhamento T1, conclusão do marco 1:** implementação das APIs fundamentais de `Graph` e `Digraph` em Python ou Java, incluindo inserção de arestas, consulta de adjacência e cálculo de graus, ordem, tamanho e densidade; classificação justificada do grafo atribuído. A Trilha A enfatiza grafos simples e propriedades estruturais; a Trilha B, direção, graus de entrada e saída, fontes e sorvedouros; a Trilha C permanece em modelagem e representação.
+- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`Digraph`](../../algs4-py/algs4/digraph.py), [`Digraph.java`](../../algs4-java/algs4/Digraph.java), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
+- **Produto/evidência:** estruturas mínimas `Graph` e `Digraph` funcionando, classificação justificada e instância pequena documentada.
 
 #### Semana 3 — 17–20/08
 
 - **Datas:** teórica em 17/08 (seg.) e 18/08 (ter.); prática em 19/08 (qua.) e 20/08 (qui.).
-- **Turma teórica:** grafos rotulados, não orientados, dígrafos e grafos ponderados; matrizes de adjacência e incidência; listas de adjacência e incidência; custos de espaço.
-- **Turma prática — acompanhamento T1, marco 2 comum:** escolha e implementação da representação; leitura da entrada; validação por instância pequena. As trilhas A e B comparam matriz e lista; a Trilha C justifica lista de adjacência ou vizinhança implícita.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`Digraph`](../../algs4-py/algs4/digraph.py), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py) e [`routes.txt`](../../dataset/routes.txt).
-- **Produto/evidência:** representação documentada, entrada válida e justificativa de custo espacial.
+- **Turma teórica:** representação computacional por matrizes de adjacência e incidência e por listas de adjacência e incidência; codificação de grafos simples, multigrafos, dígrafos, grafos rotulados e ponderados; comparação de custos de espaço e das operações de inserção, consulta e percurso.
+- **Turma prática — acompanhamento T1, marco 2 comum:** conclusão de `Graph` e `Digraph`; leitura dos datasets; escolha e implementação da representação do problema; comparação entre matriz e lista; validação por instância pequena. As trilhas A e B explicitam como direção, multiplicidade, rótulos ou propriedades afetam a codificação; a Trilha C justifica lista de adjacência ou vizinhança implícita.
+- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`Graph`](../../algs4-py/algs4/graph.py), [`Digraph`](../../algs4-py/algs4/digraph.py), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py), [`routes.txt`](../../dataset/routes.txt), [`tinyG.txt`](../../dataset/tinyG.txt) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
+- **Produto/evidência:** representação documentada, entrada processada corretamente e escolha justificada em função de `V`, `E`, orientação, pesos, rótulos e restrições.
 
 ### Unidade II — Resolver problemas com grafos conexos
 
