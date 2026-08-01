@@ -90,26 +90,26 @@
 #### Semana 4 — 24–27/08
 
 - **Datas:** teórica em 24/08 (seg.) e 25/08 (ter.); prática em 26/08 (qua.) e 27/08 (qui.).
-- **Turma teórica:** busca em profundidade; árvore de busca, alcançabilidade, caminhos, invariantes e complexidade `O(V + E)`.
-- **Turma prática — acompanhamento T1, marco 3:** execução manual de DFS por todos os grupos; a Trilha C implementa a busca no problema; as trilhas A e B implementam DFS quando necessária ou justificam por que uma estratégia estrutural é suficiente.
+- **Turma teórica:** busca em profundidade; árvore de busca, alcançabilidade, predecessores, caminhos, invariantes, correção e complexidade `O(V + E)`, aplicados às representações construídas na Unidade I.
+- **Turma prática — acompanhamento T1, marco 3:** execução manual de DFS por todos os grupos; identificação de componentes ou alcançabilidade; classificação de uma sequência relevante como passeio, trilha, caminho ou ciclo; a Trilha C implementa a busca no problema, enquanto as trilhas A e B a implementam quando necessária ou justificam por que uma estratégia estrutural é suficiente.
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`DepthFirstSearch`](../../algs4-py/algs4/depth_first_search.py) e [`DepthFirstPaths`](../../algs4-py/algs4/depth_first_paths.py).
-- **Produto/evidência:** rastreamento manual, implementação parcial e análise inicial de complexidade.
+- **Produto/evidência:** rastreamento manual, identificação do papel da DFS, implementação parcial e análise inicial de correção e complexidade.
 
 #### Semana 5 — 31/08–03/09
 
 - **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
-- **Turma teórica:** busca em largura; fronteiras, árvore BFS, distância e caminho mínimo em grafos sem pesos; comparação com DFS.
-- **Turma prática — acompanhamento T1, marcos 4 e 5:** execução manual de BFS; decisão entre estratégia estrutural, DFS ou BFS; distinção entre ordem de visita e caminho reconstruído; classificação de uma sequência relevante; conclusão da implementação, testes, `Accepted`, complexidade e ensaio.
+- **Turma teórica:** busca em largura; fronteiras, árvore BFS, níveis, predecessores, distância, reconstrução de caminhos e caminho mínimo em grafos sem pesos; comparação com DFS; correção e complexidade `O(V + E)`.
+- **Turma prática — acompanhamento T1, marcos 4 e 5:** execução manual de BFS; decisão fundamentada entre estratégia estrutural, DFS ou BFS; distinção entre ordem de visita e caminho reconstruído; conclusão cumulativa da implementação e dos testes iniciados nos encontros anteriores; submissão, análise de complexidade e ensaio. O encontro não concentrará a construção integral da solução.
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
-- **Produto/evidência:** solução testada, justificativa da busca escolhida, evidência do `Accepted` e apresentação preparada.
+- **Produto/evidência:** solução testada, estratégia justificada, evidência do `Accepted`, análise de correção e complexidade e apresentação preparada.
 
 #### Semana 6 — 07–10/09
 
 - **Datas:** **07/09 — Dia da Independência do Brasil — feriado, sem aula**; teórica em 08/09 (ter.); apresentações em 09/09 (qua.) e 10/09 (qui.).
-- **Turma teórica:** revisão formativa de representação, DFS, BFS, alcançabilidade e caminhos, sem conteúdo novo e sem avaliação somativa.
+- **Turma teórica:** revisão formativa de modelagem, tipos de grafos, representações computacionais, DFS, BFS, alcançabilidade e caminhos, sem conteúdo novo e sem avaliação somativa.
 - **Turma prática — apresentação da AP1:** encontro integral para apresentação do T1 pelos aproximadamente dez grupos, avaliação pelos critérios comuns e devolutiva.
 - **Recursos:** repositórios, apresentações e rubrica do [T1](../../trabalhos/und1/T1.md).
-- **Produto/evidência:** apresentação, avaliação da AP1 e repositório congelado.
+- **Produto/evidência:** apresentação e avaliação da AP1, repositório congelado e devolutiva.
 
 #### Semana 7 — 14–17/09
 
