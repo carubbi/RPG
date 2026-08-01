@@ -96,6 +96,8 @@ Progressão:
 5. modelagem de uma rede real;
 6. síntese da modelagem e transição para algoritmos de busca.
 
+O T1 será transversal entre a Unidade I e o início da Unidade II. Terá como tema exploração, alcançabilidade e reconhecimento de passeios, trilhas, caminhos e ciclos em grafos não ponderados. Cada grupo resolverá um problema básico de plataforma de programação competitiva que exija modelagem, representação e uso explícito de DFS, BFS ou ambas. Os primeiros acompanhamentos tratarão modelagem e representação; os últimos incorporarão as buscas somente depois de ensinadas. As noções básicas de passeio, trilha, caminho e ciclo serão introduzidas antes da apresentação do T1 e aprofundadas na Unidade II.
+
 ### 5.2 Unidade II — Resolver problemas com grafos conexos
 
 Referência institucional: **22 horas**.
@@ -114,9 +116,7 @@ Progressão:
 10. acompanhamento e apresentação do T2;
 11. avaliação teórica da AV2, depois da apresentação do T2.
 
-O T1 terá como tema exploração, alcançabilidade e caminhos em grafos não ponderados. Cada grupo resolverá um problema simples que exija modelagem, representação por lista de adjacência e uso explícito de DFS, BFS ou ambas. O trabalho deverá incluir interpretação da entrada e da saída, instância pequena executada manualmente, implementação em Python ou Java, testes e análise de complexidade.
-
-O T2 terá como tema conectividade e propriedades de grafos dirigidos e não dirigidos. Os problemas dos grupos poderão envolver componentes conexas, ciclos, ordenação topológica, componentes fortemente conexas, bipartição, pontes, vértices de articulação, percursos eulerianos ou outra aplicação direta dos problemas clássicos da Unidade II. Todos os problemas deverão reutilizar DFS ou BFS e acrescentar uma propriedade estrutural.
+O T2 terá como tema aplicações mais complexas de DFS/BFS, conectividade e propriedades de grafos dirigidos e não dirigidos. Os problemas dos grupos poderão envolver componentes conexas, ciclos, ordenação topológica, componentes fortemente conexas, bipartição, pontes, vértices de articulação, Euler/Hamilton, coloração, emparelhamento ou isomorfismo. Todos os problemas deverão reutilizar DFS/BFS ou outro conhecimento estrutural da Unidade II e exigir justificativa do critério algorítmico.
 
 Os trabalhos existentes da Unidade II poderão fornecer problemas e exercícios para os grupos, mas não serão automaticamente transformados em entregas adicionais.
 
@@ -136,6 +136,8 @@ Progressão:
 8. AV3 e feedback.
 
 O T3 terá como tema otimização em grafos ponderados e redes. Os grupos serão distribuídos entre três trilhas equivalentes: árvore geradora mínima, caminhos mínimos e fluxo máximo. Os atuais trabalhos `trabalhos/und3/T1/T1.md`, `trabalhos/und3/T2/T2.md` e `trabalhos/und3/T3/T3.md` serão aproveitados como bancos de problemas dessas trilhas, e não como três avaliações separadas.
+
+Os problemas de T1, T2 e T3 serão selecionados de plataformas com submissão verificável, como UVA/Online Judge, Kattis, Codeforces, CSES e equivalentes. A seleção deverá controlar a progressão de dificuldade: problemas básicos no T1, problemas estruturais mais complexos no T2 e problemas de otimização no T3.
 
 ## 6. Avaliações
 
@@ -200,6 +202,7 @@ O cronograma estará correto quando:
 - usar todos os encontros práticos oferecidos antes de cada apresentação para acompanhamento verificável da AP;
 - reservar um encontro prático integral para a apresentação de cada AP e posicioná-lo antes da respectiva AT, exceto na AV3 das turmas de quarta-feira, cuja apresentação ocorrerá em 09/12 após a AT3;
 - definir T1 como DFS/BFS, T2 como conectividade e problemas clássicos e T3 como otimização em três trilhas;
+- selecionar problemas de plataformas como UVA, Kattis, Codeforces, CSES ou equivalentes, com dificuldade crescente entre T1, T2 e T3;
 - cobrir as três unidades, os algoritmos disponíveis, os datasets e os trabalhos selecionados;
 - registrar que cada AT ocupa um encontro teórico integral e contém dez questões objetivas no estilo ENADE no AVA/Moodle;
 - posicionar AV1, AV2 e AV3 dentro dos prazos acadêmicos;
