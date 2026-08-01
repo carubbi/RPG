@@ -57,7 +57,7 @@ ruby -KU -e 'expected=%q[Apresentação da disciplina e fundamentos de grafos|Ti
 Executar:
 
 ```bash
-ruby -KU -e 'section=->(s){s[/## 4\. Cronograma por unidade.*?(?=## 5\.)/m]}; old=section.call(`git show HEAD:mat/ensino/cronograma_2026_2.md`); new=section.call(File.read(%q[mat/ensino/cronograma_2026_2.md])); body=->(s){s.lines.filter_map{|x| m=x.match(/^- \*\*Turma (?:teórica|prática)[^:]*:\*\* (.*)$/); m&&m[1]}}; abort(%q[conteúdo posterior aos rótulos foi alterado]) unless body.call(old)==body.call(new); puts %q[OK: conteúdo dos encontros preservado]'
+ruby -KU -e 'section=->(s){s[/## 4\. Cronograma por unidade.*?(?=## 5\.)/m]}; old=section.call(`git show HEAD:mat/ensino/cronograma_2026_2.md`); new=section.call(File.read(%q[mat/ensino/cronograma_2026_2.md])); body=->(s){s.lines.map{|x| m=x.match(/^- \*\*Turma (?:teórica|prática)[^:]*:\*\* (.*)$/); m&&m[1]}.compact}; abort(%q[conteúdo posterior aos rótulos foi alterado]) unless body.call(old)==body.call(new); puts %q[OK: conteúdo dos encontros preservado]'
 ```
 
 - [ ] **Passo 5: Verificar integridade do Markdown e escopo**
