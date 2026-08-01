@@ -55,9 +55,7 @@
 
 ## 4. Cronograma por unidade
 
-### Unidade I — Modelar e representar problemas com grafos
-
-**Referência institucional:** 12 horas.
+### Unidade I — Modelar e representar problemas com grafos (12h)
 
 #### Semana 1 — Apresentação da disciplina e fundamentos de grafos — 03–06/08
 
@@ -83,9 +81,7 @@
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`Digraph`](../../algs4-py/algs4/digraph.py), [`Digraph.java`](../../algs4-java/algs4/Digraph.java), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py), [`routes.txt`](../../dataset/routes.txt), [`tinyG.txt`](../../dataset/tinyG.txt) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
 - **Produto/evidência:** estruturas `Graph` e `Digraph`; entrada processada; representação documentada; escolha justificada em função de `V`, `E`, orientação, pesos, rótulos e restrições.
 
-### Unidade II — Resolver problemas com grafos conexos
-
-**Referência institucional:** 22 horas.
+### Unidade II — Resolver problemas com grafos conexos (22h)
 
 #### Semana 4 — Busca em profundidade e aplicação no T1 — 24–27/08
 
@@ -143,9 +139,7 @@
 - **Recursos:** repositórios, apresentações e rubrica do [T2](../../trabalhos/und2/T2/T2.md).
 - **Produto/evidência:** apresentação, avaliação da AP2 e repositório congelado.
 
-### Unidade III — Otimizar grafos ponderados
-
-**Referência institucional:** 38 horas.
+### Unidade III — Otimizar grafos ponderados (38h)
 
 #### Semana 11 — Grafos ponderados e modelagem inicial do T3 — 12–15/10
 
