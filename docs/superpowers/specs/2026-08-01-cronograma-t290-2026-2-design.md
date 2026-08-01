@@ -2,9 +2,7 @@
 
 ## 1. Objetivo
 
-Gerar o cronograma acadêmico da disciplina **T290 — Resolução de Problemas
-com Grafos** para o semestre 2026.2, organizado por unidade e por encontro,
-com datas específicas para todos os pares de turmas.
+Gerar o cronograma acadêmico da disciplina **T290 — Resolução de Problemas com Grafos** para o semestre 2026.2, organizado por unidade e por encontro, com datas específicas para todos os pares de turmas.
 
 O cronograma deve articular:
 
@@ -28,9 +26,7 @@ O cronograma abrangerá os quatro pares de turmas:
 | 30/31 | terça-feira | quinta-feira |
 | 62/63 | segunda-feira | quarta-feira |
 
-As turmas 16 e 30 compartilharão o mesmo planejamento teórico. As turmas 17
-e 31 compartilharão o mesmo planejamento prático. O mesmo conteúdo será usado
-nos pares 09/19 e 62/63, respeitados os respectivos horários e salas.
+As turmas 16 e 30 compartilharão o mesmo planejamento teórico. As turmas 17 e 31 compartilharão o mesmo planejamento prático. O mesmo conteúdo será usado nos pares 09/19 e 62/63, respeitados os respectivos horários e salas.
 
 ## 3. Organização pedagógica
 
@@ -45,9 +41,7 @@ Os encontros teóricos serão dedicados a:
 - demonstrações de código em Python e Java;
 - revisões e avaliações teóricas ou práticas individuais, quando previstas.
 
-Python e Java serão alternativas equivalentes. As aulas não duplicarão a
-explicação de um algoritmo apenas para ensinar a mesma lógica nas duas
-linguagens.
+Python e Java serão alternativas equivalentes. As aulas não duplicarão a explicação de um algoritmo apenas para ensinar a mesma lógica nas duas linguagens.
 
 ### 3.2 Turma prática
 
@@ -60,18 +54,13 @@ Os encontros práticos serão dedicados a:
 - checkpoints e desenvolvimento dos trabalhos;
 - apresentações e feedback.
 
-As aulas práticas não serão convertidas em aulas teóricas para compensar
-feriados.
+As aulas práticas não serão convertidas em aulas teóricas para compensar feriados.
 
 ## 4. Tratamento dos feriados e alinhamento
 
-Não haverá reposição, compensação de carga horária nem criação de encontros.
-Cada feriado será registrado como **“feriado — sem aula”** e contará conforme
-as regras institucionais.
+Não haverá reposição, compensação de carga horária nem criação de encontros. Cada feriado será registrado como **“feriado — sem aula”** e contará conforme as regras institucionais.
 
-O cronograma será alinhado por **semana acadêmica**, e não apenas pela sequência
-individual de datas. Um conteúdo novo somente avançará quando todas as turmas
-tiverem oportunidade equivalente de iniciá-lo na mesma semana.
+O cronograma será alinhado por **semana acadêmica**, e não apenas pela sequência individual de datas. Um conteúdo novo somente avançará quando todas as turmas tiverem oportunidade equivalente de iniciá-lo na mesma semana.
 
 ### 4.1 Semanas que exigem tratamento específico
 
@@ -82,8 +71,7 @@ tiverem oportunidade equivalente de iniciá-lo na mesma semana.
 | 02 a 05/11 | Segunda-feira, 02/11, é feriado; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão a mesma prática de consolidação. |
 | 07 a 09/12 | O semestre termina na quarta-feira, 09/12 | Segunda e terça terão o mesmo fechamento teórico. A quarta-feira será dedicada ao feedback da AV3 e encerramento, sem conteúdo novo. |
 
-As terças-feiras de 08/09 e 03/11 não serão usadas para avaliações somativas
-que não possam ser aplicadas de modo equivalente às turmas de segunda-feira.
+As terças-feiras de 08/09 e 03/11 não serão usadas para avaliações somativas que não possam ser aplicadas de modo equivalente às turmas de segunda-feira.
 
 ## 5. Unidades e progressão
 
@@ -116,9 +104,7 @@ Progressão:
 8. introdução a coloração, emparelhamento e isomorfismo;
 9. avaliação AV2.
 
-Os trabalhos da Unidade II serão selecionados como exercícios, checkpoints ou
-entregas. O cronograma não transformará automaticamente todos os seis trabalhos
-existentes em avaliações obrigatórias.
+Os trabalhos da Unidade II serão selecionados como exercícios, checkpoints ou entregas. O cronograma não transformará automaticamente todos os seis trabalhos existentes em avaliações obrigatórias.
 
 ### 5.3 Unidade III — Otimizar grafos ponderados
 
@@ -135,9 +121,7 @@ Progressão:
 7. desenvolvimento, checkpoint e apresentação dos trabalhos;
 8. AV3 e feedback.
 
-Os três trabalhos existentes da Unidade III serão integrados ao cronograma como
-trilhas de projeto sobre árvore geradora mínima, caminhos mínimos e fluxo
-máximo.
+Os três trabalhos existentes da Unidade III serão integrados ao cronograma como trilhas de projeto sobre árvore geradora mínima, caminhos mínimos e fluxo máximo.
 
 ## 6. Avaliações
 
@@ -146,8 +130,7 @@ O cronograma respeitará a metodologia do projeto de ensino:
 - **AT:** questões teóricas objetivas, com ponderação de 20%;
 - **AP:** codificação em Java ou Python, com ponderação de 80%;
 - **AV1:** fundamentos, tipos, representações e buscas;
-- **AV2:** grafos dirigidos e não dirigidos, conectividade e problemas
-  clássicos;
+- **AV2:** grafos dirigidos e não dirigidos, conectividade e problemas clássicos;
 - **AV3:** otimização em grafos ponderados, trabalhos e apresentações.
 
 As avaliações serão posicionadas antes dos prazos institucionais:
@@ -157,8 +140,7 @@ As avaliações serão posicionadas antes dos prazos institucionais:
 - aplicação e feedback da AV3 entre 03 e 09/12;
 - registro da AV3 até 11/12.
 
-As datas específicas serão escolhidas de modo que todos os pares de turmas
-realizem avaliações equivalentes na mesma semana acadêmica.
+As datas específicas serão escolhidas de modo que todos os pares de turmas realizem avaliações equivalentes na mesma semana acadêmica.
 
 ## 7. Estrutura do cronograma final
 
@@ -168,30 +150,21 @@ O documento final conterá:
 2. quadro das turmas;
 3. princípios de alinhamento e tratamento dos feriados;
 4. uma tabela cronológica para cada unidade;
-5. em cada linha, semana, datas, tipo de turma, conteúdo, recursos e
-   produto/evidência;
+5. em cada linha, semana, datas, tipo de turma, conteúdo, recursos e produto/evidência;
 6. quadro consolidado de avaliações e entregas;
 7. referências curriculares e bibliográficas.
 
-As tabelas agruparão datas equivalentes de segunda/terça e quarta/quinta para
-evitar quatro cronogramas redundantes. Diferenças reais de calendário serão
-indicadas em linhas próprias.
+As tabelas agruparão datas equivalentes de segunda/terça e quarta/quinta para evitar quatro cronogramas redundantes. Diferenças reais de calendário serão indicadas em linhas próprias.
 
 ## 8. Referências curriculares externas
 
 A progressão foi confrontada com currículos oficiais:
 
-- Princeton, *Algorithms, 4th Edition*, capítulo de grafos:
-  <https://algs4.cs.princeton.edu/home/>;
-- MIT OpenCourseWare, 6.006 *Introduction to Algorithms*:
-  <https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/calendar>;
-- Stanford, CS161 *Design and Analysis of Algorithms*:
-  <https://web.stanford.edu/class/archive/cs/cs161/cs161.1182/schedule.html>.
+- Princeton, *Algorithms, 4th Edition*, capítulo de grafos: <https://algs4.cs.princeton.edu/home/>;
+- MIT OpenCourseWare, 6.006 *Introduction to Algorithms*: <https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/calendar>;
+- Stanford, CS161 *Design and Analysis of Algorithms*: <https://web.stanford.edu/class/archive/cs/cs161/cs161.1182/schedule.html>.
 
-Essas referências sustentam a progressão de representações e buscas para
-conectividade, caminhos mínimos, árvores geradoras mínimas e fluxo. A
-organização final, entretanto, preservará as três unidades e os conteúdos
-obrigatórios do projeto de ensino da T290.
+Essas referências sustentam a progressão de representações e buscas para conectividade, caminhos mínimos, árvores geradoras mínimas e fluxo. A organização final, entretanto, preservará as três unidades e os conteúdos obrigatórios do projeto de ensino da T290.
 
 ## 9. Critérios de aceitação
 
@@ -204,8 +177,6 @@ O cronograma estará correto quando:
 - manter todas as turmas alinhadas por semana acadêmica;
 - não avançar conteúdo nas terças-feiras de 08/09 e 03/11;
 - associar cada prática a conteúdo teórico já apresentado;
-- cobrir as três unidades, os algoritmos disponíveis, os datasets e os
-  trabalhos selecionados;
+- cobrir as três unidades, os algoritmos disponíveis, os datasets e os trabalhos selecionados;
 - posicionar AV1, AV2 e AV3 dentro dos prazos acadêmicos;
-- distinguir carga horária institucional de encontros efetivamente
-  realizados.
+- distinguir carga horária institucional de encontros efetivamente realizados.
