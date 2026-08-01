@@ -89,6 +89,14 @@
 
 Os encontros integrados de 09–10/09, 14–15/10 e 04–05/11 não contêm avaliação somativa.
 
+### Janelas institucionais de segunda chamada
+
+- **AV1:** 22 a 28/09; lançamento da nota até 30/09.
+- **AV2:** 11 a 17/11; lançamento da nota até 19/11.
+- **AV3:** 03 a 09/12, incluindo segunda chamada e feedback.
+
+As janelas de segunda chamada não substituem automaticamente os conteúdos dos encontros regulares; local, horário e estudantes convocados seguirão a orientação institucional.
+
 ## 6. Uso dos trabalhos
 
 | Material | Função no cronograma |
