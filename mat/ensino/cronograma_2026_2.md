@@ -70,8 +70,8 @@
 #### Semana 2 — 10–13/08
 
 - **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
-- **Turma teórica:** vértice, aresta, adjacência, incidência, grau, ponte, subgrafo e ciclo; grafos simples, multigrafos, regulares, completos, bipartidos, planares e conexos.
-- **Turma prática — acompanhamento T1, conclusão do marco 1:** classificação do grafo do problema; verificação de ordem, tamanho, grau e conectividade; construção de uma instância pequena.
+- **Turma teórica:** vértice, aresta, adjacência, incidência, grau, ponte e subgrafo; grafos simples, multigrafos, regulares, completos, bipartidos, planares e conexos; introdução às diferenças entre passeio, trilha, caminho e ciclo.
+- **Turma prática — acompanhamento T1, conclusão do marco 1:** classificação do grafo do problema; verificação de ordem, tamanho, grau e conectividade; construção de uma instância pequena e classificação de uma sequência de vértices.
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
 - **Produto/evidência:** classificação justificada e instância pequena com resposta esperada.
 
@@ -99,7 +99,7 @@
 
 - **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
 - **Turma teórica:** busca em largura; fronteiras, árvore BFS, distância e caminho mínimo em grafos sem pesos; comparação com DFS.
-- **Turma prática — acompanhamento T1, marcos 4 e 5:** execução manual de BFS; decisão entre DFS/BFS; conclusão da implementação; testes, `Accepted`, complexidade e ensaio.
+- **Turma prática — acompanhamento T1, marcos 4 e 5:** execução manual de BFS; decisão entre DFS/BFS; distinção entre ordem de visita e caminho reconstruído; classificação de uma sequência relevante como passeio, trilha, caminho ou ciclo; conclusão da implementação, testes, `Accepted`, complexidade e ensaio.
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
 - **Produto/evidência:** solução testada, justificativa da busca escolhida, evidência do `Accepted` e apresentação preparada.
 
@@ -227,7 +227,7 @@
 - **AP1/T1:** acompanhamentos de 05–06/08 a 02–03/09; apresentações em 09–10/09.
 - **AT1:** 14–15/09; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 20% + AP 80%.
-- **Conteúdo:** fundamentos, tipos, representações, DFS, BFS, alcançabilidade e caminhos sem pesos.
+- **Conteúdo:** fundamentos, tipos, representações, DFS, BFS, alcançabilidade e reconhecimento básico de passeio, trilha, caminho e ciclo.
 - **Registro:** até 21/09.
 
 ### AV2
@@ -258,11 +258,11 @@ As janelas de segunda chamada não substituem automaticamente encontros regulare
 
 ### [T1 — DFS/BFS](../../trabalhos/und1/T1.md)
 
-**Função:** AP1 processual sobre modelagem, representação, alcançabilidade e caminhos em grafos não ponderados.
+**Função:** AP1 transversal sobre modelagem, representação, DFS/BFS, alcançabilidade e reconhecimento de estruturas básicas em grafos não ponderados.
 
 ### [T2 — conectividade e problemas clássicos](../../trabalhos/und2/T2/T2.md)
 
-**Função:** AP2 processual sobre propriedades estruturais de grafos dirigidos e não dirigidos.
+**Função:** AP2 processual sobre aplicações mais complexas de buscas, conectividade e propriedades estruturais de grafos dirigidos e não dirigidos.
 
 ### [T3 — otimização](../../trabalhos/und3/README.md)
 

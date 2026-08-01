@@ -201,12 +201,13 @@
 
 ### Distribuição dos conteúdos por avaliação
 
-- **AV1:** AT sobre fundamentos da teoria dos grafos, tipos, representação computacional e algoritmos de busca; AP correspondente ao T1, sobre modelagem, representação, DFS, BFS, alcançabilidade e caminhos sem pesos.
-- **AV2:** AT sobre propriedades de grafos dirigidos e não dirigidos, conectividade e problemas clássicos; AP correspondente ao T2, sobre conectividade e resolução de problemas clássicos com aplicação de DFS/BFS.
+- **AV1:** AT sobre fundamentos da teoria dos grafos, tipos, representação computacional e algoritmos de busca; AP correspondente ao T1, transversal entre a Unidade I e o início da Unidade II, sobre modelagem, representação, DFS/BFS, alcançabilidade e reconhecimento básico de passeio, trilha, caminho e ciclo.
+- **AV2:** AT sobre propriedades de grafos dirigidos e não dirigidos, conectividade e problemas clássicos; AP correspondente ao T2, sobre aplicações mais complexas de DFS/BFS, conectividade e problemas estruturais da Unidade II.
 - **AV3:** AT sobre algoritmos de otimização em grafos ponderados; AP correspondente ao T3, organizada em trilhas de árvore geradora mínima, caminhos mínimos e fluxo máximo.
 
 ### Observações
 
 - As avaliações ocorrem preferencialmente em ambiente controlado com Safe Exam Browser.
 - A apresentação da AP ocorrerá antes da AT sempre que houver encontro prático regular dentro da janela institucional. Na AV3 das turmas de quarta-feira, a apresentação ocorrerá excepcionalmente em 09/12/2026, após a AT, porque a janela da AV3 começa em 03/12/2026 e não existe outro encontro regular de quarta-feira no período.
+- Os problemas de T1, T2 e T3 serão selecionados de plataformas com submissão verificável, como UVA/Online Judge, Kattis, Codeforces, CSES ou equivalentes, com dificuldade crescente entre os trabalhos.
 - A AV2 verificará se os alunos estão aptos, quanto aos fundamentos, à modelagem e à implementação, para desenvolver as trilhas de otimização da AV3.
