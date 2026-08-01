@@ -61,9 +61,9 @@
 
 #### Semana 1 — Fundamentos e modelagem de grafos — 03–06/08
 
-- **Datas:** primeiro encontro teórico em 03/08 (seg.) e 04/08 (ter.); segundo encontro teórico excepcional em 05/08 (qua.) e 06/08 (qui.).
-- **Primeiro encontro teórico — apresentação e motivação:** disciplina; objetivos; metodologia; avaliações; Pontes de Königsberg; rotas; redes; alocação; identificação de entidades e relações; modelagem inicial de problemas como grafos.
-- **Segundo encontro teórico — conceitos iniciais:** grafo `G = (V, E)`; vértice; aresta; ordem; tamanho; densidade em grafos simples não orientados; grau; adjacência; incidência; ponte; subgrafo; ciclo.
+- **Datas:** turma teórica em 03/08 (seg.) e 04/08 (ter.); turma prática, excepcionalmente em formato teórico, em 05/08 (qua.) e 06/08 (qui.).
+- **Turma teórica — apresentação e motivação:** disciplina; objetivos; metodologia; avaliações; Pontes de Königsberg; rotas; redes; alocação; identificação de entidades e relações; modelagem inicial de problemas como grafos.
+- **Turma prática — conceitos iniciais:** grafo `G = (V, E)`; vértice; aresta; ordem; tamanho; densidade em grafos simples não orientados; grau; adjacência; incidência; ponte; subgrafo; ciclo.
 - **Recursos:** [A1 — Conceitos iniciais](../aulas/A1_Conceitos_Iniciais.pdf).
 - **Produto formativo:** exercícios conceituais; modelagens; cálculos estruturais.
 
