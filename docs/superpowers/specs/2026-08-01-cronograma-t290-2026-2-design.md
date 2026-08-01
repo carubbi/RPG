@@ -19,12 +19,10 @@ O artefato final será `mat/ensino/cronograma_2026_2.md`.
 
 O cronograma abrangerá os quatro pares de turmas:
 
-| Pares | Turma teórica | Turma prática |
-| --- | --- | --- |
-| 09/19 | segunda-feira | quarta-feira |
-| 16/17 | terça-feira | quinta-feira |
-| 30/31 | terça-feira | quinta-feira |
-| 62/63 | segunda-feira | quarta-feira |
+- **09/19:** turma teórica na segunda-feira e turma prática na quarta-feira;
+- **16/17:** turma teórica na terça-feira e turma prática na quinta-feira;
+- **30/31:** turma teórica na terça-feira e turma prática na quinta-feira;
+- **62/63:** turma teórica na segunda-feira e turma prática na quarta-feira.
 
 As turmas 16 e 30 compartilharão o mesmo planejamento teórico. As turmas 17 e 31 compartilharão o mesmo planejamento prático. O mesmo conteúdo será usado nos pares 09/19 e 62/63, respeitados os respectivos horários e salas.
 
@@ -51,8 +49,12 @@ Os encontros práticos serão dedicados a:
 - leitura e interpretação dos datasets;
 - modelagem computacional;
 - testes e comparação de resultados;
-- checkpoints e desenvolvimento dos trabalhos;
+- acompanhamento processual e desenvolvimento dos trabalhos;
 - apresentações e feedback.
+
+Em cada ciclo avaliativo, todos os encontros práticos oferecidos antes da apresentação serão encontros de acompanhamento da AP. A única exceção será o encontro integral reservado às apresentações. A regra aplica-se às turmas de quarta-feira e, de modo equivalente, às turmas de quinta-feira.
+
+Cada acompanhamento deverá atestar um conhecimento previamente construído na aula teórica correspondente. Não bastará registrar presença ou progresso genérico: o grupo produzirá uma evidência verificável, como modelagem do problema, representação escolhida, execução manual, implementação parcial, testes, análise de complexidade ou diagnóstico de erro.
 
 As aulas práticas terão predominância computacional e não serão utilizadas como reposição automática de aulas teóricas canceladas por feriados. Nas semanas em que um encontro teórico não ocorrer por causa de feriado, a aula prática poderá assumir excepcionalmente formato integrado, com aproximadamente 40 minutos de síntese teórica e 60 minutos de prática computacional reduzida, sem reposição ou acréscimo de carga horária. Esse formato constitui recuperação pedagógica sintética dentro do encontro regular, não reposição institucional.
 
@@ -72,12 +74,10 @@ O cronograma será alinhado por **semana acadêmica**, e não apenas pela sequê
 
 ### 4.1 Semanas que exigem tratamento específico
 
-| Semana | Situação | Tratamento |
-| --- | --- | --- |
-| 07 a 10/09 | Segunda-feira, 07/09: Dia da Independência do Brasil — feriado, sem aula; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para síntese e aplicação de BFS/DFS. |
-| 12 a 15/10 | Segunda-feira, 12/10: Dia de Nossa Senhora Aparecida — feriado, sem aula; terça-feira, 13/10: antecipação do Dia do Professor — feriado estudantil, sem aula | Não haverá encontro teórico. Quartas e quintas terão encontro integrado equivalente sobre representação de grafos ponderados, com prática reduzida. |
-| 02 a 05/11 | Segunda-feira, 02/11: Dia de Finados — feriado, sem aula; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para consolidação conceitual e computacional de Dijkstra. |
-| 07 a 09/12 | O semestre termina na quarta-feira, 09/12 | Segunda e terça terão o mesmo fechamento teórico. A quarta-feira será dedicada ao feedback da AV3 e encerramento, sem conteúdo novo. |
+- **07 a 10/09:** segunda-feira, 07/09, Dia da Independência do Brasil — feriado, sem aula. A terça-feira será revisão formativa, sem conteúdo novo. Os encontros de 09 e 10/09 serão integralmente reservados às apresentações do T1, cujo conteúdo já terá sido ensinado; não constituirão reposição nem encontro integrado.
+- **12 a 15/10:** segunda-feira, 12/10, Dia de Nossa Senhora Aparecida — feriado, sem aula; terça-feira, 13/10, antecipação do Dia do Professor — feriado estudantil, sem aula. Quartas e quintas terão encontro integrado equivalente sobre representação de grafos ponderados, com prática reduzida.
+- **02 a 05/11:** segunda-feira, 02/11, Dia de Finados — feriado, sem aula. A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para consolidação conceitual e computacional de Dijkstra.
+- **07 a 09/12:** segunda e terça-feira serão integralmente destinadas à AT3. O último encontro prático das turmas de quarta-feira será destinado a feedback e encerramento, pois as apresentações do T3 ocorrerão em 02 e 03/12.
 
 As terças-feiras de 08/09 e 03/11 não serão usadas para avaliações somativas que não possam ser aplicadas de modo equivalente às turmas de segunda-feira.
 
@@ -104,15 +104,21 @@ Progressão:
 
 1. busca em profundidade;
 2. busca em largura e caminhos mínimos sem pesos;
-3. avaliação AV1, após fundamentos, representações e buscas;
-4. componentes conexas, ciclos e conectividade;
-5. dígrafos, ordenação topológica e componentes fortemente conexas;
-6. caminhos, trilhas, circuitos e grafos eulerianos;
-7. problemas hamiltonianos, caixeiro viajante e carteiro chinês;
-8. introdução a coloração, emparelhamento e isomorfismo;
-9. avaliação AV2.
+3. acompanhamento e apresentação do T1, após fundamentos, representações e buscas;
+4. avaliação teórica da AV1, depois da apresentação do T1;
+5. componentes conexas, ciclos e conectividade;
+6. dígrafos, ordenação topológica e componentes fortemente conexas;
+7. caminhos, trilhas, circuitos e grafos eulerianos;
+8. problemas hamiltonianos, caixeiro viajante e carteiro chinês;
+9. introdução a coloração, emparelhamento e isomorfismo;
+10. acompanhamento e apresentação do T2;
+11. avaliação teórica da AV2, depois da apresentação do T2.
 
-Os trabalhos da Unidade II serão selecionados como exercícios, checkpoints ou entregas. O cronograma não transformará automaticamente todos os seis trabalhos existentes em avaliações obrigatórias.
+O T1 terá como tema exploração, alcançabilidade e caminhos em grafos não ponderados. Cada grupo resolverá um problema simples que exija modelagem, representação por lista de adjacência e uso explícito de DFS, BFS ou ambas. O trabalho deverá incluir interpretação da entrada e da saída, instância pequena executada manualmente, implementação em Python ou Java, testes e análise de complexidade.
+
+O T2 terá como tema conectividade e propriedades de grafos dirigidos e não dirigidos. Os problemas dos grupos poderão envolver componentes conexas, ciclos, ordenação topológica, componentes fortemente conexas, bipartição, pontes, vértices de articulação, percursos eulerianos ou outra aplicação direta dos problemas clássicos da Unidade II. Todos os problemas deverão reutilizar DFS ou BFS e acrescentar uma propriedade estrutural.
+
+Os trabalhos existentes da Unidade II poderão fornecer problemas e exercícios para os grupos, mas não serão automaticamente transformados em entregas adicionais.
 
 ### 5.3 Unidade III — Otimizar grafos ponderados
 
@@ -126,26 +132,32 @@ Progressão:
 4. pesos negativos e Bellman-Ford;
 5. caminhos mínimos entre todos os pares e Floyd-Warshall;
 6. redes de fluxo, grafo residual e Ford-Fulkerson;
-7. desenvolvimento, checkpoint e apresentação dos trabalhos;
+7. acompanhamento processual e apresentação do T3;
 8. AV3 e feedback.
 
-Os três trabalhos existentes da Unidade III serão integrados ao cronograma como trilhas de projeto sobre árvore geradora mínima, caminhos mínimos e fluxo máximo.
+O T3 terá como tema otimização em grafos ponderados e redes. Os grupos serão distribuídos entre três trilhas equivalentes: árvore geradora mínima, caminhos mínimos e fluxo máximo. Os atuais trabalhos `trabalhos/und3/T1/T1.md`, `trabalhos/und3/T2/T2.md` e `trabalhos/und3/T3/T3.md` serão aproveitados como bancos de problemas dessas trilhas, e não como três avaliações separadas.
 
 ## 6. Avaliações
 
-O cronograma respeitará a metodologia do projeto de ensino:
+O projeto de ensino e o cronograma deverão adotar a mesma metodologia:
 
-- **AT:** questões teóricas objetivas, com ponderação de 20%;
-- **AP:** codificação em Java ou Python, com ponderação de 80%;
-- **AV1:** fundamentos, tipos, representações e buscas;
-- **AV2:** grafos dirigidos e não dirigidos, conectividade e problemas clássicos;
-- **AV3:** otimização em grafos ponderados, trabalhos e apresentações.
+- **AT:** ocupará um encontro teórico inteiro e será composta por dez questões objetivas no estilo ENADE, aplicadas no AVA/Moodle, com nota e justificativa das respostas disponibilizadas somente após o encerramento;
+- **AP:** será composta pelo acompanhamento processual do trabalho e por sua apresentação, com implementação em Python ou Java;
+- **AV1:** combinará a AT sobre fundamentos, tipos, representações e buscas com a AP correspondente ao T1;
+- **AV2:** combinará a AT sobre grafos dirigidos e não dirigidos, conectividade e problemas clássicos com a AP correspondente ao T2;
+- **AV3:** combinará a AT sobre otimização em grafos ponderados com a AP correspondente ao T3.
+
+Em cada ciclo, a apresentação da AP ocorrerá em um encontro prático integral anterior à AT. A AT e a apresentação da AP nunca compartilharão o mesmo encontro.
+
+Para uma turma com aproximadamente dez grupos, o encontro de apresentação terá 10 minutos de abertura, dez ciclos de até 5 minutos de exposição e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados para que a transição não ultrapasse 1 minuto.
+
+O texto atual do projeto de ensino que define as APs de AV1 e AV2 como implementações individuais em sala, sem consulta, deverá ser revisto. Essa redação é incompatível com a AP processual em grupo aprovada nesta especificação.
 
 As avaliações serão posicionadas antes dos prazos institucionais:
 
-- registro da AV1 até 21/09;
-- registro da AV2 até 10/11;
-- aplicação e feedback da AV3 entre 03 e 09/12;
+- apresentação do T1 em 09–10/09 e AT1 em 14–15/09, com registro da AV1 até 21/09;
+- apresentação do T2 em 07–08/10 e AT2 em 19–20/10, após os feriados de 12–13/10 e antes do registro da AV2 em 10/11;
+- apresentação do T3 em 02–03/12 e AT3 em 07–08/12, dentro do período de aplicação e feedback da AV3;
 - registro da AV3 até 11/12.
 
 As datas específicas serão escolhidas de modo que todos os pares de turmas realizem avaliações equivalentes na mesma semana acadêmica.
@@ -155,14 +167,14 @@ As datas específicas serão escolhidas de modo que todos os pares de turmas rea
 O documento final conterá:
 
 1. identificação e critérios de elaboração;
-2. quadro das turmas;
+2. descrição das turmas;
 3. princípios de alinhamento e tratamento dos feriados;
-4. uma tabela cronológica para cada unidade;
-5. em cada linha, semana, datas, tipo de turma, conteúdo, recursos e produto/evidência;
-6. quadro consolidado de avaliações e entregas;
+4. cronologia por unidade, sem tabelas;
+5. em cada semana, datas, turma teórica, turma prática, recursos e produto/evidência;
+6. consolidação das avaliações e entregas;
 7. referências curriculares e bibliográficas.
 
-As tabelas agruparão datas equivalentes de segunda/terça e quarta/quinta para evitar quatro cronogramas redundantes. Diferenças reais de calendário serão indicadas em linhas próprias.
+As seções semanais agruparão datas equivalentes de segunda/terça e quarta/quinta para evitar quatro cronogramas redundantes. Diferenças reais de calendário serão indicadas em itens próprios.
 
 ## 8. Referências curriculares externas
 
@@ -185,6 +197,10 @@ O cronograma estará correto quando:
 - manter todas as turmas alinhadas por semana acadêmica;
 - não avançar conteúdo nas terças-feiras de 08/09 e 03/11;
 - associar cada prática a conteúdo teórico já apresentado ou sintetizado no bloco inicial do próprio encontro integrado;
+- usar todos os encontros práticos oferecidos antes de cada apresentação para acompanhamento verificável da AP;
+- reservar um encontro prático integral para a apresentação de cada AP e posicioná-lo antes da respectiva AT;
+- definir T1 como DFS/BFS, T2 como conectividade e problemas clássicos e T3 como otimização em três trilhas;
 - cobrir as três unidades, os algoritmos disponíveis, os datasets e os trabalhos selecionados;
+- registrar que cada AT ocupa um encontro teórico integral e contém dez questões objetivas no estilo ENADE no AVA/Moodle;
 - posicionar AV1, AV2 e AV3 dentro dos prazos acadêmicos;
 - distinguir carga horária institucional de encontros efetivamente realizados.
