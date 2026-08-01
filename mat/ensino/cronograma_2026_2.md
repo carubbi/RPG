@@ -47,7 +47,7 @@
 - Cada feriado que afete um encontro será registrado por data e denominação oficial como “feriado — sem aula”.
 - Quando o encontro teórico for cancelado por feriado, a prática poderá assumir formato integrado, com aproximadamente 40 minutos de síntese de um conceito central e 60 minutos de acompanhamento reduzido. Isso não constitui reposição e não poderá concentrar conteúdo complexo.
 - Python e Java serão alternativas equivalentes. A lógica algorítmica será ensinada uma vez, com comparação pontual das APIs e convenções.
-- A AP será composta pelo acompanhamento processual e pela apresentação de T1, T2 ou T3. Todo encontro prático oferecido antes da apresentação será acompanhamento e produzirá evidência verificável.
+- A AP será composta pelo acompanhamento processual e pela apresentação de T1, T2 ou T3. Na semana 1, os encontros de quarta/quinta serão teóricos e não integrarão a AP1. Os encontros práticos oferecidos de 12–13/08 em diante e anteriores à apresentação produzirão evidência verificável.
 - Cada acompanhamento deverá atestar conhecimento previamente ensinado por meio de modelagem, execução manual, representação, implementação parcial, teste, análise de complexidade ou diagnóstico.
 - Cada apresentação ocupará um encontro prático integral. Para aproximadamente dez grupos, serão usados 10 minutos de abertura, dez ciclos de até 5 minutos de apresentação e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados.
 - Cada AT ocupará um encontro teórico integral e terá dez questões objetivas contextualizadas no estilo ENADE, aplicadas no AVA/Moodle. A nota e as justificativas serão liberadas somente após o encerramento.
@@ -61,27 +61,27 @@
 
 #### Semana 1 — Fundamentos e modelagem de grafos — 03–06/08
 
-- **Datas:** teórica em 03/08 (seg.) e 04/08 (ter.); prática em 05/08 (qua.) e 06/08 (qui.).
-- **Turma teórica:** apresentação da disciplina; problemas das Pontes de Königsberg, rotas e redes; transformação de entidades em vértices e relações em arestas; vértice, aresta, ordem, tamanho, densidade, grau, adjacência e incidência.
-- **Turma prática — acompanhamento T1, marco 1 comum:** prática não computacional das Pontes de Königsberg; preparação do ambiente Python/Java; apresentação das três trilhas e atribuição dos problemas; interpretação de entrada, saída e restrições; primeira modelagem dos vértices e das arestas.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`tinyG.txt`](../../dataset/tinyG.txt) e material para a prática das Pontes de Königsberg.
-- **Produto/evidência:** ambiente validado, resumo do problema, modelo inicial e cálculos de ordem, tamanho, densidade e graus em uma instância pequena.
+- **Datas:** primeiro encontro teórico em 03/08 (seg.) e 04/08 (ter.); segundo encontro teórico excepcional em 05/08 (qua.) e 06/08 (qui.).
+- **Primeiro encontro teórico — apresentação e motivação:** disciplina; objetivos; metodologia; avaliações; Pontes de Königsberg; rotas; redes; alocação; entidades; relações; vértices; arestas.
+- **Segundo encontro teórico — conceitos iniciais:** grafo `G = (V, E)`; vértice; aresta; ordem; tamanho; densidade em grafos simples não orientados; grau; adjacência; incidência; ponte; subgrafo; ciclo.
+- **Recursos:** [A1 — Conceitos iniciais](../aulas/A1_Conceitos_Iniciais.pdf).
+- **Produto formativo:** exercícios conceituais; modelagens; cálculos estruturais.
 
-#### Semana 2 — Tipos de grafos e decisões de modelagem — 10–13/08
+#### Semana 2 — Tipos e propriedades de grafos — 10–13/08
 
 - **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
-- **Turma teórica:** ponte, subgrafo e ciclo; grafos rotulados, simples, multigrafos, não orientados, dígrafos e ponderados; grafos regulares, completos, bipartidos, planares e conexos; introdução às diferenças entre passeio, trilha e caminho. Para cada tipo, serão explicitadas as decisões de modelagem pertinentes: orientação para relações assimétricas, multiplicidade de arestas, pesos como atributos, associação entre rótulos e índices e partições em grafos bipartidos. Regularidade, completude, planaridade e conectividade serão tratadas como propriedades, não como estruturas de dados distintas.
-- **Turma prática — acompanhamento T1, conclusão do marco 1:** implementação das APIs fundamentais de `Graph` e `Digraph` em Python ou Java, incluindo inserção de arestas, consulta de adjacência e cálculo de graus, ordem, tamanho e densidade; classificação justificada do grafo atribuído. A Trilha A enfatiza grafos simples e propriedades estruturais; a Trilha B, direção, graus de entrada e saída, fontes e sorvedouros; a Trilha C permanece em modelagem e representação.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`Digraph`](../../algs4-py/algs4/digraph.py), [`Digraph.java`](../../algs4-java/algs4/Digraph.java), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
-- **Produto/evidência:** estruturas mínimas `Graph` e `Digraph` funcionando, classificação justificada e instância pequena documentada.
+- **Turma teórica:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições; passeio; trilha; caminho.
+- **Turma prática — acompanhamento T1, marco 1:** lançamento do T1; apresentação das trilhas; atribuição dos problemas; preparação do ambiente Python/Java; entrada; saída; restrições; vértices; arestas; classificação do grafo; ordem; tamanho; densidade; graus; instância pequena; resposta esperada.
+- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
+- **Produto/evidência:** ficha de modelagem; classificação justificada; instância pequena.
 
 #### Semana 3 — Representação computacional de grafos — 17–20/08
 
 - **Datas:** teórica em 17/08 (seg.) e 18/08 (ter.); prática em 19/08 (qua.) e 20/08 (qui.).
-- **Turma teórica:** representação computacional por matrizes de adjacência e incidência e por listas de adjacência e incidência; codificação de grafos simples, multigrafos, dígrafos, grafos rotulados e ponderados; comparação de custos de espaço e das operações de inserção, consulta e percurso.
-- **Turma prática — acompanhamento T1, marco 2 comum:** conclusão de `Graph` e `Digraph`; leitura dos datasets; escolha e implementação da representação do problema; comparação entre matriz e lista; validação por instância pequena. As trilhas A e B explicitam como direção, multiplicidade, rótulos ou propriedades afetam a codificação; a Trilha C justifica lista de adjacência ou vizinhança implícita.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`Graph`](../../algs4-py/algs4/graph.py), [`Digraph`](../../algs4-py/algs4/digraph.py), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py), [`routes.txt`](../../dataset/routes.txt), [`tinyG.txt`](../../dataset/tinyG.txt) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
-- **Produto/evidência:** representação documentada, entrada processada corretamente e escolha justificada em função de `V`, `E`, orientação, pesos, rótulos e restrições.
+- **Turma teórica:** matriz de adjacência; matriz de incidência; lista de adjacência; lista de incidência; custos de espaço; inserção de arestas; consulta de adjacência e incidência; percurso de vizinhança; adequação ao tipo e à densidade do grafo.
+- **Turma prática — acompanhamento T1, marco 2:** implementação de `Graph` e `Digraph`; listas de adjacência; Python ou Java; inserção e consulta de arestas; leitura dos datasets; representação do problema; validação por instância pequena; custo de espaço e das operações.
+- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`Digraph`](../../algs4-py/algs4/digraph.py), [`Digraph.java`](../../algs4-java/algs4/Digraph.java), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py), [`routes.txt`](../../dataset/routes.txt), [`tinyG.txt`](../../dataset/tinyG.txt) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
+- **Produto/evidência:** estruturas `Graph` e `Digraph`; entrada processada; representação documentada; escolha justificada em função de `V`, `E`, orientação, pesos, rótulos e restrições.
 
 ### Unidade II — Resolver problemas com grafos conexos
 
@@ -224,7 +224,7 @@
 
 ### AV1
 
-- **AP1/T1:** acompanhamentos de 05–06/08 a 02–03/09; apresentações em 09–10/09.
+- **AP1/T1:** acompanhamentos de 12–13/08 a 02–03/09; apresentações em 09–10/09.
 - **AT1:** 14–15/09; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 20% + AP 80%.
 - **Conteúdo:** fundamentos, tipos, representações, DFS, BFS, alcançabilidade e reconhecimento básico de passeio, trilha, caminho e ciclo.
