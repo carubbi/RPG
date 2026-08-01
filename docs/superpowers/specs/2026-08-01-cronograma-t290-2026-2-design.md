@@ -77,7 +77,7 @@ O cronograma será alinhado por **semana acadêmica**, e não apenas pela sequê
 - **07 a 10/09:** segunda-feira, 07/09, Dia da Independência do Brasil — feriado, sem aula. A terça-feira será revisão formativa, sem conteúdo novo. Os encontros de 09 e 10/09 serão integralmente reservados às apresentações do T1, cujo conteúdo já terá sido ensinado; não constituirão reposição nem encontro integrado.
 - **12 a 15/10:** segunda-feira, 12/10, Dia de Nossa Senhora Aparecida — feriado, sem aula; terça-feira, 13/10, antecipação do Dia do Professor — feriado estudantil, sem aula. Quartas e quintas terão encontro integrado equivalente sobre representação de grafos ponderados, com prática reduzida.
 - **02 a 05/11:** segunda-feira, 02/11, Dia de Finados — feriado, sem aula. A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para consolidação conceitual e computacional de Dijkstra.
-- **07 a 09/12:** segunda e terça-feira serão integralmente destinadas à AT3. O último encontro prático das turmas de quarta-feira será destinado a feedback e encerramento, pois as apresentações do T3 ocorrerão em 02 e 03/12.
+- **03 a 09/12:** período institucional da AV3. As turmas de quinta-feira apresentarão o T3 em 03/12, antes da AT3 de 08/12. As turmas de segunda-feira realizarão a AT3 em 07/12 e, excepcionalmente, as turmas de quarta-feira apresentarão o T3 em 09/12, após a AT3. Essa inversão é necessária porque não existe outro encontro regular de quarta-feira dentro da janela institucional.
 
 As terças-feiras de 08/09 e 03/11 não serão usadas para avaliações somativas que não possam ser aplicadas de modo equivalente às turmas de segunda-feira.
 
@@ -147,7 +147,7 @@ O projeto de ensino e o cronograma deverão adotar a mesma metodologia:
 - **AV2:** combinará a AT sobre grafos dirigidos e não dirigidos, conectividade e problemas clássicos com a AP correspondente ao T2;
 - **AV3:** combinará a AT sobre otimização em grafos ponderados com a AP correspondente ao T3.
 
-Em cada ciclo, a apresentação da AP ocorrerá em um encontro prático integral anterior à AT. A AT e a apresentação da AP nunca compartilharão o mesmo encontro.
+Em cada ciclo, a apresentação da AP ocorrerá em um encontro prático integral e não compartilhará o mesmo encontro com a AT. A apresentação antecederá a AT sempre que houver encontro prático regular dentro da janela institucional. Na AV3 das turmas de quarta-feira, a apresentação ocorrerá excepcionalmente em 09/12, após a AT3 de 07/12, porque a janela da AV3 começa em 03/12 e não existe outro encontro regular de quarta-feira no período.
 
 Para uma turma com aproximadamente dez grupos, o encontro de apresentação terá 10 minutos de abertura, dez ciclos de até 5 minutos de exposição e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados para que a transição não ultrapasse 1 minuto.
 
@@ -157,7 +157,7 @@ As avaliações serão posicionadas antes dos prazos institucionais:
 
 - apresentação do T1 em 09–10/09 e AT1 em 14–15/09, com registro da AV1 até 21/09;
 - apresentação do T2 em 07–08/10 e AT2 em 19–20/10, após os feriados de 12–13/10 e antes do registro da AV2 em 10/11;
-- apresentação do T3 em 02–03/12 e AT3 em 07–08/12, dentro do período de aplicação e feedback da AV3;
+- apresentação do T3 em 03/12 para as turmas de quinta-feira, AT3 em 07–08/12 e apresentação do T3 em 09/12 para as turmas de quarta-feira, todas dentro do período de aplicação e feedback da AV3;
 - registro da AV3 até 11/12.
 
 As datas específicas serão escolhidas de modo que todos os pares de turmas realizem avaliações equivalentes na mesma semana acadêmica.
@@ -198,7 +198,7 @@ O cronograma estará correto quando:
 - não avançar conteúdo nas terças-feiras de 08/09 e 03/11;
 - associar cada prática a conteúdo teórico já apresentado ou sintetizado no bloco inicial do próprio encontro integrado;
 - usar todos os encontros práticos oferecidos antes de cada apresentação para acompanhamento verificável da AP;
-- reservar um encontro prático integral para a apresentação de cada AP e posicioná-lo antes da respectiva AT;
+- reservar um encontro prático integral para a apresentação de cada AP e posicioná-lo antes da respectiva AT, exceto na AV3 das turmas de quarta-feira, cuja apresentação ocorrerá em 09/12 após a AT3;
 - definir T1 como DFS/BFS, T2 como conectividade e problemas clássicos e T3 como otimização em três trilhas;
 - cobrir as três unidades, os algoritmos disponíveis, os datasets e os trabalhos selecionados;
 - registrar que cada AT ocupa um encontro teórico integral e contém dez questões objetivas no estilo ENADE no AVA/Moodle;
