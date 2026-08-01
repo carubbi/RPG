@@ -37,7 +37,7 @@
 
 Validar existência, submissão ativa, entrada, saída, restrições e compatibilidade com Python/Java:
 
-- Trilha A: Kattis Weak Vertices, UVA 10720 Graph Construction e Kattis Reachable Roads.
+- Trilha A: Kattis Weak Vertices, UVA 11387 The 3-Regular Graph e Kattis Reachable Roads.
 - Trilha B: Codeforces 115A Party, Codeforces 500A New Year Transportation e UVA 280 Vertex.
 - Trilha C: CSES Counting Rooms, CSES Labyrinth, CSES Message Route e UVA 336 A Node Too Far.
 
