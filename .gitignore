@@ -1,28 +1,10 @@
 # Ignorar arquivos e pastas específicos
-.venv/
+.venv
 .DS_Store
-.githooks/
 .env
-*.env
-.secrets/
-__pycache__/
-algs4-py/algs4/__pycache__/
-algs4-py/algs4/utils/__pycache__
+__pycache__
 .codex
 
-# Arquivos grandes locais
-dataset/leipzig1M.txt
-dataset/largeEWD.txt
-dataset/largeDG.txt
-dataset/largeEWG.txt
-dataset/largeG.txt
-
 # pastas locais
-_local/
-livros/
-scripts/
-planos/
-AVs/
-aval/
-trabalhos/und2/config
 docs/
+plan/
