@@ -54,7 +54,15 @@ Os encontros práticos serão dedicados a:
 - checkpoints e desenvolvimento dos trabalhos;
 - apresentações e feedback.
 
-As aulas práticas terão predominância computacional e não serão utilizadas como reposição automática de aulas teóricas canceladas por feriados. Quando necessário à continuidade da aprendizagem, poderão incluir uma breve retomada ou integração conceitual, sem acréscimo de carga horária e sem descaracterizar seu objetivo prático. Para manter as turmas alinhadas, essa retomada ocorrerá nas práticas equivalentes de quarta e quinta-feira.
+As aulas práticas terão predominância computacional e não serão utilizadas como reposição automática de aulas teóricas canceladas por feriados. Nas semanas em que um encontro teórico não ocorrer por causa de feriado, a aula prática poderá assumir excepcionalmente formato integrado, com aproximadamente 40 minutos de síntese teórica e 60 minutos de prática computacional reduzida, sem reposição ou acréscimo de carga horária. Esse formato constitui recuperação pedagógica sintética dentro do encontro regular, não reposição institucional.
+
+O formato integrado obedecerá aos seguintes limites:
+
+- será aplicado de forma equivalente às turmas de quarta e quinta-feira;
+- abordará no máximo um conceito teórico central;
+- não incluirá avaliação somativa;
+- terá produto prático reduzido e explicitamente definido;
+- não será usado para concentrar algoritmos novos ou conteúdos complexos que exijam demonstração, análise de correção ou discussão extensa.
 
 ## 4. Tratamento dos feriados e alinhamento
 
@@ -66,9 +74,9 @@ O cronograma será alinhado por **semana acadêmica**, e não apenas pela sequê
 
 | Semana | Situação | Tratamento |
 | --- | --- | --- |
-| 07 a 10/09 | Segunda-feira, 07/09, é feriado; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão a mesma prática de consolidação. |
-| 12 a 15/10 | Segunda-feira, 12/10, e terça-feira, 13/10, são feriados | Não haverá encontro teórico. Quartas e quintas manterão a mesma prática baseada em conteúdo já ensinado. |
-| 02 a 05/11 | Segunda-feira, 02/11, é feriado; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão a mesma prática de consolidação. |
+| 07 a 10/09 | Segunda-feira, 07/09, é feriado; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para síntese e aplicação de BFS/DFS. |
+| 12 a 15/10 | Segunda-feira, 12/10, e terça-feira, 13/10, são feriados | Não haverá encontro teórico. Quartas e quintas terão encontro integrado equivalente sobre representação de grafos ponderados, com prática reduzida. |
+| 02 a 05/11 | Segunda-feira, 02/11, é feriado; terça-feira é letiva | A terça-feira será revisão formativa, sem conteúdo novo. Quartas e quintas terão encontro integrado equivalente para consolidação conceitual e computacional de Dijkstra. |
 | 07 a 09/12 | O semestre termina na quarta-feira, 09/12 | Segunda e terça terão o mesmo fechamento teórico. A quarta-feira será dedicada ao feedback da AV3 e encerramento, sem conteúdo novo. |
 
 As terças-feiras de 08/09 e 03/11 não serão usadas para avaliações somativas que não possam ser aplicadas de modo equivalente às turmas de segunda-feira.
@@ -173,10 +181,10 @@ O cronograma estará correto quando:
 - incluir todas as datas letivas entre 03/08 e 09/12;
 - registrar explicitamente os feriados relevantes;
 - manter separadas as funções das turmas teóricas e práticas;
-- não incluir reposições ou compensações;
+- não incluir reposições externas nem compensações de carga horária;
 - manter todas as turmas alinhadas por semana acadêmica;
 - não avançar conteúdo nas terças-feiras de 08/09 e 03/11;
-- associar cada prática a conteúdo teórico já apresentado;
+- associar cada prática a conteúdo teórico já apresentado ou sintetizado no bloco inicial do próprio encontro integrado;
 - cobrir as três unidades, os algoritmos disponíveis, os datasets e os trabalhos selecionados;
 - posicionar AV1, AV2 e AV3 dentro dos prazos acadêmicos;
 - distinguir carga horária institucional de encontros efetivamente realizados.
