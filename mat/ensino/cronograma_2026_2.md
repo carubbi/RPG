@@ -34,7 +34,7 @@
 - Cada feriado é identificado por data e denominação oficial, com a indicação de que não haverá aula.
 - Nas semanas em que um encontro teórico for cancelado por feriado, as práticas equivalentes de quarta e quinta-feira poderão assumir formato integrado: aproximadamente 40 minutos de síntese de um conceito central e 60 minutos de prática reduzida.
 - O encontro integrado é uma recuperação pedagógica sintética dentro do horário regular, não uma reposição institucional; não incluirá avaliação somativa nem concentrará conteúdos complexos.
-- Python e Java são alternativas equivalentes de implementação. A lógica algorítmica será ensinada uma vez, com comparação pontual das APIs e convenções das duas linguagens.
+- Python e Java são alternativas equivalentes de implementação. A lógica algorítmica será ensinada uma vez, com comparação pontual das APIs e convenções das duas linguagens; quando o repositório oferecer referência em apenas uma delas, a outra poderá ser adotada na implementação do estudante.
 - Cada prática produzirá uma evidência verificável: saída de programa, teste, arquivo de entrada, análise curta, commit, checkpoint ou apresentação.
 
 ## 4. Cronograma por unidade
@@ -61,7 +61,7 @@
 | 7<br>14–17/09 | Teórica/avaliação: 14/09 (seg.) e 15/09 (ter.); prática: 16/09 (qua.) e 17/09 (qui.) | **AV1:** AT objetiva e AP individual de codificação sobre fundamentos, tipos, representações, DFS e BFS. | Correção comentada, diagnóstico de dificuldades e refatoração guiada de uma solução equivalente, sem alteração da nota. | Projeto de ensino, códigos Python/Java e datasets da Unidade I/início da Unidade II. | Registro da AV1 e plano individual de correção de lacunas. |
 | 8<br>21–24/09 | Teórica: 21/09 (seg.) e 22/09 (ter.); prática: 23/09 (qua.) e 24/09 (qui.) | Passeio, trilha, caminho, ciclo, circuito e tour; componentes conexas, pontes, vértices e arestas de corte; critérios de conectividade. | Componentes e ciclos no grafo do cavalo; testes com casos conexos e desconexos; identificação de pontes e cortes. | [`CC`](../../algs4-py/algs4/cc.py), [`Cycle`](../../algs4-py/algs4/cycle.py), [Trabalho U2-T2](../../trabalhos/und2/T2/T2.md). | Componentes, ciclo encontrado e análise dos casos-limite. |
 | 9<br>28/09–01/10 | Teórica: 28/09 (seg.) e 29/09 (ter.); prática: 30/09 (qua.) e 01/10 (qui.) | Dígrafos, ciclos dirigidos, ordenação topológica e componentes fortemente conexas; panorama comparativo de Euler/Hamilton, carteiro chinês, caixeiro viajante, coloração, emparelhamento e isomorfismo. | Estações práticas com trabalhos selecionados: circuito euleriano, heurísticas para TSP, DSatur ou isomorfismo em árvores; os grupos implementam uma estação, não todas. | [`tinyDG.txt`](../../dataset/tinyDG.txt), [`Topological`](../../algs4-py/algs4/topological.py), [`KosarajuSCC`](../../algs4-py/algs4/kosaraju_scc.py), [U2-T3](../../trabalhos/und2/T3/T3.md), [U2-T4](../../trabalhos/und2/T4/T4.md), [U2-T5](../../trabalhos/und2/T5/T5.md), [U2-T6](../../trabalhos/und2/T6/T6.md). | Solução ou protótipo da estação e explicação de modelagem, correção esperada e complexidade. |
-| 10<br>05–08/10 | Teórica/avaliação: 05/10 (seg.) e 06/10 (ter.); prática: 07/10 (qua.) e 08/10 (qui.) | **AV2:** AT objetiva e AP individual de codificação sobre conectividade, grafos dirigidos/não dirigidos e problemas clássicos. | Apresentações curtas dos trabalhos selecionados da Unidade II e feedback por critérios comuns. | Trabalhos U2-T2 a U2-T6 e rubrica de modelagem, algoritmo, complexidade e comunicação. | Registro da AV2, repositório do trabalho e apresentação curta. |
+| 10<br>05–08/10 | Teórica/avaliação: 05/10 (seg.) e 06/10 (ter.); prática: 07/10 (qua.) e 08/10 (qui.) | **AV2:** AT objetiva e AP individual de codificação sobre conectividade, grafos dirigidos/não dirigidos e problemas clássicos. | Apresentações formativas curtas dos trabalhos selecionados da Unidade II e feedback por critérios comuns, sem alteração da nota da AP individual. | Trabalhos U2-T2 a U2-T6 e rubrica de modelagem, algoritmo, complexidade e comunicação. | Registro da AV2, repositório do trabalho e feedback da apresentação curta. |
 
 ## Unidade III — Otimizar grafos ponderados
 
@@ -84,7 +84,7 @@
 | Avaliação | Datas | Composição | Conteúdo e produto |
 | --- | --- | --- | --- |
 | AV1 | 14–17/09; registro até 21/09 | AT objetiva (20%) + AP individual de codificação (80%) | Fundamentos, tipos, representações, DFS e BFS; correção formativa na prática seguinte. |
-| AV2 | 05–08/10; registro até 10/11 | AT objetiva (20%) + AP individual de codificação (80%) | Grafos dirigidos e não dirigidos, conectividade e problemas clássicos; apresentação curta dos trabalhos selecionados. |
+| AV2 | 05–08/10; registro até 10/11 | AT objetiva (20%) + AP individual de codificação (80%) | Grafos dirigidos e não dirigidos, conectividade e problemas clássicos; apresentação formativa dos trabalhos selecionados, sem alteração da nota. |
 | AV3 | 03–09/12; registro até 11/12 | AT (20%) + AP por trabalho científico e apresentação (80%) | Uma trilha por grupo: MST, caminhos mínimos ou fluxo máximo; repositório, evidências, análise e apresentação. |
 
 Os encontros integrados de 09–10/09, 14–15/10 e 04–05/11 não contêm avaliação somativa.
