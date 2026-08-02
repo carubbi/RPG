@@ -1,4 +1,6 @@
-# Cronograma da disciplina T290 — 2026.2
+# Cronograma discente — T290 — turmas 16/17 e 30/31 — 2026.2
+
+> Versão para as turmas de terça-feira e quinta-feira, derivada do cronograma docente.
 
 ## 1. Identificação
 
@@ -12,37 +14,27 @@
 
 ## 2. Organização das turmas
 
-### Par 09/19
+### Turma 16/17
 
-- **Turma teórica:** Turma 09 — segunda-feira, 21h às 22h40, sala C27.
-- **Turma prática:** Turma 19 — quarta-feira, 21h às 22h40, sala C27.
+- **Aula teórica:** Turma 16 — terça-feira, 19h às 20h40, sala D26.
+- **Aula prática:** Turma 17 — quinta-feira, 19h às 20h40, sala D22.
 
-### Par 16/17
+### Turma 30/31
 
-- **Turma teórica:** Turma 16 — terça-feira, 19h às 20h40, sala D26.
-- **Turma prática:** Turma 17 — quinta-feira, 19h às 20h40, sala D22.
+- **Aula teórica:** Turma 30 — terça-feira, 21h às 22h40, sala C29.
+- **Aula prática:** Turma 31 — quinta-feira, 21h às 22h40, sala C29.
 
-### Par 30/31
-
-- **Turma teórica:** Turma 30 — terça-feira, 21h às 22h40, sala C29.
-- **Turma prática:** Turma 31 — quinta-feira, 21h às 22h40, sala C29.
-
-### Par 62/63
-
-- **Turma teórica:** Turma 62 — segunda-feira, 17h20 às 19h, sala C34.
-- **Turma prática:** Turma 63 — quarta-feira, 17h20 às 19h, sala T05.
-
-### Turma teórica
+### Aula teórica
 
 **Objetivo:** construir conceitos, modelar problemas, analisar correção e complexidade, comparar códigos em Python e Java e realizar as ATs.
 
-### Turma prática
+### Aula prática
 
 **Objetivo:** desenvolver os trabalhos T1–T3 por meio de práticas computacionais e acompanhamentos que atestem os conhecimentos ensinados, além de realizar as apresentações das APs.
 
 ## 3. Critérios de planejamento
 
-- O cronograma será alinhado por semana acadêmica, mantendo equivalência entre as turmas de segunda/quarta e terça/quinta.
+- O cronograma será alinhado por semana acadêmica para as turmas de terça/quinta.
 - As cargas de 12, 22 e 38 horas das unidades são referências institucionais; o planejamento usa os encontros efetivamente oferecidos pelo calendário.
 - Não haverá reposição, compensação de carga horária nem criação de encontros externos.
 - Cada feriado que afete um encontro será registrado por data e denominação oficial como “feriado — sem aula”.
@@ -50,11 +42,11 @@
 - Quando o encontro teórico for cancelado por feriado, a prática poderá assumir formato integrado, com aproximadamente 40 minutos de síntese de um conceito central e 60 minutos de acompanhamento reduzido. Isso não constitui reposição e não poderá concentrar conteúdo complexo.
 - Python e Java serão alternativas equivalentes. A lógica algorítmica será ensinada uma vez, com comparação pontual das APIs e convenções. A adaptação somente será exigida quando a implementação de referência estiver disponível na linguagem escolhida.
 - Os algoritmos serão apresentados por construção guiada e disponibilizados como implementações de referência. Os grupos deverão compreender, rastrear, integrar e adaptar essas implementações ao problema atribuído, justificando as alterações; não será exigida implementação integral a partir do zero.
-- A AP será composta pelo acompanhamento processual e pela apresentação de T1, T2 ou T3. Na semana 1, os encontros de quarta/quinta serão teóricos e não integrarão a AP1. Os encontros práticos oferecidos de 12–13/08 em diante e anteriores à apresentação produzirão evidência verificável.
+- A AP será composta pelo acompanhamento processual e pela apresentação de T1, T2 ou T3. Na semana 1, o encontro de quinta-feira será teórico e não integrará a AP1. Os encontros práticos oferecidos de 13/08 em diante e anteriores à apresentação produzirão evidência verificável.
 - Nenhum acompanhamento exigirá conceitos-base ainda não ensinados. Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos. Cada acompanhamento produzirá evidência verificável de modelagem, execução manual, representação, adaptação, integração, teste, análise de complexidade ou diagnóstico.
 - Cada apresentação ocupará um encontro prático integral. Para aproximadamente dez grupos, serão usados 10 minutos de abertura, dez ciclos de até 5 minutos de apresentação e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados.
 - Cada AT ocupará um encontro teórico integral e terá dez questões objetivas contextualizadas no estilo ENADE, aplicadas no AVA/Moodle. A nota e as justificativas serão liberadas somente após o encerramento.
-- A apresentação antecederá a AT, exceto na AV3 das turmas de quarta-feira, cuja apresentação ocorrerá em 09/12 após a AT3 por causa da janela institucional de 03 a 09/12.
+- Cada apresentação antecederá a AT.
 
 ## 4. Cronograma por unidade
 
@@ -62,9 +54,9 @@
 
 #### Semana 1 — Apresentação da disciplina e fundamentos de grafos — 03–06/08
 
-- **Datas:** turma teórica em 03/08 (seg.) e 04/08 (ter.); turma prática, excepcionalmente em formato teórico, em 05/08 (qua.) e 06/08 (qui.).
-- **Turma teórica — apresentação e motivação:** disciplina; objetivos; metodologia; avaliações; Pontes de Königsberg; rotas; redes; alocação; identificação de entidades e relações; modelagem inicial de problemas como grafos.
-- **Turma prática — conceitos iniciais:** grafo `G = (V, E)`; vértice; aresta; ordem; tamanho; densidade em grafos simples não orientados; grau; adjacência; incidência; ponte; subgrafo; ciclo.
+- **Datas:** aula teórica em 04/08 (ter.); aula prática, excepcionalmente em formato teórico, em 06/08 (qui.).
+- **Aula teórica — apresentação e motivação:** disciplina; objetivos; metodologia; avaliações; Pontes de Königsberg; rotas; redes; alocação; identificação de entidades e relações; modelagem inicial de problemas como grafos.
+- **Aula prática — conceitos iniciais:** grafo `G = (V, E)`; vértice; aresta; ordem; tamanho; densidade em grafos simples não orientados; grau; adjacência; incidência; ponte; subgrafo; ciclo.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos; 01.02 — Tipos de grafos (parcial: subgrafo e ciclo).
 - **Recursos:**
   - **Material didático:** [A1 — Conceitos iniciais](../aulas/A1_Conceitos_Iniciais.pdf).
@@ -72,9 +64,9 @@
 
 #### Semana 2 — Tipos de grafos e modelagem do T1 — 10–13/08
 
-- **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
-- **Turma teórica — tipos e propriedades de grafos:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; dígrafos acíclicos (DAGs); grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições.
-- **Turma prática — modelagem inicial do T1:** lançamento; atribuição dos problemas; preparação do ambiente Python/Java; orientação do marco 1.
+- **Datas:** teórica em 11/08 (ter.); prática em 13/08 (qui.).
+- **Aula teórica — tipos e propriedades de grafos:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; dígrafos acíclicos (DAGs); grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições.
+- **Aula prática — modelagem inicial do T1:** lançamento; atribuição dos problemas; preparação do ambiente Python/Java; orientação do marco 1.
 - **Acompanhamento 1 — Modelagem (1,0 ponto):** entrada; saída; restrições; vértices; arestas; tipo do grafo; instância pequena; resultado esperado; hipótese inicial justificada; validação oral e registro no repositório.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (aplicação); 01.02 — Tipos de grafos.
 - **Recursos:**
@@ -84,9 +76,9 @@
 
 #### Semana 3 — Representações computacionais no T1 — 17–20/08
 
-- **Datas:** teórica em 17/08 (seg.) e 18/08 (ter.); prática em 19/08 (qua.) e 20/08 (qui.).
-- **Turma teórica — representações computacionais:** matriz de adjacência; matriz de incidência; lista de adjacência; lista de incidência; custos de espaço; inserção de arestas; consulta de adjacência e incidência; percurso de vizinhança; adequação ao tipo e à densidade do grafo.
-- **Turma prática — representação computacional do T1:** `Graph`, `Digraph` ou representação implícita; geração de instâncias com `GraphGenerator` e `DigraphGenerator`; Python ou Java; orientação do marco 2.
+- **Datas:** teórica em 18/08 (ter.); prática em 20/08 (qui.).
+- **Aula teórica — representações computacionais:** matriz de adjacência; matriz de incidência; lista de adjacência; lista de incidência; custos de espaço; inserção de arestas; consulta de adjacência e incidência; percurso de vizinhança; adequação ao tipo e à densidade do grafo.
+- **Aula prática — representação computacional do T1:** `Graph`, `Digraph` ou representação implícita; geração de instâncias com `GraphGenerator` e `DigraphGenerator`; Python ou Java; orientação do marco 2.
 - **Acompanhamento 2 — Representação computacional (1,0 ponto):** entrada processada; grafo construído; medidas pertinentes; instância pequena validada; custo e escolha da representação justificados; validação oral e registro no repositório.
 - **Projeto de ensino:** 01.02 — Tipos de grafos (aplicação); 01.03 — Representação computacional.
 - **Recursos:**
@@ -101,9 +93,9 @@
 
 #### Semana 4 — Busca em profundidade e aplicação no T1 — 24–27/08
 
-- **Datas:** teórica em 24/08 (seg.) e 25/08 (ter.); prática em 26/08 (qua.) e 27/08 (qui.).
-- **Turma teórica — busca em profundidade:** busca em profundidade; estados de visita; árvore de busca; tempo de descoberta; tempo de término; classificação de arestas; alcançabilidade; predecessores; caminhos; invariantes; correção; complexidade .
-- **Turma prática — aplicação de DFS no T1:** execução guiada; aplicação ao problema; orientação do marco 3.
+- **Datas:** teórica em 25/08 (ter.); prática em 27/08 (qui.).
+- **Aula teórica — busca em profundidade:** busca em profundidade; estados de visita; árvore de busca; tempo de descoberta; tempo de término; classificação de arestas; alcançabilidade; predecessores; caminhos; invariantes; correção; complexidade .
+- **Aula prática — aplicação de DFS no T1:** execução guiada; aplicação ao problema; orientação do marco 3.
 - **Acompanhamento 3 — Aplicação básica de DFS (1,0 ponto):** execução manual; estados de visita; árvore de busca; tempos de descoberta e término; alcançabilidade; predecessores; aplicabilidade; adaptação parcial quando pertinente; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (busca em profundidade).
 - **Recursos:**
@@ -114,10 +106,10 @@
 
 #### Semana 5 — Busca em largura, revisão teórica e conclusão do T1 — 31/08–03/09
 
-- **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
-- **Turma teórica — busca em largura:** busca em largura; fronteiras; árvore BFS; níveis; predecessores; distância; reconstrução de caminhos; caminho mínimo em grafos sem pesos; comparação com DFS; correção; complexidade.
-- **Turma prática — aplicação de BFS e conclusão do T1 (70 minutos):** execução guiada; comparação com DFS; orientação do marco 4.
-- **Turma prática — revisão teórica (30 minutos):** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; DFS e BFS; alcançabilidade e caminhos básicos; correção e complexidade; dúvidas.
+- **Datas:** teórica em 01/09 (ter.); prática em 03/09 (qui.).
+- **Aula teórica — busca em largura:** busca em largura; fronteiras; árvore BFS; níveis; predecessores; distância; reconstrução de caminhos; caminho mínimo em grafos sem pesos; comparação com DFS; correção; complexidade.
+- **Aula prática — aplicação de BFS e conclusão do T1 (70 minutos):** execução guiada; comparação com DFS; orientação do marco 4.
+- **Aula prática — revisão teórica (30 minutos):** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; DFS e BFS; alcançabilidade e caminhos básicos; correção e complexidade; dúvidas.
 - **Acompanhamento 4 — Aplicação básica de BFS e conclusão (1,0 ponto):** execução manual; níveis; distâncias; predecessores; escolha justificada entre DFS e BFS; adaptação; integração; testes; complexidade; submissão; ensaio; validação oral e registro no repositório.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (revisão); 01.02 — Tipos de grafos (revisão); 01.03 — Representação computacional (revisão); 02.01 — Algoritmos de busca (busca em largura e revisão).
 - **Recursos:**
@@ -129,9 +121,9 @@
 
 #### Semana 6 — Revisão teórica para a AT1 e apresentação do T1 — 07–10/09
 
-- **Datas:** **07/09 — Dia da Independência do Brasil — feriado, sem aula**; teórica em 08/09 (ter.); apresentações em 09/09 (qua.) e 10/09 (qui.).
-- **Turma teórica — revisão teórica para a AT1:** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; DFS e BFS; alcançabilidade e caminhos básicos; correção e complexidade; dúvidas.
-- **Turma prática — apresentação da AP1:** apresentações do T1; aproximadamente dez grupos; avaliação; devolutiva.
+- **Datas:** teórica em 08/09 (ter.); apresentação em 10/09 (qui.).
+- **Aula teórica — revisão teórica para a AT1:** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; DFS e BFS; alcançabilidade e caminhos básicos; correção e complexidade; dúvidas.
+- **Aula prática — apresentação da AP1:** apresentações do T1; aproximadamente dez grupos; avaliação; devolutiva.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (revisão); 01.02 — Tipos de grafos (revisão); 01.03 — Representação computacional (revisão); 02.01 — Algoritmos de busca (revisão).
 - **Recursos:**
   - **Apresentação e avaliação:** [template institucional](../../trabalhos/template/template_UNIFOR.pptx); repositórios; apresentações; rubrica da AP1.
@@ -139,9 +131,9 @@
 
 #### Semana 7 — AT1 e modelagem inicial do T2 — 14–17/09
 
-- **Datas:** AT1 em 14/09 (seg.) e 15/09 (ter.); prática em 16/09 (qua.) e 17/09 (qui.).
-- **Turma teórica — AT1:** dez questões objetivas estilo ENADE; AVA/Moodle; fundamentos; tipos; representações; DFS; BFS; encontro integral; liberação posterior da nota e das justificativas.
-- **Turma prática — modelagem inicial do T2:** bancos temáticos; atribuição do problema; orientação do marco 1.
+- **Datas:** AT1 em 15/09 (ter.); prática em 17/09 (qui.).
+- **Aula teórica — AT1:** dez questões objetivas estilo ENADE; AVA/Moodle; fundamentos; tipos; representações; DFS; BFS; encontro integral; liberação posterior da nota e das justificativas.
+- **Aula prática — modelagem inicial do T2:** bancos temáticos; atribuição do problema; orientação do marco 1.
 - **Acompanhamento 1 — Problema e conhecimento prévio (evidência pontuada):** entrada; saída; restrições; vértices; arestas; tipo do grafo; participação de DFS/BFS; instância pequena; validação oral e registro no repositório.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (avaliação); 01.02 — Tipos de grafos (avaliação); 01.03 — Representação computacional (avaliação); 02.01 — Algoritmos de busca (avaliação e aplicação).
 - **Recursos:**
@@ -151,9 +143,9 @@
 
 #### Semana 8 — Formalização de percursos e conectividade no T2 — 21–24/09
 
-- **Datas:** teórica em 21/09 (seg.) e 22/09 (ter.); prática em 23/09 (qua.) e 24/09 (qui.).
-- **Turma teórica — formalização de percursos e conectividade:** passeio; trilha; caminho; ciclo; circuito; tour; componentes conexas; identificação de componentes e ciclos por DFS; árvore DFS; tempos de descoberta; arestas de retorno; menor tempo de descoberta alcançável; critérios de ponte e articulação; caso da raiz; rastreamento e análise das implementações; correção; complexidade.
-- **Turma prática — aplicação de conectividade no T2:** conectividade; propriedade pertinente ao problema; execução manual; adaptação e testes; orientação do marco 2.
+- **Datas:** teórica em 22/09 (ter.); prática em 24/09 (qui.).
+- **Aula teórica — formalização de percursos e conectividade:** passeio; trilha; caminho; ciclo; circuito; tour; componentes conexas; identificação de componentes e ciclos por DFS; árvore DFS; tempos de descoberta; arestas de retorno; menor tempo de descoberta alcançável; critérios de ponte e articulação; caso da raiz; rastreamento e análise das implementações; correção; complexidade.
+- **Aula prática — aplicação de conectividade no T2:** conectividade; propriedade pertinente ao problema; execução manual; adaptação e testes; orientação do marco 2.
 - **Acompanhamento 2 — Propriedade estrutural (evidência pontuada):** propriedade; critério algorítmico; execução manual; estado adicional à DFS/BFS; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (aplicação); 02.02 — Grafos não dirigidos e dirigidos (percursos, componentes conexos e cortes).
 - **Recursos:**
@@ -165,9 +157,9 @@
 
 #### Semana 9 — Grafos eulerianos e hamiltonianos no T2 — 28/09–01/10
 
-- **Datas:** teórica em 28/09 (seg.) e 29/09 (ter.); prática em 30/09 (qua.) e 01/10 (qui.).
-- **Turma teórica — grafos eulerianos, hamiltonianos e problemas clássicos:** caminhos e circuitos eulerianos; condições de existência por graus e conectividade; Fleury; Hierholzer; comparação de complexidade; grafos hamiltonianos; condições necessárias; reconhecimento de casos simples; caixeiro viajante e carteiro chinês: modelagem e delimitação da solução exata.
-- **Turma prática — aplicação de propriedades no T2:** construção guiada com Fleury e Hierholzer; propriedade pertinente; execução manual; adaptação; testes; orientação do marco 3.
+- **Datas:** teórica em 29/09 (ter.); prática em 01/10 (qui.).
+- **Aula teórica — grafos eulerianos, hamiltonianos e problemas clássicos:** caminhos e circuitos eulerianos; condições de existência por graus e conectividade; Fleury; Hierholzer; comparação de complexidade; grafos hamiltonianos; condições necessárias; reconhecimento de casos simples; caixeiro viajante e carteiro chinês: modelagem e delimitação da solução exata.
+- **Aula prática — aplicação de propriedades no T2:** construção guiada com Fleury e Hierholzer; propriedade pertinente; execução manual; adaptação; testes; orientação do marco 3.
 - **Acompanhamento 3 — Adaptação e testes (evidência pontuada):** implementação de referência; alterações justificadas; propriedade estrutural; execução manual; solução; testes positivo, negativo e limite; complexidade; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.02 — Grafos não dirigidos e dirigidos (grafos eulerianos e hamiltonianos; caixeiro viajante; carteiro chinês).
 - **Recursos:**
@@ -178,9 +170,9 @@
 
 #### Semana 10 — Coloração, emparelhamento e isomorfismo no T2 — 05–08/10
 
-- **Datas:** teórica em 05/10 (seg.) e 06/10 (ter.); prática em 07/10 (qua.) e 08/10 (qui.).
-- **Turma teórica — coloração, emparelhamento e isomorfismo:** coloração própria; 2-coloração por DFS/BFS; coloração gulosa; número cromático; delimitação do cálculo exato; emparelhamento; vértices livres; caminhos alternantes e aumentantes; emparelhamento máximo; isomorfismo; invariantes estruturais; codificação canônica de árvores por DFS em pós-ordem; delimitação do isomorfismo geral.
-- **Turma prática — aplicação de relações estruturais no T2:** propriedade pertinente; modelagem; critério; instância pequena; execução manual; impacto na solução; adaptação ou justificativa de não aplicabilidade; conclusão e ensaio.
+- **Datas:** teórica em 06/10 (ter.); prática em 08/10 (qui.).
+- **Aula teórica — coloração, emparelhamento e isomorfismo:** coloração própria; 2-coloração por DFS/BFS; coloração gulosa; número cromático; delimitação do cálculo exato; emparelhamento; vértices livres; caminhos alternantes e aumentantes; emparelhamento máximo; isomorfismo; invariantes estruturais; codificação canônica de árvores por DFS em pós-ordem; delimitação do isomorfismo geral.
+- **Aula prática — aplicação de relações estruturais no T2:** propriedade pertinente; modelagem; critério; instância pequena; execução manual; impacto na solução; adaptação ou justificativa de não aplicabilidade; conclusão e ensaio.
 - **Acompanhamento 4 — Relação estrutural e conclusão (evidência pontuada):** propriedade; correspondência com o problema; critério; instância ou contraexemplo; impacto algorítmico; adaptação; testes; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.03 — Introdução aos problemas clássicos.
 - **Recursos:**
@@ -191,9 +183,9 @@
 
 #### Semana 11 — Apresentação do T2 — 12–15/10
 
-- **Datas:** **12/10 — Dia de Nossa Senhora Aparecida — feriado, sem aula**; **13/10 — antecipação do Dia do Professor — feriado estudantil, sem aula**; apresentações em 14/10 (qua.) e 15/10 (qui.).
-- **Turma teórica — feriados:** sem encontro.
-- **Turma prática — apresentação da AP2:** apresentações do T2; aproximadamente dez grupos; avaliação; devolutiva.
+- **Datas:** **13/10 — antecipação do Dia do Professor — feriado estudantil, sem aula**; apresentação em 15/10 (qui.).
+- **Aula teórica — feriados:** sem encontro.
+- **Aula prática — apresentação da AP2:** apresentações do T2; aproximadamente dez grupos; avaliação; devolutiva.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (síntese); 02.02 — Grafos não dirigidos e dirigidos (síntese); 02.03 — Introdução aos problemas clássicos (síntese).
 - **Recursos:**
   - **Apresentação e avaliação:** repositórios; apresentações; rubrica da AP2.
@@ -203,9 +195,9 @@
 
 #### Semana 12 — Revisão teórica para a AT2 e início do T3 — 19–22/10
 
-- **Datas:** teórica em 19/10 (seg.) e 20/10 (ter.); prática em 21/10 (qua.) e 22/10 (qui.).
-- **Turma teórica — revisão teórica para a AT2:** buscas; percursos; conectividade; componentes; cortes; grafos eulerianos e hamiltonianos; problemas clássicos; coloração; emparelhamento; isomorfismo; correção; complexidade; dúvidas.
-- **Turma prática — formulação e representação preliminar do T3:** classes de otimização; seleção e atribuição dos problemas; objetivo; entrada; saída; restrições; vértices; arestas; direção; pesos ou capacidades; classe preliminar de otimização; orientação do marco 1.
+- **Datas:** teórica em 20/10 (ter.); prática em 22/10 (qui.).
+- **Aula teórica — revisão teórica para a AT2:** buscas; percursos; conectividade; componentes; cortes; grafos eulerianos e hamiltonianos; problemas clássicos; coloração; emparelhamento; isomorfismo; correção; complexidade; dúvidas.
+- **Aula prática — formulação e representação preliminar do T3:** classes de otimização; seleção e atribuição dos problemas; objetivo; entrada; saída; restrições; vértices; arestas; direção; pesos ou capacidades; classe preliminar de otimização; orientação do marco 1.
 - **Acompanhamento 1 — Formulação e representação preliminar (evidência pontuada):** problema atribuído; objetivo; entrada; saída; restrições; modelo do grafo; pesos ou capacidades; classe preliminar; instância pequena; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (revisão); 02.02 — Grafos não dirigidos e dirigidos (revisão); 02.03 — Introdução aos problemas clássicos (revisão); 03.01 — Problema da árvore de cobertura mínima (modelagem preliminar); 03.02 — Problema do caminho mínimo (modelagem preliminar); 03.03 — Problema do fluxo máximo em redes (modelagem preliminar).
 - **Recursos:**
@@ -216,9 +208,9 @@
 
 #### Semana 13 — AT2 e introdução a MST no T3 — 26–29/10
 
-- **Datas:** AT2 em 26/10 (seg.) e 27/10 (ter.); prática integrada em 28/10 (qua.) e 29/10 (qui.).
-- **Turma teórica — AT2:** dez questões objetivas estilo ENADE; AVA/Moodle; conectividade; grafos dirigidos e não dirigidos; problemas clássicos; encontro integral; liberação posterior da nota e das justificativas.
-- **Turma prática — introdução a MST e representação do T3:** 40 minutos: conexão global de custo mínimo; árvore geradora; peso total; distinção entre MST e caminhos mínimos; 60 minutos: representação computacional; instância pequena; entrada e saída esperada; orientação do marco 2.
+- **Datas:** AT2 em 27/10 (ter.); prática integrada em 29/10 (qui.).
+- **Aula teórica — AT2:** dez questões objetivas estilo ENADE; AVA/Moodle; conectividade; grafos dirigidos e não dirigidos; problemas clássicos; encontro integral; liberação posterior da nota e das justificativas.
+- **Aula prática — introdução a MST e representação do T3:** 40 minutos: conexão global de custo mínimo; árvore geradora; peso total; distinção entre MST e caminhos mínimos; 60 minutos: representação computacional; instância pequena; entrada e saída esperada; orientação do marco 2.
 - **Acompanhamento 2 — Representação e validação (evidência pontuada):** representação computacional; instância pequena; entrada e saída esperada; classe de otimização; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (avaliação); 02.02 — Grafos não dirigidos e dirigidos (avaliação); 02.03 — Introdução aos problemas clássicos (avaliação); 03.01 — Problema da árvore de cobertura mínima (introdução); 03.02 — Problema do caminho mínimo (representação preliminar); 03.03 — Problema do fluxo máximo em redes (representação preliminar).
 - **Recursos:**
@@ -229,10 +221,9 @@
 
 #### Semana 14 — Árvores geradoras mínimas e desenvolvimento do T3 — 02–05/11
 
-- **Datas:** **02/11 — Dia de Finados — feriado, sem aula**; teórica em 03/11 (ter.); prática integrada em 04/11 (qua.); prática regular em 05/11 (qui.).
-- **Turma teórica — árvores geradoras mínimas (terça-feira):** 60 minutos: propriedade do corte; Kruskal; Prim; Union-Find; correção; complexidade; 40 minutos: execução guiada.
-- **Turma prática — árvores geradoras mínimas e aplicação integrada (quarta-feira):** 60 minutos: propriedade do corte; Kruskal; Prim; Union-Find; correção; complexidade; 40 minutos: execução guiada.
-- **Turma prática — aplicação de MST no T3 (quinta-feira):** execução manual; escolha algorítmica; adaptação parcial; testes; diagnóstico.
+- **Datas:** teórica em 03/11 (ter.); prática em 05/11 (qui.).
+- **Aula teórica — árvores geradoras mínimas:** 60 minutos: propriedade do corte; Kruskal; Prim; Union-Find; correção; complexidade; 40 minutos: execução guiada.
+- **Aula prática — aplicação de MST no T3:** execução manual; escolha algorítmica; adaptação parcial; testes; diagnóstico.
 - **Acompanhamento 3 — Escolha do algoritmo de MST (evidência pontuada):** algoritmo; aplicabilidade; propriedade central; execução manual; complexidade; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima.
 - **Recursos:**
@@ -243,9 +234,9 @@
 
 #### Semana 15 — Dijkstra e caminhos mínimos no T3 — 09–12/11
 
-- **Datas:** teórica em 09/11 (seg.) e 10/11 (ter.); prática em 11/11 (qua.) e 12/11 (qui.).
-- **Turma teórica — caminhos mínimos com Dijkstra:** origem; destino; minimização da soma dos pesos; caminho e custo; relaxamento; Dijkstra; fila de prioridade indexada; pesos não negativos; correção; complexidade.
-- **Turma prática — Dijkstra e conclusão de MST no T3:** relaxações; rastreamento; adaptação de MST; orientação dos marcos 3 e 4 de caminhos mínimos; comparação de objetivos com fluxo máximo.
+- **Datas:** teórica em 10/11 (ter.); prática em 12/11 (qui.).
+- **Aula teórica — caminhos mínimos com Dijkstra:** origem; destino; minimização da soma dos pesos; caminho e custo; relaxamento; Dijkstra; fila de prioridade indexada; pesos não negativos; correção; complexidade.
+- **Aula prática — Dijkstra e conclusão de MST no T3:** relaxações; rastreamento; adaptação de MST; orientação dos marcos 3 e 4 de caminhos mínimos; comparação de objetivos com fluxo máximo.
 - **Acompanhamento 4 — Adaptação e integração de MST (evidência pontuada):** implementação de referência; alterações justificadas; dependências; execução reproduzível; testes; validação oral e registro no repositório.
 - **Acompanhamento 3 — Escolha do algoritmo de caminhos mínimos (evidência pontuada):** algoritmo; aplicabilidade; relaxamento; complexidade; validação oral e registro no repositório.
 - **Acompanhamento 4 — Adaptação e integração de caminhos mínimos (evidência pontuada):** implementação de referência; alterações justificadas; dependências; execução reproduzível; validação oral e registro no repositório.
@@ -258,9 +249,9 @@
 
 #### Semana 16 — Fluxo máximo e redes no T3 — 16–19/11
 
-- **Datas:** teórica em 16/11 (seg.) e 17/11 (ter.); prática em 18/11 (qua.) e 19/11 (qui.).
-- **Turma teórica — fluxo máximo em redes:** fonte; sorvedouro; capacidade; conservação; maximização do fluxo; capacidade residual; arestas residuais diretas e reversas; caminhos aumentantes; gargalo; atualização do fluxo; corte mínimo; Ford-Fulkerson; Edmonds-Karp por BFS; correção; complexidade.
-- **Turma prática — aplicação de fluxo máximo no T3:** construção da rede com `FlowEdge` e `FlowNetwork`; caminhos aumentantes; gargalos; atualização do fluxo; execução manual; orientação dos marcos 3 e 4 de fluxo máximo; comparação de objetivos com MST e caminhos mínimos.
+- **Datas:** teórica em 17/11 (ter.); prática em 19/11 (qui.).
+- **Aula teórica — fluxo máximo em redes:** fonte; sorvedouro; capacidade; conservação; maximização do fluxo; capacidade residual; arestas residuais diretas e reversas; caminhos aumentantes; gargalo; atualização do fluxo; corte mínimo; Ford-Fulkerson; Edmonds-Karp por BFS; correção; complexidade.
+- **Aula prática — aplicação de fluxo máximo no T3:** construção da rede com `FlowEdge` e `FlowNetwork`; caminhos aumentantes; gargalos; atualização do fluxo; execução manual; orientação dos marcos 3 e 4 de fluxo máximo; comparação de objetivos com MST e caminhos mínimos.
 - **Acompanhamento 3 — Escolha do algoritmo de fluxo máximo (evidência pontuada):** algoritmo; aplicabilidade; operação central; complexidade; validação oral e registro no repositório.
 - **Acompanhamento 4 — Adaptação e integração de fluxo máximo (evidência pontuada):** implementação de referência; alterações justificadas; rede residual; execução reproduzível; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.03 — Problema do fluxo máximo em redes (Ford-Fulkerson).
@@ -273,11 +264,11 @@
 
 #### Semana 17 — Bellman–Ford, Floyd–Warshall e validação do T3 — 23–26/11
 
-- **Datas:** teórica em 23/11 (seg.) e 24/11 (ter.); prática em 25/11 (qua.) e 26/11 (qui.).
-- **Turma teórica — caminhos mínimos com Bellman–Ford e Floyd–Warshall:** 50 minutos: pesos negativos; relaxamento repetido; Bellman-Ford; detecção de ciclos negativos; 40 minutos: caminhos mínimos entre todos os pares; vértices intermediários; atualização da matriz de distâncias; Floyd-Warshall; ciclo negativo pela diagonal; 10 minutos: comparação com Dijkstra.
-- **Turma prática — validação do T3:** testes; diagnóstico; orientação do marco 5.
+- **Datas:** teórica em 24/11 (ter.); prática em 26/11 (qui.).
+- **Aula teórica — caminhos mínimos com Bellman–Ford e Floyd–Warshall:** 50 minutos: pesos negativos; relaxamento repetido; Bellman-Ford; detecção de ciclos negativos; 40 minutos: caminhos mínimos entre todos os pares; vértices intermediários; atualização da matriz de distâncias; Floyd-Warshall; ciclo negativo pela diagonal; 10 minutos: comparação com Dijkstra.
+- **Aula prática — validação do T3:** testes; diagnóstico; orientação do marco 5.
 - **Acompanhamento 5 — Testes e análise (evidência pontuada):** instância pequena; casos-limite; impossibilidade quando aplicável; diagnóstico; complexidade; validação oral e registro no repositório.
-- **Acompanhamento 6 — Submissão e comunicação das turmas de quinta-feira (evidência pontuada):** `Accepted`; `README.md`; evidência da submissão; organização do repositório; ensaio; validação oral e registro no repositório.
+- **Acompanhamento 6 — Submissão e comunicação (evidência pontuada):** `Accepted`; `README.md`; evidência da submissão; organização do repositório; ensaio; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.02 — Problema do caminho mínimo (Bellman-Ford e Floyd-Warshall); 03.03 — Problema do fluxo máximo em redes (aplicação).
 - **Recursos:**
   - **Estruturas de dados:** `collections.deque`, [`Bag`](../../algs4-py/algs4/bag.py), [`Bag.java`](../../algs4-java/algs4/Bag.java), [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java), [`Queue.java`](../../algs4-java/algs4/Queue.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
@@ -288,48 +279,45 @@
 
 #### Semana 18 — Revisão teórica para a AT3 e apresentação do T3 — 30/11–03/12
 
-- **Datas:** teórica em 30/11 (seg.) e 01/12 (ter.); prática em 02/12 (qua.) e 03/12 (qui.).
-- **Turma teórica — revisão teórica para a AT3:** MST; propriedade do corte; Kruskal; Prim; caminhos mínimos; relaxamento; Dijkstra; Bellman-Ford; Floyd-Warshall; fluxo máximo; Ford-Fulkerson; aplicabilidade; correção; complexidade; dúvidas.
-- **Turma prática — conclusão do T3 em 02/12:** verificação final; orientação do marco 6.
-- **Turma prática — apresentação da AP3 em 03/12:** apresentações das turmas de quinta-feira; avaliação; devolutiva; encontro integral.
-- **Acompanhamento 6 — Submissão e comunicação das turmas de quarta-feira (evidência pontuada; 02/12):** `Accepted`; `README.md`; evidência da submissão; organização do repositório; ensaio; validação oral e registro no repositório.
+- **Datas:** teórica em 01/12 (ter.); prática em 03/12 (qui.).
+- **Aula teórica — revisão teórica para a AT3:** MST; propriedade do corte; Kruskal; Prim; caminhos mínimos; relaxamento; Dijkstra; Bellman-Ford; Floyd-Warshall; fluxo máximo; Ford-Fulkerson; aplicabilidade; correção; complexidade; dúvidas.
+- **Aula prática — apresentação da AP3 em 03/12:** apresentações; avaliação; devolutiva; encontro integral.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (síntese); 03.02 — Problema do caminho mínimo (síntese); 03.03 — Problema do fluxo máximo em redes (síntese).
 - **Recursos:**
   - **Apresentação:** repositórios e apresentações.
-- **Produto/evidência:** síntese comparativa; repositórios congelados; avaliação da AP3 das turmas de quinta-feira.
+- **Produto/evidência:** síntese comparativa; repositórios congelados; avaliação da AP3.
 
-#### Semana 19 — AT3 e apresentação final do T3 — 07–09/12
+#### Semana 19 — AT3 — 08/12
 
-- **Datas:** AT3 em 07/12 (seg.) e 08/12 (ter.); apresentação em 09/12 (qua.); não há encontro de quinta-feira dentro do período letivo.
-- **Turma teórica — AT3:** dez questões objetivas estilo ENADE; AVA/Moodle; MST; caminhos mínimos; fluxo máximo; encontro integral; liberação posterior da nota e das justificativas.
-- **Turma prática — apresentação excepcional da AP3 em 09/12:** apresentações das turmas de quarta-feira; avaliação; devolutiva; encerramento; encontro integral.
+- **Datas:** AT3 em 08/12 (ter.); não há encontro de quinta-feira dentro do período letivo.
+- **Aula teórica — AT3:** dez questões objetivas estilo ENADE; AVA/Moodle; MST; caminhos mínimos; fluxo máximo; encontro integral; liberação posterior da nota e das justificativas.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (avaliação); 03.02 — Problema do caminho mínimo (avaliação); 03.03 — Problema do fluxo máximo em redes (avaliação).
 - **Recursos:**
   - **Apresentação e avaliação:** repositórios; apresentações; rubrica comum.
-- **Produto/evidência:** registro da AT3; avaliação da AP3 das turmas de quarta-feira; encerramento.
+- **Produto/evidência:** registro da AT3; encerramento.
 
 ## 5. Avaliações e entregas
 
 ### AV1
 
-- **AP1/T1:** acompanhamentos de 12–13/08 a 02–03/09; apresentações em 09–10/09.
-- **AT1:** 14–15/09; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
+- **AP1/T1:** acompanhamentos de 13/08 a 03/09; apresentação em 10/09.
+- **AT1:** 15/09; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** fundamentos, modelagem, medidas estruturais, tipos, representações, DFS, BFS, alcançabilidade e caminhos básicos.
 - **Registro:** até 21/09.
 
 ### AV2
 
-- **AP2/T2:** acompanhamentos em 16–17/09, 23–24/09, 30/09–01/10 e 07–08/10; apresentações em 14–15/10.
-- **AT2:** 26–27/10; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
+- **AP2/T2:** acompanhamentos em 17/09, 24/09, 01/10 e 08/10; apresentação em 15/10.
+- **AT2:** 27/10; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** grafos dirigidos e não dirigidos, conectividade e problemas clássicos.
 - **Registro:** até 10/11.
 
 ### AV3
 
-- **AP3/T3:** acompanhamentos de 21–22/10 a 25–26/11; acompanhamento final das turmas de quarta-feira em 02/12; apresentações das turmas de quinta-feira em 03/12 e das turmas de quarta-feira em 09/12.
-- **AT3:** 07–08/12; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
+- **AP3/T3:** acompanhamentos de 22/10 a 26/11; apresentação em 03/12.
+- **AT3:** 08/12; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** árvore geradora mínima, caminhos mínimos e fluxo máximo.
 - **Janela institucional:** 03 a 09/12; registro até 11/12.
