@@ -241,7 +241,7 @@
 
 - **AP1/T1:** acompanhamentos de 12–13/08 a 02–03/09; apresentações em 09–10/09.
 - **AT1:** 14–15/09; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
-- **Composição:** AT 20% + AP 80%.
+- **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** fundamentos, modelagem, medidas estruturais, tipos, representações, DFS, BFS, alcançabilidade e caminhos básicos.
 - **Registro:** até 21/09.
 
@@ -249,7 +249,7 @@
 
 - **AP2/T2:** acompanhamentos em 16–17/09, 23–24/09 e 30/09–01/10; apresentações em 07–08/10.
 - **AT2:** 19–20/10; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
-- **Composição:** AT 20% + AP 80%.
+- **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** grafos dirigidos e não dirigidos, conectividade e problemas clássicos.
 - **Registro:** até 10/11.
 
@@ -257,7 +257,7 @@
 
 - **AP3/T3:** acompanhamentos de 14–15/10 a 25–26/11; acompanhamento final das turmas de quarta-feira em 02/12; apresentações das turmas de quinta-feira em 03/12 e das turmas de quarta-feira em 09/12.
 - **AT3:** 07–08/12; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
-- **Composição:** AT 20% + AP 80%.
+- **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** árvore geradora mínima, caminhos mínimos e fluxo máximo.
 - **Janela institucional:** 03 a 09/12; registro até 11/12.
 

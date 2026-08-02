@@ -190,9 +190,9 @@
 
 ## 9. Metodologia de avaliação
 
-- **AT (Avaliação Teórica):** ocupará um encontro teórico integral e será composta por dez questões objetivas contextualizadas, de múltipla escolha e no estilo ENADE, aplicadas no AVA/Moodle, com ponderação de 20%. A nota e as justificativas das respostas serão disponibilizadas somente após o encerramento da avaliação.
+- **AT (Avaliação Teórica):** ocupará um encontro teórico integral e será composta por dez questões objetivas contextualizadas, de múltipla escolha e no estilo ENADE, aplicadas no AVA/Moodle, com ponderação de 70%. A nota e as justificativas das respostas serão disponibilizadas somente após o encerramento da avaliação.
 
-- **AP (Avaliação Prática):** será composta pelo acompanhamento processual e pela apresentação de um trabalho em grupo, implementado em Java ou Python, com ponderação de 80%.
+- **AP (Avaliação Prática):** será composta pelo acompanhamento processual e pela apresentação de um trabalho em grupo, implementado em Java ou Python, com ponderação de 30%.
 
   - **Acompanhamento processual:** ocorrerá nos encontros práticos oferecidos antes da apresentação. Cada encontro deverá atestar um conhecimento previamente ensinado por meio de evidência verificável, como modelagem, execução manual, representação, implementação parcial, testes, análise de complexidade ou diagnóstico de erro.
   - **Apresentação:** ocupará um encontro prático integral e avaliará modelagem, estratégia algorítmica, complexidade, casos especiais e comunicação da solução.

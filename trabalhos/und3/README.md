@@ -1,8 +1,10 @@
+<img src="./imgs/UNIFOR_logo1b.png" width="400">
+
 # Resolução de Problemas com Grafos
 
 Orientador: Prof. Me Ricardo Carubbi
 
-## Trabalho Prático 3 — T3
+# Trabalho Prático 3
 
 ## Tema
 
@@ -113,7 +115,7 @@ O grupo não deverá ler código linha por linha. A apresentação deverá prior
 
 ## Avaliação da AP3
 
-A AP3 será avaliada em escala de 0 a 10 e terá ponderação de 80% na AV3:
+A AP3 será avaliada em escala de 0 a 10 e terá ponderação de 30% na AV3:
 
 - **2,0 pontos:** acompanhamento processual e evidências dos seis marcos;
 - **4,0 pontos:** correção, `Accepted`, organização e reprodutibilidade;
