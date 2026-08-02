@@ -91,13 +91,14 @@
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`DepthFirstSearch`](../../algs4-py/algs4/depth_first_search.py) e [`DepthFirstPaths`](../../algs4-py/algs4/depth_first_paths.py).
 - **Produto/evidência:** rastreamento manual; papel da DFS; implementação parcial; correção; complexidade.
 
-#### Semana 5 — Busca em largura e conclusão do T1 — 31/08–03/09
+#### Semana 5 — Busca em largura, síntese diagnóstica e conclusão do T1 — 31/08–03/09
 
 - **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
 - **Turma teórica — busca em largura:** busca em largura; fronteiras; árvore BFS; níveis; predecessores; distância; reconstrução de caminhos; caminho mínimo em grafos sem pesos; comparação com DFS; correção; complexidade `O(V + E)`.
-- **Turma prática — conclusão do T1 (marcos 4 e 5):** execução manual de BFS; estratégia estrutural, DFS ou BFS; ordem de visita; caminho reconstruído; integração da implementação; testes; submissão; complexidade; ensaio.
+- **Turma prática — conclusão do T1 (marcos 4 e 5; 70 minutos):** execução manual de BFS; estratégia estrutural, DFS ou BFS; ordem de visita; caminho reconstruído; integração da implementação; testes; submissão; complexidade; ensaio.
+- **Turma prática — síntese diagnóstica comum ao final da aula (30 minutos):** fundamentos; tipos de grafos; representações computacionais; DFS; BFS; cinco questões formativas; correção imediata; sem nota; sem conteúdo novo.
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
-- **Produto/evidência:** solução testada; estratégia justificada; `Accepted`; correção; complexidade; apresentação.
+- **Produto/evidência:** respostas diagnósticas; solução testada; estratégia justificada; `Accepted`; correção; complexidade; apresentação.
 
 #### Semana 6 — Síntese de fundamentos e apresentação do T1 — 07–10/09
 
