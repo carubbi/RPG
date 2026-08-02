@@ -70,7 +70,7 @@
 - **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
 - **Turma teórica — tipos e propriedades de grafos:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; dígrafos acíclicos (DAGs); grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições; passeio; trilha; caminho.
 - **Turma prática — modelagem inicial do T1 (marco 1):** lançamento do T1; apresentação das trilhas; atribuição dos problemas; preparação do ambiente Python/Java; enunciado; entrada; saída; restrições; modelagem de instância pequena; classificação do grafo; ordem; tamanho; densidade; graus.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
+- **Recursos:** [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
 - **Produto/evidência:** ficha de modelagem; classificação justificada; instância pequena.
 
 #### Semana 3 — Representações computacionais e implementação do T1 — 17–20/08
@@ -78,7 +78,7 @@
 - **Datas:** teórica em 17/08 (seg.) e 18/08 (ter.); prática em 19/08 (qua.) e 20/08 (qui.).
 - **Turma teórica — representações computacionais:** matriz de adjacência; matriz de incidência; lista de adjacência; lista de incidência; custos de espaço; inserção de arestas; consulta de adjacência e incidência; percurso de vizinhança; adequação ao tipo e à densidade do grafo.
 - **Turma prática — implementação do T1 (marco 2):** implementação de `Graph` e `Digraph`; listas de adjacência; Python ou Java; inserção e consulta de arestas; leitura dos datasets; representação do problema; validação por instância pequena; custo de espaço e das operações.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`Digraph`](../../algs4-py/algs4/digraph.py), [`Digraph.java`](../../algs4-java/algs4/Digraph.java), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py), [`routes.txt`](../../dataset/routes.txt), [`tinyG.txt`](../../dataset/tinyG.txt) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
+- **Recursos:** [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`Digraph`](../../algs4-py/algs4/digraph.py), [`Digraph.java`](../../algs4-java/algs4/Digraph.java), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py), [`routes.txt`](../../dataset/routes.txt), [`tinyG.txt`](../../dataset/tinyG.txt) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
 - **Produto/evidência:** estruturas `Graph` e `Digraph`; entrada processada; representação documentada; justificativa por `V`, `E`, orientação, pesos, rótulos e restrições.
 
 ### Unidade II — Resolver problemas com grafos conexos (22h)
@@ -88,7 +88,7 @@
 - **Datas:** teórica em 24/08 (seg.) e 25/08 (ter.); prática em 26/08 (qua.) e 27/08 (qui.).
 - **Turma teórica — busca em profundidade:** busca em profundidade; estados de visita; árvore de busca; tempo de descoberta; tempo de término; classificação de arestas; alcançabilidade; predecessores; caminhos; invariantes; correção; complexidade `O(V + E)`.
 - **Turma prática — aplicação de DFS no T1 (marco 3):** execução manual de DFS; componentes; alcançabilidade; passeio; trilha; caminho; ciclo; Trilha C: implementação da busca; Trilhas A e B: aplicação da busca ou justificativa da estratégia estrutural.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`DepthFirstSearch`](../../algs4-py/algs4/depth_first_search.py) e [`DepthFirstPaths`](../../algs4-py/algs4/depth_first_paths.py).
+- **Recursos:** [`DepthFirstSearch`](../../algs4-py/algs4/depth_first_search.py) e [`DepthFirstPaths`](../../algs4-py/algs4/depth_first_paths.py).
 - **Produto/evidência:** rastreamento manual; papel da DFS; implementação parcial; correção; complexidade.
 
 #### Semana 5 — Busca em largura, revisão teórica e conclusão do T1 — 31/08–03/09
@@ -96,16 +96,16 @@
 - **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
 - **Turma teórica — busca em largura:** busca em largura; fronteiras; árvore BFS; níveis; predecessores; distância; reconstrução de caminhos; caminho mínimo em grafos sem pesos; comparação com DFS; correção; complexidade `O(V + E)`.
 - **Turma prática — conclusão do T1 (marcos 4 e 5; 70 minutos):** execução manual de BFS; estratégia estrutural, DFS ou BFS; ordem de visita; caminho reconstruído; integração da implementação; testes; submissão; complexidade; ensaio.
-- **Turma prática — revisão teórica (30 minutos):** fundamentos; tipos de grafos; representações computacionais; DFS; BFS; dúvidas.
-- **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
+- **Turma prática — revisão teórica (30 minutos):** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; percursos; DFS e BFS; alcançabilidade e caminhos; correção e complexidade; dúvidas.
+- **Recursos:** [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
 - **Produto/evidência:** solução testada; estratégia justificada; `Accepted`; correção; complexidade; apresentação.
 
 #### Semana 6 — Revisão teórica para a AT1 e apresentação do T1 — 07–10/09
 
 - **Datas:** **07/09 — Dia da Independência do Brasil — feriado, sem aula**; teórica em 08/09 (ter.); apresentações em 09/09 (qua.) e 10/09 (qui.).
-- **Turma teórica — revisão teórica completa para a AT1:** fundamentos; tipos de grafos; representações computacionais; DFS; BFS; dúvidas.
+- **Turma teórica — revisão teórica completa para a AT1:** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; percursos; DFS e BFS; alcançabilidade e caminhos; correção e complexidade; dúvidas.
 - **Turma prática — apresentação da AP1:** apresentações do T1; aproximadamente dez grupos; avaliação; devolutiva.
-- **Recursos:** repositórios, apresentações e rubrica do [T1](../../trabalhos/und1/T1.md).
+- **Recursos:** repositórios; apresentações; rubrica da AP1.
 - **Produto/evidência:** apresentação; avaliação da AP1; repositório congelado; devolutiva.
 
 #### Semana 7 — AT1 e modelagem inicial do T2 — 14–17/09
@@ -113,7 +113,7 @@
 - **Datas:** AT1 em 14/09 (seg.) e 15/09 (ter.); prática em 16/09 (qua.) e 17/09 (qui.).
 - **Turma teórica — AT1:** dez questões objetivas estilo ENADE; AVA/Moodle; fundamentos; tipos; representações; DFS; BFS; encontro integral; liberação posterior da nota e das justificativas.
 - **Turma prática — modelagem inicial do T2 (marco 1):** trilhas; atribuição do problema; interpretação; modelagem; participação de DFS/BFS; instância pequena.
-- **Recursos:** [T2 — conectividade e problemas clássicos](../../trabalhos/und2/T2/T2.md), algoritmos de DFS/BFS e datasets da Unidade II.
+- **Recursos:** algoritmos de DFS/BFS; datasets da Unidade II.
 - **Produto/evidência:** registro da AT1; ficha inicial do T2; instância pequena.
 
 #### Semana 8 — Percursos, conectividade e desenvolvimento do T2 — 21–24/09
@@ -121,7 +121,7 @@
 - **Datas:** teórica em 21/09 (seg.) e 22/09 (ter.); prática em 23/09 (qua.) e 24/09 (qui.).
 - **Turma teórica — percursos e conectividade:** passeio; trilha; caminho; ciclo; circuito; tour; componentes conexas; árvore DFS; tempos de descoberta; valores `low`; pontes; vértices de articulação; critérios de cortes em vértices e arestas.
 - **Turma prática — aplicação de conectividade no T2 (marco 2):** conectividade; execução manual de DFS/BFS; Trilha A: componentes, pontes ou articulações; Trilha B: ciclos; Trilha C: bipartição e modelagem.
-- **Recursos:** [T2 — conectividade e problemas clássicos](../../trabalhos/und2/T2/T2.md), [`CC`](../../algs4-py/algs4/cc.py) e [`Cycle`](../../algs4-py/algs4/cycle.py).
+- **Recursos:** [`CC`](../../algs4-py/algs4/cc.py) e [`Cycle`](../../algs4-py/algs4/cycle.py).
 - **Produto/evidência:** critério estrutural; execução na instância pequena.
 
 #### Semana 9 — Grafos eulerianos, hamiltonianos e conclusão do T2 — 28/09–01/10
@@ -129,7 +129,7 @@
 - **Datas:** teórica em 28/09 (seg.) e 29/09 (ter.); prática em 30/09 (qua.) e 01/10 (qui.).
 - **Turma teórica — grafos eulerianos, hamiltonianos e problemas clássicos:** grafos eulerianos; grafos hamiltonianos; caminhos e circuitos eulerianos; reconhecimento de estruturas hamiltonianas; caixeiro viajante; carteiro chinês; introdução a coloração, emparelhamento e isomorfismo.
 - **Turma prática — conclusão do T2 (marco 3):** conectividade; percurso ou ordem; relação estrutural; execução manual; implementação; testes positivo, negativo e limite; `Accepted`; complexidade; ensaio.
-- **Recursos:** [T2 — conectividade e problemas clássicos](../../trabalhos/und2/T2/T2.md) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
+- **Recursos:** [`tinyDG.txt`](../../dataset/tinyDG.txt).
 - **Produto/evidência:** solução testada; `Accepted`; complexidade; apresentação.
 
 #### Semana 10 — Síntese de conectividade e apresentação do T2 — 05–08/10
@@ -137,7 +137,7 @@
 - **Datas:** teórica em 05/10 (seg.) e 06/10 (ter.); apresentações em 07/10 (qua.) e 08/10 (qui.).
 - **Turma teórica — síntese de conectividade e problemas clássicos:** propriedades; algoritmos; correção; complexidade; casos especiais; revisão para AT2.
 - **Turma prática — apresentação da AP2:** apresentações do T2; aproximadamente dez grupos; avaliação; devolutiva.
-- **Recursos:** repositórios, apresentações e rubrica do [T2](../../trabalhos/und2/T2/T2.md).
+- **Recursos:** repositórios; apresentações; rubrica da AP2.
 - **Produto/evidência:** apresentação; avaliação da AP2; repositório congelado.
 
 ### Unidade III — Otimizar grafos ponderados (38h)
@@ -147,7 +147,7 @@
 - **Datas:** **12/10 — Dia de Nossa Senhora Aparecida — feriado, sem aula**; **13/10 — antecipação do Dia do Professor — feriado estudantil, sem aula**; prática integrada em 14/10 (qua.) e 15/10 (qui.).
 - **Turma teórica — feriados:** sem encontro.
 - **Turma prática — síntese teórica e modelagem inicial do T3 (marco 1):** 40 minutos: grafos ponderados; pesos; capacidades; objetivo; restrições; 60 minutos: bancos; seleção de aproximadamente dez problemas; atribuição; modelagem inicial.
-- **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`EdgeWeightedGraph`](../../algs4-py/algs4/edge_weighted_graph.py), [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`tinyEWG.txt`](../../dataset/tinyEWG.txt) e [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
+- **Recursos:** [`EdgeWeightedGraph`](../../algs4-py/algs4/edge_weighted_graph.py), [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`tinyEWG.txt`](../../dataset/tinyEWG.txt) e [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
 - **Produto/evidência:** objetivo; vértices; arestas; pesos ou capacidades; instância pequena.
 
 #### Semana 12 — AT2 e representação computacional do T3 — 19–22/10
@@ -155,7 +155,7 @@
 - **Datas:** AT2 em 19/10 (seg.) e 20/10 (ter.); prática em 21/10 (qua.) e 22/10 (qui.).
 - **Turma teórica — AT2:** dez questões objetivas estilo ENADE; AVA/Moodle; conectividade; grafos dirigidos e não dirigidos; problemas clássicos; encontro integral; liberação posterior da nota e das justificativas.
 - **Turma prática — representação computacional do T3 (marco 2):** entrada; saída; representação; instância pequena; identificação preliminar da classe de otimização.
-- **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), grafos ponderados e datasets da Unidade III.
+- **Recursos:** grafos ponderados; datasets da Unidade III.
 - **Produto/evidência:** registro da AT2; representação computacional validada.
 
 #### Semana 13 — Árvores geradoras mínimas e desenvolvimento do T3 — 26–29/10
@@ -163,7 +163,7 @@
 - **Datas:** teórica em 26/10 (seg.) e 27/10 (ter.); prática em 28/10 (qua.) e 29/10 (qui.).
 - **Turma teórica — árvores geradoras mínimas:** árvore geradora mínima; propriedade do corte; Kruskal; Prim; Union-Find; correção; complexidade.
 - **Turma prática — aplicação de MST no T3 (marcos 3 e 4 da Trilha A):** Kruskal; Prim; execução comparativa; Trilha A: escolha e implementação do algoritmo; Trilhas B e C: comparação de objetivos e representação.
-- **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`KruskalMST`](../../algs4-py/algs4/kruskal_mst.py), [`PrimMST`](../../algs4-py/algs4/prim_mst.py), [`UF`](../../algs4-py/algs4/uf.py) e [banco MST](../../trabalhos/und3/T1/T1.md).
+- **Recursos:** [`KruskalMST`](../../algs4-py/algs4/kruskal_mst.py), [`PrimMST`](../../algs4-py/algs4/prim_mst.py) e [`UF`](../../algs4-py/algs4/uf.py).
 - **Produto/evidência:** Trilha A: escolha algorítmica; implementação parcial; árvore e custo validados; Trilhas B e C: representação; comparação de objetivos.
 
 #### Semana 14 — Consolidação de MST e desenvolvimento do T3 — 02–05/11
@@ -172,7 +172,7 @@
 - **Turma teórica — consolidação de MST:** grafos ponderados; MST; propriedade do corte; Kruskal; Prim; Union-Find; revisão formativa.
 - **Turma prática — quarta-feira — prática integrada:** 40 minutos: propriedade do corte; Union-Find; 60 minutos: execução manual; implementação parcial; diagnóstico.
 - **Turma prática — quinta-feira — acompanhamento prático integral:** execução manual; implementação parcial; diagnóstico por trilha.
-- **Recursos:** algoritmos de MST, [`tinyEWG.txt`](../../dataset/tinyEWG.txt) e [T3](../../trabalhos/und3/README.md).
+- **Recursos:** algoritmos de MST; [`tinyEWG.txt`](../../dataset/tinyEWG.txt).
 - **Produto/evidência:** execução manual revisada; implementação parcial; diagnóstico.
 
 #### Semana 15 — Dijkstra e caminhos mínimos no T3 — 09–12/11
@@ -180,7 +180,7 @@
 - **Datas:** teórica em 09/11 (seg.) e 10/11 (ter.); prática em 11/11 (qua.) e 12/11 (qui.).
 - **Turma teórica — caminhos mínimos com Dijkstra:** caminhos mínimos; relaxamento; Dijkstra; fila de prioridade indexada; pesos não negativos; correção; complexidade.
 - **Turma prática — aplicação de Dijkstra no T3 (marcos 3 e 4 da Trilha B):** relaxações; rastreamento; Trilha B: escolha e implementação do algoritmo; Trilhas A e C: comparação de objetivos.
-- **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`DijkstraSP`](../../algs4-py/algs4/dijkstra_sp.py), [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py), [`tinyEWD.txt`](../../dataset/tinyEWD.txt) e [banco de caminhos mínimos](../../trabalhos/und3/T2/T2.md).
+- **Recursos:** [`DijkstraSP`](../../algs4-py/algs4/dijkstra_sp.py), [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py) e [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
 - **Produto/evidência:** Trilha B: escolha algorítmica; relaxações; implementação parcial; condição de aplicabilidade; Trilhas A e C: comparação de objetivos; acompanhamento.
 
 #### Semana 16 — Fluxo máximo e redes no T3 — 16–19/11
@@ -188,7 +188,7 @@
 - **Datas:** teórica em 16/11 (seg.) e 17/11 (ter.); prática em 18/11 (qua.) e 19/11 (qui.).
 - **Turma teórica — fluxo máximo em redes:** redes de fluxo; capacidade; conservação; grafo residual; caminhos aumentantes; corte mínimo; Ford-Fulkerson; Edmonds-Karp; correção; complexidade.
 - **Turma prática — aplicação de fluxo máximo no T3 (marcos 3 e 4 da Trilha C):** caminhos aumentantes; gargalos; execução manual; Trilha C: escolha algorítmica e implementação da rede residual; Trilhas A e B: objetivos, restrições e aplicabilidade.
-- **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`FlowNetwork.java`](../../algs4-java/algs4/FlowNetwork.java), [`FordFulkerson.java`](../../algs4-java/algs4/FordFulkerson.java), [`tinyFN.txt`](../../dataset/tinyFN.txt) e [banco de fluxo](../../trabalhos/und3/T3/T3.md).
+- **Recursos:** [`FlowNetwork.java`](../../algs4-java/algs4/FlowNetwork.java), [`FordFulkerson.java`](../../algs4-java/algs4/FordFulkerson.java) e [`tinyFN.txt`](../../dataset/tinyFN.txt).
 - **Produto/evidência:** Trilha C: escolha algorítmica; caminhos aumentantes; gargalos; fluxo parcial; rede residual; Trilhas A e B: comparação de objetivos; acompanhamento.
 
 #### Semana 17 — Bellman–Ford e validação do T3 — 23–26/11
@@ -196,7 +196,7 @@
 - **Datas:** teórica em 23/11 (seg.) e 24/11 (ter.); prática em 25/11 (qua.) e 26/11 (qui.).
 - **Turma teórica — caminhos mínimos com Bellman–Ford:** pesos negativos; relaxamento repetido; Bellman-Ford; detecção de ciclos negativos; comparação com Dijkstra.
 - **Turma prática — validação do T3 (marco 5):** testes de correção; casos-limite; pesos negativos; segundo acompanhamento da Trilha C; complexidade.
-- **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`BellmanFordSP`](../../algs4-py/algs4/bellman_ford_sp.py), [`tinyEWDn.txt`](../../dataset/tinyEWDn.txt) e [`tinyEWDnc.txt`](../../dataset/tinyEWDnc.txt).
+- **Recursos:** [`BellmanFordSP`](../../algs4-py/algs4/bellman_ford_sp.py), [`tinyEWDn.txt`](../../dataset/tinyEWDn.txt) e [`tinyEWDnc.txt`](../../dataset/tinyEWDnc.txt).
 - **Produto/evidência:** conjunto de testes; diagnóstico de divergências; complexidade revisada.
 
 #### Semana 18 — Floyd–Warshall, conclusão e apresentação do T3 — 30/11–03/12
@@ -205,7 +205,7 @@
 - **Turma teórica — caminhos mínimos com Floyd–Warshall:** caminhos mínimos entre todos os pares; Floyd-Warshall; programação dinâmica; comparação com algoritmos de fonte única; síntese das classes de otimização.
 - **Turma prática — conclusão do T3 em 02/12 (marco 6):** verificação final; `Accepted`; organização do repositório; ensaio das turmas de quarta-feira.
 - **Turma prática — apresentação da AP3 em 03/12:** apresentações das turmas de quinta-feira; avaliação; devolutiva; encontro integral.
-- **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`FloydWarshall.java`](../../algs4-java/algs4/FloydWarshall.java), repositórios e apresentações.
+- **Recursos:** [`FloydWarshall.java`](../../algs4-java/algs4/FloydWarshall.java); repositórios; apresentações.
 - **Produto/evidência:** matriz de distâncias; síntese comparativa; repositórios congelados; avaliação da AP3 das turmas de quinta-feira.
 
 #### Semana 19 — AT3 e apresentação final do T3 — 07–09/12
@@ -213,7 +213,7 @@
 - **Datas:** AT3 em 07/12 (seg.) e 08/12 (ter.); apresentação em 09/12 (qua.); não há encontro de quinta-feira dentro do período letivo.
 - **Turma teórica — AT3:** dez questões objetivas estilo ENADE; AVA/Moodle; MST; caminhos mínimos; fluxo máximo; encontro integral; liberação posterior da nota e das justificativas.
 - **Turma prática — apresentação excepcional da AP3 em 09/12:** apresentações das turmas de quarta-feira; avaliação; devolutiva; encerramento; encontro integral.
-- **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), repositórios, apresentações e rubrica comum.
+- **Recursos:** repositórios; apresentações; rubrica comum.
 - **Produto/evidência:** registro da AT3; avaliação da AP3 das turmas de quarta-feira; encerramento.
 
 ## 5. Avaliações e entregas
@@ -252,17 +252,17 @@ As janelas de segunda chamada não substituem automaticamente encontros regulare
 
 ## 6. Uso dos trabalhos
 
-### [T1 — DFS/BFS](../../trabalhos/und1/T1.md)
+### T1 — DFS/BFS
 
-**Função:** AP1 transversal com dez problemas distribuídos entre [grafos simples](../../trabalhos/und1/trilhas/trilha-a-grafos-simples.md), [dígrafos](../../trabalhos/und1/trilhas/trilha-b-digrafos.md) e [buscas simples](../../trabalhos/und1/trilhas/trilha-c-buscas.md).
+**Função:** AP1 transversal com dez problemas distribuídos entre grafos simples, dígrafos e buscas simples.
 
-### [T2 — conectividade e problemas clássicos](../../trabalhos/und2/T2/T2.md)
+### T2 — conectividade e problemas clássicos
 
-**Função:** AP2 processual com dez problemas distribuídos entre [buscas e conectividade](../../trabalhos/und2/T2/trilhas/trilha-a-conectividade.md), [percursos e estruturas de ordem](../../trabalhos/und2/T2/trilhas/trilha-b-percursos.md) e [relações estruturais](../../trabalhos/und2/T2/trilhas/trilha-c-relacoes-estruturais.md).
+**Função:** AP2 processual com dez problemas distribuídos entre buscas e conectividade, percursos e estruturas de ordem e relações estruturais.
 
-### [T3 — otimização](../../trabalhos/und3/README.md)
+### T3 — otimização
 
-**Função:** AP3 processual com dez opções em cada banco de [MST](../../trabalhos/und3/T1/T1.md), [caminhos mínimos](../../trabalhos/und3/T2/T2.md) e [fluxo máximo](../../trabalhos/und3/T3/T3.md); aproximadamente dez problemas serão selecionados por oferta.
+**Função:** AP3 processual com dez opções em cada banco de MST, caminhos mínimos e fluxo máximo; aproximadamente dez problemas serão selecionados por oferta.
 
 Os demais trabalhos da Unidade II serão usados como materiais complementares e não constituirão entregas avaliativas adicionais.
 
