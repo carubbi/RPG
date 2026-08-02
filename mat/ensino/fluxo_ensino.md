@@ -2,9 +2,10 @@
 
 ## Princípios gerais
 
-- Cada unidade terá uma única avaliação prática, organizada em três trilhas.
+- Cada unidade terá uma única avaliação prática.
 - Cada grupo resolverá apenas um problema por avaliação prática.
-- As Unidades I e II terão dez problemas no total, distribuídos entre as três trilhas.
+- O T1 terá aproximadamente dez problemas distintos, desenvolvidos por quatro marcos comuns.
+- O T2 terá dez problemas no total, distribuídos entre três trilhas.
 - A Unidade III terá dez problemas em cada trilha; aproximadamente dez problemas serão selecionados e atribuídos aos grupos em cada oferta.
 - Nenhum acompanhamento exigirá conceitos-base ainda não ensinados.
 - Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos.
@@ -23,41 +24,50 @@
 ## Turma prática
 
 - Lançamento do T1, distribuição dos problemas e modelagem inicial após os conceitos fundamentais.
-- Implementação das estruturas `Graph` e `Digraph` após o ensino de representação computacional, com referência nas bases `algs4-java` e `algs4-py`.
-- Acompanhamento progressivo das trilhas conforme os conteúdos teóricos ensinados.
+- Implementação de `Graph`, `Digraph` ou vizinhança implícita após o ensino de representação computacional, com referência nas bases `algs4-java` e `algs4-py`.
+- Acompanhamento progressivo dos quatro marcos conforme os conteúdos teóricos ensinados.
 - Apresentação final do T1.
 
-## Trilhas do T1
+## Marcos do T1
 
-O T1 constitui uma única AP com dez problemas no total.
+O T1 constitui uma única AP com aproximadamente dez problemas distintos. Cada grupo resolverá um problema que exija modelagem, representação computacional e aplicação básica de ao menos uma busca, com escolha justificada entre DFS e BFS.
 
-### [Trilha A — Modelagem de grafos simples e medidas estruturais](../../trabalhos/und1/trilhas/trilha-a-grafos-simples.md)
+### Marco 1 — Modelagem
 
-- Modelagem de relações não dirigidas.
-- Ordem, tamanho, densidade e sequência de graus.
-- Adjacência, incidência, regularidade e completude.
-- Classificação dos tipos de grafos previstos no projeto de ensino.
+- Enunciado, entrada, saída e restrições.
+- Vértices, arestas e tipo do grafo.
+- Instância pequena e resultado esperado.
+- Hipótese inicial de solução, sem exigir DFS/BFS antes do ensino.
 
-### [Trilha B — Modelagem de dígrafos e medidas estruturais](../../trabalhos/und1/trilhas/trilha-b-digrafos.md)
+### Marco 2 — Representação computacional
 
-- Modelagem de relações orientadas.
-- Ordem, tamanho, densidade e graus de entrada e saída.
-- Adjacência, incidência, fontes, sorvedouros e simetria.
-- Direção das arestas e vizinhança orientada.
+- Matriz, lista de adjacência ou vizinhança implícita.
+- Leitura da entrada e construção do grafo.
+- Medidas estruturais da Unidade I pertinentes ao problema.
+- Validação da representação com a instância pequena.
 
-### [Trilha C — Buscas simples com DFS/BFS](../../trabalhos/und1/trilhas/trilha-c-buscas.md)
+### Marco 3 — Aplicação básica de DFS
 
-- Exploração e alcançabilidade.
-- Estados de visita e árvores de busca.
-- Níveis, predecessores e reconstrução de caminhos.
-- Caminho mínimo em grafos sem pesos.
+- Execução manual.
+- Estados de visita, árvore de busca e tempos.
+- Alcançabilidade e predecessores.
+- Aplicabilidade ao problema e implementação parcial quando pertinente.
 
-## Progressão do T1
+### Marco 4 — Aplicação básica de BFS e conclusão
 
-- As trilhas A e B serão desenvolvidas durante as aulas de modelagem, tipos e representações.
-- A Trilha C somente exigirá DFS/BFS depois que essas buscas forem ensinadas no início da Unidade II.
-- Antes do ensino de DFS/BFS, os grupos da Trilha C apresentarão apenas evidências de compreensão, modelagem e representação.
-- Os grupos deverão interpretar ordem de exploração, alcançabilidade, níveis e predecessores quando aplicáveis.
+- Execução manual.
+- Níveis, distâncias e predecessores.
+- Comparação entre DFS e BFS; escolha justificada.
+- Implementação, testes, complexidade, submissão e ensaio.
+
+## Delimitação do T1
+
+- Todos os problemas exigirão ao menos uma aplicação básica de DFS ou BFS.
+- O uso das duas buscas somente será exigido quando pertinente.
+- A solução completa somente será exigida depois do ensino de DFS/BFS.
+- Contagem operacional de regiões alcançáveis será admissível sem formalização de componentes conexas.
+- Percursos, conectividade e propriedades estruturais formais permanecerão no T2.
+- A seleção equilibrará modelagem, implementação, testes e dificuldade global.
 
 # Unidade II — Resolver problemas com grafos conexos
 

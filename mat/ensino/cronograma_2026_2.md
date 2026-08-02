@@ -70,19 +70,19 @@
 
 - **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
 - **Turma teórica — tipos e propriedades de grafos:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; dígrafos acíclicos (DAGs); grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições.
-- **Turma prática — modelagem inicial do T1 (marco 1):** lançamento do T1; apresentação das trilhas; atribuição dos problemas; preparação do ambiente Python/Java; enunciado; entrada; saída; restrições; modelagem de instância pequena; classificação do grafo; ordem; tamanho; densidade; graus.
+- **Turma prática — modelagem inicial do T1 (marco 1):** lançamento do T1; atribuição dos problemas; preparação do ambiente Python/Java; enunciado; entrada; saída; restrições; vértices; arestas; tipo do grafo; instância pequena; resultado esperado.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (aplicação); 01.02 — Tipos de grafos.
 - **Recursos:** [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
 - **Produto/evidência:** ficha de modelagem; classificação justificada; instância pequena.
 
-#### Semana 3 — Representações computacionais e implementação do T1 — 17–20/08
+#### Semana 3 — Representações computacionais no T1 — 17–20/08
 
 - **Datas:** teórica em 17/08 (seg.) e 18/08 (ter.); prática em 19/08 (qua.) e 20/08 (qui.).
 - **Turma teórica — representações computacionais:** matriz de adjacência; matriz de incidência; lista de adjacência; lista de incidência; custos de espaço; inserção de arestas; consulta de adjacência e incidência; percurso de vizinhança; adequação ao tipo e à densidade do grafo.
-- **Turma prática — implementação do T1 (marco 2):** implementação de `Graph` e `Digraph`; listas de adjacência; Python ou Java; inserção e consulta de arestas; leitura dos datasets; representação do problema; validação por instância pequena; custo de espaço e das operações.
+- **Turma prática — representação computacional do T1 (marco 2):** `Graph`, `Digraph` ou vizinhança implícita; Python ou Java; leitura da entrada; construção do grafo; medidas estruturais pertinentes; validação por instância pequena; custo de espaço e das operações.
 - **Projeto de ensino:** 01.02 — Tipos de grafos (aplicação); 01.03 — Representação computacional.
 - **Recursos:** [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`Digraph`](../../algs4-py/algs4/digraph.py), [`Digraph.java`](../../algs4-java/algs4/Digraph.java), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py), [`routes.txt`](../../dataset/routes.txt), [`tinyG.txt`](../../dataset/tinyG.txt) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
-- **Produto/evidência:** estruturas `Graph` e `Digraph`; entrada processada; representação documentada; justificativa por `V`, `E`, orientação, pesos, rótulos e restrições.
+- **Produto/evidência:** entrada processada; representação implementada; medidas pertinentes; validação; justificativa por `V`, `E`, orientação, pesos, rótulos e restrições.
 
 ### Unidade II — Resolver problemas com grafos conexos (22h)
 
@@ -90,16 +90,16 @@
 
 - **Datas:** teórica em 24/08 (seg.) e 25/08 (ter.); prática em 26/08 (qua.) e 27/08 (qui.).
 - **Turma teórica — busca em profundidade:** busca em profundidade; estados de visita; árvore de busca; tempo de descoberta; tempo de término; classificação de arestas; alcançabilidade; predecessores; caminhos; invariantes; correção; complexidade `O(V + E)`.
-- **Turma prática — aplicação de DFS no T1 (marco 3):** execução manual de DFS; estados de visita; árvore de busca; tempos de descoberta e término; alcançabilidade; predecessores; Trilha C: implementação da busca; Trilhas A e B: aplicação da busca ou justificativa da estratégia estrutural.
+- **Turma prática — aplicação de DFS no T1 (marco 3):** execução manual de DFS; estados de visita; árvore de busca; tempos de descoberta e término; alcançabilidade; predecessores; aplicabilidade ao problema; implementação parcial quando pertinente.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (busca em profundidade).
 - **Recursos:** [`DepthFirstSearch`](../../algs4-py/algs4/depth_first_search.py) e [`DepthFirstPaths`](../../algs4-py/algs4/depth_first_paths.py).
-- **Produto/evidência:** rastreamento manual; papel da DFS; implementação parcial; correção; complexidade.
+- **Produto/evidência:** rastreamento manual; aplicabilidade da DFS; implementação parcial quando pertinente; correção; complexidade.
 
 #### Semana 5 — Busca em largura, revisão teórica e conclusão do T1 — 31/08–03/09
 
 - **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
 - **Turma teórica — busca em largura:** busca em largura; fronteiras; árvore BFS; níveis; predecessores; distância; reconstrução de caminhos; caminho mínimo em grafos sem pesos; comparação com DFS; correção; complexidade `O(V + E)`.
-- **Turma prática — conclusão do T1 (marcos 4 e 5; 70 minutos):** execução manual de BFS; estratégia estrutural, DFS ou BFS; ordem de visita; caminho reconstruído; integração da implementação; testes; submissão; complexidade; ensaio.
+- **Turma prática — aplicação de BFS e conclusão do T1 (marco 4; 70 minutos):** execução manual de BFS; níveis; distâncias; predecessores; comparação entre DFS e BFS; escolha justificada; implementação; testes; submissão; complexidade; ensaio.
 - **Turma prática — revisão teórica (30 minutos):** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; DFS e BFS; alcançabilidade e caminhos básicos; correção e complexidade; dúvidas.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (revisão); 01.02 — Tipos de grafos (revisão); 01.03 — Representação computacional (revisão); 02.01 — Algoritmos de busca (busca em largura e revisão).
 - **Recursos:** [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
@@ -273,7 +273,7 @@ As janelas de segunda chamada não substituem automaticamente encontros regulare
 
 ### T1 — DFS/BFS
 
-**Função:** AP1 transversal com dez problemas distribuídos entre grafos simples, dígrafos e buscas simples.
+**Função:** AP1 transversal com aproximadamente dez problemas distintos, desenvolvidos por quatro marcos comuns de modelagem, representação computacional e aplicação básica de DFS/BFS.
 
 ### T2 — conectividade e problemas clássicos
 
