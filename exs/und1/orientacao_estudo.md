@@ -107,16 +107,6 @@ A prova será objetiva. As questões poderão usar figuras, conjuntos de vértic
 - cuidado com contagem duplicada de pares ou arestas;
 - problemas típicos: calcular número de arestas a partir de fórmulas, graus ou descrições combinatórias.
 
-### 10. Redes Reais e Grafos Complexos
-
-- modelagem formal de redes reais;
-- ordem, tamanho, densidade e grau médio;
-- distribuição de graus `P(k)`;
-- visualização em escala linear e log-log;
-- ideia de lei de potência e grafos de escala livre;
-- análise crítica de ajuste e limites da classificação como escala livre;
-- problemas típicos: interpretar métricas estruturais básicas e reconhecer evidências ou limitações de comportamento de escala livre.
-
 ## Estruturas de Representação
 
 - uso de conjuntos de vértices e arestas;

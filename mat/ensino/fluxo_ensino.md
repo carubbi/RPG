@@ -24,7 +24,7 @@
 ## Turma prática
 
 - Lançamento do T1, distribuição dos problemas e modelagem inicial após os conceitos fundamentais.
-- Implementação de `Graph`, `Digraph` ou vizinhança implícita após o ensino de representação computacional, com referência nas bases `algs4-java` e `algs4-py`.
+- Implementação de `Graph`, `Digraph` ou representação implícita após o ensino de representação computacional, com referência nas bases `algs4-java` e `algs4-py`.
 - Acompanhamento progressivo dos quatro marcos conforme os conteúdos teóricos ensinados.
 - Apresentação final do T1.
 
@@ -41,7 +41,7 @@ O T1 constitui uma única AP com aproximadamente dez problemas distintos. Cada g
 
 ### Marco 2 — Representação computacional
 
-- Matriz, lista de adjacência ou vizinhança implícita.
+- Matriz, lista de adjacência ou representação implícita.
 - Leitura da entrada e construção do grafo.
 - Medidas estruturais da Unidade I pertinentes ao problema.
 - Validação da representação com a instância pequena.

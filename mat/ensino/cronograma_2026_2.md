@@ -70,7 +70,8 @@
 
 - **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
 - **Turma teórica — tipos e propriedades de grafos:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; dígrafos acíclicos (DAGs); grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições.
-- **Turma prática — modelagem inicial do T1 (marco 1):** lançamento do T1; atribuição dos problemas; preparação do ambiente Python/Java; enunciado; entrada; saída; restrições; vértices; arestas; tipo do grafo; instância pequena; resultado esperado.
+- **Turma prática — modelagem inicial do T1:** lançamento; atribuição dos problemas; preparação do ambiente Python/Java; orientação do marco 1.
+- **Acompanhamento 1 — Modelagem (1,0 ponto):** entrada; saída; restrições; vértices; arestas; tipo do grafo; instância pequena; resultado esperado; hipótese inicial justificada; validação oral e registro no repositório.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (aplicação); 01.02 — Tipos de grafos.
 - **Recursos:** [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
 - **Produto/evidência:** ficha de modelagem; classificação justificada; instância pequena.
@@ -79,7 +80,8 @@
 
 - **Datas:** teórica em 17/08 (seg.) e 18/08 (ter.); prática em 19/08 (qua.) e 20/08 (qui.).
 - **Turma teórica — representações computacionais:** matriz de adjacência; matriz de incidência; lista de adjacência; lista de incidência; custos de espaço; inserção de arestas; consulta de adjacência e incidência; percurso de vizinhança; adequação ao tipo e à densidade do grafo.
-- **Turma prática — representação computacional do T1 (marco 2):** `Graph`, `Digraph` ou vizinhança implícita; Python ou Java; leitura da entrada; construção do grafo; medidas estruturais pertinentes; validação por instância pequena; custo de espaço e das operações.
+- **Turma prática — representação computacional do T1:** `Graph`, `Digraph` ou representação implícita; Python ou Java; orientação do marco 2.
+- **Acompanhamento 2 — Representação computacional (1,0 ponto):** entrada processada; grafo construído; medidas pertinentes; instância pequena validada; custo e escolha da representação justificados; validação oral e registro no repositório.
 - **Projeto de ensino:** 01.02 — Tipos de grafos (aplicação); 01.03 — Representação computacional.
 - **Recursos:** [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`Graph`](../../algs4-py/algs4/graph.py), [`Graph.java`](../../algs4-java/algs4/Graph.java), [`Digraph`](../../algs4-py/algs4/digraph.py), [`Digraph.java`](../../algs4-java/algs4/Digraph.java), [`SymbolGraph`](../../algs4-py/algs4/symbol_graph.py), [`routes.txt`](../../dataset/routes.txt), [`tinyG.txt`](../../dataset/tinyG.txt) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
 - **Produto/evidência:** entrada processada; representação implementada; medidas pertinentes; validação; justificativa por `V`, `E`, orientação, pesos, rótulos e restrições.
@@ -90,7 +92,8 @@
 
 - **Datas:** teórica em 24/08 (seg.) e 25/08 (ter.); prática em 26/08 (qua.) e 27/08 (qui.).
 - **Turma teórica — busca em profundidade:** busca em profundidade; estados de visita; árvore de busca; tempo de descoberta; tempo de término; classificação de arestas; alcançabilidade; predecessores; caminhos; invariantes; correção; complexidade `O(V + E)`.
-- **Turma prática — aplicação de DFS no T1 (marco 3):** execução manual de DFS; estados de visita; árvore de busca; tempos de descoberta e término; alcançabilidade; predecessores; aplicabilidade ao problema; implementação parcial quando pertinente.
+- **Turma prática — aplicação de DFS no T1:** execução guiada; aplicação ao problema; orientação do marco 3.
+- **Acompanhamento 3 — Aplicação básica de DFS (1,0 ponto):** execução manual; estados de visita; árvore de busca; tempos de descoberta e término; alcançabilidade; predecessores; aplicabilidade; implementação parcial quando pertinente; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (busca em profundidade).
 - **Recursos:** [`DepthFirstSearch`](../../algs4-py/algs4/depth_first_search.py) e [`DepthFirstPaths`](../../algs4-py/algs4/depth_first_paths.py).
 - **Produto/evidência:** rastreamento manual; aplicabilidade da DFS; implementação parcial quando pertinente; correção; complexidade.
@@ -99,8 +102,9 @@
 
 - **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
 - **Turma teórica — busca em largura:** busca em largura; fronteiras; árvore BFS; níveis; predecessores; distância; reconstrução de caminhos; caminho mínimo em grafos sem pesos; comparação com DFS; correção; complexidade `O(V + E)`.
-- **Turma prática — aplicação de BFS e conclusão do T1 (marco 4; 70 minutos):** execução manual de BFS; níveis; distâncias; predecessores; comparação entre DFS e BFS; escolha justificada; implementação; testes; submissão; complexidade; ensaio.
+- **Turma prática — aplicação de BFS e conclusão do T1 (70 minutos):** execução guiada; comparação com DFS; orientação do marco 4.
 - **Turma prática — revisão teórica (30 minutos):** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; DFS e BFS; alcançabilidade e caminhos básicos; correção e complexidade; dúvidas.
+- **Acompanhamento 4 — Aplicação básica de BFS e conclusão (1,0 ponto):** execução manual; níveis; distâncias; predecessores; escolha justificada entre DFS e BFS; implementação; testes; complexidade; submissão; ensaio; validação oral e registro no repositório.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (revisão); 01.02 — Tipos de grafos (revisão); 01.03 — Representação computacional (revisão); 02.01 — Algoritmos de busca (busca em largura e revisão).
 - **Recursos:** [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
 - **Produto/evidência:** solução testada; estratégia justificada; `Accepted`; correção; complexidade; apresentação.
@@ -118,7 +122,8 @@
 
 - **Datas:** AT1 em 14/09 (seg.) e 15/09 (ter.); prática em 16/09 (qua.) e 17/09 (qui.).
 - **Turma teórica — AT1:** dez questões objetivas estilo ENADE; AVA/Moodle; fundamentos; tipos; representações; DFS; BFS; encontro integral; liberação posterior da nota e das justificativas.
-- **Turma prática — modelagem inicial do T2 (marco 1):** trilhas; atribuição do problema; interpretação; modelagem; participação de DFS/BFS; instância pequena.
+- **Turma prática — modelagem inicial do T2:** trilhas; atribuição do problema; orientação do marco 1.
+- **Acompanhamento 1 — Problema e conhecimento prévio (evidência pontuada):** entrada; saída; restrições; vértices; arestas; tipo do grafo; participação de DFS/BFS; instância pequena; validação oral e registro no repositório.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (avaliação); 01.02 — Tipos de grafos (avaliação); 01.03 — Representação computacional (avaliação); 02.01 — Algoritmos de busca (avaliação e aplicação).
 - **Recursos:** algoritmos de DFS/BFS; datasets da Unidade II.
 - **Produto/evidência:** registro da AT1; ficha inicial do T2; instância pequena.
@@ -127,7 +132,8 @@
 
 - **Datas:** teórica em 21/09 (seg.) e 22/09 (ter.); prática em 23/09 (qua.) e 24/09 (qui.).
 - **Turma teórica — formalização de percursos e conectividade:** passeio; trilha; caminho; ciclo; circuito; tour; componentes conexas; árvore DFS; tempos de descoberta; valores `low`; pontes; vértices de articulação; critérios de cortes em vértices e arestas.
-- **Turma prática — aplicação de conectividade no T2 (marco 2):** conectividade; execução manual de DFS/BFS; Trilha A: componentes, pontes ou articulações; Trilha B: ciclos; Trilha C: bipartição e modelagem.
+- **Turma prática — aplicação de conectividade no T2:** conectividade; propriedades por trilha; orientação do marco 2.
+- **Acompanhamento 2 — Propriedade estrutural (evidência pontuada):** propriedade; critério algorítmico; execução manual; estado adicional à DFS/BFS; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (aplicação); 02.02 — Grafos não dirigidos e dirigidos (percursos, componentes conexos e cortes).
 - **Recursos:** [`CC`](../../algs4-py/algs4/cc.py) e [`Cycle`](../../algs4-py/algs4/cycle.py).
 - **Produto/evidência:** critério estrutural; execução na instância pequena.
@@ -136,7 +142,8 @@
 
 - **Datas:** teórica em 28/09 (seg.) e 29/09 (ter.); prática em 30/09 (qua.) e 01/10 (qui.).
 - **Turma teórica — grafos eulerianos, hamiltonianos e problemas clássicos:** grafos eulerianos; grafos hamiltonianos; caminhos e circuitos eulerianos; reconhecimento de estruturas hamiltonianas; caixeiro viajante; carteiro chinês; introdução a coloração, emparelhamento e isomorfismo.
-- **Turma prática — conclusão do T2 (marco 3):** conectividade; percurso ou ordem; relação estrutural; execução manual; implementação; testes positivo, negativo e limite; `Accepted`; complexidade; ensaio.
+- **Turma prática — conclusão do T2:** implementação; testes; preparação da apresentação; orientação do marco 3.
+- **Acompanhamento 3 — Implementação, testes e ensaio (evidência pontuada):** propriedade estrutural; execução manual; solução; testes positivo, negativo e limite; `Accepted`; complexidade; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.02 — Grafos não dirigidos e dirigidos (grafos eulerianos e hamiltonianos; caixeiro viajante; carteiro chinês); 02.03 — Introdução aos problemas clássicos.
 - **Recursos:** [`tinyDG.txt`](../../dataset/tinyDG.txt).
 - **Produto/evidência:** solução testada; `Accepted`; complexidade; apresentação.
@@ -156,7 +163,8 @@
 
 - **Datas:** **12/10 — Dia de Nossa Senhora Aparecida — feriado, sem aula**; **13/10 — antecipação do Dia do Professor — feriado estudantil, sem aula**; prática integrada em 14/10 (qua.) e 15/10 (qui.).
 - **Turma teórica — feriados:** sem encontro.
-- **Turma prática — síntese teórica e modelagem inicial do T3 (marco 1):** 40 minutos: grafos ponderados; pesos; capacidades; objetivo; restrições; 60 minutos: bancos; seleção de aproximadamente dez problemas; atribuição; modelagem inicial.
+- **Turma prática — síntese teórica e modelagem inicial do T3:** 40 minutos: grafos ponderados; pesos; capacidades; objetivo; restrições; 60 minutos: bancos; seleção de aproximadamente dez problemas; atribuição; orientação do marco 1.
+- **Acompanhamento 1 — Formulação (evidência pontuada):** entrada; saída; objetivo; restrições; vértices; arestas; direção; pesos ou capacidades; instância pequena; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (modelagem preliminar); 03.02 — Problema do caminho mínimo (modelagem preliminar); 03.03 — Problema do fluxo máximo em redes (modelagem preliminar).
 - **Recursos:** [`EdgeWeightedGraph`](../../algs4-py/algs4/edge_weighted_graph.py), [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`tinyEWG.txt`](../../dataset/tinyEWG.txt) e [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
 - **Produto/evidência:** objetivo; vértices; arestas; pesos ou capacidades; instância pequena.
@@ -165,7 +173,8 @@
 
 - **Datas:** AT2 em 19/10 (seg.) e 20/10 (ter.); prática em 21/10 (qua.) e 22/10 (qui.).
 - **Turma teórica — AT2:** dez questões objetivas estilo ENADE; AVA/Moodle; conectividade; grafos dirigidos e não dirigidos; problemas clássicos; encontro integral; liberação posterior da nota e das justificativas.
-- **Turma prática — representação computacional do T3 (marco 2):** entrada; saída; representação; instância pequena; identificação preliminar da classe de otimização.
+- **Turma prática — representação computacional do T3:** classes de otimização; orientação do marco 2.
+- **Acompanhamento 2 — Representação e validação (evidência pontuada):** representação computacional; instância pequena; entrada e saída esperada; classe preliminar de otimização; validação oral e registro no repositório.
 - **Projeto de ensino:** 02.01 — Algoritmos de busca (avaliação); 02.02 — Grafos não dirigidos e dirigidos (avaliação); 02.03 — Introdução aos problemas clássicos (avaliação); 03.01 — Problema da árvore de cobertura mínima (representação preliminar); 03.02 — Problema do caminho mínimo (representação preliminar); 03.03 — Problema do fluxo máximo em redes (representação preliminar).
 - **Recursos:** grafos ponderados; datasets da Unidade III.
 - **Produto/evidência:** registro da AT2; representação computacional validada.
@@ -174,7 +183,9 @@
 
 - **Datas:** teórica em 26/10 (seg.) e 27/10 (ter.); prática em 28/10 (qua.) e 29/10 (qui.).
 - **Turma teórica — árvores geradoras mínimas:** árvore geradora mínima; propriedade do corte; Kruskal; Prim; Union-Find; correção; complexidade.
-- **Turma prática — aplicação de MST no T3 (marcos 3 e 4 da Trilha A):** Kruskal; Prim; execução comparativa; Trilha A: escolha e implementação do algoritmo; Trilhas B e C: comparação de objetivos e representação.
+- **Turma prática — aplicação de MST no T3:** Kruskal; Prim; execução comparativa; orientação dos marcos 3 e 4 da Trilha A; comparação de objetivos nas Trilhas B e C.
+- **Acompanhamento 3 — Escolha do algoritmo da Trilha A (evidência pontuada):** algoritmo; aplicabilidade; propriedade central; complexidade; validação oral e registro no repositório.
+- **Acompanhamento 4 — Implementação da Trilha A (evidência pontuada):** lógica principal; dependências; execução reproduzível; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima.
 - **Recursos:** [`KruskalMST`](../../algs4-py/algs4/kruskal_mst.py), [`PrimMST`](../../algs4-py/algs4/prim_mst.py) e [`UF`](../../algs4-py/algs4/uf.py).
 - **Produto/evidência:** Trilha A: escolha algorítmica; implementação parcial; árvore e custo validados; Trilhas B e C: representação; comparação de objetivos.
@@ -185,6 +196,7 @@
 - **Turma teórica — consolidação de MST:** grafos ponderados; MST; propriedade do corte; Kruskal; Prim; Union-Find; revisão formativa.
 - **Turma prática — quarta-feira — prática integrada:** 40 minutos: propriedade do corte; Union-Find; 60 minutos: execução manual; implementação parcial; diagnóstico.
 - **Turma prática — quinta-feira — acompanhamento prático integral:** execução manual; implementação parcial; diagnóstico por trilha.
+- **Acompanhamento 4 — Implementação da Trilha A (continuidade; evidência pontuada):** execução manual revisada; implementação parcial; diagnóstico; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (consolidação).
 - **Recursos:** algoritmos de MST; [`tinyEWG.txt`](../../dataset/tinyEWG.txt).
 - **Produto/evidência:** execução manual revisada; implementação parcial; diagnóstico.
@@ -193,7 +205,9 @@
 
 - **Datas:** teórica em 09/11 (seg.) e 10/11 (ter.); prática em 11/11 (qua.) e 12/11 (qui.).
 - **Turma teórica — caminhos mínimos com Dijkstra:** caminhos mínimos; relaxamento; Dijkstra; fila de prioridade indexada; pesos não negativos; correção; complexidade.
-- **Turma prática — aplicação de Dijkstra no T3 (marcos 3 e 4 da Trilha B):** relaxações; rastreamento; Trilha B: escolha e implementação do algoritmo; Trilhas A e C: comparação de objetivos.
+- **Turma prática — aplicação de Dijkstra no T3:** relaxações; rastreamento; orientação dos marcos 3 e 4 da Trilha B; comparação de objetivos nas Trilhas A e C.
+- **Acompanhamento 3 — Escolha do algoritmo da Trilha B (evidência pontuada):** algoritmo; aplicabilidade; relaxamento; complexidade; validação oral e registro no repositório.
+- **Acompanhamento 4 — Implementação da Trilha B (evidência pontuada):** lógica principal; dependências; execução reproduzível; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.02 — Problema do caminho mínimo (Dijkstra).
 - **Recursos:** [`DijkstraSP`](../../algs4-py/algs4/dijkstra_sp.py), [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py) e [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
 - **Produto/evidência:** Trilha B: escolha algorítmica; relaxações; implementação parcial; condição de aplicabilidade; Trilhas A e C: comparação de objetivos; acompanhamento.
@@ -202,7 +216,9 @@
 
 - **Datas:** teórica em 16/11 (seg.) e 17/11 (ter.); prática em 18/11 (qua.) e 19/11 (qui.).
 - **Turma teórica — fluxo máximo em redes:** redes de fluxo; capacidade; conservação; grafo residual; caminhos aumentantes; corte mínimo; Ford-Fulkerson; Edmonds-Karp; correção; complexidade.
-- **Turma prática — aplicação de fluxo máximo no T3 (marcos 3 e 4 da Trilha C):** caminhos aumentantes; gargalos; execução manual; Trilha C: escolha algorítmica e implementação da rede residual; Trilhas A e B: objetivos, restrições e aplicabilidade.
+- **Turma prática — aplicação de fluxo máximo no T3:** caminhos aumentantes; gargalos; execução manual; orientação dos marcos 3 e 4 da Trilha C; comparação de objetivos nas Trilhas A e B.
+- **Acompanhamento 3 — Escolha do algoritmo da Trilha C (evidência pontuada):** algoritmo; aplicabilidade; operação central; complexidade; validação oral e registro no repositório.
+- **Acompanhamento 4 — Implementação da Trilha C (evidência pontuada):** lógica principal; rede residual; execução reproduzível; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.03 — Problema do fluxo máximo em redes (Ford-Fulkerson).
 - **Recursos:** [`FlowNetwork.java`](../../algs4-java/algs4/FlowNetwork.java), [`FordFulkerson.java`](../../algs4-java/algs4/FordFulkerson.java) e [`tinyFN.txt`](../../dataset/tinyFN.txt).
 - **Produto/evidência:** Trilha C: escolha algorítmica; caminhos aumentantes; gargalos; fluxo parcial; rede residual; Trilhas A e B: comparação de objetivos; acompanhamento.
@@ -211,7 +227,9 @@
 
 - **Datas:** teórica em 23/11 (seg.) e 24/11 (ter.); prática em 25/11 (qua.) e 26/11 (qui.).
 - **Turma teórica — caminhos mínimos com Bellman–Ford:** pesos negativos; relaxamento repetido; Bellman-Ford; detecção de ciclos negativos; comparação com Dijkstra.
-- **Turma prática — validação do T3 (marco 5):** testes de correção; casos-limite; pesos negativos; segundo acompanhamento da Trilha C; complexidade.
+- **Turma prática — validação do T3:** testes; diagnóstico; orientação do marco 5.
+- **Acompanhamento 5 — Testes e análise (evidência pontuada):** instância pequena; casos-limite; impossibilidade quando aplicável; diagnóstico; complexidade; validação oral e registro no repositório.
+- **Acompanhamento 6 — Submissão e comunicação das turmas de quinta-feira (evidência pontuada):** `Accepted`; `README.md`; evidência da submissão; organização do repositório; ensaio; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.02 — Problema do caminho mínimo (Bellman-Ford); 03.03 — Problema do fluxo máximo em redes (aplicação).
 - **Recursos:** [`BellmanFordSP`](../../algs4-py/algs4/bellman_ford_sp.py), [`tinyEWDn.txt`](../../dataset/tinyEWDn.txt) e [`tinyEWDnc.txt`](../../dataset/tinyEWDnc.txt).
 - **Produto/evidência:** conjunto de testes; diagnóstico de divergências; complexidade revisada.
@@ -220,8 +238,9 @@
 
 - **Datas:** teórica em 30/11 (seg.) e 01/12 (ter.); prática em 02/12 (qua.) e 03/12 (qui.).
 - **Turma teórica — caminhos mínimos com Floyd–Warshall:** caminhos mínimos entre todos os pares; Floyd-Warshall; programação dinâmica; comparação com algoritmos de fonte única; síntese das classes de otimização.
-- **Turma prática — conclusão do T3 em 02/12 (marco 6):** verificação final; `Accepted`; organização do repositório; ensaio das turmas de quarta-feira.
+- **Turma prática — conclusão do T3 em 02/12:** verificação final; orientação do marco 6.
 - **Turma prática — apresentação da AP3 em 03/12:** apresentações das turmas de quinta-feira; avaliação; devolutiva; encontro integral.
+- **Acompanhamento 6 — Submissão e comunicação das turmas de quarta-feira (evidência pontuada; 02/12):** `Accepted`; `README.md`; evidência da submissão; organização do repositório; ensaio; validação oral e registro no repositório.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (síntese); 03.02 — Problema do caminho mínimo (Floyd-Warshall e síntese); 03.03 — Problema do fluxo máximo em redes (síntese).
 - **Recursos:** [`FloydWarshall.java`](../../algs4-java/algs4/FloydWarshall.java); repositórios; apresentações.
 - **Produto/evidência:** matriz de distâncias; síntese comparativa; repositórios congelados; avaliação da AP3 das turmas de quinta-feira.

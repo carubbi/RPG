@@ -75,10 +75,11 @@ Este marco ocorrerá depois do marco 3 da respectiva trilha.
 ## Progressão dos marcos por trilha
 
 - semana 13: marcos 3 e 4 da Trilha A;
+- semana 14: continuidade do marco 4 da Trilha A;
 - semana 15: marcos 3 e 4 da Trilha B;
 - semana 16: marcos 3 e 4 da Trilha C;
-- semana 17: marco 5 de todas as trilhas;
-- semana 18: marco 6 de todas as trilhas.
+- semana 17: marco 5 de todas as trilhas; marco 6 das turmas de quinta-feira;
+- semana 18: marco 6 das turmas de quarta-feira.
 
 ## Entrega
 
