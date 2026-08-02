@@ -31,12 +31,12 @@ Todos os encontros práticos oferecidos antes da apresentação serão usados pa
 - definir vértices, arestas, direção e pesos ou capacidades;
 - criar uma instância pequena.
 
-### Marco 2 — Representação e execução manual
+### Marco 2 — Representação e validação
 
 - justificar a representação computacional;
-- executar manualmente a ideia central do algoritmo na instância pequena;
-- registrar estados intermediários relevantes;
-- verificar a resposta da instância.
+- representar a instância pequena;
+- validar entrada e saída esperada;
+- identificar preliminarmente a família do problema: árvore geradora mínima, caminho mínimo ou fluxo.
 
 ### Marco 3 — Escolha do algoritmo
 
@@ -45,7 +45,11 @@ Todos os encontros práticos oferecidos antes da apresentação serão usados pa
 - apresentar o invariante, propriedade ou operação central;
 - estimar a complexidade.
 
+Esse marco somente será exigido depois que cada família algorítmica for ensinada.
+
 ### Marco 4 — Implementação
+
+Este marco ocorrerá depois do marco 3 da respectiva trilha.
 
 - implementar a lógica principal em Python ou Java;
 - manter no repositório todas as dependências diretas;
@@ -65,6 +69,14 @@ Todos os encontros práticos oferecidos antes da apresentação serão usados pa
 - finalizar o `README.md`;
 - disponibilizar evidência da submissão;
 - preparar e ensaiar a apresentação.
+
+## Progressão dos marcos por trilha
+
+- semana 13: marcos 3 e 4 da Trilha A;
+- semana 15: marcos 3 e 4 da Trilha B;
+- semana 16: marcos 3 e 4 da Trilha C;
+- semana 17: marco 5 de todas as trilhas;
+- semana 18: marco 6 de todas as trilhas.
 
 ## Entrega
 
