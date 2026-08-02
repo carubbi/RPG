@@ -103,14 +103,14 @@ O T1 constitui uma única AP com aproximadamente dez problemas distintos. Cada g
 
 O T2 constitui uma única AP com dez problemas no total.
 
-### [Buscas e conectividade](../../trabalhos/und2/T2/bancos/buscas-conectividade.md)
+### [Buscas e conectividade](../trabalhos/T2.md#problemas)
 
 - Aplicações mais complexas de DFS/BFS.
 - Componentes conexas.
 - Pontes, vértices de articulação e critérios de conectividade.
 - **Aprofundamentos restritos aos exercícios:** grafo reverso, conectividade forte, Kosaraju e Tarjan para SCC.
 
-### [Percursos e estruturas de ordem](../../trabalhos/und2/T2/bancos/percursos-ordem.md)
+### [Percursos e estruturas de ordem](../trabalhos/T2.md#problemas)
 
 - Ciclos dirigidos.
 - Caminhos e circuitos eulerianos.
@@ -118,7 +118,7 @@ O T2 constitui uma única AP com dez problemas no total.
 - Modelagem e reconhecimento de estruturas hamiltonianas, sem exigir solução geral do problema hamiltoniano.
 - **Aprofundamento restrito aos exercícios:** ordenação topológica.
 
-### [Relações estruturais](../../trabalhos/und2/T2/bancos/relacoes-estruturais.md)
+### [Relações estruturais](../trabalhos/T2.md#problemas)
 
 - Bipartição e coloração.
 - Emparelhamento.
@@ -154,20 +154,20 @@ O T2 constitui uma única AP com dez problemas no total.
 
 O T3 constitui uma única AP. Cada classe manterá um banco com dez problemas, totalizando trinta opções. Em cada oferta, aproximadamente dez problemas serão selecionados e distribuídos entre os grupos.
 
-### [Árvore geradora mínima](../../trabalhos/und3/T1/T1.md)
+### [Árvore geradora mínima](../trabalhos/T3.md#árvore-geradora-mínima)
 
 - Modelagem de grafos ponderados.
 - Kruskal, Prim e Union-Find.
 - Propriedade do corte, existência de MST e variações compatíveis.
 
-### [Caminhos mínimos](../../trabalhos/und3/T2/T2.md)
+### [Caminhos mínimos](../trabalhos/T3.md#caminhos-mínimos)
 
 - Relaxamento e reconstrução de caminhos.
 - Dijkstra e restrição de pesos não negativos.
 - Bellman-Ford e detecção de ciclos negativos.
 - Floyd-Warshall como conteúdo da AT ou de atividade dirigida, sem obrigação de integrar o banco prático.
 
-### [Fluxo máximo](../../trabalhos/und3/T3/T3.md)
+### [Fluxo máximo](../trabalhos/T3.md#fluxo-máximo)
 
 - Modelagem de redes, capacidades e conservação.
 - Grafo residual, caminhos aumentantes e gargalos.

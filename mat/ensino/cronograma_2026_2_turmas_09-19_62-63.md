@@ -118,7 +118,7 @@
 - **Aula prática — apresentação da AP1:** apresentações do T1; aproximadamente dez grupos; avaliação; devolutiva.
 - **Projeto de ensino:** 01.01 — Teoria dos grafos (síntese realizada na Semana 5); 01.02 — Tipos de grafos (síntese realizada na Semana 5); 01.03 — Representação computacional (síntese realizada na Semana 5); 02.01 — Algoritmos de busca (apresentação).
 - **Recursos:**
-  - **Apresentação e avaliação:** [template institucional](../../trabalhos/template/template_UNIFOR.pptx); repositórios; apresentações; rubrica da AP1.
+  - **Apresentação e avaliação:** [template institucional](../trabalhos/template/template_UNIFOR.pptx); repositórios; apresentações; rubrica da AP1.
 - **Produto/evidência:** apresentação; avaliação da AP1; repositório congelado; devolutiva.
 
 #### Semana 7 — AT1 e modelagem inicial do T2 — 14–17/09
@@ -335,19 +335,19 @@ As janelas de segunda chamada não substituem automaticamente encontros regulare
 
 ### T1 — DFS/BFS
 
-**Enunciado:** [T1 — Modelagem, representação e DFS/BFS](../../trabalhos/und1/T1.md).
+**Enunciado:** [T1 — Modelagem, representação e DFS/BFS](../trabalhos/T1.md).
 
 **Função:** AP1 transversal com aproximadamente dez problemas distintos, desenvolvidos por quatro marcos comuns de modelagem, representação computacional e aplicação básica de DFS/BFS.
 
 ### T2 — conectividade e problemas clássicos
 
-**Enunciado:** [T2 — Conectividade e propriedades estruturais](../../trabalhos/und2/T2/T2.md).
+**Enunciado:** [T2 — Conectividade e propriedades estruturais](../trabalhos/T2.md).
 
 **Função:** AP2 processual com dez problemas distribuídos entre três grupos: buscas e conectividade, percursos e estruturas de ordem e relações estruturais.
 
 ### T3 — otimização
 
-**Enunciado:** [T3 — Otimização em grafos](../../trabalhos/und3/README.md).
+**Enunciado:** [T3 — Otimização em grafos](../trabalhos/T3.md).
 
 **Função:** AP3 processual com três classes de otimização e dez opções por grupo: MST, caminhos mínimos e fluxo máximo; aproximadamente dez problemas serão selecionados por oferta.
 
