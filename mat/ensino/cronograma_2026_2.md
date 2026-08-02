@@ -48,7 +48,7 @@
 - Quando o encontro teórico for cancelado por feriado, a prática poderá assumir formato integrado, com aproximadamente 40 minutos de síntese de um conceito central e 60 minutos de acompanhamento reduzido. Isso não constitui reposição e não poderá concentrar conteúdo complexo.
 - Python e Java serão alternativas equivalentes. A lógica algorítmica será ensinada uma vez, com comparação pontual das APIs e convenções.
 - A AP será composta pelo acompanhamento processual e pela apresentação de T1, T2 ou T3. Na semana 1, os encontros de quarta/quinta serão teóricos e não integrarão a AP1. Os encontros práticos oferecidos de 12–13/08 em diante e anteriores à apresentação produzirão evidência verificável.
-- Cada acompanhamento deverá atestar conhecimento previamente ensinado por meio de modelagem, execução manual, representação, implementação parcial, teste, análise de complexidade ou diagnóstico.
+- Nenhum acompanhamento exigirá conceitos-base ainda não ensinados. Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos. Cada acompanhamento produzirá evidência verificável de modelagem, execução manual, representação, implementação parcial, teste, análise de complexidade ou diagnóstico.
 - Cada apresentação ocupará um encontro prático integral. Para aproximadamente dez grupos, serão usados 10 minutos de abertura, dez ciclos de até 5 minutos de apresentação e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados.
 - Cada AT ocupará um encontro teórico integral e terá dez questões objetivas contextualizadas no estilo ENADE, aplicadas no AVA/Moodle. A nota e as justificativas serão liberadas somente após o encerramento.
 - A apresentação antecederá a AT, exceto na AV3 das turmas de quarta-feira, cuja apresentação ocorrerá em 09/12 após a AT3 por causa da janela institucional de 03 a 09/12.
@@ -86,7 +86,7 @@
 #### Semana 4 — Busca em profundidade e aplicação no T1 — 24–27/08
 
 - **Datas:** teórica em 24/08 (seg.) e 25/08 (ter.); prática em 26/08 (qua.) e 27/08 (qui.).
-- **Turma teórica — busca em profundidade:** busca em profundidade; árvore de busca, alcançabilidade, predecessores, caminhos, invariantes, correção e complexidade `O(V + E)`, aplicados às representações construídas na Unidade I.
+- **Turma teórica — busca em profundidade:** busca em profundidade; estados de visita; árvore de busca; tempo de descoberta; tempo de término; classificação de arestas; alcançabilidade; predecessores; caminhos; invariantes; correção; complexidade `O(V + E)`.
 - **Turma prática — aplicação de DFS no T1 (marco 3):** execução manual de DFS por todos os grupos; identificação de componentes ou alcançabilidade; classificação de uma sequência relevante como passeio, trilha, caminho ou ciclo; a Trilha C implementa a busca no problema, enquanto as trilhas A e B a implementam quando necessária ou justificam por que uma estratégia estrutural é suficiente.
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`DepthFirstSearch`](../../algs4-py/algs4/depth_first_search.py) e [`DepthFirstPaths`](../../algs4-py/algs4/depth_first_paths.py).
 - **Produto/evidência:** rastreamento manual, identificação do papel da DFS, implementação parcial e análise inicial de correção e complexidade.
@@ -118,17 +118,17 @@
 #### Semana 8 — Percursos, conectividade e desenvolvimento do T2 — 21–24/09
 
 - **Datas:** teórica em 21/09 (seg.) e 22/09 (ter.); prática em 23/09 (qua.) e 24/09 (qui.).
-- **Turma teórica — percursos e conectividade:** passeio, trilha, caminho, ciclo, circuito e tour; componentes conexas; pontes, vértices de articulação e critérios de conectividade.
+- **Turma teórica — percursos e conectividade:** passeio; trilha; caminho; ciclo; circuito; tour; componentes conexas; árvore DFS; tempos de descoberta; valores `low`; pontes; vértices de articulação; critérios de cortes em vértices e arestas.
 - **Turma prática — aplicação de conectividade no T2 (marco 2):** evidência comum de conectividade e execução manual de DFS/BFS. A Trilha A aplica componentes, pontes ou articulações; a Trilha B aplica ciclos ou condição euleriana quando já ensinada; a Trilha C permanece em bipartição e modelagem até o ensino dos demais conteúdos.
 - **Recursos:** [T2 — conectividade e problemas clássicos](../../trabalhos/und2/T2/T2.md), [`CC`](../../algs4-py/algs4/cc.py) e [`Cycle`](../../algs4-py/algs4/cycle.py).
 - **Produto/evidência:** critério estrutural explicado e executado na instância pequena.
 
-#### Semana 9 — Dígrafos, problemas clássicos e conclusão do T2 — 28/09–01/10
+#### Semana 9 — Grafos eulerianos, hamiltonianos e conclusão do T2 — 28/09–01/10
 
 - **Datas:** teórica em 28/09 (seg.) e 29/09 (ter.); prática em 30/09 (qua.) e 01/10 (qui.).
-- **Turma teórica — dígrafos e problemas clássicos:** dígrafos, ciclos dirigidos, ordenação topológica e componentes fortemente conexas; panorama de Euler/Hamilton, carteiro chinês, caixeiro viajante, coloração, emparelhamento e isomorfismo. Os problemas do panorama serão tratados por reconhecimento e modelagem, sem exigir implementação integral de todos os algoritmos.
+- **Turma teórica — grafos eulerianos, hamiltonianos e problemas clássicos:** grafos eulerianos; grafos hamiltonianos; caminhos e circuitos eulerianos; reconhecimento de estruturas hamiltonianas; caixeiro viajante; carteiro chinês; introdução a coloração, emparelhamento e isomorfismo.
 - **Turma prática — conclusão do T2 (marco 3):** implementação do critério de conectividade, percurso/ordem ou relação estrutural; execução manual da propriedade específica após seu ensino; testes positivo, negativo e limite; `Accepted`, complexidade e ensaio.
-- **Recursos:** [T2 — conectividade e problemas clássicos](../../trabalhos/und2/T2/T2.md), [`tinyDG.txt`](../../dataset/tinyDG.txt), [`Topological`](../../algs4-py/algs4/topological.py) e [`KosarajuSCC`](../../algs4-py/algs4/kosaraju_scc.py).
+- **Recursos:** [T2 — conectividade e problemas clássicos](../../trabalhos/und2/T2/T2.md) e [`tinyDG.txt`](../../dataset/tinyDG.txt).
 - **Produto/evidência:** solução testada, evidência do `Accepted`, análise de complexidade e apresentação preparada.
 
 #### Semana 10 — Síntese de conectividade e apresentação do T2 — 05–08/10
@@ -145,7 +145,7 @@
 
 - **Datas:** **12/10 — Dia de Nossa Senhora Aparecida — feriado, sem aula**; **13/10 — antecipação do Dia do Professor — feriado estudantil, sem aula**; prática integrada em 14/10 (qua.) e 15/10 (qui.).
 - **Turma teórica — feriados:** não haverá encontro teórico.
-- **Turma prática — síntese teórica e modelagem inicial do T3 (marco 1):** 40 minutos de síntese sobre grafos ponderados, objetivo e restrições; 60 minutos para apresentação dos três bancos, seleção de aproximadamente dez problemas, atribuição e modelagem inicial.
+- **Turma prática — síntese teórica e modelagem inicial do T3 (marco 1):** 40 minutos de síntese sobre grafos ponderados, representação de pesos e capacidades, objetivo e restrições; 60 minutos para apresentação dos três bancos, seleção de aproximadamente dez problemas, atribuição e modelagem inicial.
 - **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`EdgeWeightedGraph`](../../algs4-py/algs4/edge_weighted_graph.py), [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`tinyEWG.txt`](../../dataset/tinyEWG.txt) e [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
 - **Produto/evidência:** formulação do objetivo, vértices, arestas, pesos ou capacidades e instância pequena.
 
@@ -161,15 +161,16 @@
 
 - **Datas:** teórica em 26/10 (seg.) e 27/10 (ter.); prática em 28/10 (qua.) e 29/10 (qui.).
 - **Turma teórica — árvores geradoras mínimas:** árvore geradora mínima; propriedade do corte; Kruskal, Prim e Union-Find; correção e complexidade.
-- **Turma prática — aplicação de MST no T3 (marco 3):** execução comparativa de Kruskal e Prim; a Trilha A aplica o algoritmo ao problema; as trilhas B e C registram a diferença entre seu objetivo e uma MST e continuam a representação.
+- **Turma prática — aplicação de MST no T3 (marcos 3 e 4 da Trilha A):** execução comparativa de Kruskal e Prim; a Trilha A aplica o algoritmo ao problema; as trilhas B e C registram a diferença entre seu objetivo e uma MST e continuam a representação.
 - **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`KruskalMST`](../../algs4-py/algs4/kruskal_mst.py), [`PrimMST`](../../algs4-py/algs4/prim_mst.py), [`UF`](../../algs4-py/algs4/uf.py) e [banco MST](../../trabalhos/und3/T1/T1.md).
-- **Produto/evidência:** decisão algorítmica justificada; para a trilha MST, árvore e custo validados.
+- **Produto/evidência:** Trilha A: escolha algorítmica, implementação parcial, árvore e custo validados; Trilhas B e C: representação e comparação de objetivos.
 
 #### Semana 14 — Consolidação de MST e desenvolvimento do T3 — 02–05/11
 
-- **Datas:** **02/11 — Dia de Finados — feriado, sem aula**; teórica em 03/11 (ter.); prática integrada em 04/11 (qua.) e 05/11 (qui.).
+- **Datas:** **02/11 — Dia de Finados — feriado, sem aula**; teórica em 03/11 (ter.); prática integrada em 04/11 (qua.); prática regular em 05/11 (qui.).
 - **Turma teórica — consolidação de MST:** revisão formativa de grafos ponderados e MST, sem conteúdo novo.
-- **Turma prática — síntese teórica e desenvolvimento do T3:** 40 minutos de síntese sobre propriedade do corte e Union-Find; 60 minutos para execução manual, implementação parcial e diagnóstico do projeto.
+- **Turma prática — quarta-feira — prática integrada:** 40 minutos de síntese sobre propriedade do corte e Union-Find; 60 minutos para execução manual, implementação parcial e diagnóstico do projeto.
+- **Turma prática — quinta-feira — acompanhamento prático integral:** execução manual, implementação parcial e diagnóstico do projeto conforme a trilha.
 - **Recursos:** algoritmos de MST, [`tinyEWG.txt`](../../dataset/tinyEWG.txt) e [T3](../../trabalhos/und3/README.md).
 - **Produto/evidência:** execução manual revisada, implementação parcial ou diagnóstico registrado.
 
@@ -177,17 +178,17 @@
 
 - **Datas:** teórica em 09/11 (seg.) e 10/11 (ter.); prática em 11/11 (qua.) e 12/11 (qui.).
 - **Turma teórica — caminhos mínimos com Dijkstra:** caminhos mínimos, relaxamento, Dijkstra, fila de prioridade indexada, restrição de pesos não negativos, correção e complexidade.
-- **Turma prática — aplicação de Dijkstra no T3 (marco 4):** rastreamento das relaxações; a Trilha B implementa a variação de caminhos mínimos; as trilhas A e C registram a diferença entre seus objetivos e caminho mínimo.
+- **Turma prática — aplicação de Dijkstra no T3 (marcos 3 e 4 da Trilha B):** rastreamento das relaxações; a Trilha B implementa a variação de caminhos mínimos; as trilhas A e C registram a diferença entre seus objetivos e caminho mínimo.
 - **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`DijkstraSP`](../../algs4-py/algs4/dijkstra_sp.py), [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py), [`tinyEWD.txt`](../../dataset/tinyEWD.txt) e [banco de caminhos mínimos](../../trabalhos/und3/T2/T2.md).
-- **Produto/evidência:** relaxações rastreadas, implementação parcial e condição de aplicabilidade justificada.
+- **Produto/evidência:** Trilha B: escolha algorítmica, relaxações, implementação parcial e condição de aplicabilidade; Trilhas A e C: comparação de objetivos e acompanhamento do projeto.
 
 #### Semana 16 — Fluxo máximo e redes no T3 — 16–19/11
 
 - **Datas:** teórica em 16/11 (seg.) e 17/11 (ter.); prática em 18/11 (qua.) e 19/11 (qui.).
 - **Turma teórica — fluxo máximo em redes:** redes de fluxo; capacidade, conservação, grafo residual, caminhos aumentantes, corte mínimo e Ford-Fulkerson/Edmonds-Karp; correção e complexidade.
-- **Turma prática — aplicação de fluxo máximo no T3 (marco 4):** execução manual de caminhos aumentantes e gargalos; a Trilha C implementa a rede residual; as trilhas A e B comparam objetivo, restrições e condições de aplicabilidade.
+- **Turma prática — aplicação de fluxo máximo no T3 (marcos 3 e 4 da Trilha C):** execução manual de caminhos aumentantes e gargalos; a Trilha C implementa a rede residual; as trilhas A e B comparam objetivo, restrições e condições de aplicabilidade.
 - **Recursos:** [T3 — otimização](../../trabalhos/und3/README.md), [`FlowNetwork.java`](../../algs4-java/algs4/FlowNetwork.java), [`FordFulkerson.java`](../../algs4-java/algs4/FordFulkerson.java), [`tinyFN.txt`](../../dataset/tinyFN.txt) e [banco de fluxo](../../trabalhos/und3/T3/T3.md).
-- **Produto/evidência:** caminhos aumentantes, gargalos, fluxo parcial e implementação da rede residual.
+- **Produto/evidência:** Trilha C: escolha algorítmica, caminhos aumentantes, gargalos, fluxo parcial e rede residual; Trilhas A e B: comparação de objetivos e acompanhamento do projeto.
 
 #### Semana 17 — Bellman–Ford e validação do T3 — 23–26/11
 

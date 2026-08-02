@@ -6,7 +6,9 @@
 - Cada grupo resolverá apenas um problema por avaliação prática.
 - As Unidades I e II terão dez problemas no total, distribuídos entre as três trilhas.
 - A Unidade III terá dez problemas em cada trilha; aproximadamente dez problemas serão selecionados e atribuídos aos grupos em cada oferta.
-- Cada acompanhamento deverá aferir um conhecimento previamente ensinado por meio de evidência verificável.
+- Nenhum acompanhamento exigirá conceitos-base ainda não ensinados.
+- Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos.
+- Cada acompanhamento produzirá evidência verificável de modelagem, fundamentação, execução, implementação, teste ou análise.
 - O resultado `Accepted` comprovará a correção computacional, mas não substituirá a aferição de modelagem, fundamentação teórica, correção e complexidade.
 
 # Unidade I — Modelar e representar problemas com grafos
@@ -61,11 +63,11 @@ O T1 constitui uma única AP com dez problemas no total.
 
 ## Turma teórica
 
-- Busca em profundidade e busca em largura.
+- Busca em profundidade: estados de visita e tempos de descoberta e término; busca em largura.
 - Conectividade em grafos dirigidos e não dirigidos.
 - Passeios, trilhas, caminhos, ciclos, circuitos e tours.
 - Grafos eulerianos e hamiltonianos.
-- Ordenação topológica e componentes fortemente conexas.
+- Cortes em vértices e arestas: árvore DFS, valores `low`, pontes e vértices de articulação.
 - Introdução aos problemas de coloração, emparelhamento e isomorfismo.
 
 ## Turma prática
@@ -83,15 +85,17 @@ O T2 constitui uma única AP com dez problemas no total.
 ### [Trilha A — Buscas e conectividade](../../trabalhos/und2/T2/trilhas/trilha-a-conectividade.md)
 
 - Aplicações mais complexas de DFS/BFS.
-- Componentes conexas e fortemente conexas.
+- Componentes conexas.
 - Pontes, vértices de articulação e critérios de conectividade.
+- **Aprofundamentos restritos aos exercícios:** grafo reverso, conectividade forte, Kosaraju e Tarjan para SCC.
 
 ### [Trilha B — Percursos e estruturas de ordem](../../trabalhos/und2/T2/trilhas/trilha-b-percursos.md)
 
-- Ciclos dirigidos e ordenação topológica.
+- Ciclos dirigidos.
 - Caminhos e circuitos eulerianos.
 - Reconhecimento de propriedades de passeios, trilhas, caminhos, ciclos, circuitos e tours.
 - Modelagem e reconhecimento de estruturas hamiltonianas, sem exigir solução geral do problema hamiltoniano.
+- **Aprofundamento restrito aos exercícios:** ordenação topológica.
 
 ### [Trilha C — Relações estruturais](../../trabalhos/und2/T2/trilhas/trilha-c-relacoes-estruturais.md)
 
@@ -103,7 +107,9 @@ O T2 constitui uma única AP com dez problemas no total.
 ## Progressão do T2
 
 - O primeiro acompanhamento verificará modelagem, representação e participação de DFS/BFS na solução.
-- Conectividade e propriedades específicas somente serão exigidas depois das aulas teóricas correspondentes.
+- Os conceitos-base de conectividade e das propriedades específicas somente serão exigidos depois das aulas teóricas correspondentes.
+- Os aprofundamentos restritos aos exercícios poderão exigir integração, transferência e descoberta de estratégias a partir desses conceitos-base.
+- Ordenação topológica, SCC, Kosaraju e Tarjan para SCC não integrarão a AT2.
 - Os problemas da Trilha C terão dificuldade moderada porque seus conteúdos aparecem mais tarde na unidade.
 - Problemas hamiltonianos gerais, caixeiro viajante exato, carteiro chinês completo e isomorfismo geral não serão exigidos como implementação nesta AP.
 
