@@ -2,6 +2,8 @@
 
 Esta trilha reúne três problemas de ciclos dirigidos, ordenação topológica e percurso euleriano.
 
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+
 ## Problema E — CSES Round Trip II
 
 - **Link oficial:** <https://cses.fi/problemset/task/1678>.
@@ -14,7 +16,7 @@ Esta trilha reúne três problemas de ciclos dirigidos, ordenação topológica 
 - **Casos especiais:** dígrafo acíclico, ciclo envolvendo a raiz da DFS e componentes desconectadas.
 - **Atalhos não aceitos:** tratar qualquer aresta para vértice visitado como ciclo ou ignorar sua orientação.
 
-## Problema F — Codeforces 510C Fox And Names
+## Problema F* — Codeforces 510C Fox And Names
 
 - **Link oficial:** <https://codeforces.com/problemset/problem/510/C>.
 - **Modelagem esperada:** dígrafo de precedências entre letras derivado do primeiro caractere diferente em nomes consecutivos.
@@ -26,7 +28,7 @@ Esta trilha reúne três problemas de ciclos dirigidos, ordenação topológica 
 - **Casos especiais:** nenhuma restrição, restrições repetidas, ciclo e palavra anterior que contém a seguinte como prefixo próprio.
 - **Atalhos não aceitos:** ordenar letras por frequência ou comparar caracteres além do primeiro ponto de diferença.
 
-## Problema G — Kattis Eulerian Path
+## Problema G* — Kattis Eulerian Path
 
 - **Link oficial:** <https://open.kattis.com/problems/eulerianpath>.
 - **Modelagem esperada:** dígrafo no qual cada aresta deve ser utilizada exatamente uma vez.

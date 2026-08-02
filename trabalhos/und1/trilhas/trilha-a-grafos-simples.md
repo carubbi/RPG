@@ -2,6 +2,8 @@
 
 Esta trilha reúne três problemas sobre modelagem de relações não dirigidas, representação e interpretação de medidas estruturais. A busca somente poderá ser exigida depois de ensinada.
 
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+
 ## Problema A — Kattis Weak Vertices
 
 - **Link oficial:** <https://open.kattis.com/problems/weakvertices>.
@@ -14,7 +16,7 @@ Esta trilha reúne três problemas sobre modelagem de relações não dirigidas,
 - **Casos especiais:** grafo sem arestas, grafo completo, vértice isolado e vértice pertencente a mais de um triângulo.
 - **Atalhos não aceitos:** biblioteca externa de grafos ou detecção pronta de cliques.
 
-## Problema B — UVA 11387 The 3-Regular Graph
+## Problema B* — UVA 11387 The 3-Regular Graph
 
 - **Link oficial:** <https://onlinejudge.org/external/113/11387.pdf>.
 - **Modelagem esperada:** construção de um grafo simples não dirigido e 3-regular com a ordem informada.

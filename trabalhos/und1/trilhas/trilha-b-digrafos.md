@@ -2,6 +2,8 @@
 
 Esta trilha reúne três problemas sobre relações orientadas, graus de entrada e saída, fontes, sorvedouros e alcançabilidade.
 
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+
 ## Problema D — Codeforces 115A Party
 
 - **Link oficial:** <https://codeforces.com/problemset/problem/115/A>.

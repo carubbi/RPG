@@ -2,6 +2,8 @@
 
 Esta trilha reúne três problemas de bipartição, emparelhamento e isomorfismo de árvores. Como esses conteúdos aparecem mais tarde na unidade, os acompanhamentos iniciais ficarão restritos aos conhecimentos já ensinados.
 
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+
 ## Problema H — CSES Building Teams
 
 - **Link oficial:** <https://cses.fi/problemset/task/1668>.
@@ -14,7 +16,7 @@ Esta trilha reúne três problemas de bipartição, emparelhamento e isomorfismo
 - **Casos especiais:** vértices isolados, várias componentes, ciclo par e ciclo ímpar.
 - **Atalhos não aceitos:** atribuição gulosa sem propagação pelas arestas ou biblioteca pronta de bipartição.
 
-## Problema I — Kattis Paintball
+## Problema I* — Kattis Paintball
 
 - **Link oficial:** <https://open.kattis.com/problems/paintball>.
 - **Modelagem esperada:** grafo bipartido formado por uma cópia dos jogadores como atiradores e outra como alvos.
@@ -26,7 +28,7 @@ Esta trilha reúne três problemas de bipartição, emparelhamento e isomorfismo
 - **Casos especiais:** jogador sem alvo possível, escolhas concorrentes pelo mesmo alvo e correspondência perfeita com múltiplas soluções.
 - **Atalhos não aceitos:** escolher alvos gulosamente sem remanejamento ou usar biblioteca pronta de matching.
 
-## Problema J — CSES Tree Isomorphism I
+## Problema J* — CSES Tree Isomorphism I
 
 - **Link oficial:** <https://cses.fi/problemset/task/1700>.
 - **Material de apoio:** [projeto-base de isomorfismo de árvores](../../T6/README.md).

@@ -2,6 +2,8 @@
 
 Esta trilha reúne quatro problemas de exploração, componentes, níveis, predecessores e caminhos mínimos em grafos sem pesos.
 
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+
 ## Problema G — CSES Counting Rooms
 
 - **Link oficial:** <https://cses.fi/problemset/task/1192>.
@@ -14,7 +16,7 @@ Esta trilha reúne quatro problemas de exploração, componentes, níveis, prede
 - **Casos especiais:** nenhuma célula livre, uma única sala e várias regiões isoladas.
 - **Atalhos não aceitos:** biblioteca de rotulação de componentes ou processamento de imagens.
 
-## Problema H — CSES Labyrinth
+## Problema H* — CSES Labyrinth
 
 - **Link oficial:** <https://cses.fi/problemset/task/1193>.
 - **Modelagem esperada:** grafo implícito não ponderado sobre as células transitáveis do labirinto.
@@ -38,7 +40,7 @@ Esta trilha reúne quatro problemas de exploração, componentes, níveis, prede
 - **Casos especiais:** conexão direta, destino inalcançável e várias rotas mínimas.
 - **Atalhos não aceitos:** algoritmo de caminhos ponderados ou biblioteca externa de grafos.
 
-## Problema J — UVA 336 A Node Too Far
+## Problema J* — UVA 336 A Node Too Far
 
 - **Link oficial:** <https://onlinejudge.org/external/3/336.pdf>.
 - **Modelagem esperada:** grafo não dirigido com rótulos arbitrários e consultas de alcance limitado por TTL.

@@ -2,7 +2,9 @@
 
 Esta trilha reúne quatro problemas que aprofundam DFS/BFS por meio de conectividade forte, pontes e vértices de articulação.
 
-## Problema A — CSES Flight Routes Check
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+
+## Problema A* — CSES Flight Routes Check
 
 - **Link oficial:** <https://cses.fi/problemset/task/1682>.
 - **Modelagem esperada:** dígrafo de cidades e voos unidirecionais.
@@ -14,7 +16,7 @@ Esta trilha reúne quatro problemas que aprofundam DFS/BFS por meio de conectivi
 - **Casos especiais:** um vértice, grafo fortemente conexo e componente fonte ou sorvedouro na condensação.
 - **Atalhos não aceitos:** testar todos os pares ou ignorar a direção dos voos.
 
-## Problema B — Codeforces 427C Checkposts
+## Problema B* — Codeforces 427C Checkposts
 
 - **Link oficial:** <https://codeforces.com/problemset/problem/427/C>.
 - **Modelagem esperada:** dígrafo de cruzamentos com custo associado a cada vértice.
@@ -38,7 +40,7 @@ Esta trilha reúne quatro problemas que aprofundam DFS/BFS por meio de conectivi
 - **Casos especiais:** raiz com um único filho, ciclo, árvore e grafo com um único vértice.
 - **Atalhos não aceitos:** remover cada vértice e repetir uma busca como solução final ou usar função pronta de articulação.
 
-## Problema D — UVA 796 Critical Links
+## Problema D* — UVA 796 Critical Links
 
 - **Link oficial:** <https://onlinejudge.org/external/7/796.pdf>.
 - **Modelagem esperada:** grafo não dirigido, possivelmente desconexo, de servidores e ligações.
