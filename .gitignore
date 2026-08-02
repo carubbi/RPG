@@ -10,6 +10,7 @@ docs/
 plan/
 /bkp/
 /prof/
+/algs4-java/tests/
 
 # datasets oficiais grandes do algs4
 /dataset/largeG.txt
