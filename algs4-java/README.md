@@ -17,10 +17,19 @@ O código-fonte está concentrado em:
 Há material para vários tópicos, incluindo:
 
 - estruturas fundamentais (`Bag`, `Stack`, `Queue`, `UF`, `ST`)
-- grafos e digrafos (`Graph`, `Digraph`, `CC`, `DepthFirstSearch`, `BreadthFirstPaths`, `Topological`, `KosarajuSharirSCC`)
+- grafos e digrafos (`Graph`, `Digraph`, `CC`, `Bridge`, `Biconnected`, `DepthFirstSearch`, `BreadthFirstPaths`, `Topological`, `KosarajuSharirSCC`)
 - grafos ponderados e caminhos mínimos (`Edge`, `DirectedEdge`, `EdgeWeightedGraph`, `EdgeWeightedDigraph`, `DijkstraSP`, `BellmanFordSP`, `AcyclicSP`)
 - árvores geradoras mínimas (`LazyPrimMST`, `PrimMST`, `KruskalMST`)
 - fluxos, strings, ordenação, geometria e outros tópicos do livro
+
+## Pontes e vértices de articulação
+
+- [`Bridge`](./algs4/Bridge.java): identifica e imprime pontes e calcula a quantidade de componentes após removê-las.
+- [`Biconnected`](./algs4/Biconnected.java): identifica vértices de articulação.
+- **Precondição:** grafo simples não orientado.
+- **Complexidade:** `O(V + E)` em tempo e `O(V)` em espaço adicional.
+
+As classes são adaptações para `package algs4` das implementações [`Bridge.java`](https://algs4.cs.princeton.edu/41graph/Bridge.java.html) e [`Biconnected.java`](https://algs4.cs.princeton.edu/41graph/Biconnected.java.html), publicadas como material complementar da Seção 4.1. O teste local está em [`tests/BridgeBiconnectedTest.java`](./tests/BridgeBiconnectedTest.java).
 
 ## Escopo no projeto
 

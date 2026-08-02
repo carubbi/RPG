@@ -192,9 +192,11 @@
 
 - **AT (Avaliação Teórica):** ocupará um encontro teórico integral e será composta por dez questões objetivas contextualizadas, de múltipla escolha e no estilo ENADE, aplicadas no AVA/Moodle, com ponderação de 70%. A nota e as justificativas das respostas serão disponibilizadas somente após o encerramento da avaliação.
 
-- **AP (Avaliação Prática):** será composta pelo acompanhamento processual e pela apresentação de um trabalho em grupo, implementado em Java ou Python, com ponderação de 30%.
+- **AP (Avaliação Prática):** será composta pelo acompanhamento processual e pela apresentação de um trabalho em grupo, desenvolvido em Java ou Python, com ponderação de 30%.
 
-  - **Acompanhamento processual:** ocorrerá nos encontros práticos oferecidos antes da apresentação. Cada encontro deverá atestar um conhecimento previamente ensinado por meio de evidência verificável, como modelagem, execução manual, representação, implementação parcial, testes, análise de complexidade ou diagnóstico de erro.
+  - **Construção guiada:** os algoritmos serão desenvolvidos e analisados pelo professor e disponibilizados como implementações de referência. Os grupos deverão compreender, rastrear, integrar e adaptar essas implementações ao problema atribuído, justificando as alterações. Não será exigida implementação integral a partir do zero.
+  - **Equivalência entre linguagens:** a adaptação somente será exigida quando houver implementação de referência na linguagem escolhida. Na ausência dela, o professor deverá fornecê-la antes do acompanhamento ou restringir a atribuição.
+  - **Acompanhamento processual:** ocorrerá nos encontros práticos oferecidos antes da apresentação. Cada encontro deverá atestar um conhecimento previamente ensinado por meio de evidência verificável, como modelagem, execução manual, representação, adaptação, integração, testes, análise de complexidade ou diagnóstico de erro.
   - **Apresentação:** ocupará um encontro prático integral e avaliará modelagem, estratégia algorítmica, complexidade, casos especiais e comunicação da solução.
 
 - **AV (Avaliação Somativa):** resultante da composição entre a avaliação teórica AT e a avaliação prática AP.
@@ -202,14 +204,14 @@
 ### Distribuição dos conteúdos por avaliação
 
 - **AV1:** AT sobre fundamentos da teoria dos grafos, tipos, representação computacional e algoritmos de busca; AP correspondente ao T1, transversal entre a Unidade I e o início da Unidade II, organizada em quatro marcos comuns de modelagem, representação computacional, aplicação básica de DFS e aplicação básica de BFS com conclusão.
-- **AV2:** AT sobre propriedades de grafos dirigidos e não dirigidos, conectividade e problemas clássicos; AP correspondente ao T2, organizada nas trilhas de buscas e conectividade, percursos e estruturas de ordem e relações estruturais.
-- **AV3:** AT sobre algoritmos de otimização em grafos ponderados; AP correspondente ao T3, organizada nas trilhas de árvore geradora mínima, caminhos mínimos e fluxo máximo.
+- **AV2:** AT sobre propriedades de grafos dirigidos e não dirigidos, conectividade e problemas clássicos; AP correspondente ao T2, organizada em bancos temáticos de buscas e conectividade, percursos e estruturas de ordem e relações estruturais.
+- **AV3:** AT sobre algoritmos de otimização em grafos ponderados; AP correspondente ao T3, organizada nas classes de árvore geradora mínima, caminhos mínimos e fluxo máximo.
 
-### Organização dos problemas e trilhas
+### Organização dos problemas
 
 - O T1 terá aproximadamente dez problemas distintos. Cada grupo receberá um problema que exija modelagem, representação computacional e aplicação básica de ao menos uma busca, com escolha justificada entre DFS e BFS, sem exigir o tratamento formal de percursos, conectividade ou propriedades estruturais da Unidade II.
 - O T2 terá dez problemas no total: quatro de buscas e conectividade, três de percursos e estruturas de ordem e três de relações estruturais.
-- O T3 manterá dez problemas em cada trilha, totalizando trinta opções. Aproximadamente dez problemas serão selecionados em cada oferta, com equilíbrio de dificuldade e carga.
+- O T3 manterá dez problemas em cada classe de otimização, totalizando trinta opções. Aproximadamente dez problemas serão selecionados em cada oferta, com equilíbrio de dificuldade e carga.
 - Cada grupo resolverá somente um problema por AP. A AT verificará a abrangência conceitual da unidade, enquanto a AP verificará a aplicação aprofundada no problema atribuído.
 - Cada problema deverá explicitar o conhecimento teórico aferido, a razão pela qual ele é necessário, a evidência de acompanhamento e a complexidade esperada.
 
@@ -219,4 +221,4 @@
 - A apresentação da AP ocorrerá antes da AT sempre que houver encontro prático regular dentro da janela institucional. Na AV3 das turmas de quarta-feira, a apresentação ocorrerá excepcionalmente em 09/12/2026, após a AT, porque a janela da AV3 começa em 03/12/2026 e não existe outro encontro regular de quarta-feira no período.
 - Os problemas de T1, T2 e T3 serão selecionados de plataformas com submissão verificável, como UVA/Online Judge, Kattis, Codeforces, CSES ou equivalentes, com dificuldade crescente entre os trabalhos.
 - Nenhum acompanhamento exigirá conteúdo ainda não ensinado. O `Accepted` comprovará a correção computacional, mas não substituirá a aferição de modelagem, fundamentação teórica, correção e complexidade.
-- A AV2 verificará se os alunos estão aptos, quanto aos fundamentos, à modelagem e à implementação, para desenvolver as trilhas de otimização da AV3.
+- A AV2 verificará se os alunos estão aptos, quanto aos fundamentos, à modelagem e à adaptação algorítmica, para resolver os problemas de otimização da AV3.

@@ -1,8 +1,8 @@
-# T2 — Trilha C: relações estruturais
+# T2 — Banco de problemas: relações estruturais
 
-Esta trilha reúne três problemas de bipartição, emparelhamento e isomorfismo de árvores. Como esses conteúdos aparecem mais tarde na unidade, os acompanhamentos iniciais ficarão restritos aos conhecimentos já ensinados.
+Este banco reúne três problemas de bipartição, emparelhamento e isomorfismo de árvores. Como esses conteúdos aparecem mais tarde na unidade, os acompanhamentos iniciais ficarão restritos aos conhecimentos já ensinados.
 
-`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de adaptação, sem depender de conteúdo-base ausente.
 
 ## Problema H — CSES Building Teams
 
@@ -41,4 +41,4 @@ Esta trilha reúne três problemas de bipartição, emparelhamento e isomorfismo
 - **Casos especiais:** árvores de dois vértices, caminhos, estrelas, filhos em ordens diferentes e estruturas com a mesma sequência de graus.
 - **Atalhos não aceitos:** comparar rótulos, ordem de leitura, desenho ou apenas sequência de graus.
 
-O Problema J possui maior carga algorítmica que os demais problemas da trilha. Sua atribuição deverá considerar o domínio demonstrado pelo grupo, e o projeto-base será usado como andaime conceitual e estrutural, não como solução a ser copiada sem compreensão.
+O Problema J possui maior carga algorítmica que os demais problemas do banco. Sua atribuição deverá considerar o domínio demonstrado pelo grupo, e o projeto-base será usado como andaime conceitual e estrutural, não como solução a ser copiada sem compreensão.

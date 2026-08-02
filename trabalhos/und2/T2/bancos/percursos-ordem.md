@@ -1,8 +1,8 @@
-# T2 — Trilha B: percursos e estruturas de ordem
+# T2 — Banco de problemas: percursos e estruturas de ordem
 
-Esta trilha reúne três problemas de ciclos dirigidos, ordenação topológica e percurso euleriano.
+Este banco reúne três problemas de ciclos dirigidos, ordenação topológica e percurso euleriano.
 
-`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de adaptação, sem depender de conteúdo-base ausente.
 
 ## Problema E — CSES Round Trip II
 

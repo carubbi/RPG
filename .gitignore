@@ -10,3 +10,10 @@ docs/
 plan/
 /bkp/
 /prof/
+
+# datasets oficiais grandes do algs4
+/dataset/largeG.txt
+/dataset/largeDG.txt
+/dataset/largeEWG.txt
+/dataset/largeEWD.txt
+/dataset/largeUF.txt

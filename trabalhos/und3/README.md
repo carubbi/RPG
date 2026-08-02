@@ -12,19 +12,19 @@ Otimização em grafos ponderados e redes.
 
 ## Objetivo
 
-Cada grupo deverá resolver um problema de otimização, implementar a solução em Python ou Java, obter `Accepted`, manter um repositório autocontido e apresentar como a modelagem conduz ao algoritmo escolhido.
+Cada grupo deverá resolver um problema de otimização, adaptar a implementação de referência em Python ou Java, obter `Accepted`, manter um repositório autocontido e apresentar como a modelagem conduz ao algoritmo escolhido.
 
-O T3 é uma única AP organizada em três trilhas. Cada trilha mantém dez opções, totalizando trinta problemas. Os arquivos funcionam como bancos e requisitos específicos, não como avaliações independentes:
+O T3 é uma única AP organizada em três classes de otimização. Cada classe mantém dez opções, totalizando trinta problemas. Os arquivos funcionam como bancos e requisitos específicos, não como avaliações independentes:
 
-- **Trilha A — Árvore geradora mínima:** [banco de problemas de MST](T1/T1.md).
-- **Trilha B — Caminhos mínimos:** [banco de problemas de caminhos mínimos](T2/T2.md).
-- **Trilha C — Fluxo máximo:** [banco de problemas de fluxo](T3/T3.md).
+- **Árvore geradora mínima:** [banco de problemas de MST](T1/T1.md).
+- **Caminhos mínimos:** [banco de problemas de caminhos mínimos](T2/T2.md).
+- **Fluxo máximo:** [banco de problemas de fluxo](T3/T3.md).
 
-Em cada oferta, aproximadamente dez problemas serão selecionados e atribuídos aos grupos. A seleção deverá equilibrar trilhas, dificuldade, carga de implementação e profundidade de modelagem. As regras de acompanhamento, entrega, apresentação e pontuação pertencem exclusivamente a este documento.
+Em cada oferta, aproximadamente dez problemas serão selecionados e atribuídos aos grupos. A seleção deverá equilibrar as classes, a dificuldade, a carga de adaptação e a profundidade de modelagem. As regras de acompanhamento, entrega, apresentação e pontuação pertencem exclusivamente a este documento.
 
 ## Acompanhamento processual
 
-Todos os encontros práticos oferecidos antes da apresentação serão usados para acompanhamento. Cada grupo deverá manter evidências curtas e progressivas no repositório.
+Todos os encontros práticos oferecidos antes da apresentação serão usados para acompanhamento. Cada grupo deverá manter evidências curtas e progressivas no repositório. A implementação de referência, as alterações e suas justificativas deverão ser registradas.
 
 ### Marco 1 — Formulação
 
@@ -42,18 +42,19 @@ Todos os encontros práticos oferecidos antes da apresentação serão usados pa
 
 ### Marco 3 — Escolha do algoritmo
 
-- justificar Kruskal/Prim, Dijkstra ou Ford-Fulkerson/Edmonds-Karp conforme a trilha;
+- justificar Kruskal/Prim, Dijkstra ou Ford-Fulkerson/Edmonds-Karp conforme a classe;
 - enunciar as condições de aplicabilidade;
 - apresentar o invariante, propriedade ou operação central;
 - estimar a complexidade.
 
 Esse marco somente será exigido depois que cada família algorítmica for ensinada.
 
-### Marco 4 — Implementação
+### Marco 4 — Adaptação e integração
 
-Este marco ocorrerá depois do marco 3 da respectiva trilha.
+Este marco ocorrerá depois do marco 3 da respectiva classe.
 
-- implementar a lógica principal em Python ou Java;
+- integrar e adaptar a implementação de referência em Python ou Java;
+- justificar as alterações realizadas;
 - manter no repositório todas as dependências diretas;
 - não usar biblioteca externa que resolva o problema;
 - registrar uma execução reproduzível.
@@ -72,18 +73,17 @@ Este marco ocorrerá depois do marco 3 da respectiva trilha.
 - disponibilizar evidência da submissão;
 - preparar e ensaiar a apresentação.
 
-## Progressão dos marcos por trilha
+## Progressão dos marcos por classe
 
-- semana 13: marcos 3 e 4 da Trilha A;
-- semana 14: continuidade do marco 4 da Trilha A;
-- semana 15: marcos 3 e 4 da Trilha B;
-- semana 16: marcos 3 e 4 da Trilha C;
-- semana 17: marco 5 de todas as trilhas; marco 6 das turmas de quinta-feira;
+- semana 14: marco 3 de MST;
+- semana 15: marco 4 de MST; marcos 3 e 4 de caminhos mínimos;
+- semana 16: marcos 3 e 4 de fluxo máximo;
+- semana 17: marco 5 de todas as classes; marco 6 das turmas de quinta-feira;
 - semana 18: marco 6 das turmas de quarta-feira.
 
 ## Entrega
 
-A entrega será feita por um link de repositório público no GitHub informado no AVA/Moodle. A estrutura específica poderá seguir o banco da trilha, mas deverá conter:
+A entrega será feita por um link de repositório público no GitHub informado no AVA/Moodle. A estrutura específica poderá seguir o banco da classe, mas deverá conter:
 
 ```text
 T3/
@@ -101,7 +101,9 @@ T3/
     └── casos-de-teste.txt
 ```
 
-O `README.md` deverá explicar problema, integrantes, linguagem, execução, modelagem, algoritmo, correção esperada, complexidade, casos especiais e evidência do `Accepted`.
+O `README.md` deverá explicar problema, integrantes, linguagem, execução, modelagem, algoritmo, implementação de referência, alterações, justificativas, correção esperada, complexidade, casos especiais e evidência do `Accepted`.
+
+A linguagem será definida conforme a disponibilidade da implementação de referência informada pelo professor.
 
 ## Apresentação
 
@@ -118,14 +120,16 @@ O grupo não deverá ler código linha por linha. A apresentação deverá prior
 
 A AP3 será avaliada em escala de 0 a 10 e terá ponderação de 30% na AV3:
 
-- **2,0 pontos:** acompanhamento processual e evidências dos seis marcos;
-- **4,0 pontos:** correção, `Accepted`, organização e reprodutibilidade;
+- **4,0 pontos:** acompanhamento processual e evidências dos seis marcos;
+- **2,0 pontos:** solução adaptada, `Accepted`, organização e reprodutibilidade;
 - **4,0 pontos:** apresentação, incluindo modelagem, estratégia, complexidade, casos especiais e comunicação.
 
 A avaliação pelos alunos ouvintes terá função pedagógica e integrará o critério de comunicação, sem substituir a nota do professor.
 
-## Equivalência entre trilhas
+O uso de IA deverá ser declarado no `README.md`. Cada integrante deverá compreender, justificar, testar e adaptar os artefatos utilizados.
 
-A dificuldade será controlada pela atribuição dos problemas e pela rubrica comum. Um grupo não será avaliado por conteúdos específicos de outra trilha, mas todos deverão demonstrar o mesmo nível de domínio em modelagem, implementação, análise e comunicação.
+## Equivalência entre classes
+
+A dificuldade será controlada pela atribuição dos problemas e pela rubrica comum. Um grupo não será avaliado por conteúdos específicos de outra classe, mas todos deverão demonstrar o mesmo nível de domínio em modelagem, adaptação, análise e comunicação.
 
 Antes da distribuição, o professor deverá verificar os links oficiais, excluir problemas que exijam como núcleo algoritmos não ensinados e registrar no AVA/Moodle o problema atribuído a cada grupo. A existência de trinta opções não autoriza distribuição aleatória.

@@ -1,8 +1,8 @@
-# T2 — Trilha A: buscas e conectividade
+# T2 — Banco de problemas: buscas e conectividade
 
-Esta trilha reúne quatro problemas que aprofundam DFS/BFS por meio de conectividade forte, pontes e vértices de articulação.
+Este banco reúne quatro problemas que aprofundam DFS/BFS por meio de conectividade forte, pontes e vértices de articulação.
 
-`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de implementação, sem depender de conteúdo-base ausente.
+`*` **Desafio avançado:** exige maior transferência de conhecimentos, combinação de conceitos ou carga de adaptação, sem depender de conteúdo-base ausente.
 
 ## Problema A* — CSES Flight Routes Check
 

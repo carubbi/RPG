@@ -76,6 +76,8 @@ Algumas classes de teste recebem parâmetros numéricos e constroem um grafo ale
 ```sh
 java -cp "$CP" algs4.GraphGenerator 8 12
 java -cp "$CP" algs4.DigraphGenerator 8 12
+java -cp "$CP" algs4.Bridge 8 12
+java -cp "$CP" algs4.Biconnected 8 12
 java -cp "$CP" algs4.EulerianCycle 8 12
 java -cp "$CP" algs4.EulerianPath 8 12
 java -cp "$CP" algs4.Bipartite 3 4 8 0
@@ -124,9 +126,26 @@ java -cp "$CP" algs4.CPM < ../dataset/jobsPC.txt
 java -cp "$CP" algs4.Arbitrage < ../dataset/rates.txt
 ```
 
+## Teste de pontes e vértices de articulação
+
+O teste usa grafos simples não orientados com ciclo, pontes e vértices de articulação:
+
+```sh
+javac -cp "$CP" -d "$CP" tests/BridgeBiconnectedTest.java
+java -ea -cp "$CP" BridgeBiconnectedTest
+```
+
+A execução termina com:
+
+```text
+BridgeBiconnectedTest: OK
+```
+
 ## Observações
 
 - O comando de compilação acima foi validado localmente com `javac` e `java`.
 - Os exemplos usam `../dataset/`, então o diretório corrente deve ser `algs4-java`.
+- `Bridge` e `Biconnected` pressupõem grafos simples não orientados.
+- As duas classes são adaptações dos materiais complementares oficiais da Seção 4.1 do algs4.
 - `AcyclicSP.java` traz um cabeçalho de execução inconsistente no comentário inicial; na prática, o uso correto neste repositório é com arquivo e vértice-fonte, como no exemplo acima.
 - Se você preferir não usar `/tmp`, pode trocar `"/tmp/algs4-java-classes"` por outro diretório de saída compilada.
