@@ -35,7 +35,7 @@ O T1 constitui uma única AP com dez problemas no total.
 
 - Modelagem de relações não dirigidas.
 - Ordem, tamanho, densidade e sequência de graus.
-- Adjacência, incidência, regularidade, completude e conectividade.
+- Adjacência, incidência, regularidade e completude.
 - Classificação dos tipos de grafos previstos no projeto de ensino.
 
 ### [Trilha B — Modelagem de dígrafos e medidas estruturais](../../trabalhos/und1/trilhas/trilha-b-digrafos.md)
@@ -43,12 +43,12 @@ O T1 constitui uma única AP com dez problemas no total.
 - Modelagem de relações orientadas.
 - Ordem, tamanho, densidade e graus de entrada e saída.
 - Adjacência, incidência, fontes, sorvedouros e simetria.
-- Direção das arestas e alcançabilidade elementar.
+- Direção das arestas e vizinhança orientada.
 
 ### [Trilha C — Buscas simples com DFS/BFS](../../trabalhos/und1/trilhas/trilha-c-buscas.md)
 
 - Exploração e alcançabilidade.
-- Componentes e árvores de busca.
+- Estados de visita e árvores de busca.
 - Níveis, predecessores e reconstrução de caminhos.
 - Caminho mínimo em grafos sem pesos.
 
@@ -57,15 +57,15 @@ O T1 constitui uma única AP com dez problemas no total.
 - As trilhas A e B serão desenvolvidas durante as aulas de modelagem, tipos e representações.
 - A Trilha C somente exigirá DFS/BFS depois que essas buscas forem ensinadas no início da Unidade II.
 - Antes do ensino de DFS/BFS, os grupos da Trilha C apresentarão apenas evidências de compreensão, modelagem e representação.
-- Todos os grupos deverão classificar uma sequência relevante como passeio, trilha, caminho ou ciclo e justificar quando alguma dessas estruturas não puder ocorrer.
+- Os grupos deverão interpretar ordem de exploração, alcançabilidade, níveis e predecessores quando aplicáveis.
 
 # Unidade II — Resolver problemas com grafos conexos
 
 ## Turma teórica
 
 - Busca em profundidade: estados de visita e tempos de descoberta e término; busca em largura.
-- Conectividade em grafos dirigidos e não dirigidos.
-- Passeios, trilhas, caminhos, ciclos, circuitos e tours.
+- Tratamento formal da conectividade em grafos dirigidos e não dirigidos.
+- Tratamento formal de passeios, trilhas, caminhos, ciclos, circuitos e tours.
 - Grafos eulerianos e hamiltonianos.
 - Cortes em vértices e arestas: árvore DFS, valores `low`, pontes e vértices de articulação.
 - Introdução aos problemas de coloração, emparelhamento e isomorfismo.

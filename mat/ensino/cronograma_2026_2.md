@@ -68,7 +68,7 @@
 #### Semana 2 — Tipos de grafos e modelagem do T1 — 10–13/08
 
 - **Datas:** teórica em 10/08 (seg.) e 11/08 (ter.); prática em 12/08 (qua.) e 13/08 (qui.).
-- **Turma teórica — tipos e propriedades de grafos:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; dígrafos acíclicos (DAGs); grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições; passeio; trilha; caminho.
+- **Turma teórica — tipos e propriedades de grafos:** grafos rotulados; grafos simples; multigrafos; grafos não orientados; dígrafos; dígrafos acíclicos (DAGs); grafos ponderados; grafos regulares; grafos completos; grafos bipartidos; grafos planares; grafos conexos; orientação; laços; arestas paralelas; pesos; rótulos; partições.
 - **Turma prática — modelagem inicial do T1 (marco 1):** lançamento do T1; apresentação das trilhas; atribuição dos problemas; preparação do ambiente Python/Java; enunciado; entrada; saída; restrições; modelagem de instância pequena; classificação do grafo; ordem; tamanho; densidade; graus.
 - **Recursos:** [A2 — Tipos e representação computacional](../aulas/A2_Tipos_Representação_Computacional_.pdf), [`tinyG.txt`](../../dataset/tinyG.txt), [`tinyDG.txt`](../../dataset/tinyDG.txt) e [`cavalo_3x3.txt`](../../dataset/cavalo_3x3.txt).
 - **Produto/evidência:** ficha de modelagem; classificação justificada; instância pequena.
@@ -87,7 +87,7 @@
 
 - **Datas:** teórica em 24/08 (seg.) e 25/08 (ter.); prática em 26/08 (qua.) e 27/08 (qui.).
 - **Turma teórica — busca em profundidade:** busca em profundidade; estados de visita; árvore de busca; tempo de descoberta; tempo de término; classificação de arestas; alcançabilidade; predecessores; caminhos; invariantes; correção; complexidade `O(V + E)`.
-- **Turma prática — aplicação de DFS no T1 (marco 3):** execução manual de DFS; componentes; alcançabilidade; passeio; trilha; caminho; ciclo; Trilha C: implementação da busca; Trilhas A e B: aplicação da busca ou justificativa da estratégia estrutural.
+- **Turma prática — aplicação de DFS no T1 (marco 3):** execução manual de DFS; estados de visita; árvore de busca; tempos de descoberta e término; alcançabilidade; predecessores; Trilha C: implementação da busca; Trilhas A e B: aplicação da busca ou justificativa da estratégia estrutural.
 - **Recursos:** [`DepthFirstSearch`](../../algs4-py/algs4/depth_first_search.py) e [`DepthFirstPaths`](../../algs4-py/algs4/depth_first_paths.py).
 - **Produto/evidência:** rastreamento manual; papel da DFS; implementação parcial; correção; complexidade.
 
@@ -96,14 +96,14 @@
 - **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
 - **Turma teórica — busca em largura:** busca em largura; fronteiras; árvore BFS; níveis; predecessores; distância; reconstrução de caminhos; caminho mínimo em grafos sem pesos; comparação com DFS; correção; complexidade `O(V + E)`.
 - **Turma prática — conclusão do T1 (marcos 4 e 5; 70 minutos):** execução manual de BFS; estratégia estrutural, DFS ou BFS; ordem de visita; caminho reconstruído; integração da implementação; testes; submissão; complexidade; ensaio.
-- **Turma prática — revisão teórica (30 minutos):** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; percursos; DFS e BFS; alcançabilidade e caminhos; correção e complexidade; dúvidas.
+- **Turma prática — revisão teórica (30 minutos):** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; DFS e BFS; alcançabilidade e caminhos básicos; correção e complexidade; dúvidas.
 - **Recursos:** [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
 - **Produto/evidência:** solução testada; estratégia justificada; `Accepted`; correção; complexidade; apresentação.
 
 #### Semana 6 — Revisão teórica para a AT1 e apresentação do T1 — 07–10/09
 
 - **Datas:** **07/09 — Dia da Independência do Brasil — feriado, sem aula**; teórica em 08/09 (ter.); apresentações em 09/09 (qua.) e 10/09 (qui.).
-- **Turma teórica — revisão teórica completa para a AT1:** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; percursos; DFS e BFS; alcançabilidade e caminhos; correção e complexidade; dúvidas.
+- **Turma teórica — revisão teórica completa para a AT1:** fundamentos, modelagem e medidas estruturais; tipos e propriedades de grafos; representações computacionais; DFS e BFS; alcançabilidade e caminhos básicos; correção e complexidade; dúvidas.
 - **Turma prática — apresentação da AP1:** apresentações do T1; aproximadamente dez grupos; avaliação; devolutiva.
 - **Recursos:** repositórios; apresentações; rubrica da AP1.
 - **Produto/evidência:** apresentação; avaliação da AP1; repositório congelado; devolutiva.
@@ -116,10 +116,10 @@
 - **Recursos:** algoritmos de DFS/BFS; datasets da Unidade II.
 - **Produto/evidência:** registro da AT1; ficha inicial do T2; instância pequena.
 
-#### Semana 8 — Percursos, conectividade e desenvolvimento do T2 — 21–24/09
+#### Semana 8 — Formalização de percursos e conectividade no T2 — 21–24/09
 
 - **Datas:** teórica em 21/09 (seg.) e 22/09 (ter.); prática em 23/09 (qua.) e 24/09 (qui.).
-- **Turma teórica — percursos e conectividade:** passeio; trilha; caminho; ciclo; circuito; tour; componentes conexas; árvore DFS; tempos de descoberta; valores `low`; pontes; vértices de articulação; critérios de cortes em vértices e arestas.
+- **Turma teórica — formalização de percursos e conectividade:** passeio; trilha; caminho; ciclo; circuito; tour; componentes conexas; árvore DFS; tempos de descoberta; valores `low`; pontes; vértices de articulação; critérios de cortes em vértices e arestas.
 - **Turma prática — aplicação de conectividade no T2 (marco 2):** conectividade; execução manual de DFS/BFS; Trilha A: componentes, pontes ou articulações; Trilha B: ciclos; Trilha C: bipartição e modelagem.
 - **Recursos:** [`CC`](../../algs4-py/algs4/cc.py) e [`Cycle`](../../algs4-py/algs4/cycle.py).
 - **Produto/evidência:** critério estrutural; execução na instância pequena.
@@ -223,7 +223,7 @@
 - **AP1/T1:** acompanhamentos de 12–13/08 a 02–03/09; apresentações em 09–10/09.
 - **AT1:** 14–15/09; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 20% + AP 80%.
-- **Conteúdo:** fundamentos, tipos, representações, DFS, BFS, alcançabilidade e reconhecimento básico de passeio, trilha, caminho e ciclo.
+- **Conteúdo:** fundamentos, modelagem, medidas estruturais, tipos, representações, DFS, BFS, alcançabilidade e caminhos básicos.
 - **Registro:** até 21/09.
 
 ### AV2
