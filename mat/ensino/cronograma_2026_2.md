@@ -96,7 +96,7 @@
 - **Datas:** teórica em 31/08 (seg.) e 01/09 (ter.); prática em 02/09 (qua.) e 03/09 (qui.).
 - **Turma teórica — busca em largura:** busca em largura; fronteiras; árvore BFS; níveis; predecessores; distância; reconstrução de caminhos; caminho mínimo em grafos sem pesos; comparação com DFS; correção; complexidade `O(V + E)`.
 - **Turma prática — conclusão do T1 (marcos 4 e 5; 70 minutos):** execução manual de BFS; estratégia estrutural, DFS ou BFS; ordem de visita; caminho reconstruído; integração da implementação; testes; submissão; complexidade; ensaio.
-- **Turma prática — revisão teórica comum ao final da aula (30 minutos):** fundamentos; tipos de grafos; representações computacionais; DFS; BFS; síntese conceitual; esclarecimento de dúvidas; sem avaliação; sem conteúdo novo.
+- **Turma prática — revisão teórica (30 minutos):** fundamentos; tipos de grafos; representações computacionais; DFS; BFS; dúvidas.
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
 - **Produto/evidência:** solução testada; estratégia justificada; `Accepted`; correção; complexidade; apresentação.
 
