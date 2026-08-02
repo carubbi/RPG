@@ -126,21 +126,6 @@ java -cp "$CP" algs4.CPM < ../dataset/jobsPC.txt
 java -cp "$CP" algs4.Arbitrage < ../dataset/rates.txt
 ```
 
-## Teste de pontes e vértices de articulação
-
-O teste usa grafos simples não orientados com ciclo, pontes e vértices de articulação:
-
-```sh
-javac -cp "$CP" -d "$CP" tests/BridgeBiconnectedTest.java
-java -ea -cp "$CP" BridgeBiconnectedTest
-```
-
-A execução termina com:
-
-```text
-BridgeBiconnectedTest: OK
-```
-
 ## Observações
 
 - O comando de compilação acima foi validado localmente com `javac` e `java`.

@@ -1,4 +1,6 @@
+#!/bin/sh
+
+set -eu
+
 python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
-deactivate
+printf '%s\n' 'Ambiente criado. Ative-o com: source .venv/bin/activate'

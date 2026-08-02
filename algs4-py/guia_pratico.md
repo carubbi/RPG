@@ -1,6 +1,6 @@
 # Como Executar os Exemplos
 
-Este arquivo complementa o [README.md](/Users/carubbi/Documents/aulas/T290/algs4-py/README.md) com a forma correta de executar os exemplos do subconjunto de grafos deste repositório.
+Este arquivo complementa o [README.md](./README.md) com a forma correta de executar os exemplos do subconjunto de grafos deste repositório.
 
 ## Diretório de trabalho
 

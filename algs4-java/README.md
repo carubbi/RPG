@@ -120,7 +120,7 @@ O código-fonte está concentrado em:
 - **Precondição:** grafo simples não orientado.
 - **Complexidade:** `O(V + E)` em tempo e `O(V)` em espaço adicional.
 
-As classes são adaptações para `package algs4` das implementações [`Bridge.java`](https://algs4.cs.princeton.edu/41graph/Bridge.java.html) e [`Biconnected.java`](https://algs4.cs.princeton.edu/41graph/Biconnected.java.html), publicadas como material complementar da Seção 4.1. O teste local está em [`tests/BridgeBiconnectedTest.java`](./tests/BridgeBiconnectedTest.java).
+As classes são adaptações para `package algs4` das implementações [`Bridge.java`](https://algs4.cs.princeton.edu/41graph/Bridge.java.html) e [`Biconnected.java`](https://algs4.cs.princeton.edu/41graph/Biconnected.java.html), publicadas como material complementar da Seção 4.1.
 
 ## Escopo no projeto
 

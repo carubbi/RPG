@@ -11,6 +11,11 @@ plan/
 /bkp/
 /prof/
 /algs4-java/tests/
+/build/
+/.vscode/
+
+# artefatos compilados
+*.class
 
 # datasets oficiais grandes do algs4
 /dataset/largeG.txt

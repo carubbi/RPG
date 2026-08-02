@@ -335,13 +335,19 @@ As janelas de segunda chamada não substituem automaticamente encontros regulare
 
 ### T1 — DFS/BFS
 
+**Enunciado:** [T1 — Modelagem, representação e DFS/BFS](../../trabalhos/und1/T1.md).
+
 **Função:** AP1 transversal com aproximadamente dez problemas distintos, desenvolvidos por quatro marcos comuns de modelagem, representação computacional e aplicação básica de DFS/BFS.
 
 ### T2 — conectividade e problemas clássicos
 
+**Enunciado:** [T2 — Conectividade e propriedades estruturais](../../trabalhos/und2/T2/T2.md).
+
 **Função:** AP2 processual com dez problemas distribuídos entre três grupos: buscas e conectividade, percursos e estruturas de ordem e relações estruturais.
 
 ### T3 — otimização
+
+**Enunciado:** [T3 — Otimização em grafos](../../trabalhos/und3/README.md).
 
 **Função:** AP3 processual com três classes de otimização e dez opções por grupo: MST, caminhos mínimos e fluxo máximo; aproximadamente dez problemas serão selecionados por oferta.
 
