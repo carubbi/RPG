@@ -32,21 +32,13 @@
 
 **Objetivo:** desenvolver os trabalhos T1–T3 por meio de práticas computacionais e acompanhamentos que atestem os conhecimentos ensinados, além de realizar as apresentações das APs.
 
-## 3. Critérios de planejamento
+## 3. Orientações gerais
 
-- O cronograma será alinhado por semana acadêmica para as turmas de segunda/quarta.
-- As cargas de 12, 22 e 38 horas das unidades são referências institucionais; o planejamento usa os encontros efetivamente oferecidos pelo calendário.
-- Não haverá reposição, compensação de carga horária nem criação de encontros externos.
-- Cada feriado que afete um encontro será registrado por data e denominação oficial como “feriado — sem aula”.
+- Não haverá reposição, compensação de carga horária nem criação de encontros externos. Os feriados serão registrados por data e denominação oficial como “feriado — sem aula”.
+- Quando um feriado afetar a aula teórica, a aula prática poderá assumir formato integrado, com aproximadamente 40 minutos de síntese conceitual e 60 minutos de acompanhamento reduzido. Trata-se de uma adequação do encontro regular, sem aula adicional e sem concentração de conteúdo complexo.
 - Os datasets grandes não integram o repositório e devem ser obtidos conforme as [instruções de download](../../dataset/README.md).
-- Quando o encontro teórico for cancelado por feriado, a prática poderá assumir formato integrado, com aproximadamente 40 minutos de síntese de um conceito central e 60 minutos de acompanhamento reduzido. Isso não constitui reposição e não poderá concentrar conteúdo complexo.
-- Python e Java serão alternativas equivalentes. A lógica algorítmica será ensinada uma vez, com comparação pontual das APIs e convenções. A adaptação somente será exigida quando a implementação de referência estiver disponível na linguagem escolhida.
-- Os algoritmos serão apresentados por construção guiada e disponibilizados como implementações de referência. Os grupos deverão compreender, rastrear, integrar e adaptar essas implementações ao problema atribuído, justificando as alterações; não será exigida implementação integral a partir do zero.
-- A AP será composta pelo acompanhamento processual e pela apresentação de T1, T2 ou T3. Na semana 1, o encontro de quarta-feira será teórico e não integrará a AP1. Os encontros práticos oferecidos de 12/08 em diante e anteriores à apresentação produzirão evidência verificável.
-- Nenhum acompanhamento exigirá conceitos-base ainda não ensinados. Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos. Cada acompanhamento produzirá evidência verificável de modelagem, execução manual, representação, adaptação, integração, teste, análise de complexidade ou diagnóstico.
-- Cada apresentação ocupará um encontro prático integral. Para aproximadamente dez grupos, serão usados 10 minutos de abertura, dez ciclos de até 5 minutos de apresentação e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados.
-- Cada AT ocupará um encontro teórico integral e terá dez questões objetivas contextualizadas no estilo ENADE, aplicadas no AVA/Moodle. A nota e as justificativas serão liberadas somente após o encerramento.
-- A apresentação antecederá a AT, exceto na AV3 das turmas de quarta-feira, cuja apresentação ocorrerá em 09/12 após a AT3 por causa da janela institucional de 03 a 09/12.
+- Python e Java serão alternativas equivalentes. A adaptação somente será exigida quando houver implementação de referência na linguagem escolhida.
+- Os algoritmos serão apresentados por construção guiada e disponibilizados como implementações de referência. Os grupos deverão compreender, rastrear, integrar e adaptar essas implementações ao problema atribuído; não será exigida implementação integral a partir do zero.
 
 ## 4. Cronograma por unidade
 
@@ -298,6 +290,14 @@
 - **Produto/evidência:** registro da AT3; avaliação da AP3; encerramento.
 
 ## 5. Avaliações e entregas
+
+### Regras gerais
+
+- A AP será composta pelo acompanhamento processual e pela apresentação de T1, T2 ou T3. Na semana 1, o encontro de quarta-feira será teórico e não integrará a AP1. Os encontros práticos oferecidos de 12/08 em diante e anteriores à apresentação produzirão evidência verificável.
+- Nenhum acompanhamento exigirá conceitos-base ainda não ensinados. Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos.
+- Cada apresentação ocupará um encontro prático integral. Para aproximadamente dez grupos, serão usados 10 minutos de abertura, dez ciclos de até 5 minutos de apresentação e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados.
+- Cada AT ocupará um encontro teórico integral e terá dez questões objetivas contextualizadas no estilo ENADE, aplicadas no AVA/Moodle. A nota e as justificativas serão liberadas somente após o encerramento.
+- A apresentação antecederá a AT, exceto na AV3, cuja apresentação ocorrerá em 09/12 após a AT3 por causa da janela institucional de 03 a 09/12.
 
 ### AV1
 
