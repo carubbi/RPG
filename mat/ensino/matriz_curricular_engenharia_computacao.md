@@ -1,0 +1,3869 @@
+# Matriz curricular — Engenharia da Computação
+
+- **Fonte:** [Universidade de Fortaleza](https://unifor.br/web/graduacao/engenharia-da-computacao)
+- **Data de acesso:** 1º de agosto de 2026.
+
+> O conteúdo abaixo reproduz a matriz publicada na data de acesso. Professores e bibliografias foram omitidos.
+
+## 1º semestre
+
+### T946 — Exper desafios em engenharia
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Contribuição da engenharia para a sociedade. Química aplicada à engenharia. Meio ambiente e a engenharia. Desenvolvimento de Projeto Integrador.
+- **Programa:**
+  - **UNIDADE I - Contribuição da engenharia para a sociedade**
+    - **Objetivos:**
+      - Explicar a importância da engenharia para o crescimento sustentável da sociedade.
+      - Elaborar problemas de engenharia com aplicação das ciências básicas e do pensamento dedutivo, indutivo, hipotético.
+      - Valorar os impactos do exercício da profissão na sociedade.
+    - **Conteúdos:**
+      - 01.01 - A ciência na engenharia.
+      - 01.02 - Estruturação do pensamento na engenharia.
+      - 01.03 - Ética no exercício da profissão.
+  - **UNIDADE II - Química aplicada à engenharia.**
+    - **Objetivos:**
+      - Identificar a aplicação dos conceitos da química a partir de casos de engenharia.
+      - Aplicar os conceitos químicos na resolução de problemas de engenharia.
+      - Ser criterioso na aplicação dos conceitos químicos em demandas de engenharia.
+    - **Conteúdos:**
+      - 02.01 - Forças intermoleculares.
+      - 02.02 - Propriedades físico-químicas da matéria.
+      - 02.03 - Estruturação dos materiais usados em engenharia.
+      - 02.04 - Reatividades dos materiais.
+  - **UNIDADE III - Meio ambiente e a engenharia.**
+    - **Objetivos:**
+      - Descrever causas e efeitos de fenômenos que impactam o meio ambiente.
+      - Estabelecer as relações do meio ambiente com a engenharia.
+      - Mostrar criticidade quanto a importância da engenharia no desenvolvimento sustentável e nos impactos de suas condutas para o meio ambiente.
+    - **Conteúdos:**
+      - 03.01 - Estrutura ecológica.
+      - 03.02 - Impactos ambientais.
+      - 03.03 - Desenvolvimento sustentável.
+      - 03.04 - Emissões dos gases de efeito estufa.
+  - **UNIDADE IV - Desenvolvimento de Projeto Integrador.**
+    - **Objetivos:**
+      - Relacionar os saberes das ciências para a solução de problemas da sociedade.
+      - Executar ações e atividades a partir de cronograma de projeto.
+      - Ser colaborativo e cuidadoso no desenvolvimento de atividades em grupo e atendimento à extensão universitária.
+    - **Conteúdos:**
+      - 04.01 - Definição do projeto e apresentação dos seus critérios avaliativos.
+      - 04.02 - Competências de vida aplicadas ao projeto.
+      - 04.03 - Desenvolvimento do projeto integrador.
+      - 04.04 - Apresentação e avaliação do produto gerado pelo projeto.
+
+### T997 — Expressão gráfica
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Elementos de desenho técnico. Projeções. Estudo da representação de objetos. Representação em cortes e desenho em perspectivas.
+- **Programa:**
+  - **UNIDADE I - Elementos do desenho técnico.**
+    - **Objetivos:**
+      - Identificar as normas da Associação Brasileira de Normas Técnicas (ABNT) e os elementos e instrumentos aplicáveis ao desenho técnico em engenharia.
+      - Utilizar o desenho técnico como uma linguagem de comunicação na área de engenharia com aplicação adequada das normas técnicas, dos traçados e dos instrumentos indicados.
+      - Ser criterioso na adequação dos desenhos de projetos com base nas normas técnicas estabelecidas.
+    - **Conteúdos:**
+      - 01.01 - Definição e normas técnicas brasileiras.
+      - 01.02 - Folha de desenho.
+      - 01.03 - Linhas - classificação e aplicação.
+      - 01.04 - Caligrafia técnica.
+      - 01.05 - Cotagem.
+      - 01.06 - Escala.
+      - 01.07 - Desenho a mão livre, instrumentado e com softwares gráficos.
+  - **UNIDADE II - Projeções**
+    - **Objetivos:**
+      - Interpretar os tipos de projeções e os sistemas nas representações gráficas de objetos, por meio do estudo dos pontos, retas e planos.
+      - Desenhar as projeções de elementos de engenharia em planos de projeção.
+      - Valorar a importância da melhoria contínua nas representações gráficas de sistemas de projeções.
+    - **Conteúdos:**
+      - 02.01 - Cônicas e cilíndricas.
+      - 02.02 - Sistema de projeções.
+      - 02.03 - Diedros.
+      - 02.04 - Noções de Geometria Descritiva (estudo do ponto, da reta e dos planos).
+  - **UNIDADE III - Estudo da representação de objetos.**
+    - **Objetivos:**
+      - Explicar a representação de objetos a partir dos métodos de projeção e diedros.
+      - Representar, por meio da análise, objetos tridimensionais nos planos de projeção.
+      - Demonstrar desenvoltura na visualização e construção das vistas ortográficas e auxiliares.
+    - **Conteúdos:**
+      - 03.01 - Projeção ortográfica.
+      - 03.02 - Método do 1º diedro e método do 3º diedro.
+      - 03.03 - Construção de vistas: vista frontal, vista superior, vista lateral esquerda, vista lateral direita e vista posterior.
+      - 03.04 - Posicionamento correto do observador na construção das diversas vistas.
+      - 03.05 - Vistas auxiliares.
+  - **UNIDADE IV - Representação em cortes e desenho em perspectivas.**
+    - **Objetivos:**
+      - Identificar os diversos tipos de cortes e perspectivas
+      - Executar corretamente vistas em corte e a perspectiva de elementos de engenharia de acordo com suas projeções ortogonais.
+      - Ser preciso e detalhista por meio dos cortes e do formato real no desenho em perspectivas.
+    - **Conteúdos:**
+      - 04.01 - Cortes.
+      - 04.02 - Perspectivas.
+      - 04.03 - Valores dos ângulos das fugitivas.
+      - 04.04 - Escala axonométrica (redução).
+      - 04.05 - Perspectiva de elementos curvilíneos.
+
+### T996 — Física do movimento
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Estudo do movimento. Leis da Dinâmica aplicada à engenharia. Aplicação das leis de conservação. Propriedades dos fenômenos ondulatórios.
+- **Programa:**
+  - **UNIDADE I - Estudo do movimento.**
+    - **Objetivos:**
+      - Identificar as relações entre posição, deslocamento, velocidade, aceleração e tempo para o movimento em uma, duas ou três dimensões.
+      - Representar fenômenos físicos aplicados às engenharias por meio de modelos matemáticos com utilização de funções, derivadas e integrais.
+      - Ser criterioso na utilização de grandezas em experimentos e simulações computacionais.
+    - **Conteúdos:**
+      - 01.01 - Movimento unidimensional: posição, velocidade e aceleração utilizando cálculo diferencial e integral.
+      - 01.02 - Movimento bi e tridimensional: vetor posição, velocidade vetorial, aceleração vetorial, aceleração tangencial e centrípeta.
+  - **UNIDADE II - Leis da Dinâmica aplicada à engenharia.**
+    - **Objetivos:**
+      - Analisar as relações entre força, torque e momento de inércia em contextos de engenharia.
+      - Aplicar as relações entre força, torque e momento de inércia em situações práticas e simulações computacionais.
+      - Ser colaborativo em atividades em grupo, com vista à execução de projetos.
+    - **Conteúdos:**
+      - 02.01 - Leis de Newton do movimento, princípio geral da dinâmica, tipos de forças.
+      - 02.02 - Torque.
+      - 02.03 - Momento de inércia.
+  - **UNIDADE III - Aplicação das leis de conservação.**
+    - **Objetivos:**
+      - Descrever os tipos de movimento relativos às leis da conservação.
+      - Aplicar as leis de conservação de um sistema em vista dos movimentos translacionais e rotacionais, em experimentos e simulações.
+      - Ser cooperativo no trabalho em grupo, em situações de modelagem e na execução de projetos e experimentos.
+    - **Conteúdos:**
+      - 03.01 - Trabalho e energia mecânica.
+      - 03.02 - Conservação do momento linear.
+      - 03.03 - Rotações e conservação do momento angular.
+  - **UNIDADE IV - Propriedades dos fenômenos ondulatórios.**
+    - **Objetivos:**
+      - Descrever fenômenos de natureza ondulatória.
+      - Aplicar o estudo das transformações de energia no movimento harmônico simples de casos reais que sejam semelhantes a um sistema massa-mola.
+      - Ser colaborativo em atividades em equipe, na execução de projetos físicos e/ou simulações e modelagens de problemas de engenharia.
+    - **Conteúdos:**
+      - 04.01 - Equações e energia do MHS e pêndulos.
+      - 04.02 - Conceito de onda, ondas mecânicas e equação da onda.
+
+### T995 — Modelagem problemas engenharia
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Conceito e propriedades da Derivada. Aplicações da derivada. Cálculo de variações por Integral. Aplicações da integral definida à Engenharia.
+- **Programa:**
+  - **UNIDADE I - Conceito e propriedades da Derivada.**
+    - **Objetivos:**
+      - Interpretar geometricamente os conceitos de derivadas de funções.
+      - Calcular derivadas de funções.
+      - Valorar a importância do emprego das derivadas de funções em problemas de Engenharia.
+    - **Conteúdos:**
+      - 01.01 - Funções, gráficos e limites aplicados à Engenharia.
+      - 01.02 - Regras da derivação.
+      - 01.03 - Derivadas de ordem superior.
+      - 01.04 - Derivação implícita.
+  - **UNIDADE II - Aplicações da derivada.**
+    - **Objetivos:**
+      - Explicar as derivadas de funções aplicadas em contextos de problemas de Engenharia.
+      - Resolver problemas de Engenharia por meio de simulações em ambiente computacional.
+      - Apresentar criticidade na análise dos resultados algébricos em contextos de problemas de Engenharia.
+    - **Conteúdos:**
+      - 02.01 - Taxa de variação.
+      - 02.02 - Taxas relacionadas a fenômenos físicos.
+      - 02.03 - Otimização de modelos variacionais.
+      - 02.04 - Construção de gráficos.
+  - **UNIDADE III - Cálculo de variações por Integral.**
+    - **Objetivos:**
+      - Analisar as técnicas e teoremas para o cálculo de integrais de funções em problemas de Engenharia e em ambiente computacional.
+      - Calcular integrais de funções aplicadas à Engenharia em problemas com Equações Diferenciais Ordinárias de 1ª ordem.
+      - Ser criterioso na seleção do tipo adequado de técnica de integração para diferentes problemas de Engenharia.
+    - **Conteúdos:**
+      - 03.01 - Antidiferenciação: a Integral indefinida.
+      - 03.02 - Equações Diferenciais Ordinárias de 1ª ordem: aplicações físicas e na Engenharia.
+      - 03.03 - Técnicas de integração.
+      - 03.04 - Implementação computacional da Integral e o conceito de Integral definida.
+  - **UNIDADE IV - Aplicações da integral definida à Engenharia.**
+    - **Objetivos:**
+      - Diferenciar o uso da Integral de função em distintos contextos físicos e geométricos aplicados a problemas de Engenharia.
+      - Aplicar integrais de funções na resolução de problemas físicos por meio de simulações em ambiente computacional.
+      - Ser atencioso e crítico quanto a análise dos resultados algébricos em contextos de aplicações da integral definida em problemas de Engenharia.
+    - **Conteúdos:**
+      - 04.01 - O Teorema Fundamental do Cálculo.
+      - 04.02 - Aplicações do Teorema do Valor Médio para Integrais.
+      - 04.03 - Aplicações geométricas da Integral na Engenharia: Área, Volume e Comprimento de arco.
+      - 04.04 - Aplicações físicas da Integral definida na Engenharia.
+
+### T998 — Raciocínio lógico e algoritmo
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Utilização de algoritmos na resolução de problemas. Implantação das estruturas de controle de fluxo em algoritmos computacionais. Aplicação de algoritmos em problemas computacionais. Estruturas de dados simples e suas aplicações.
+- **Programa:**
+  - **UNIDADE I - Utilização de algoritmos na resolução de problemas.**
+    - **Objetivos:**
+      - Caracterizar o papel dos algoritmos no processo de resolução de problemas do mundo moderno.
+      - Desenvolver programas com elementos fundamentais de linguagens de programação.
+      - Valorar o algoritmo como um solucionador de problemas.
+    - **Conteúdos:**
+      - 01.01 - 01.01 - Conceito e representação simbólica de algoritmos.
+      - 01.02 - 01.02 - Ambiente computacional para o desenvolvimento de algoritmos.
+      - 01.03 - 01.03 - Variáveis e expressões.
+      - 01.04 - 01.04 - Entrada e saída de dados.
+  - **UNIDADE II - Implantação das estruturas de controle de fluxo em algoritmos computacionais.**
+    - **Objetivos:**
+      - Explicar o funcionamento de programas com o uso das estruturas sequencial, condicional e de repetição.
+      - Aplicar estruturas de controle na solução de problemas computacionais.
+      - Ser crítico no uso das estruturas de controle de fluxo na programação.
+    - **Conteúdos:**
+      - 02.01 - 02.01 - Sequenciamento de comandos para estruturar um algoritmo.
+      - 02.02 - 02.02 - Checagem de condições para a realização de uma instrução.
+      - 02.03 - 02.03 - Execução de códigos diferentes dependendo da condição.
+      - 02.04 - 02.04 - Como repetir tarefas de um programa: utilização de while, do-while e for.
+  - **UNIDADE III - Aplicação de algoritmos em problemas computacionais.**
+    - **Objetivos:**
+      - Identificar algoritmos adequados para a aplicação em problemas computacionais, com consideração as suas combinações.
+      - Implementar algoritmos e subalgoritmos na solução de problemas computacionais.
+      - Valorar a importância dos algoritmos e suas combinações para a resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 03.01 - 03.01 - Algoritmo para a troca de valores de duas variáveis.
+      - 03.02 - 03.02 - Algoritmo para a realização de contagem, soma e multiplicação de um conjunto de valores.
+      - 03.03 - 03.03 - Reutilização de código com o uso de funções.
+      - 03.04 - 03.04 - Algoritmo para o cálculo de séries e sequências.
+  - **UNIDADE IV - Estruturas de dados simples e suas aplicações.**
+    - **Objetivos:**
+      - Identificar cenários propícios para o emprego de estruturas de dados.
+      - Desenvolver algoritmos que manipulam variáveis compostas.
+      - Ser crítico na escolha das estruturas algorítmicas para uso no desenvolvimento de um programa.
+    - **Conteúdos:**
+      - 04.01 - 04.01 - Armazenamento de um conjunto de dados: vetores e matrizes.
+      - 04.02 - 04.02 - Representação de variáveis compostas.
+      - 04.03 - 04.03 - Técnica com vetores: reversão de ordem, histograma e busca binária.
+      - 04.04 - 04.04 - Como ordenar dados de um vetor (método bolha).
+
+## 2º semestre
+
+### T499 — Física e suas aplicações
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Análise de sistemas térmicos. Investigação dos fenômenos eletrostáticos. Investigação dos fenômenos eletrodinâmicos. Estudo dos fenômenos magnéticos.
+- **Programa:**
+  - **UNIDADE I - Análise de sistemas térmicos**
+    - **Objetivos:**
+      - Relacionar as leis da termodinâmica para resolução de problemas de engenharia.
+      - Aplicar as leis da termodinâmica para a solução de problemas de engenharia com emprego de tecnologias/simuladores.
+      - Ser criterioso no emprego do conceito de termodinâmica em situações relativas à engenharia.
+    - **Conteúdos:**
+      - 01.01 - Lei zero da Termodinâmica.
+      - 01.02 - Dilatação térmica, Energia, Calor e Trabalho.
+      - 01.03 - Primeira Lei da Termodinâmica.
+      - 01.04 - Segunda Lei da Termodinâmica.
+      - 01.05 - Máquinas Térmicas e Entropia.
+  - **UNIDADE II - Investigação dos fenômenos eletrostáticos.**
+    - **Objetivos:**
+      - Identificar as relações entre carga, campo, força e potencial elétrico em vista do conceito de capacitância.
+      - Representar fenômenos eletrostáticos a partir de modelos matemáticos e gráficos em práticas de laboratório e simulações computacionais.
+      - Ser cooperativo no trabalho em equipe, na execução de práticas e simulações relativas à situações problema de engenharia.
+    - **Conteúdos:**
+      - 02.01 - Carga Elétrica, Força Elétrica e Campo Elétrico;
+      - 02.02 - Potencial Elétrico;
+      - 02.03 - Capacitância;
+  - **UNIDADE III - Investigação dos fenômenos eletrodinâmicos.**
+    - **Objetivos:**
+      - Relacionar os conceitos de eletrodinâmica para resolução de problemas ligados à circuitos elétricos alimentados com corrente contínua.
+      - Retratar fenômenos eletrodinâmicos com uso de modelos matemáticos e gráficos, em laboratório.
+      - Colaborar com equipes de diferentes perfis, na execução de práticas, experimentos e simulações.
+    - **Conteúdos:**
+      - 03.01 - Corrente e Resistência;
+      - 03.02 - Resistores em série e paralelo;
+      - 03.03 - Leis de Kirchhoff;
+      - 03.04 - Circuitos R-C;
+      - 03.05 - Sistemas de distribuição de potência.
+  - **UNIDADE IV - Estudo dos fenômenos magnéticos**
+    - **Objetivos:**
+      - Descrever os conceitos de campo magnético relativos às suas aplicações em dispositivos elétricos de propriedade indutora.
+      - Aplicar conceitos de magnetismo relativos a corrente elétrica em projetos experimentais e simulações.
+      - Ser colaborativo em atividades em grupo, na modelagem de problemas contextualizados à situações de engenharia.
+    - **Conteúdos:**
+      - 04.01 - Campo Magnético, Força Magnética e suas aplicações.
+      - 04.02 - Campos magnéticos produzidos por uma corrente elétrica.
+      - 04.03 - Indução e Indutância.
+
+### T500 — Metodologia científica
+
+- **Modalidade:** Ead
+- **Créditos:** 4.0
+- **Ementa:** Princípios de metodologia científica. Pesquisa científica. Desenvolvimento de pesquisa científica. Redação científica, normas técnicas e estrutura dos trabalhos acadêmicos.
+- **Programa:**
+  - **UNIDADE I - Princípios de metodologia científica.**
+    - **Objetivos:**
+      - Explicar o método científico como procedimento para o desenvolvimento da ciência e da sociedade com vistas a disseminação de saberes na comunidade.
+      - Aplicar o método científico em estratégia de análise de contextos e definição de problemas para investigação.
+      - Ser um agente de transformação social para divulgação do papel da ciência como difusor de conhecimentos e gerador de saberes para a transformação da sociedade.
+    - **Conteúdos:**
+      - 01.01 - 01.01 - Pensamento científico, crítico, criativo e modalidades do conhecimento.
+      - 01.02 - 01.02 - A ciência como instrumento de transformação da sociedade.
+      - 01.03 - 01.03 - Diferenças entre estudo e investigação e seus protocolos.
+      - 01.04 - 01.04 - Definição e aplicação do método científico.
+  - **UNIDADE II - Pesquisa científica.**
+    - **Objetivos:**
+      - Explicar o que é uma pesquisa e os elementos necessários ao seu planejamento e fomento.
+      - Categorizar uma pesquisa científica a partir da diferenciação de sua tipologia, classificação e etapas de desenvolvimento.
+      - Ser um agente multiplicador com vistas a difusão dos preceitos de éticos presentes na concepção e execução de pesquisa científica.
+    - **Conteúdos:**
+      - 02.01 - 02.01 - A pesquisa como atividade básica da ciência.
+      - 02.02 - 02.02 - Tipologia, classificação e etapas da pesquisa científica.
+      - 02.03 - 02.03 - Preceitos éticos na pesquisa científica.
+      - 02.04 - 02.04 - Instrumentos e agências de fomento à pesquisa.
+  - **UNIDADE III - Desenvolvimento de pesquisa científica.**
+    - **Objetivos:**
+      - Relacionar o objeto de estudo, sua problematização e hipóteses no planejamento de pesquisa científica.
+      - Elaborar projeto de pesquisa com adequados processos de busca, tratamento de fontes e seleção de bibliografia em bases de dados físicas e digitais.
+      - Ser ético e crítico na elaboração e desenvolvimento de pesquisa científica.
+    - **Conteúdos:**
+      - 03.01 - 03.01 - Construção do objeto de pesquisa, problematização.
+      - 03.02 - 03.02 - Acesso e tratamento das fontes de pesquisa e seleção de bibliografia preliminar.
+      - 03.03 - 03.03 - A pesquisa em meios digitais.
+      - 03.04 - 03.04 - Planejamento e elaboração do projeto de pesquisa.
+  - **UNIDADE IV - Redação científica, normas técnicas e estrutura dos trabalhos acadêmicos.**
+    - **Objetivos:**
+      - Caracterizar os diferentes gêneros acadêmicos de publicação científica.
+      - Empregar adequadamente as normas técnicas da redação científica na elaboração de trabalhos acadêmicos, técnicos e de pesquisa.
+      - Apresentar postura ética e de respeito à autoria na escrita e comunicação acadêmico-científica.
+    - **Conteúdos:**
+      - 04.01 - 04.01 - Organização e estruturação de trabalhos científicos: artigos, projetos, trabalhos de conclusão de cursos, relatórios técnicos e acadêmicos.
+      - 04.02 - 04.02 - Normas para elaboração de citações e referências (NBR 10520 e 6023).
+      - 04.03 - 04.03 - A comunicação do trabalho científico.
+      - 04.04 - 04.04 - Escrita científica.
+
+### T800 — Model e simulação mundo físico
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Vetores, funções vetoriais e de várias variáveis. Cálculo diferencial de funções de várias variáveis. Integrais múltiplas. Campos de vetores e integração.
+- **Programa:**
+  - **UNIDADE I - Vetores, funções vetoriais e de várias variáveis**
+    - **Objetivos:**
+      - Interpretar geometricamente os conceitos de vetores;
+      - Resolver problemas de aplicação física com vetores;
+      - Valorar a importância do emprego das funções vetoriais em problemas de engenharia.
+    - **Conteúdos:**
+      - 01.01 - Vetores: produto escalar e produto vetorial
+      - 01.02 - Retas e Planos
+      - 01.03 - Funções vetoriais e curvas espaciais
+      - 01.04 - Funções de várias variáveis
+  - **UNIDADE II - Cálculo diferencial de funções de várias variáveis**
+    - **Objetivos:**
+      - Explicar as derivadas parciais de funções aplicadas em contextos de problemas de engenharia;
+      - Resolver problemas de engenharia através de técnicas de derivação parcial;
+      - Apresentar criticidade na análise dos resultados algébricos para contextos de problemas de engenharia.
+    - **Conteúdos:**
+      - 02.01 - Derivadas parciais.
+      - 02.02 - Regra da cadeia.
+      - 02.03 - Derivada direcional.
+      - 02.04 - Máximos e mínimos; Multiplicadores de Lagrange.
+  - **UNIDADE III - Integrais múltiplas**
+    - **Objetivos:**
+      - Detalhar as técnicas e teoremas para o cálculo de integrais duplas e triplas;
+      - Calcular soluções de problemas aplicados com integrais múltiplas;
+      - Apresentar criticidade na análise dos resultados algébricos para contextos de problemas físicos.
+    - **Conteúdos:**
+      - 03.01 - Integrais duplas: em coordenadas retangulares e polares.
+      - 03.02 - Aplicações de integrais duplas em problemas de engenharia.
+      - 03.03 - Integrais triplas.
+  - **UNIDADE IV - Campos de vetores e integração**
+    - **Objetivos:**
+      - Interpretar geometricamente os conceitos de campos vetoriais;
+      - Aplicar o Teorema de Green em problemas de engenharia;
+      - Valorar a importância do emprego das integrais de linha em problemas de engenharia.
+    - **Conteúdos:**
+      - 04.01 - Campos de vetores.
+      - 04.02 - Integrais de linha: cálculo de trabalho.
+      - 04.03 - Teorema de Green.
+      - 04.04 - Rotacional e divergente.
+
+### N724 — Métodos quantitativos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Estatística descritiva para interpretação de base de dados. Probabilidade e variável aleatória discreta e contínua. Distribuições de probabilidade para modelagem de fenômenos aleatórios. Estatística inferencial para os parâmetros populacionais.
+- **Programa:**
+  - **UNIDADE I - Estatística descritiva para interpretação de base de dados.**
+    - **Objetivos:**
+      - Descrever os conceitos estatísticos na interpretação de conjuntos de dados.
+      - Analisar dados estatísticos com apoio de ferramenta computacional.
+      - Ser criterioso na condução de pesquisas e interpretação dos dados estatísticos.
+    - **Conteúdos:**
+      - 01.01 - Fundamentos estatísticos: População, amostra, margem de erro, tipos de variáveis,
+      - 01.02 - Séries estatísticas, representação gráfica e tabular dos dados estatísticos.
+      - 01.03 - Medidas de posição para dados agrupados e não agrupados.
+      - 01.04 - Medidas de dispersão para dados agrupados e não agrupados.
+      - 01.05 - Medidas de associação para variável quantitativa: Correlação e Regressão Linear Simples.
+  - **UNIDADE II - Probabilidade e variável aleatória discreta e contínua.**
+    - **Objetivos:**
+      - Descrever os conceitos essenciais da teoria de probabilidade e suas implicações na estatística.
+      - Representar o tipo de variável aleatória conforme a natureza dos dados.
+      - Ser cuidadoso na análise dos dados.
+    - **Conteúdos:**
+      - 02.01 - Probabilidade: conceitos fundamentais da probabilidade,
+      - 02.02 - Teorema da soma, teorema do produto, teorema probabilidade total.
+      - 02.03 - Probabilidade condicional, teorema de Bayes.
+      - 02.04 - Variável Aleatória Discreta.
+      - 02.05 - Variável Aleatória Discreta e Continua
+  - **UNIDADE III - Distribuições de probabilidade para modelagem de fenômenos aleatórios.**
+    - **Objetivos:**
+      - Relacionar padrões de comportamento dos dados com base nos modelos probabilísticos.
+      - Representar distribuições aleatórias de dados a partir dos modelos probabilísticos.
+      - Ser cuidadoso na análise dos dados.
+    - **Conteúdos:**
+      - 03.01 - Variável aleatória unidimensional: Discreta e contínua.
+      - 03.02 - Distribuições de probabilidade discretas: Binomial, Poisson e Hipergeométrica
+      - 03.03 - Distribuições de probabilidade contínuas: Exponencial e Normal.
+  - **UNIDADE IV - Estatística inferencial para os parâmetros populacionais.**
+    - **Objetivos:**
+      - Aplicar modelagem probabilística para resolução de problemas.
+      - Elaborar testes de significância estatística com base em dados amostrais para tomada de decisão.
+      - Ser cooperativo em situações de trabalho em equipe.
+    - **Conteúdos:**
+      - 04.01 - Amostragem probabilística e não probabilística.
+      - 04.02 - Tipos de amostragens probabilísticas.
+      - 04.03 - Estimação pontual e intervalar para os parâmetros populacionais desconhecidos.
+
+### N951 — Álgebra e geometria
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Álgebra matricial, determinante e sistemas de equações lineares. Espaços vetoriais. Transformações lineares. Autovalores e autovetores.
+- **Programa:**
+  - **UNIDADE I Álgebra matricial, determinante e sistemas de equações lineares.**
+    - **Objetivos:**
+      - Explicar os métodos matemáticos em contextos da Engenharia a partir da resolução de equações lineares.
+      - Construir soluções algébricas para sistemas lineares e operações matriciais.
+      - Apresentar criticidade no uso das técnicas de sistemas lineares e de operações matriciais na modelagem e resolução de problemas de Engenharia.
+    - **Conteúdos:**
+      - 01.01 - 01.01 - Representação de matrizes e operações com matrizes.
+      - 01.02 - 01.02 - Cálculo de determinante.
+      - 01.03 - 01.03 - Inversão de matrizes.
+      - 01.04 - 01.04 - Sistemas de equações lineares: eliminação gaussiana.
+  - **UNIDADE II - Espaços vetoriais.**
+    - **Objetivos:**
+      - Interpretar os conceitos de espaços vetoriais para modelagem e resolução de problemas de Engenharia.
+      - Elaborar soluções para problemas de Engenharia com espaços vetoriais.
+      - Ser criterioso no uso de espaços vetoriais na resolução de diferentes problemas de Engenharia.
+    - **Conteúdos:**
+      - 02.01 - 02.01 - Vetores em Rn.
+      - 02.02 - 02.02 - Espaços e subespaços vetoriais reais.
+      - 02.03 - 02.03 - Dependência linear de vetores.
+      - 02.04 - 02.04 - Base e dimensão de espaços vetoriais.
+  - **UNIDADE III - Transformações lineares.**
+    - **Objetivos:**
+      - Relacionar os conceitos de transformações lineares na modelagem e resolução de problemas de Engenharia.
+      - Criar soluções para problemas de Engenharia com transformações lineares.
+      - Ser atencioso e ponderado quanto ao uso de transformações lineares na resolução de problemas relativos à Engenharia.
+    - **Conteúdos:**
+      - 03.01 - 03.01 - Transformações lineares e suas propriedades.
+      - 03.02 - 03.02 - Matriz de uma transformação linear.
+      - 03.03 - 03.03 - A geometria das transformações lineares no plano e no espaço tridimensional.
+      - 03.04 - 03.04 - O núcleo e a imagem de uma transformação linear.
+  - **UNIDADE IV - Autovalores e autovetores.**
+    - **Objetivos:**
+      - Distinguir autovalores e autovetores em situações relativas à Engenharia.
+      - Construir soluções para problemas de Engenharia a partir da utilização de autovalores e autovetores.
+      - Valorar a aplicabilidade de autovalores e autovetores na modelagem e resolução de problemas de Engenharia.
+    - **Conteúdos:**
+      - 04.01 - 04.01 - Autovalores e autovetores.
+      - 04.02 - 04.02 - Equação característica e polinômio característico.
+      - 04.03 - 04.03 - Propriedades dos autovalores e autovetores.
+      - 04.04 - 04.04 - Diagonalização de operadores.
+
+## 3º semestre
+
+### N806 — Análise de circuitos cc
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Conceitos básicos de álgebra e notações de engenharia. Fontes e associações de resistores. Técnicas de análise de circuitos. Teoremas de redes. Respostas completas de circuitos resistor-capacitor (RC) e resistor-indutor (RL).
+- **Programa:**
+  - **UNIDADE I - Conceitos introdutórios de eletricidade.**
+    - **Objetivos:**
+      - Identificar as principais grandezas elétricas utilizadas em circuitos capacitor-capacitor (CC).
+      - Efetuar o cálculo dos valores de grandezas elétricas com precisão e a manipulação coerente de componentes e instrumentos utilizados em circuitos CC.
+      - Ser criterioso na utilização de procedimentos experimentais para análise de circuitos capacitor-capacitor (CC).
+    - **Conteúdos:**
+      - 01.01 - Representação de grandezas elétricas em notação científica e notação de engenharia;
+      - 01.02 - Operações matemáticas com o uso de números representados na potência de dez, seus múltiplos e submúltiplos e com cinco algarismos significativos;
+      - 01.03 - Fontes de tensão e de corrente, dependentes e independentes;
+      - 01.04 - Associação série, paralelo e mista de resistores;
+      - 01.05 - Transformação de fontes;
+      - 01.06 - Transformação delta-estrela e estrela-delta;
+      - 01.07 - 1° e 2° Leis de Kirchoff;
+      - 01.08 - Divisor de tensão e de corrente.
+  - **UNIDADE II - Técnicas de análise e teoremas de redes.**
+    - **Objetivos:**
+      - Validar as diversas técnicas de resolução de circuitos de forma teórica, computacional e experimental.
+      - Demonstrar naturalidade na interpretação e replicação física de circuitos apresentados em imagens 2D.
+      - Aplicar de forma assertiva técnicas e teoremas de redes em projetos de engenharia.
+    - **Conteúdos:**
+      - 02.01 - Análise de malhas;
+      - 02.02 - Análise nodal;
+      - 02.03 - Teorema da Superposição;
+      - 02.04 - Teorema de Thévenin;
+      - 02.05 - Teorema de Norton;
+      - 02.06 - Teorema da Máxima Transferência de Potência.
+  - **UNIDADE III - Resposta completa de circuitos resistor-capacitor (RC) e resistor-indutor (RL).**
+    - **Objetivos:**
+      - Identificar os parâmetros elétricos, para qualquer ramo do circuito, ao longo do regime transitório e estacionário.
+      - Simular circuitos resistor-indutor-capacitor (RLC) para obtenção de grandezas específicas para validação dos valores calculados.
+      - Ser crítico e participativo na análise de respostas dos circuitos resistor-capacitor (RC) e resistor-indutor (RL).
+    - **Conteúdos:**
+      - 03.01 - Constante de tempo RC e RL;
+      - 03.02 - Resposta natural de circuitos RC;
+      - 03.03 - Resposta permanente de circuitos RC;
+      - 03.04 - Resposta natural de circuitos RL;
+      - 03.05 - Resposta permanente de circuitos RL;
+      - 03.06 - Energia em circuitos RC e RL.
+
+### N887 — Ciclo avaliativo I
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### N725 — Estratégia empresarial
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 4.0
+- **Ementa:** Diagnóstico estratégico do ambiente externo. Diagnóstico estratégico do ambiente interno. Vantagem competitiva. Planejamento estratégico.
+- **Programa:**
+  - **UNIDADE I - Diagnóstico estratégico do ambiente externo.**
+    - **Objetivos:**
+      - Descrever os conceitos fundamentais de estratégia, com caracterização do macro e microambiente empresarial
+      - Elaborar o diagnóstico externo de uma empresa.
+    - **Conteúdos:**
+      - 01.01 - Introdução à estratégia empresarial e ao ambiente empresarial;
+      - 01.02 - Análise de stakeholders;
+      - 01.03 - Análise da indústria (5 forças do Porter);
+      - 01.04 - Análise externa: oportunidades e ameaças.
+  - **UNIDADE II - Diagnóstico estratégico do ambiente interno.**
+    - **Objetivos:**
+      - Definir missão, visão e valores da empresa para elaboração de portfólio (Matriz BCG).
+      - Elaborar o diagnóstico interno de uma empresa, com aplicação dos conceitos fundamentais da estratégia.
+      - Ser um agente difusor do tratamento ético das informações empresariais.
+    - **Conteúdos:**
+      - 02.01 - Missão, visão e valores;
+      - 02.02 - Análise de portfólio (Matriz BCG);
+      - 02.03 - Análise interna: forças e fraquezas;
+      - 02.04 - Matriz SWOT.
+  - **UNIDADE III - Vantagem competitiva.**
+    - **Objetivos:**
+      - Explicar cadeia de valor e estratégias de Porter.
+      - Aplicar modelos de identificação das fontes de vantagem competitiva.
+    - **Conteúdos:**
+      - 03.01 - Cadeia de valor e a estratégia do oceano azul;
+      - 03.02 - Estratégias genéricas (Porter);
+      - 03.03 - Matriz produtos e mercados (Ansoff);
+      - 03.04 - Visão baseada em recursos (RBV).
+  - **UNIDADE IV - Planejamento estratégico.**
+    - **Objetivos:**
+      - Aplicar o Balanced Scorecard (BSC) no planejamento estratégico.
+      - Avaliar a estratégia empresarial com os seus respectivos planos de ação.
+      - Ser um agente promotor na execução de estratégias de planejamento empresarial.
+    - **Conteúdos:**
+      - 04.01 - Balanced Scorecard (BSC);
+      - 04.02 - Estratégias, objetivos, indicadores, metas e iniciativas;
+      - 04.03 - Plano de ação estratégico, tático e operacional;
+      - 04.04 - Ferramentas contemporâneas em planejamento estratégico.
+
+### T099 — Fund sist computacionais
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Fundamentos de computação. Representação de dados em sistemas computacionais. Sistemas lógicos e digitais. Simulação de sistemas programáveis por meio de instruções.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de computação.**
+    - **Objetivos:**
+      - Identificar os ramos e as competências exigidas do profissional de computação.
+      - Estratificar as estruturas de sistemas computacionais.
+      - Valorar a importância do modelo sistêmico para a computação enquanto ciência.
+    - **Conteúdos:**
+      - 01.01 - Evolução das tecnologias de hardware de computadores: do Ábaco a Computação Quântica.
+      - 01.02 - Visão geral das camadas de sistemas computacional.
+      - 01.03 - Diferenças entre sistemas analógicos e sistemas digitais.
+      - 01.04 - Informação digital: bits, bytes e seus múltiplos.
+  - **UNIDADE II - Representação de dados em sistemas computacionais.**
+    - **Objetivos:**
+      - Explicar as diversas representações de dados e seus formatos de armazenamento.
+      - Realizar operações aritméticas com os tipos de dados usados em computação.
+      - Ponderar a importância da representação dos tipos de dados.
+    - **Conteúdos:**
+      - 02.01 - Representação de imagens, sons e textos no computador.
+      - 02.02 - Sistemas de numeração binário e hexadecimal.
+      - 02.03 - Aritmética de números binários em notação por complemento de 2.
+      - 02.04 - Notação binária com ponto flutuante para números reais.
+  - **UNIDADE III - Sistemas lógicos e digitais.**
+    - **Objetivos:**
+      - Representar sistemas digitais e seus componentes fundamentais.
+      - Construir circuitos lógicos otimizados para problemas modelados de forma booleana.
+      - Valorar os simuladores como instrumento de análise de circuitos lógicos e digitais.
+    - **Conteúdos:**
+      - 03.01 - Modelagem sistemas lógicos: tabelas, funções e circuitos.
+      - 03.02 - Otimização de sistemas lógicos: técnicas de simplificação de circuitos.
+      - 03.03 - Operações lógicas e aritméticas.
+      - 03.04 - Circuitos de decodificação.
+  - **UNIDADE IV - Simulação de sistemas programáveis por meio de instruções**
+    - **Objetivos:**
+      - Aplicar modelos de sistemas programáveis simples no processamento de dados.
+      - Converter a linguagem de montagem em linguagem de máquina.
+      - Valorar os fundamentos da computação na resolução de problemas com atendimento dos critérios definidos para o seu uso.
+    - **Conteúdos:**
+      - 04.01 - Componentes básicos de circuitos sequenciais.
+      - 04.02 - Armazenamento e contagem utilizando registradores e contadores.
+      - 04.03 - Armazenamento de dados em memória.
+      - 04.04 - Instruções em nível de máquina e de montagem.
+
+### N728 — Mecânica dos sólidos
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Equilíbrio do ponto material e dos corpos rígidos. Esforços simples em estruturas isostáticas. Geometria das massas. Propriedades mecânicas e conceito de tensão e deformação.
+- **Programa:**
+  - **UNIDADE I - Equilíbrio do ponto material e dos corpos rígidos**
+    - **Objetivos:**
+      - Interpretar as condições de equilíbrio de elementos indeformáveis.
+      - Demonstrar o comportamento das estruturas quando submetidas a carregamentos externos.
+      - Ser criterioso na simulação de elementos reais a partir das equações de equilíbrio.
+    - **Conteúdos:**
+      - 01.01 - Forças externas e diagramas de corpo livre;
+      - 01.02 - Sistemas de forças e suas resultantes;
+      - 01.03 - Condições de equilíbrio para um corpo rígido e suas equações;
+      - 01.04 - Equilíbrio em duas e três dimensões;
+      - 01.05 - Restrições para um corpo rígido.
+  - **UNIDADE II - Esforços simples em estruturas isostáticas**
+    - **Objetivos:**
+      - Distinguir o comportamento de peças estruturais através de suas forças internas.
+      - Construir os diagramas de forças e momentos em elementos submetidos a carregamentos externos.
+      - Ser crítico na análise da utilização de materiais e peças estruturais nas diversas situações do cotidiano.
+    - **Conteúdos:**
+      - 02.01 - Forças internas;
+      - 02.02 - Equações e diagramas de forças normais;
+      - 02.03 - Equações e diagramas de forças de cisalhamento;
+      - 02.04 - Equações e diagramas de momento fletor;
+      - 02.05 - Equações e diagramas de momento torço.
+  - **UNIDADE III - Geometria das massas**
+    - **Objetivos:**
+      - Inferir a geometria das massas em elementos estruturais.
+      - Calcular o centro de gravidade e momentos de inércia de peças estruturais.
+      - Ser assertivo na aplicação dos conceitos de geometria das massas frente aos problemas de engenharia.
+    - **Conteúdos:**
+      - 03.01 - Centro de gravidade do corpo;
+      - 03.02 - Momentos de inércia;
+      - 03.03 - Raio de giração;
+      - 03.04 - Produto de Inércia;
+      - 03.05 - Rotação de eixos;
+      - 03.06 - Momentos máximos e mínimos.
+  - **UNIDADE IV - Propriedades Mecânicas e conceito de tensão e deformação**
+    - **Objetivos:**
+      - Conceituar tensão, deformação e propriedades mecânicas dos materiais.
+      - Demonstrar o comportamento de corpos submetidos a esforços normais e de cisalhamento.
+      - Mostrar autonomia na tomada de decisão no âmbito de projeto, quanto a melhor opção estrutural no que se refere a peças submetidas à deformação axial.
+    - **Conteúdos:**
+      - 04.01 - Equilíbrio de um corpo deformável;
+      - 04.02 - Tensão normal e de cisalhamento puro;
+      - 04.03 - Deformações mecânicas;
+      - 04.04 - Diagrama tensão-deformação;
+      - 04.05 - Lei de Hooke;
+      - 04.06 - Energia de deformação;
+      - 04.07 - Coeficiente de segurança e tensão admissível;
+      - 04.08 - Problemas estaticamente determinados.
+
+### T164 — Programação orient objetos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** O mundo real sob a perspectiva da orientação a objetos. Representação de objetos em sistemas computacionais. Implementação de algoritmos com uso dos pilares do paradigma orientado a objetos. Aplicação de estruturas avançadas de orientação a objetos.
+- **Programa:**
+  - **UNIDADE I - O mundo real sob a perspectiva da orientação a objetos.**
+    - **Objetivos:**
+      - Demonstrar os pilares da orientação a objetos.
+      - Representar entidades do mundo real sob a perspectiva da orientação a objetos.
+      - Valorizar a importância da abstração de dados para modelagem de objetos.
+    - **Conteúdos:**
+      - 01.01 - Pilares da orientação a objetos: abstração, encapsulamento, herança e polimorfismo.
+      - 01.02 - Comparação entre os paradigmas estruturado e orientado a objetos.
+      - 01.03 - Diagramas de classe.
+      - 01.04 - Relacionamento entre objetos: associação, composição e agregação.
+  - **UNIDADE II - Representação de objetos em sistemas computacionais.**
+    - **Objetivos:**
+      - Explicar o emprego das técnicas de representação de objetos na implementação de sistemas.
+      - Implementar os componentes básicos de uma classe para a instanciação de objetos.
+      - Valorar a importância da aplicação dos fundamentos da representação de objetos para a construção de um código limpo.
+    - **Conteúdos:**
+      - 02.01 - Classes e objetos: atributos, métodos, instanciação.
+      - 02.02 - Modificadores de acesso, métodos construtores.
+      - 02.03 - Classes abstratas.
+      - 02.04 - Interface.
+  - **UNIDADE III - Implementação de algoritmos com uso dos pilares do paradigma orientado a objetos.**
+    - **Objetivos:**
+      - Explicar o funcionamento de programas desenvolvidos a partir das construções fundamentais do paradigma orientado a objetos.
+      - Programar com elementos fundamentais de linguagens orientadas a objetos.
+      - Qualificar criticamente o uso da orientação a objetos no desenvolvimento de sistemas computacionais.
+    - **Conteúdos:**
+      - 03.01 - Abstração de objetos.
+      - 03.02 - Encapsulamento: métodos assessores e métodos modificadores.
+      - 03.03 - Heranças simples e múltipla.
+      - 03.04 - Polimorfismo: sobrecarga e sobrescrita de métodos, classes abstratas e interfaces.
+  - **UNIDADE IV - Aplicação de estruturas avançadas de orientação a objetos.**
+    - **Objetivos:**
+      - Identificar as estruturas avançadas de orientação a objetos para aplicação em problemas computacionais.
+      - Construir aplicações com utilização de estruturas avançadas de orientação a objetos.
+      - Agir com autonomia no uso das estruturas avançadas de orientação a objetos.
+    - **Conteúdos:**
+      - 04.01 - Tratamento de exceções.
+      - 04.02 - Coleções.
+      - 04.03 - Arquivos e Fluxo de dados.
+      - 04.04 - Noções de interface gráfica (GUI).
+
+## 4º semestre
+
+### T196 — Arquitetura de computadores
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Arquitetura de hardware e seus elementos. Sistemas de memórias e seus requisitos. Memórias cache e desempenho dos sistemas de memória. Projeto de processadores modernos.
+- **Programa:**
+  - **UNIDADE I - Arquitetura de hardware e seus elementos.**
+    - **Objetivos:**
+      - Identificar os elementos de sistemas computacionais e suas funcionalidades.
+      - Demonstrar o ciclo de execução de instruções por meio de ferramentas computacionais.
+      - Dar significado a arquitetura de hardware para a resolução de problemas por software.
+    - **Conteúdos:**
+      - 01.01 - Utilização de registradores para armazenamento de dados, contagem e avaliação de falhas em programas.
+      - 01.02 - Apresentação de instruções aritméticas e de controle de fluxo.
+      - 01.03 - Leitura e escrita em memória por meio de regitradores de índice, segnmento e modos de endereçamento.
+      - 01.04 - Descrição do fluxograma de interrupções para operações de entrada e saída e tratamento de eventos externos.
+      - 01.05 - Manipulação de dados de entrada e saída mapeada em memória ou isolada.
+  - **UNIDADE II - Sistemas de memórias e seus requisitos.**
+    - **Objetivos:**
+      - Distinguir os papéis dos principais tipos de memória em sistemas computacionais.
+      - Representar algoritmicamente o funcionamento dos sistemas de memória.
+      - Estar atento à importância da hierarquia de memória para a reunião dos requisitos de capacidade, desempenho e economia em sistemas computacionais.
+    - **Conteúdos:**
+      - 02.01 - Leitura e escrita em memória via hardware.
+      - 02.02 - Indexação de palavras por multiplexação de endereços.
+      - 02.03 - Associação de memórias para aumento de capacidade.
+      - 02.04 - Uso das diversas tecnologias de memória em sistemas computacionais.
+      - 02.05 - Organização hierárquica de sistemas de memória.
+  - **UNIDADE III - Memórias cache e desempenho dos sistemas de memória.**
+    - **Objetivos:**
+      - Especificar a localização em cache dos dados mais acessados dentro de sistemas de memória.
+      - Emular o comportamento de algoritmos de mapeamento e substituição em cache.
+      - Comprometer-se com boas escolhas dos requisitos de memória cache para o desempenho do sistema de memória.
+    - **Conteúdos:**
+      - 03.01 - Princípios da localidade e sua relação com a programação.
+      - 03.02 - Mapeamento em cache direto, associativo e associativo por conjuntos.
+      - 03.03 - Substituição e atualização de dados em memória cache.
+      - 03.04 - Avaliação do impacto de requisitos para desempenho de cache.
+  - **UNIDADE IV - Projeto de processadores modernos.**
+    - **Objetivos:**
+      - Identificar os impactos da microarquitetura na programação.
+      - Esquematizar a execução paralela de instruções em processadores com pipeline.
+      - Perceber criticamente a presença de conceitos fundamentais no projeto de processadores modernos.
+    - **Conteúdos:**
+      - 04.01 - Comparação entre arquiteturas microcodificadas e hardwired: ciclo de dados.
+      - 04.02 - Correspondência entre recursos e processos no pipeline de instruções.
+      - 04.03 - Identificação de restrições à execução de programas no pipeline.
+      - 04.04 - Descrição de estratégias para resolução de inconsistências no pipeline.
+      - 04.05 - Caracterização de arquiteturas RISC, CISC, de Harvard e de Von Neumann.
+
+### N726 — Ergonomia e segurança trabalho
+
+- **Modalidade:** Ead
+- **Créditos:** 4.0
+- **Ementa:** Conforto ocupacional, segurança e saúde do trabalho, e responsabilidade social. Agentes ambientais e riscos ocupacionais. Legislação e normativos da higiene, do conforto e da segurança e saúde ocupacional. Gestão da higiene, do conforto e da segurança e saúde ocupacional.
+- **Programa:**
+  - **UNIDADE I - Conforto ocupacional, segurança e saúde do trabalho, e responsabilidade social.**
+    - **Objetivos:**
+      - Estabelecer a relação do conforto ocupacional, da segurança e saúde do trabalho e a responsabilidade social.
+      - Aplicar princípios de ergonomia e desenho universal ao ambiente de trabalho para promover segurança ocupacional.
+      - Promover a cultura organizacional para difusão de práticas de responsabilidade social voltadas ao bem-estar do trabalhador.
+    - **Conteúdos:**
+      - 01.01 - Trabalho e suas implicações no bem-estar ocupacional.
+      - 01.02 - Acidente do trabalho e responsabilidade social/jurídica.
+      - 01.03 - Ergonomia e desenho universal aplicados à segurança ocupacional.
+      - 01.04 - Cultura organizacional e práticas de responsabilidade social.
+  - **UNIDADE II - Agentes ambientais e riscos ocupacionais.**
+    - **Objetivos:**
+      - Descrever os agentes ambientais e os riscos ocupacionais sob os aspectos da higiene, do conforto e da segurança e saúde ocupacional.
+      - Aplicar medidas preventivas e de controle aos riscos ocupacionais no ambiente produtivo.
+      - Comunicar-se de forma assertiva com postura proativa na indicação de ações para a prevenção de riscos ocupacionais.
+    - **Conteúdos:**
+      - 02.01 - Tipos de agentes ambientais e riscos ocupacionais.
+      - 02.02 - Identificação e avaliação dos agentes ambientais e riscos.
+      - 02.03 - Medidas de prevenção e controle dos riscos ocupacionais.
+      - 02.04 - Adaptação dos ambientes de trabalho segundo princípios de ergonomia e desenho universal.
+  - **UNIDADE III - Legislação e normativos da higiene, do conforto e da segurança e saúde ocupacional.**
+    - **Objetivos:**
+      - Identificar as legislações e normativos da higiene, do conforto e da segurança e saúde ocupacional.
+      - Desenvolver projetos voltados à implantação da legislação e dos normativos aplicáveis à segurança e saúde ocupacional.
+      - Ser ético e responsável no emprego da legislação e dos normativos que regem a prática profissional.
+    - **Conteúdos:**
+      - 03.01 - Normas gerais de macroergonomia, higiene e segurança ocupacional (Normas Regulamentadoras fundamentais).
+      - 03.02 - Atividades e operações insalubres e perigosas.
+      - 03.03 - Normas específicas de segurança e saúde em atividades técnicas.
+      - 03.04 - Legislação e normas de acessibilidade e desenho universal.
+  - **UNIDADE IV - Gestão da higiene, do conforto e da segurança e saúde ocupacional.**
+    - **Objetivos:**
+      - Descrever os princípios de gestão da higiene, do conforto e da segurança e saúde ocupacional.
+      - Avaliar sistemas de gestão de higiene, conforto e segurança ocupacional em contextos de engenharia.
+      - Promover uma gestão preventiva e inclusiva voltada ao bem-estar e segurança dos colaboradores.
+    - **Conteúdos:**
+      - 04.01 - Gestão de riscos ocupacionais (GRO e PGR).
+      - 04.02 - Gestão de riscos.
+      - 04.03 - Gestão de segurança e saúde do trabalho.
+      - 04.04 - Gestão ergonômica e inclusão: desenho universal aplicado à organização do trabalho.
+
+### N808 — Fundamentos de eletrônica
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Princípios dos semicondutores. Aplicações de circuitos com diodos. Análise e projetos de polarização de transistores bipolares. Análise e projeto de amplificadores de pequenos sinais.
+- **Programa:**
+  - **UNIDADE I - Princípios dos semicondutores**
+    - **Objetivos:**
+      - Explicar semicondutor intrínseco e dopagem.
+      - Classificar a diferença entre materiais semicondutores.
+      - Ser criterioso na manipulação de equipamentos disponíveis em ambientes de prática.
+    - **Conteúdos:**
+      - 01.01 - Semicondutores intrínsecos e semicondutores dopados tipo P e tipo N.
+      - 01.02 - Diodo de junção PN.
+      - 01.03 - Polarização direta e inversa do diodo de junção.
+      - 01.04 - Curva característica e especificações de um diodo de junção.
+      - 01.05 - Atividade prática de laboratório.
+  - **UNIDADE II - Aplicações de circuitos com diodos**
+    - **Objetivos:**
+      - Explicar o funcionamento de diodos em circuitos.
+      - Analisar aplicações de circuitos com diodos.
+      - Ser assertivo no dimensionamento de circuitos retificadores.
+    - **Conteúdos:**
+      - 02.01 - Circuito retificador de meia-onda e de onda completa pulsante.
+      - 02.02 - Circuito retificador de meia-onda e onda completa com filtro capacitivo.
+      - 02.03 - Diodo Zener e sua aplicação em circuitos de regulação.
+      - 02.04 - Circuitos limitadores e grampeadores.
+      - 02.05 - Circuitos com diodo emissor de luz (LED).
+      - 02.06 - Atividade prática de laboratório.
+  - **UNIDADE III - Análise e projetos de polarização de transistores bipolares**
+    - **Objetivos:**
+      - Descrever as características e o funcionamento do transistor.
+      - Elaborar projetos com transistores em operação como chave ou como amplificador.
+      - Ser um agente difusor da utilização dos procedimentos experimentais em análise de projetos com transistores.
+    - **Conteúdos:**
+      - 03.01 - Identificação dos terminais de um transistor bipolar NPN e PNP.
+      - 03.02 - Curvas características dos transistores bipolares.
+      - 03.03 - Regiões de atuação dos transistores bipolares.
+      - 03.04 - Transistor bipolar funcionando como chave.
+      - 03.05 - Transistor bipolar funcionando como fonte de corrente.
+      - 03.06 - Polarização da base.
+      - 03.07 - Polarização por divisor de tensão.
+      - 03.08 - Polarização do emissor.
+      - 03.09 - Atividade prática de laboratório.
+  - **UNIDADE IV - Análise e projeto de amplificadores de pequenos sinais**
+    - **Objetivos:**
+      - Identificar o uso de transistores como amplificador de sinais.
+      - Analisar as diferentes configurações de amplificadores baseado em transistores.
+      - Ponderar o uso de circuitos amplificadores de sinais com a utilização de transistores para resolução de problemas.
+    - **Conteúdos:**
+      - 04.01 - Amplificador de pequeno sinal na configuração emissor comum: ganho de tensão, ganho de corrente, ganho de po-tência, impedância de entrada e impedância de saída.
+      - 04.02 - Amplificador de pequeno sinal na configuração coletor comum: ganho de tensão, ganho de corrente, ganho de po-tência, impedância de entrada e impedância de saída.
+      - 04.03 - Amplificador de pequeno sinal na configuração base comum: ganho de ten-são, ganho de corrente, ganho de potência, impedância de entrada e impedância de saída.
+      - 04.04 - Atividade prática de laboratório.
+
+### N730 — Gestão de projetos
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 3.1
+- **Ementa:** O gerenciamento de projetos. O ambiente organizacional e a influência na gestão de projetos. Áreas de conhecimento do gerenciamento de projetos - PMBoK. Metodologias ágeis de projetos.
+- **Programa:**
+  - **UNIDADE I - O gerenciamento de projetos.**
+    - **Objetivos:**
+      - Contextualizar historicamente a evolução do gerenciamento de projetos.
+      - Aplicar os elementos de gestão de projetos utilizados no Brasil e no mundo.
+      - Ser um agente questionador dos critérios para um projeto ser considerado de sucesso.
+    - **Conteúdos:**
+      - 01.01 - A história do gerenciamento de projetos e instituições de controle.
+      - 01.02 - Gerenciamento de projetos no Brasil e no mundo.
+      - 01.03 - Projetos como agentes de mudanças.
+      - 01.04 - Conceito de sucesso em projetos.
+  - **UNIDADE II - O ambiente organizacional e a influência na gestão de projetos.**
+    - **Objetivos:**
+      - Identificar elementos estratégicos do gerenciamento de projetos.
+      - Compor uma estrutura analítica de projeto (EAP).
+      - Ser um agente propagador dos critérios de análise operacional no escritório de projetos.
+    - **Conteúdos:**
+      - 02.01 - Gerente de projetos e escritórios de projetos (PMO).
+      - 02.02 - Termo de abertura, definição de projeto, programa, portfólio e gerenciamento de stakeholders.
+      - 02.03 - Estrutura analítica de projetos (EAP).
+      - 02.04 - Ciclo de vida de um projeto e tríplice restrição.
+  - **UNIDADE III - Áreas do conhecimento do gerenciamento de projetos - PMBOK.**
+    - **Objetivos:**
+      - Explicar os componentes abordados pelo PMBoK (Project Management body of Knowledge) para as áreas de conhecimento de projetos.
+      - Organizar os elementos do gerenciamento do tempo, de recursos humanos e de custos através de uma ferramenta de cronograma.
+      - Ter criticidade na percepção das ferramentas do gerenciamento de projetos e a implementação de cada um destes.
+    - **Conteúdos:**
+      - 03.01 - Definição do escopo, técnicas de cronograma, gestão do tempo, determinação do orçamento, controle dos custos e processos de comunicação.
+      - 03.02 - Gestão de recursos humanos, dimensionamento de equipes, fornecedores e aquisições.
+      - 03.03 - Gestão da qualidade e riscos e processos de monitoramento e controle.
+      - 03.04 - Gerenciamento da integração.
+  - **UNIDADE IV - Metodologias ágeis de projetos.**
+    - **Objetivos:**
+      - Relacionar os conceitos de metodologias ágeis em gestão de projetos.
+      - Aplicar mecanismos de gerenciamento de projetos ágeis sob uma perspectiva operacional.
+      - Ser um agente difusor dos padrões técnicos e éticos na avaliação do desempenho de projetos por meio de ferramentas de tecnologia da informação.
+    - **Conteúdos:**
+      - 04.01 - Gerenciamento ágil de projetos.
+      - 04.02 - Metodologias ágeis (Scrum, Lean, Kanban e SMART) e modelos híbridos de gestão.
+      - 04.03 - Modelos de maturidade em gerenciamento de projetos.
+      - 04.04 - Tendências contemporâneas em gerenciamento de projetos.
+
+### N727 — Soluções problemas aproximação
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Objetivos de Desenvolvimento Sustentável (ODS) 4. Educação de qualidade: Garantir o acesso à educação inclusiva, de qualidade e equitativa, e promover oportunidades de aprendizagem ao longo da vida para todos (https://brasil.un.org/pt-br/sdgs/4) Teoria dos erros para métodos numéricos. Modelagem de fenômenos reais a partir da coleta de dados. Métodos Iterativos para a resolução de problemas com fenômenos não lineares. Métodos numéricos para problemas em cálculo aplicado à engenharia.
+- **Programa:**
+  - **UNIDADE I - Teoria dos erros para métodos numéricos**
+    - **Objetivos:**
+      - Distinguir os conceitos da teoria dos erros em soluções de problemas.
+      - Calcular erros em resolução de problemas por aproximação.
+      - Mostrar criticidade na análise de quais situações necessitam de soluções aproximadas.
+    - **Conteúdos:**
+      - 01.01 - Conceito e tipos de erros.
+      - 01.02 - Fontes de erros e tipos de arredondamento.
+      - 01.03 - Propagação de erros.
+      - 01.04 - Aplicação de erros a problemas do cotidiano envolvendo sequências e sistemas lineares.
+  - **UNIDADE II - Modelagem de fenômenos reais a partir da coleta de dados**
+    - **Objetivos:**
+      - Identificar o tipo de ajuste de curva mais adequado para cada fenômeno.
+      - Coletar dados com dependências entre variáveis de situações reais.
+      - Ser coerente no ajuste dos resultados obtidos ao contexto do problema modelado.
+    - **Conteúdos:**
+      - 02.01 - Método dos Mínimos Quadrados para Ajuste de Curvas e o caso do Ajuste Linear.
+      - 02.02 - Linearização e Ajustes Não Lineares: Modelos Exponenciais, Logaritmos e Racionais.
+      - 02.03 - Interpolações Polinomiais: Método de Newton e Método de Lagrange.
+      - 02.04 - Aplicações de ajuste em problemas da engenharia.
+  - **Unidade III - Métodos iterativos para a resolução de problemas com fenômenos não lineares**
+    - **Objetivos:**
+      - Analisar os fenômenos não lineares a partir de soluções aproximadas.
+      - Implementar computacionalmente a resolução de problemas não lineares para refinamento da solução.
+      - Ser criterioso na modelagem de fenômenos não lineares para engenharia.
+    - **Conteúdos:**
+      - 03.01 - Aplicação das raízes de equações em diferentes formas de problemas.
+      - 03.02 - Métodos intervalares(Bissecção e Cordas) e o Método de Newton - Raphson(MNR).
+      - 03.03 - Sistemas não lineares em fenômenos de estabilidade, estrutura e circuito.
+      - 03.04 - Série de Taylor em várias variáveis e Método de Newton para resolução numérica de sistemas não lineares.
+  - **UNIDADE IV - Métodos Numéricos para Problemas em Cálculo Aplicado à Engenharia**
+    - **Objetivos:**
+      - Interpretar os fenômenos de problemas diferenciais com resoluções numéricas.
+      - Implementar computacionalmente a resolução de problemas de integrais e EDO para refinamento da solução.
+      - Ser crítico no uso dos métodos numéricos em problemas de engenharia.
+    - **Conteúdos:**
+      - 04.01 - Integração Numérica para Cálculo de Áreas e aplicações da Integral Definida.
+      - 04.02 - Fórmulas de Newton-Côtes: Métodos dos Trapézios e Simpson.
+      - 04.03 - Soluções numéricas em Fenômenos Diferenciais na Engenharia: Problemas de Valor Inicial (P.V.I.) e métodos de Runge-Kutta.
+      - 04.04 - Aplicações das EDO em problemas de engenharia.
+
+## 5º semestre
+
+### N888 — Ciclo avaliativo II
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### N810 — Constr dispositivos digitais
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Componentes e estruturas elétricas de placas de circuito impresso - PCB. Empilhamento de camadas e planos de ground e de alimentação. Modelagem de placas de circuito impresso em alta velocidade. Processos de projeto, fabricação e teste de PCB.
+- **Programa:**
+  - **UNIDADE I - Componentes e estruturas elétricas de placas de circuito impresso - PCB.**
+    - **Objetivos:**
+      - Identificar os tipos de placas de circuito impresso.
+      - Selecionar os componentes e materiais adequados para cada tipo de PCB.
+      - Ser criterioso quando a manipulação de equipamentos disponíveis em ambientes de prática.
+    - **Conteúdos:**
+      - 01.01 - Tipos de placas de circuito impresso;
+      - 01.02 - Encapsulamentos de componentes eletrônicos;
+      - 01.03 - Estrutura física de uma placa de circuito impresso;
+      - 01.04 - Componentes com terminais passantes PTH (Pin Through Hole);
+      - 01.05 - Componentes de montagem em superfície SMD (Surface Mounted Device);
+      - 01.06 - Capacitâncias e indutâncias intrínsecas;
+      - 01.07 - Capacitores de desacoplamento;
+      - 01.08 - Materiais usados na fabricação de PCB (Printed Circuit Board);
+      - 01.09 - Folha de dados de componentes;
+      - 01.10 - Topologias de roteamento microstrip e stripline;
+      - 01.11 - Sinais diferenciais.
+  - **UNIDADE II - Empilhamento de camadas e planos de ground e de alimentação.**
+    - **Objetivos:**
+      - Explicar a estrutura adequada para distribuição de alimentação e interconexão de componentes.
+      - Projetar o stackup de placas de acordo com seus requisitos.
+    - **Conteúdos:**
+      - 02.01 - Placas de face simples;
+      - 02.02 - Placas de face dupla;
+      - 02.03 - Placas multicamadas;
+      - 02.04 - Regras de projeto de stackup de camadas;
+      - 02.05 - Metodologias de distribuição de alimentação;
+      - 02.06 - Atividade prática de laboratório.
+  - **UNIDADE III - Modelagem de placas de circuito impresso em alta velocidade.**
+    - **Objetivos:**
+      - Identificar a partir de análise de integridade de sinais em placas de circuito impresso.
+      - Modelar placas de circuitos impressos.
+      - Ser cuidadoso e criterioso na verificação de sinais em placas de circuito impresso.
+    - **Conteúdos:**
+      - 03.01 - Modelagem de linhas de transmissão;
+      - 03.02 - Trilhas concentradas e distribuídas;
+      - 03.03 - Atraso de propagação;
+      - 03.04 - Impedância de trilhas;
+      - 03.05 - Crosstalk;
+      - 03.06 - Terminação de trilhas;
+      - 03.07 - Frequências críticas;
+      - 03.08 - Simulação de integridade de sinais.
+  - **UNIDADE IV - Processos de projeto, fabricação e teste de PCB.**
+    - **Objetivos:**
+      - Explicar fluxo de processos em projeto de PCB.
+      - Projetar placas de circuito impresso com uso de melhores práticas.
+      - Ser cooperativo na elaboração e execução de projetos de PCB.
+    - **Conteúdos:**
+      - 04.01 - O fluxo de processo para projeto de PCB;
+      - 04.02 - Simbologia utilizada na representação de componentes eletroeletrônicos e mecânicos;
+      - 04.03 - Ferramentas para projeto de placas de circuito impresso (software KiCad);
+      - 04.04 - Edição de diagramas esquemáticos;
+      - 04.05 - Layout de componentes na PCB;
+      - 04.06 - Roteamento placas de circuito impresso;
+      - 04.07 - Arquivos para fabricação;
+      - 04.08 - Diretiva RoHS;
+      - 04.09 - Materiais e ferramentas para montagem de componentes na PCB;
+      - 04.10 - Montagem de protótipos;
+      - 04.11 - Montagem em linha de produção;
+      - 04.12 - Teste in-circuit e teste funcional;
+      - 04.13 - Atividade prática de laboratório.
+
+### T390 — Estrutura de dados
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Técnicas de programação para implementação de estruturas de dados. Estrutura de dados lineares. Estruturas de dados dispersas. Estruturas de dados hierárquicas.
+- **Programa:**
+  - **UNIDADE I - Técnicas de programação para implementação de estruturas de dados.**
+    - **Objetivos:**
+      - Descrever as técnicas de programação usadas na implementação de estruturas de dados.
+      - Implementar algoritmos com uso de técnicas de programação.
+      - Valorar o emprego das técnicas de programação na construção de estruturas de dados.
+    - **Conteúdos:**
+      - 01.01 - Recursividade.
+      - 01.02 - Tipos abstratos de dados.
+      - 01.03 - Referências e alias.
+      - 01.04 - Alocação de memória: estática e dinâmica.
+  - **UNIDADE II - Estruturas de dados lineares.**
+    - **Objetivos:**
+      - Diferenciar as estruturas de dados e suas complexidades na resolução de problemas computacionais.
+      - Implementar algoritmos com estruturas de dados e linguagens de programação.
+      - Ser crítico no uso de estruturas de dados para resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 02.01 - Listas: estática e dinâmica (simplesmente encadeada, duplamente encadeada, não ordenada, ordenada e circulares).
+      - 02.02 - Pilhas: estática e dinâmica.
+      - 02.03 - Filas: estática e dinâmica.
+      - 02.04 - Filas de prioridade: não ordenada, ordenada e heap.
+  - **UNIDADE III - Estruturas de dados dispersas**
+    - **Objetivos:**
+      - Explicar o funcionamento de estruturas de dados dispersas na resolução de problemas computacionais.
+      - Implementar algoritmos com estruturas de dados dispersas.
+      - Valorar a importância das estruturas de dados dispersas para organização e busca de dados.
+    - **Conteúdos:**
+      - 03.01 - Tabelas hashing.
+      - 03.02 - Função de hashing.
+      - 03.03 - Endereçamento aberto: tentativa linear e tentativa quadrática.
+      - 03.04 - Endereçamento fechado.
+  - **UNIDADE IV - Estruturas de dados hierárquicas**
+    - **Objetivos:**
+      - Identificar os cenários propícios para o emprego de estruturas de dados hierárquicas.
+      - Aplicar estruturas de dados hierárquicas na resolução de problemas computacionais.
+      - Ser crítico no uso das estruturas de dados hierárquicas na resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 04.01 - Árvore N-ária.
+      - 04.02 - Árvore binária.
+      - 04.03 - Árvore de busca.
+      - 04.04 - Árvore balanceada AVL.
+
+### T166 — Experimentação de protótipos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Desenvolvimento de soluções interativas em hardware. Prototipação de soluções interativas. Prototipação de soluções com modelagem 3D.
+- **Programa:**
+  - **UNIDADE I - Desenvolvimento de soluções interativas em hardware.**
+    - **Objetivos:**
+      - Explicar os conceitos básicos de eletrônica digital na ideação de projetos.
+      - Projetar soluções interativas com a utilização de componentes eletrônicos.
+      - Ser agente difusor do uso de sistemas embarcados e eletrônicos em projetos.
+    - **Conteúdos:**
+      - 01.01 - Prototipação eletrônica.
+      - 01.02 - Sensores e atuadores eletrônicos.
+      - 01.03 - Interfaces para dispositivos eletrônicos: botões, sons, telas.
+  - **UNIDADE II - Prototipação de soluções interativas**
+    - **Objetivos:**
+      - Identificar os tipos básicos de plataformas interativas.
+      - Projetar soluções interativas com a utilização de bibliotecas e alinhado com as necessidades do mercado de trabalho.
+      - Ser agente difusor do uso de bibliotecas como recurso para aceleração da prototipagem.
+    - **Conteúdos:**
+      - 02.01 - Ambiente de desenvolvimento.
+      - 02.02 - Aceleração do processo de desenvolvimento utilizando bibliotecas.
+      - 02.03 - Integração com dispositivos eletrônicos.
+      - 02.04 - Aplicações de cenários interdisciplinares.
+  - **UNIDADE III - Prototipação de soluções com modelagem 3D.**
+    - **Objetivos:**
+      - Explicar ferramentas e técnicas de modelagem CAD.
+      - Desenvolver protótipos de modelagem 3D com o auxílio de ferramentas CAD.
+      - Ser agente colaborativo no trabalho em equipe na construção de protótipos.
+    - **Conteúdos:**
+      - 03.01 - Conceitos e ferramentas para desenho assistido por computador (CAD).
+      - 03.02 - Técnicas para aceleração de modelagem.
+      - 03.03 - Fabricação por adição de materiais.
+      - 03.04 - Integração de projetos impressos a soluções eletrônicas.
+
+### T163 — Interação humano-computador
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 2.2
+- **Ementa:** Usuário como agente principal para produto interativo. Idealização e projeto de produto interativo. Técnicas de avaliação de produtos interativos. Usabilidade e ergonomia em soluções de hardware.
+- **Programa:**
+  - **UNIDADE I - Usuário como agente principal para produto interativo.**
+    - **Objetivos:**
+      - Caracterizar os aspectos que afetam a experiência do usuário.
+      - Situar os usuários como agentes principais no contexto de projeto de interação.
+      - Ser agente difusor dos conceitos de interação humano-computador como meio para a promoção e o desenvolvimento de sistemas aderentes às necessidades e demandas do usuário.
+    - **Conteúdos:**
+      - 01.01 - Aspectos da experiência do usuário e fatores humanos.
+      - 01.02 - Fundamentos da usabilidade: Interação, Interface, metáforas, padrões de projeto de interação.
+      - 01.03 - Modelo mental do usuário, modelo conceitual do projetista, e modelo de implementação do desenvolvedor.
+      - 01.04 - Processo do projeto da interação e critérios de avaliação de interfaces.
+  - **UNIDADE II - Idealização e projeto de produto interativo.**
+    - **Objetivos:**
+      - Relacionar as técnicas de IHC para o desenvolvimento de projetos de interação com foco no usuário.
+      - Aplicar técnicas de usabilidade em produtos interativos com vista ao desenvolvimento de sistemas.
+      - Ser criterioso quanto ao respeito do papel de usuários no desenvolvimento de produtos interativos.
+    - **Conteúdos:**
+      - 02.01 - Design criativo.
+      - 02.02 - Técnicas para modelagem de usuário: coleta de dados e geração de personas.
+      - 02.03 - Técnicas para modelagem de tarefas: especificação do contexto de uso, descrição de cenários, pirâmide de requisitos e fluxo das tarefas do usuário.
+      - 02.04 - Construção de alternativas de design: storyboard, prototipação de baixa e alta fidelidades.
+  - **UNIDADE III - Técnicas de avaliação de produtos interativos.**
+    - **Objetivos:**
+      - Classificar as técnicas de avaliação de interface para a melhoria da usabilidade de projetos.
+      - Aplicar técnicas de avaliação da usabilidade em produtos interativos.
+      - Ser agente promotor no uso de técnicas de avaliação para melhoria contínua da experiência do usuário em produtos interativos.
+    - **Conteúdos:**
+      - 03.01 - Avaliação por inspeção.
+      - 03.02 - Avaliação heurística.
+      - 03.03 - Avaliação de design visual.
+      - 03.04 - Avaliação com usuários.
+  - **UNIDADE IV - Usabilidade e ergonomia em soluções de hardware.**
+    - **Objetivos:**
+      - Identificar os aspectos ergonômicos e de usabilidade para o desenvolvimento de soluções físicas.
+      - Aplicar técnicas de projeto e avaliação da usabilidade e ergonomia em soluções físicas.
+      - Valorar a usabilidade e ergonomia em soluções de hardware.
+    - **Conteúdos:**
+      - 04.01 - Componentes de hardware: funções e utilizações.
+      - 04.02 - Experiência do usuário (UX) em projetos de soluções de hardware.
+      - 04.03 - Ergonomia de produtos.
+      - 04.04 - Avaliação da interação de protótipos físicos.
+
+### N812 — Projeto sist microcontrolados
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Arquitetura de microcontroladores. Programação de microcontroladores. Programação e uso dos periféricos internos dos microcontroladores. Análise e desenvolvimento de projetos avançados com uso de microcontroladores.
+- **Programa:**
+  - **UNIDADE I - Arquitetura de microcontroladores**
+    - **Objetivos:**
+      - Explicar os princípios dos componentes de arquitetura de microcontroladores.
+      - Diferenciar microprocessadores e microcontroladores em arquitetura de microcontroladores.
+      - Ser criterioso na escolha de dispositivos em arquitetura de microcontroladores.
+    - **Conteúdos:**
+      - 01.01 - Arquitetura básica de um microcontrolador.
+      - 01.02 - Microcontrolador versus microprocessador.
+      - 01.03 - Famílias de microcontroladores, históricos e fabricantes.
+      - 01.04 - Organização de memória de programa e de dados: Flash, RAM (Random Acess Memory), EEPROM (Electrically-Erasable Programmable Read-Only Memory).
+      - 01.05 - Práticas com ferramentas de software para simulação de circuitos microcontrolados.
+      - 01.06 - Conjunto de instruções (assembly) do microcontrolador.
+  - **UNIDADE II - Programação de microcontroladores**
+    - **Objetivos:**
+      - Resolver problemas de engenharia com base na construção, simulação e programação de sistemas de microcontroladores.
+      - Ser crítico no uso de linguagens de programação de baixo nível e de alto nível para microcontroladores.
+    - **Conteúdos:**
+      - 02.01 - Diferenças entre montadores e compiladores.
+      - 02.02 - Sistemas de desenvolvimento: Simuladores, montadores, e emuladores.
+      - 02.03 - Programação em linguagem C para microcontroladores.
+      - 02.04 - Práticas com interfaceamento de dispositivos de entrada e saída (teclados e displays).
+  - **UNIDADE III - Programação e uso dos periféricos internos dos microcontroladores**
+    - **Objetivos:**
+      - Identificar recursos internos de microcontroladores em projetos.
+      - Desenvolver sistemas microcontrolados orientados a eventos (interrupções).
+      - Ser assertivo na aplicação de procedimentos de desenvolvimento de projetos com uso de ferramentas de hardware e software.
+    - **Conteúdos:**
+      - 03.01 - Estudo dos principais periféricos internos.
+      - 03.02 - Programação e uso dos timers/contadores e do watchdog timer.
+      - 03.03 - Programação e uso de interface serial padrões: USB (Universal Serial Bus), I2C (Inter-Integrated Circuit), SPI (Serial Peripheral Interface), e UART (Universal Asynchronous Receiver / Transmitter).
+      - 03.04 - Programação e uso dos conversores A/D (Analógico/Digital) e D/A (Digital/Analógico).
+      - 03.05 - Programação e uso das interrupções internas e externas.
+      - 03.06 - Prática de desenvolvimento de projetos utilizando microcontrolador, teclado, LEDs, displays, conversores A/D e/ou D/A, motor de passo, servo motor, memórias seriais, e motor DC (Direct Current).
+  - **UNIDADE IV - Análise e desenvolvimento de projetos avançados com uso microcontroladores**
+    - **Objetivos:**
+      - Explicar as etapas do desenvolvimento de projetos avançados com uso de microcontroladores.
+      - Especificar componentes de projetos avançados de microcontroladores para solução de problemas.
+      - Ser um agente difusor da importância e potencialidade de uso de microcontroladores como ferramenta para solução de problemas.
+    - **Conteúdos:**
+      - 04.01 - Uso de Ambiente de Desenvolvimento Integrado - IDE.
+      - 04.02 - Editoração, compilação, e depuração de código. Gravação de memória.
+      - 04.03 - Uso de IHM (Interface Homem Máquina) modernas com dispositivos mobile (celulares) e aplicações em plataforma no-code.
+      - 04.04 - Análise de projetos avançados.
+      - 04.05 - Prática no desenvolvimento de projetos experimentais utilizando, microcontrolador, módulos de comunicação de RF (Bluetooth e/ou WIFI), memórias seriais, e sensores digitais.
+
+## 6º semestre
+
+### T203 — Ambiente de dados
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos de banco de dados relacional. Modelagem, definição e manipulação de dados. Estrutura de Banco de Dados Relacional. Projeto de Banco de Dados.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de banco de dados relacional e gerenciadores de banco de dados**
+    - **Objetivos:**
+      - Decodificar as estruturas internas de um banco de dados relacional.
+      - Recomendar o tipo de banco de dados que melhor se adequa à solução de um problema computacional.
+      - Perceber a importância do banco de dados como base das soluções computacionais nas diversas áreas de conhecimento.
+    - **Conteúdos:**
+      - 01.01 - Aplicação do BD nas empresas.
+      - 01.02 - Tecnologia de banco de dados.
+      - 01.03 - Tipos de BD e suas estruturas.
+      - 01.04 - Aspectos de gestão de sistemas gerenciadores de banco de dados.
+  - **UNIDADE II - Modelagem, definição e manipulação de dados.**
+    - **Objetivos:**
+      - Conceber soluções computacionais a partir de dados mapeados.
+      - Modelar dados de acordo com as técnicas requeridas pelas tecnologias adotadas.
+      - Mostrar autonomia e responsabilidade ética na realização de tarefas requeridas no manuseio de dados.
+    - **Conteúdos:**
+      - 02.01 - Acesso a banco de dados via linguagem de programação.
+      - 02.02 - Diagrama de modelos Entidade-Relacionamento.
+      - 02.03 - Fundamentos de linguagens de definição e manipulação de dados.
+      - 02.04 - Modelo Entidade - Relacionamento (MER).
+  - **UNIDADE III - Estrutura de Banco de Dados Relacional**
+    - **Objetivos:**
+      - Diferenciar as técnicas de construção dos bancos de dados relacionais.
+      - Avaliar a adequabilidade e desempenho de sistemas computacionais de banco de dados, com a análise das configurações e funcionamento dos seus serviços.
+      - Respeitar os aspectos legais e éticos na busca de novas aplicações e tecnologias de banco de dados.
+    - **Conteúdos:**
+      - 03.01 - Técnicas de Projeto de Banco de Dados Relacional.
+      - 03.02 - Estruturas de armazenamento de dados considerando álgebra relacional.
+      - 03.03 - Gerenciamento de alocação de memória.
+      - 03.04 - Estrutura de processamento de transações e controle de concorrência.
+  - **Unidade IV - Projeto de Banco de Dados**
+    - **Objetivos:**
+      - Efetuar o planejamento e Implementação do projeto físico de banco de dados com utilização de linguagens relacionais.
+      - Ser colaborativo e responsável no trabalho em equipe no desenvolvimento de aplicações que necessitam de armazenamento e recuperação de dados.
+    - **Conteúdos:**
+      - 04.01 - Cenários problematizados para modelagem dos dados.
+      - 04.02 - Objetos de banco de dados.
+      - 04.03 - Organização e normalização do banco de dados.
+      - 04.04 - Arquitetura do banco de dados e linguagens de armazenamento e recuperação de dados.
+
+### N737 — Análise viabil econ de projeto
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Equivalência financeira de capitais. Processo de avaliação de projetos de investimentos. Análise de investimentos. Planos de pagamentos e métodos de depreciação.
+- **Programa:**
+  - **UNIDADE I - Equivalência financeira de capitais.**
+    - **Objetivos:**
+      - Descrever os conceitos básicos da matemática financeira.
+      - Aplicar os princípios da equivalência financeira de capitais no regime de capitalização composta.
+      - Prestar atenção às taxas de juros efetivas nas operações de desconto bancário.
+    - **Conteúdos:**
+      - 01.01 - Conceitos básicos de matemática financeira: valor presente, valor futuro, séries de pagamentos, período financeiro, juros e fluxo de caixa.
+      - 01.02 - Regimes de capitalização: juros simples e juros compostos.
+      - 01.03 - Taxas de juros: taxas proporcionais, nominais, efetivas e equivalentes.
+      - 01.04 - Operações de desconto bancário.
+      - 01.05 - Taxas de juros e a inflação.
+  - **UNIDADE II - Processo de avaliação de projetos de investimentos.**
+    - **Objetivos:**
+      - Explicar os princípios, limitações e bases do processo de alocação de recursos para os estudos de viabilidade econômica de projetos.
+      - Utilizar os componentes do modelo gerencial na concepção e avaliação econômica de projetos de investimento.
+      - Estar atento à projetos de investimentos para a avaliação de viabilidade econômica.
+    - **Conteúdos:**
+      - 02.01 - Princípios fundamentais e limitações do estudo de viabilidade econômica.
+      - 02.02 - Bases do processo de alocação de recursos.
+      - 02.03 - Modelo gerencial de concepção e avaliação econômica de projetos de investimentos.
+      - 02.04 - Modelagem de projetos de investimentos.
+      - 02.05 - Apuração do custo dos recursos utilizados (Custo de Capital).
+  - **UNIDADE III - Análise de Investimentos.**
+    - **Objetivos:**
+      - Definir os conceitos e princípios para a análise de investimentos.
+      - Aplicar os métodos de análise de investimentos.
+      - Ser cuidadoso nas operações com envolvimento de substituição de equipamentos e leasing
+    - **Conteúdos:**
+      - 03.01 - Conceitos e princípios na análise de investimentos.
+      - 03.02 - Métodos de análise de investimentos: custo anual uniforme equivalente, valor presente líquido, taxa Interna de retorno, tempo de retorno de investimento (Payback).
+      - 03.03 - Substituição de equipamentos.
+      - 03.04 - Leasing: conceitos, operações, vantagens e desvantagens.
+  - **UNIDADE IV - Planos de pagamentos e métodos de depreciação.**
+    - **Objetivos:**
+      - Descrever os conceitos dos sistemas de amortização e dos métodos de depreciação.
+      - Elaborar planilhas teóricas de financiamentos PRICE, SAC e SAM.
+      - Ser preciso na previsão da depreciação de bens tangíveis e bens intangíveis.
+    - **Conteúdos:**
+      - 04.01 - Conceitos sobre planos de pagamentos ou sistemas de amortização.
+      - 04.02 - Sistemas de Amortização: francês, PRICE, amortização constante - SAC e Amortização Mista - SAM;
+      - 04.03 - Conceitos sobre depreciação e influência no lucro tributável.
+      - 04.04 - Métodos de depreciação: linear, taxa constante e capitalizada.
+
+### T198 — Construção a. de algoritmos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Utilização de técnicas fundamentais de análise de algoritmos. Análise de algoritmos comuns de pesquisa e de ordenação. Aplicação de técnicas fundamentais de construção de algoritmos.
+- **Programa:**
+  - **UNIDADE I - Utilização de técnicas fundamentais de análise de algoritmos.**
+    - **Objetivos:**
+      - Distinguir as classes mais comuns de funções no contexto de complexidade de algoritmos.
+      - Verificar a eficiência de algoritmos por meio de estudos empíricos e de técnicas avançadas de análise de algoritmos iterativos e recursivos.
+      - Considerar a importância da construção de algoritmos eficientes para o uso responsável dos recursos computacionais.
+    - **Conteúdos:**
+      - 01.01 - Análise de algoritmos iterativos e recursivos: medidas empíricas de performance, função de tempo de execução, ordem de crescimento de funções, notação assintótica, comportamentos de melhor caso, de pior caso e de caso esperado, relações de recorrência, árvores de recursão e teorema mestre.
+      - 01.02 - Classes comuns de complexidade de algoritmos: constante, logarítmica, linear, linearítmica, quadrática e exponencial.
+  - **UNIDADE II - Análise de algoritmos comuns de pesquisa e de ordenação.**
+    - **Objetivos:**
+      - Contrastar as complexidades de algoritmos comumente utilizados na resolução de problemas de pesquisa e de ordenação.
+      - Desenvolver soluções algorítmicas para aplicações que envolvam pesquisa e ordenação de dados.
+      - Ser crítico na elaboração e na escolha de soluções algorítmicas alternativas para os problemas computacionais.
+    - **Conteúdos:**
+      - 02.01 - Algoritmos de pesquisa e de ordenação: pesquisa linear, pesquisa binária, ordenação por seleção, ordenação por trocas, ordenação por inserção, ordenação por intercalação, heapsort, quicksort e ordenação por contagem.
+  - **UNIDADE III - Aplicação de técnicas fundamentais de construção de algoritmos.**
+    - **Objetivos:**
+      - Explicar as técnicas de construção de algoritmos e suas aplicações de acordo com a natureza do problema.
+      - Aplicar diferentes técnicas de construção de algoritmos para resolução de problemas computacionais.
+      - Ser proativo na descoberta e na criação de soluções algorítmicas eficientes para a resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 03.01 - Abordagens de programação: iterativa e recursiva.
+      - 03.02 - Técnicas de construção de algoritmos: força bruta, divisão e conquista, programação dinâmica, algoritmos gulosos, heurísticas.
+
+### T193 — Requisitos e mod de sistemas
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Dimensões da engenharia de software e engenharia de requisitos. Processos da engenharia de requisitos. Ética e colaboração em projetos de software. Desenvolvimento de projetos de software.
+- **Programa:**
+  - **UNIDADE I - Dimensões da engenharia de software e engenharia de requisitos.**
+    - **Objetivos:**
+      - Explicar as etapas do processo genérico de engenharia de requisitos.
+      - Estruturar os requisitos, com reconhecimento das premissas e restrições em projetos de software.
+      - Ser agente difusor do uso da engenharia de requisitos como meio para a promoção da qualidade do produto de software aderente as demandas do usuário.
+    - **Conteúdos:**
+      - 01.01 - Aspectos da engenharia de software e da engenharia de requisitos.
+      - 01.02 - O processo de software: modelos e abordagens.
+      - 01.03 - Tipos de requisitos, restrições e premissas, dificuldades comuns em requisitos.
+      - 01.04 - Critérios de qualidade de requisitos.
+  - **UNIDADE II - Processos da engenharia de requisitos.**
+    - **Objetivos:**
+      - Selecionar técnicas e modelos para a gestão de requisitos em projetos de software.
+      - Diagramar requisitos funcionais e não funcionais com o uso de técnicas formais de engenharia de software com vistas ao desenvolvimento de sistemas para o atendimento de demanda social.
+      - Ser coerente na abordagem prática das técnicas de levantamento e construção de ativos de desenho da solução.
+    - **Conteúdos:**
+      - 02.01 - Elicitação de requisitos.
+      - 02.02 - Análise de requisitos.
+      - 02.03 - Gerência de requisitos.
+      - 02.04 - Modelos e especificação de requisitos: diagrama de classe, modelo CRC (Classe, Responsabilidade de Colaboração), relatório de especificação de requisitos.
+  - **UNIDADE III - Ética e colaboração em projetos de software.**
+    - **Objetivos:**
+      - Relacionar os aspectos legais da lei de proteção de dados em conformidade com os requisitos para qualidade de software.
+      - Empregar abordagens ágeis para definição de produtos em conformidade com a legislação de proteção de dados.
+      - Ser colaborativo na atuação em equipes de diferentes perfis e com os diversos níveis organizacionais.
+    - **Conteúdos:**
+      - 03.01 - Lei Geral de Proteção de Dados Pessoais (LGPD).
+      - 03.02 - Metodologia ágil.
+      - 03.03 - Abordagens de definição de produto de software em projetos (Lean Inception).
+      - 03.04 - Prototipação de produto de software (Design Sprint).
+  - **UNIDADE IV - Desenvolvimento de projetos de software.**
+    - **Objetivos:**
+      - Explicar as principais etapas de gestão de projeto de software e a relevância do processo de requisitos neste contexto.
+      - Elaborar projetos de software com base nos princípios de qualidade do produto com vistas ao atendimento de demanda social.
+      - Estar comprometido com a adoção de boas práticas de gestão em projetos de software.
+    - **Conteúdos:**
+      - 04.01 - Princípios de gestão de projetos.
+      - 04.02 - Definição de escopo do projeto de software.
+      - 04.03 - Análise de viabilidade e estimativa de software.
+      - 04.04 - Qualidade de produto com foco na qualidade dos requisitos.
+
+### N816 — Sinais e sistemas lineares
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Conceitos e propriedades de sinais e sistemas. Análise no domínio do tempo de sistemas em tempo contínuo. Análise de sistemas com aplicação da transformada de Laplace. Análise de sinais no tempo contínuo com aplicação da série de Fourier.
+- **Programa:**
+  - **UNIDADE I - Conceitos e propriedades de sinais e sistemas.**
+    - **Objetivos:**
+      - Definir os sinais típicos envolvidos na análise de sistemas lineares.
+      - Realizar operações básicas a partir do uso de sinais básicos.
+      - Ser preciso nas respostas de sistemas a partir dos princípios da linearidade e da invariância no tempo.
+    - **Conteúdos:**
+      - 01.01 - Sinais: definição, classificação e propriedades.
+      - 01.02 - Operações básicas com sinais.
+      - 01.03 - Sinais elementares: exponenciais, senoidais, exponenciais complexos, função degrau unitário, função impulso unitário, função rampa unitária.
+      - 01.04 - Definição, classificação e propriedades de sistemas: memória, causalidade, invertibilidade, linearidade e invariância no tempo.
+  - **UNIDADE II - Análise no domínio do tempo de sistemas em tempo contínuo.**
+    - **Objetivos:**
+      - Determinar a resposta de estado nulo de sistemas a partir da integral de convolução.
+      - Modelar o comportamento de sistemas lineares por intermédio de equações diferenciais.
+      - Estar atento à metodologia padronizada de análise para aferição do comportamento no domínio do tempo para sistemas elétricos, mecânicos e térmicos.
+    - **Conteúdos:**
+      - 02.01 - Modelagem matemática de sistemas mecânicos de translação e rotação, sistemas elétricos, térmicos e fluídicos.
+      - 02.02 - Construção de análogos elétricos.
+      - 02.03 - Representação da resposta ao impulso.
+      - 02.04 - Convolução.
+      - 02.05 - Interpretação gráfica da integral de convolução e aplicação em sistemas lineares.
+  - **UNIDADE III - Análise de sistemas com aplicação da transformada de Laplace.**
+    - **Objetivos:**
+      - Interpretar o comportamento dos sistemas lineares como função da frequência complexa.
+      - Calcular a função de transferência de um sistema linear.
+    - **Conteúdos:**
+      - 03.01 - Transformada de Laplace: definição e propriedades.
+      - 03.02 - Aplicação em sistemas lineares com condições iniciais não-nulas.
+      - 03.03 - Função de Transferência: definição, propriedades, polos e zeros, constante de ganho.
+      - 03.04 - Funções de transferência de sistemas lineares.
+      - 03.05 - Representação de sistemas por diagrama de blocos.
+      - 03.06 - Associação em cascata, paralelo e realimentação.
+      - 03.07 - Função de transferência equivalente.
+      - 03.08 - Introdução a sistemas de controle em malha aberta versus malha fechada.
+      - 03.09 - Modelos de sistemas de controle.
+  - **UNIDADE IV - Análise de sinais no tempo contínuo com aplicação da série de Fourier.**
+    - **Objetivos:**
+      - Interpretar a resposta em frequência de sistemas lineares com descrição de sinais periódicos no domínio da frequência a partir da série de Fourier.
+      - Aplicar a série de Fourier em áreas como qualidade de energia, telecomunicações e etc.
+    - **Conteúdos:**
+      - 04.01 - Resposta em frequência de sistemas lineares.
+      - 04.02 - Série de Fourier: uma visão geral.
+      - 04.03 - Coeficientes de Fourier, efeito da simetria sobre os coeficientes de Fourier.
+      - 04.04 - Forma complexa da série de Fourier.
+      - 04.05 - Espectro de amplitude e de fase.
+
+## 7º semestre
+
+### T291 — Aspectos teóricos computação
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Formalismos computacionais para construção de linguagens. Os limites da computabilidade perante os modelos formais de computação.
+- **Programa:**
+  - **UNIDADE I - Formalismos computacionais para construção de linguagens.**
+    - **Objetivos:**
+      - Analisar sistemas formais para reconhecimento da construção de linguagens na perspectiva computacional.
+      - Construir gramáticas e reconhecedores de linguagens com uso dos mecanismos formais adequados.
+      - Valorizar a sistemática na construção de linguagens e sua importância para alcance da confiabilidade e consistência em reconhecedores.
+    - **Conteúdos:**
+      - 01.01 - Sistemas formais: fundamentos e aplicações.
+      - 01.02 - Gramáticas, alfabetos e linguagens.
+      - 01.03 - A estratégia dos autômatos finitos e linguagens regulares.
+      - 01.04 - A pilha nos autômatos para resolver problemas potencialmente recursivos.
+      - 01.05 - Aplicação: analisador léxico e sintático.
+  - **UNIDADE II - Os limites da computabilidade perante os modelos formais de computação.**
+    - **Objetivos:**
+      - Classificar modelos formais de computação e a equivalência deles com as Máquinas de Turing para explicação dos limites da computação e as classes de problemas computacionais.
+      - Elaborar simuladores que implementam modelos formais, com a capacidade de processamento efetivo das instruções textuais que representam algoritmos.
+      - Considerar a Matemática e o Formalismo nas máquinas reais de computação e suas limitações diante de conjuntos de problemas complexos.
+    - **Conteúdos:**
+      - 02.01 - A relação dos problemas de Hilbert com a computação: Tese de Church, Teorema de Gödel.
+      - 02.02 - Computação de algoritmos e equivalência com Máquinas de Turing: funções parcialmente recursivas, máquinas com registradores.
+      - 02.03 - Os problemas clássicos de indecidibilidade: correspondência de Post, castor atarefado, problema da parada.
+      - 02.04 - A classes de problemas e a complexidade de tempo: P, NP e NP-completo, teorema de Cook, redução de problemas.
+      - 02.05 - Aplicação: geração de código em máquina de registradores.
+
+### N599 — Ativ de estágio eng computação
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.8
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### N743 — Atividades extensionistas I
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.0
+- **Ementa:** Integrar as áreas e saberes como forma de enfrentamento aos problemas sociais nas ações de extensão. Ideação de soluções que integrem conhecimento, ciência e tecnologia no protagonismo da inclusão social.
+- **Programa:**
+  - **UNIDADE I - Integrar as áreas e saberes como forma de enfrentamento aos problemas sociais nas ações de extensão.**
+    - **Objetivos:**
+      - Identificar as distintas modalidades de ações de extensão como oportunidades de ampliação da formação acadêmica e de vida cidadã, com vistas a transformação da realidade social a partir do desenvolvimento de projetos de tecnologia.
+      - Aplicar o conhecimento técnico e científico com o uso de recursos de tecnologia, com a criação de oportunidades para o protagonismo educativo-pedagógico dos agentes envolvidos, na forma inter/transdisciplinar de inovação e/ou inclusão social.
+      - Ser agente difusor do conhecimento científico no desenvolvimento sustentável de atividades aplicadas à transformação social.
+    - **Conteúdos:**
+      - 01.01 - Os papéis da Universidade na contemporaneidade em busca de soluções sociais.
+      - 01.02 - As distintas modalidades de ações de extensão.
+      - 01.03 - Conexão entre a vivência do público alvo e saberes científicos.
+      - 01.04 - Definição das ações de inclusão: público alvo, contexto, local, objetivos, estratégias, resultados.
+      - 01.05 - Áreas de formação na integração de conhecimentos por meio da visão Inter e transdisciplinar.
+  - **UNIDADE II - Ideação de soluções que integrem conhecimento, ciência e tecnologia no protagonismo da inclusão social.**
+    - **Objetivos:**
+      - Identificar no cenário situacional as necessidades da comunidade com vista à modulação da solução e seu impacto.
+      - Organizar a sistematização das ações contidas nas soluções, com consideração ao desenvolvimento sustentável, ético e cidadão para resolução de demandas sociais e inclusivas.
+      - Ser crítico na avaliação dos impactos sociais a partir da implementação das ações propostas com responsabilidade de promover a sensibilização da solução adotada como benécias para o cenário estudado.
+    - **Conteúdos:**
+      - 02.01 - Brainstorming e ideações.
+      - 02.02 - Cartografia situacional dos problemas identificados e modelagem da solução.
+      - 02.03 - Organizar e sistematizar as ações com a consideração da sua sustentabilidade.
+      - 02.04 - Desenvolver metodologicamente as etapas de execução de projetos e/ou produtos por meio da ferramenta e ações de conscientização.
+      - 02.05 - Avaliar os impactos provocados pela ação com o uso de instrumentos científicos.
+
+### N893 — Ciclo avaliativo III
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### N744 — Estágio supervisionado
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Caracterização do Estágio supervisionado. Atividades Profissionais e órgão regulador. Ética no exercício profissional.
+- **Programa:**
+  - **UNIDADE I - Caracterização do estágio supervisionado.**
+    - **Objetivos:**
+      - Explicar o papel do estagiário, suas atribuições e direitos, segundo a legislação.
+      - Elaborar relatórios com vistas ao registro, sistematização e acompanhamento das atividades específicas no exercício do estágio supervisionado.
+      - Cumprir responsabilidades oriundas das atividades de estágio.
+    - **Conteúdos:**
+      - 01.01 - O que é um estágio profissional e suas atribuições.
+      - 01.02 - Estrutura e funcionamento do ambiente profissional do estágio.
+      - 01.03 - Programa e cronograma de trabalho.
+  - **UNIDADE II - Atividades profissionais e órgão regulador.**
+    - **Objetivos:**
+      - Estabelecer relações entre a legislação profissional no exercício da cidadania e a profissão do engenheiro.
+      - Discriminar os conceitos e características inerentes à conduta profissional.
+      - Ser assertivo no uso das diretrizes estabelecidas pelas entidades associadas à organização profissional.
+    - **Conteúdos:**
+      - 02.01 - Deveres e direitos profissionais.
+      - 02.02 - Conselhos de Engenharias e suas regulamentações.
+      - 02.03 - Regulamento para o processo ético disciplinar.
+  - **UNIDADE III - Ética no exercício profissional.**
+    - **Objetivos:**
+      - Descrever os princípios e infrações com vistas à postura ética enquanto um profissional cidadão.
+      - Justificar condutas profissionais frente à diretrizes éticas.
+      - Ser assertivo no posicionamento adotado frente a situações práticas reais com base na integração de saberes teóricos, ambiente profissional e a habilidade para o trabalho em equipe.
+    - **Conteúdos:**
+      - 03.01 - Princípios éticos.
+      - 03.02 - Infração ética.
+      - 03.03 - Postura profissional e vivências no campo do estágio.
+
+### N819 — Modelagem sistemas de controle
+
+- **Modalidade:** Presencial
+- **Créditos:** 3.1
+- **Ementa:** Modelagem de sistemas de controle nos domínios do tempo e da frequência. Resposta dinâmica de sistemas de controle. Modelos e projetos de controladores. Análise e projeto via lugar geométrico das raízes. Análise e projeto com uso da resposta em frequência.
+- **Programa:**
+  - **UNIDADE I - Modelagem nos domínios do tempo e da frequência.**
+    - **Objetivos:**
+      - Estimar sistemas de controle em espaço de estado.
+      - Representar sistemas lineares por função de transferência.
+      - Ser assertivo na ponderação de diagramas de blocos às funções de transferência.
+    - **Conteúdos:**
+      - 01.01 - Modelagem de sistemas em espaço de estado.
+      - 01.02 - Representação de sistemas lineares através de função de transferência e de diagramas de blocos.
+      - 01.03 - Conversão de modelos do domínio tempo para o domínio da frequência e vice-versa.
+      - 01.04 - Exemplos de modelagem de sistemas elétricos e mecânicos.
+  - **UNIDADE II - Resposta dinâmica de sistemas de controle.**
+    - **Objetivos:**
+      - Avaliar em termos quantitativos a resposta transitória de sistemas de 1ª ordem e 2ª ordem.
+      - Estabilizar sistemas de controle pelo critério Routh- Hurwitz.
+      - Ter criticidade no erro estacionário de sistema de controle para as entradas degrau, rampa e parábola.
+    - **Conteúdos:**
+      - 02.01 - Análise da resposta transitória de sistemas de 1ª ordem e 2ª ordem.
+      - 02.02 - Especificações de desempenho de sistemas de controle em termos da resposta no tempo.
+      - 02.03 - Análise de sistemas de ordem superior.
+      - 02.04 - Estabilidade e erros estacionários.
+  - **UNIDADE III - Modelos e projetos de controladores.**
+    - **Objetivos:**
+      - Descrever o funcionamento e a estrutura dos seguintes controladores: proporcional (P), proporcional-derivativo (PD), proporcional-integral (PI) e proporcional-integral-derivativo (PID).
+      - Aplicar controladores P, PD, PI e PID pelo método direto.
+      - Ser criterioso no projeto de controlador PID pelos métodos de Ziegler-Nichols.
+    - **Conteúdos:**
+      - 03.01 - Conceito e função de controladores em sistema de controle.
+      - 03.02 - Modelo e aplicação dos seguintes tipos de controladores: proporcional (P), proporcional-derivativo (PD), proporcional-integral (PI) e proporcional-integral-derivativo (PID).
+      - 03.03 - Projeto de controladores pelo método direto.
+      - 03.04 - Projeto de controladores pelos métodos de Ziegler-Nichols.
+  - **UNIDADE IV - Análise e projeto via lugar geométrico das raízes.**
+    - **Objetivos:**
+      - Descrever as propriedades do lugar geométrico das raízes (LGR).
+      - Manejar o LGR de sistemas de controle.
+      - Ser assertivo no controle de compensadores de avanço e atraso de fase via LGR.
+    - **Conteúdos:**
+      - 04.01 - Introdução e propriedades do lugar geométrico das raízes (LGR).
+      - 04.02 - Construção do traçado do LGR de sistemas de controle.
+      - 04.03 - Projeto de compensadores de avanço e atraso de fase.
+  - **UNIDADE V - Análise e projeto com uso da resposta em frequência.**
+    - **Objetivos:**
+      - Conceituar resposta em frequência.
+      - Especificar diagrama de Nyquist de sistema de controle.
+      - Deliberar compensadores a partir da resposta em frequência.
+    - **Conteúdos:**
+      - 05.01 - Definição da resposta em frequência.
+      - 05.02 - Diagrama de Bode.
+      - 05.03 - Estabilidade, margem de ganho, margem de fase e erro estacionário via diagramas de Bode.
+      - 05.04 - Diagrama de Nyquist.
+      - 05.05 - Estabilidade com uso do diagrama de Nyquist;
+      - 05.06 - Projeto de compensadores pela resposta em frequência.
+
+### T290 — Resolução prob com grafos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Modelar e representar problemas com grafos. Resolver problemas com grafos conexos. Otimizar grafos ponderados.
+- **Programa:**
+  - **UNIDADE I - Modelar e representar problemas com grafos.**
+    - **Objetivos:**
+      - Distinguir conceitos e representações de grafos a partir de problemas clássicos da teoria dos grafos.
+      - Modelar problemas com grafos por meio de representação computacional.
+      - Ser proativo na busca por conceitos de grafos extradisciplinares.
+    - **Conteúdos:**
+      - 01.01 - Teoria dos Grafos: vértice, aresta, ordem, tamanho, densidade, grau; ponte, adjacência e incidência.
+      - 01.02 - Tipos de Grafos: rotulado, simples, multigrafo, não orientado, dígrafo, ponderado, regular, completo, bipartido, planar, conexo, subgrafo, ciclo.
+      - 01.03 - Representação computacional: matrizes de adjacência e incidência, listas de adjacência e incidência.
+      - 01.04 - Problemas clássicos: isomorfismo, emparelhamento, coloração.
+  - **UNIDADE II - Resolver problemas com grafos conexos.**
+    - **Objetivos:**
+      - Dimensionar a conectividade com a aplicação dos principais algoritmos de grafos dirigidos e não dirigidos.
+      - Aplicar algoritmos de busca em profundidade e largura na resolução de problemas em grafos conexos.
+      - Tomar decisões a partir da interpretação do resultado da execução de algoritmos em grafos dirigidos e não dirigidos.
+    - **Conteúdos:**
+      - 02.01 - Grafos não-dirigidos: passeio, trilha, caminho, ciclo, circuito e tour, grafos eulerianos e hamiltonianos, problema do caixeiro viajante e problema do carteiro chinês, componentes conexos, corte em vértices e arestas.
+      - 02.02 - Algoritmos de busca em largura e profundidade.
+      - 02.03 - Grafos dirigidos: ordenação topológica, componentes f-conexos, fecho transitivo.
+  - **UNIDADE III - Otimizar grafos ponderados.**
+    - **Objetivos:**
+      - Diferenciar problemas de otimização em grafos com a utilização da modelagem.
+      - Modelar problemas de otimização em grafos com a aplicação de algoritmos de busca de caminho mínimo e algoritmos de fluxo máximo.
+      - Interpor-se criticamente na escolha de algoritmos de otimização com grafos.
+    - **Conteúdos:**
+      - 03.01 - Problema da árvore de cobertura mínima: algoritmos de Kruskal e Prim.
+      - 03.02 - Problema do caminho mínimo: algoritmos de Dijkstra, Bellman-Ford e Floyd-Warshall.
+      - 03.03 - Problema do fluxo máximo em redes: algoritmo de Ford-Fulkerson.
+
+### N890 — Sistema com restrição de tempo
+
+- **Modalidade:** Presencial
+- **Créditos:** 0.4
+- **Ementa:** Arquitetura ARM (AdvancedRisc Machine). Introdução a sistemas comrestrição de tempo. Escalonamento de tarefas. Sistemas operacionais de tempo real (RTOS).
+- **Programa:**
+  - **UNIDADE I - Arquitetura ARM (Advanced Risc Machine).**
+    - **Objetivos:**
+      - Explicar os princípios fundamentais da arquitetura ARM, com a função e a estrutura dos registradores, os modos de processamento e o tratamento de exceções.
+      - Projetar sistemas que atendam às necessidades de programas em tempo real, com o uso microcontroladores com arquitetura avançada.
+      - Ser criterioso na escolha dos dispositivos em função da sua aplicação em sistemas com restrição de tempo.
+    - **Conteúdos:**
+      - 01.01 - Arquitetura básica ARM: registradores, modos de processamento, exceções.
+      - 01.02 - Arquitetura avançada ARM: módulos internos (MMU, MPU, VFP, etc.).
+      - 01.03 - Famílias ARM, históricos e fabricantes. Famílias para aplicações em tempo real.
+      - 01.04 - Conjunto de instruções ARM e Thumb.
+      - 01.05 - Organização de memória de programa, dados, e barramentos de periféricos.
+      - 01.06 - Ferramentas de software modernas: Programação baremetal de periféricos.
+  - **UNIDADE II - Introdução a sistemas com restrição de tempo.**
+    - **Objetivos:**
+      - Analisar exemplos práticos de sistemas com restrições de tempo, com identificação de situações em que esses sistemas são aplicáveis e as implicações de não atendimento às restrições de tempo.
+      - Aplicar os princípios de sistemas com restrições de tempo na análise e projeto de sistemas, com a definição de requisitos temporais e a seleção de algoritmos e estruturas de dados apropriados.
+      - Valorizar a aplicação de técnicas de modelagem e análise de sistemas com restrições de tempo como ferramentas essenciais na engenharia de software.
+    - **Conteúdos:**
+      - 02.01 - Definição de sistemas com restrições de tempo.
+      - 02.02 - Exemplos de sistemas com restrições de tempo.
+      - 02.03 - Modelagem de sistemas com restrições de tempo.
+      - 02.04 - Características de sistemas com restrições de tempo.
+      - 02.05 - Segurança e confiabilidade.
+      - 02.06 - Técnicas de software de tolerância a falhas.
+  - **UNIDADE III - Escalonamento de tarefas.**
+    - **Objetivos:**
+      - Analisar os algoritmos de escalonamento de tarefas, com algoritmos de escalonamento de prioridade fixa, escalonamento por deadline e escalonamento orientado a eventos, bem como suas vantagens e limitações.
+      - Desenvolver a capacidade de escolha e implementação de tipos adequados de escalonadores para diferentes cenários, com base nas características das tarefas e nos requisitos do sistema.
+      - Valorizar a importância da adaptabilidade e flexibilidade para escolha de algoritmos de escalonamento apropriados às necessidades específicas de sistemas em tempo real.
+    - **Conteúdos:**
+      - 03.01 - Tipos de tarefas.
+      - 03.02 - Conceitos básicos de escalonamento.
+      - 03.03 - Algoritmos de escalonamento de tarefas.
+      - 03.04 - Escalonamento orientado a clock e a tabelas.
+      - 03.05 - Tipos de escalonadores: cíclicos, generalizado, híbridos, orientados a eventos, Round-Robin, Earliest Deadline, First (EDF), Rate Monotonic Algoritm (RMA), Deadline Monotonic Algoritm (DMA), etc.
+  - **UNIDADE IV - Sistemas operacionais de tempo real (RTOS).**
+    - **Objetivos:**
+      - Associar conceitos de preempção de tarefas e atribuição de prioridades de tarefas em sistemas operacionais de tempo real, com reconhecimento da importância desses conceitos para o cumprimento de prazos em sistemas críticos.
+      - Aplicar eficazmente o compartilhamento de recursos em sistemas de tempo real, com uso de técnicas de sincronização para eliminação de conflitos e garantia de integridade dos dados compartilhados.
+      - Ser crítico no uso de sistemas operacionais de tempo real (RTOS) em aplicações com restrição de tempo, com uso de atitude de responsabilidade e diligência na escolha e configuração adequadas desses sistemas com vistas ao atendimento de requisitos do projeto.
+    - **Conteúdos:**
+      - 04.01 - Sistemas operacionais comerciais: FreeRTOS, RTOS Unix, VxWorks, QNX, uC/OS-III, RT-Linux, etc.
+      - 04.02 - Preempção de tarefas, atribuição de prioridades de tarefas.
+      - 04.03 - Compartilhamento de recursos em sistemas de tempo real. Uso de semáforos e filas (queues), inversão de prioridade.
+      - 04.04 - Protocolos para tratamento de compartilhamento de recursos em RTOS (PIP, HLP, PCP, etc).
+
+## 8º semestre
+
+### N894 — Computação embarcada
+
+- **Modalidade:** Presencial
+- **Créditos:** 0.4
+- **Ementa:** Introdução à Arquitetura de processadores avançados e suas características para sistemas embarcados. Interfaces de comunicação e periféricos avançados. Computadores em Simples Placa ¿ SBC (Single Board Computer). Sistemas operacionais e software embarcado.
+- **Programa:**
+  - **UNIDADE I - Introdução à arquitetura de processadores avançados e suas características para sistemas embarcados.**
+    - **Objetivos:**
+      - Identificar os componentes essenciais de arquitetura de processadores avançados.
+      - Configurar parâmetros de barramentos de dados, endereços e mapa de memória para aplicações em sistemas embarcados.
+      - Valorar a compreensão dos conceitos de processamento de computadores para o desenvolvimento de soluções tecnológicas eficientes.
+    - **Conteúdos:**
+      - 01.01 - Núcleo geral de processamento, conjunto de registradores, e conjunto de instruções.
+      - 01.02 - Modos de processamento e Arquiteturas Multi-Core.
+      - 01.03 - Famílias de arquitetura de processadores avançados.
+      - 01.04 - Barramentos de dados, endereços, mapa de memória, e interrupções.
+      - 01.05 - Módulos internos (MMU, MPU, VFP, etc.)
+  - **UNIDADE II - Interfaces de comunicação e periféricos avançados.**
+    - **Objetivos:**
+      - Classificar os tipos de interfaces de comunicação e periféricos avançados, com os principais protocolos existentes na comunicação serial.
+      - Trabalhar com destreza na programação e configuração dos periféricos avançados usados em sistemas embarcados.
+      - Ser crítico sobre as interfaces de comunicação e periféricos avançados para o desenvolvimento de soluções tecnológicas robustas e eficientes em sistemas embarcados;
+    - **Conteúdos:**
+      - 02.01 - Principais periféricos em sistemas embarcados.
+      - 02.02 - Interface Ethernet.
+      - 02.03 - Padrões de interface de comunicação serial: USB, USART, SPI, I2C, CAN.
+      - 02.04 - Conversores A/D e D/A.
+      - 02.05 - Interfaces externas com memórias FLASH e SRAM.
+  - **UNIDADE III - Computadores em Simples Placa - SBC (Single Board Computer).**
+    - **Objetivos:**
+      - Identificar os tipos de arquiteturas de computadores em Simples Placa (SBC), com a análise das diferentes configurações, componentes e características que as definem.
+      - Proceder de forma hábil na identificação, seleção, programação e configuração de SBC comerciais para aplicações específicas.
+      - Estar atento à versatilidade e a praticidade dos SBC comerciais como soluções compactas e acessíveis para a variedade de aplicações em sistemas embarcados.
+    - **Conteúdos:**
+      - 03.01 - Arquiteturas de Computadores em Simples Placa - SBC.
+      - 03.02 - Exemplos de SBC comerciais, modelos e fabricante.
+      - 03.03 - Aplicações e uso de SBC comerciais.
+      - 03.04 - Sistemas operacionais embarcados em SBC e IDE de desenvolvimento.
+      - 03.05 - Programação e casos de uso de SBC. Aplicações em IoT.
+  - **UNIDADE IV - Sistemas operacionais e software embarcado.**
+    - **Objetivos:**
+      - Classificar os tipos de sistemas operacionais embarcados, com sua estrutura, inicialização e execução.
+      - Confirgurar com personalização sistemas operacionais baseados em Linux, bem como, seu desenvolvimento de programas embarcados em SBC.
+      - Valorar sistemas operacionais embarcados na implementação de soluções eficientes e robustas para dispositivos embarcados.
+    - **Conteúdos:**
+      - 04.01 - Introdução ao Linux Embarcado.
+      - 04.02 - Tipos de Hosts, configuração de alvo de desenvolvimento e alvo de depuração.
+      - 04.03 - Tipos de configuração de boot, módulos e imagens do kernel.
+      - 04.04 - Versões e configurações do kernel Linux, compilação e instalação.
+      - 04.05 - Bootloader para sistemas embarcados, tipos de sistemas de arquivo, Rootfs e Initramfs.
+      - 04.06 - Programação e desenvolvimento de softwares em sistemas embarcados usando SBC.
+
+### T292 — Computação paralela concorrent
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Paralelismo e concorrência: uso de recursos simultâneos e gerenciamento da concorrência para preservação da corretude e da eficiência computacional. Soluções, técnicas e resolução de problemas com paralelismo e seção crítica. Exploração do paralelismo com memória distribuída para resolução de problemas embaraçosamente paralelos.
+- **Programa:**
+  - **UNIDADE I - Paralelismo e concorrência: uso de recursos simultâneos e gerenciamento da concorrência para preservação da corretude e da eficiência computacional.**
+    - **Objetivos:**
+      - Enumerar fundamentos, terminologias e clássicos problemas relacionados com computação paralela e concorrente, com ênfase em requisitos essenciais decorrentes desse contexto para produção de software em ambiente paralelo de memória compartilhada.
+      - Simular falhas inerentes aos softwares concorrentes, bem como possíveis soluções para garantia de consistência.
+      - Ser cuidadoso quanto aos principais desafios voltados ao tratamento de concorrência e paralelismo.
+    - **Conteúdos:**
+      - 01.01 - Introdução à programação concorrente e paralela.
+      - 01.02 - Paralelismo: memória compartilhada e memória distribuída.
+      - 01.03 - As abstrações da programação corrente: programa, processo, tarefas, dados, recursos globais.
+      - 01.04 - Os fundamentos da programação com threads.
+      - 01.05 - Desafios: consistência de acordos sobre valores de dados ou mensagens; atomicidade na indivisibilidade de uma ação computacional; o problema da seção crítica; propriedades liveness e safety; consenso.
+  - **UNIDADE II - Soluções, técnicas e resolução de problemas com paralelismo e seção crítica.**
+    - **Objetivos:**
+      - Analisar propriedades Liveness e Safety, para resolução de problemas da seção crítica em ambiente paralelo e concorrente com memória compartilhada.
+      - Utilizar algoritmos clássicos como possíveis instrumentos para problemas de paralelismo e concorrência.
+      - Criticar artefatos científicos e tecnológicos para garantia e confiabilidade do software em ambiente multiprocessado e concorrente.
+    - **Conteúdos:**
+      - 02.01 - Algoritmos destacados na literatura para o problema da seção crítica.
+      - 02.02 - Semáforos e monitores.
+      - 02.03 - Canais (Channels).
+      - 02.04 - Aplicação de um problema contemporâneo com concorrência e/ou paralelismo.
+  - **UNIDADE III - Exploração do paralelismo com memória distribuída para resolução de problemas embaraçosamente paralelos.**
+    - **Objetivos:**
+      - Explicar os tipos de paralelismo e sua aplicabilidade em memória distribuída através de clusters.
+      - Utilizar mecanismos de troca de mensagens em ambiente paralelo, praticando o uso da troca de mensagens.
+      - Ponderar o potencial e desafios no uso de Clusters como ferramenta incremental de desempenho.
+    - **Conteúdos:**
+      - 03.01 - Clusters.
+      - 03.02 - Paralelismo de tarefas e dados.
+      - 03.03 - Interface de passagem de mensagens.
+      - 03.04 - Métricas de desempenho: eficiência e speedup.
+      - 03.05 - Construindo aplicações paralelas com memória distribuída.
+
+### T310 — Projeto de redes convergentes
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos de redes de computadores. Protocolos e endereçamento de redes. Roteamento avançado e virtualização de redes.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de redes de computadores.**
+    - **Objetivos:**
+      - Explicar o funcionamento das redes de computadores e das aplicações da internet.
+      - Selecionar os meios físicos e seus usos para a conexão de equipamentos de redes.
+      - Ser crítico na qualificação de protocolos e modelos em camadas de redes de computadores.
+    - **Conteúdos:**
+      - 01.01 - O que é rede de computadores? Conceito e importância.
+      - 01.02 - Tipos de redes: LAN, MAN, WAN - definições e aplicações.
+      - 01.03 - Arquitetura cliente-servidor e redes Ponto-a-Ponto (P2P).
+      - 01.04 - Meios físicos de transmissão: guiados (cabo de par trançado, fibra óptica) e não guiados (rádio, micro-ondas).
+      - 01.05 - Modelo OSI: camadas, funcionalidades e protocolos associados.
+      - 01.06 - Introdução ao modelo TCP/IP: estrutura e funcionamento básico.
+      - 01.07 - Tráfego de porta Ethernet versus socket.
+      - 01.08 - Ferramentas para estudo de redes.
+  - **UNIDADE II - protocolos e endereçamento de redes.**
+    - **Objetivos:**
+      - Definir a estrutura e importância do endereçamento IP para o roteamento dos pacotes nas redes.
+      - Empregar os conceitos dos serviços na comutação de pacotes no projeto de redes.
+      - Valorar o funcionamento dos algoritmos de roteamento para o funcionamento dos protocolos de redes.
+    - **Conteúdos:**
+      - 02.01 - Camada de rede e suas funções de comunicação (datagrama e circuito virtual).
+      - 02.02 - Endereçamento IP: estrutura do IPv4 e IPv6.
+      - 02.03 - Máscaras de sub-rede e endereçamento CIDR.
+      - 02.04 - Configuração e diferenças entre IPv4 e IPv6.
+      - 02.05 - Protocolos de roteamento: conceitos e importância no encaminhamento de pacotes.
+      - 02.06 - Introdução aos protocolos de roteamento dinâmico: RIP, EIGRP.
+  - **UNIDADE III - Roteamento avançado e virtualização de redes.**
+    - **Objetivos:**
+      - Definir as aplicações de virtualização e computação em nuvem aplicadas à redes.
+      - Aplicar os protocolos de roteamento avançados no projeto e interligação de redes.
+      - Ser cuidadoso sobre os aspectos básicos e práticas recomendadas em segurança de redes.
+    - **Conteúdos:**
+      - 03.01 - Roteamento avançado: OSPF (Open Shortest Path First) - funcionamento e configuração.
+      - 03.02 - IS-IS (Intermediate System to Intermediate System) e suas aplicações em redes complexas.
+      - 03.03 - BGP (Border Gateway Protocol): Roteamento entre sistemas autônomos na internet.
+      - 03.04 - Introdução à virtualização de redes e computação em nuvem: conceitos e aplicações.
+      - 03.05 - Segurança em redes: aspectos básicos e práticas recomendadas.
+
+### N884 — Sistemas de controle digital
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Sistemas discretos no tempo. Discretização de sistemas de controle contínuos. Projeto de controladores digitais pelos métodos convencionais. Controle digital no espaço de estados.
+- **Programa:**
+  - **UNIDADE I - Sistemas discretos no tempo.**
+    - **Objetivos:**
+      - Analisar sistemas discretos.
+      - Representar sistemas discretos nos domínios do tempo e da frequência.
+      - Ser assertivo na solução de problemas com sistemas discretos.
+    - **Conteúdos:**
+      - 01.01 - Amostragem e reconstrução.
+      - 01.02 - Fundamentos sobre sinais e sistemas discretos.
+      - 01.03 - Equações de diferenças.
+      - 01.04 - Transformada z.
+      - 01.05 - Função de transferência discreta.
+      - 01.06 - Representação de sistemas discretos em espaço de estados.
+      - 01.07 - Análise de sistemas discretos nos domínios da frequência e do tempo.
+  - **UNIDADE II - Discretização de sistemas de controle contínuos.**
+    - **Objetivos:**
+      - Descrever as diversas técnicas de discretização de sistemas de controle contínuos.
+      - Converter sistemas de controle contínuos em sistemas discretos.
+      - Ser criterioso na conversão de sistemas contínuos.
+    - **Conteúdos:**
+      - 02.01 - Relação entre plano s e plano z.
+      - 02.02 - Função de transferência pulsada.
+      - 02.03 - Conversão de função de transferência contínua para função de transferência discreta.
+      - 02.04 - Equivalente discreto por integração numérica.
+      - 02.05 - Discretização pelo casamento de polos e zeros.
+  - **UNIDADE III - Projeto de controladores digitais pelos métodos convencionais.**
+    - **Objetivos:**
+      - Explicar os vários métodos convencionais para projeto de controladores digitais.
+      - Projetar controladores digitais através de técnicas convencionais.
+      - Ser cuidadoso na escolha da técnica mais adequada para o projeto do controlador.
+    - **Conteúdos:**
+      - 03.01 - Análise de estabilidade e erro estacionário em sistemas de controle discreto.
+      - 03.02 - Projeto por emulação.
+      - 03.03 - Projeto no plano z.
+      - 03.04 - Projeto via LGR (Lugar Geométrico das Raízes).
+      - 03.05 - Projeto direto: método de Raggazini e controlador dead-beat.
+      - 03.06 - Projeto pelo método de resposta em frequência.
+  - **UNIDADE IV - Controle digital no espaço de estados.**
+    - **Objetivos:**
+      - Descrever as diferentes arquiteturas de controle digital em espaço de estado.
+      - Projetar controladores digitais via representação do sistema em equações de estado.
+      - Ponderar sobre a melhor arquitetura de controle digital em espaço de estado.
+    - **Conteúdos:**
+      - 04.01 - Discretização das equações de estado contínuas.
+      - 04.02 - Controlabilidade e observabilidade.
+      - 04.03 - Projeto via realocação de polos.
+      - 04.04 - Projeto de observadores de estado.
+      - 04.05 - Controle quadrático ótimo.
+      - 04.06 - Controle LQR (Linear Quadratic Regulator)
+
+### N889 — Sistemas operacionais
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Definição e arquitetura de sistemas operacionais. Gerenciamento, escalonamento e comunicação de processos. Gerenciamento de memória e sistemas de arquivos.
+- **Programa:**
+  - **UNIDADE I - Definição e arquitetura de sistemas operacionais.**
+    - **Objetivos:**
+      - Distinguir tipos de sistemas operacionais, suas arquiteturas e seus papéis no ambiente de computação moderno.
+      - Desenvolver emuladores de sistemas operacionais com um kernel básico e suporte a chamadas de sistema.
+      - Atuar cooperativamente com os demais profissionais na implementação de emuladores de sistemas operacionais.
+    - **Conteúdos:**
+      - 01.01 - Definição e evolução dos sistemas operacionais.
+      - 01.02 - Multiprogramação, compartilhamento de tempo e categorias de aplicações.
+      - 01.03 - Interpretador de comandos e modos de operação.
+      - 01.04 - Chamadas de sistema.
+  - **UNIDADE II - Gerenciamento, escalonamento e comunicação de processos.**
+    - **Objetivos:**
+      - Detalhar o gerenciamento otimizado do tempo de processador e o funcionamento do escalonador de processos dentro de sistemas operacionais.
+      - Desenvolver componentes computacionais de escalonamento de processos com suporte a diferentes algoritmos e primitivas de sincronização.
+      - Ser criterioso aplicabilidade dos algoritmos de escalonamento na resolução de problemas diversos
+    - **Conteúdos:**
+      - 02.01 - Definição, estados e ciclo de vida de um processo.
+      - 02.02 - Escalonamento de processos e troca de contexto.
+      - 02.03 - Algoritmos de escalonamento.
+      - 02.04 - Comunicação interprocessos e primitivas de sincronização.
+  - **UNIDADE III - Gerenciamento de memória e sistemas de arquivos.**
+    - **Objetivos:**
+      - Analisar técnicas de gerenciamento de memória e algoritmos de alocação em diferentes contextos de aplicação.
+      - Desenvolver componentes computacionais de gerenciamento de memória emulados com suporte a gerenciamento de espaço, algoritmos de alocação e swapping em sistemas de arquivos.
+      - Demonstrar criticidade na integração dos componentes de sistemas computacionais na solução de problemas.
+    - **Conteúdos:**
+      - 03.01 - Particionamento da memória e gerenciamento de espaço.
+      - 03.02 - Algoritmos de alocação.
+      - 03.03 - Memória virtual e swapping.
+      - 03.04 - Implementação de sistemas de arquivos.
+
+## 9º semestre
+
+### N754 — Atividades extensionistas II
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.0
+- **Ementa:** Ações de extensão e suas modalidades.
+- **Programa:**
+  - **UNIDADE I - Ações de extensão e suas modalidades.**
+    - **Objetivos:**
+      - Identificar as distintas modalidades de ações de extensão como oportunidades de ampliação da formação acadêmica e de vida cidadã.
+      - Protagonizar ações de transformação social educativo-pedagógicas, inter/transdisciplinares, multiprofissionais, acadêmico-científicas, artístico-culturais, sociais, ambientais, esportivas, tecnológicas, de inovação e/ou de inclusão social.
+      - Ser promotor do conhecimento e do desenvolvimento sustentável em atividades de responsabilidade social, por meio da interação dialógica com públicos alvos diversos.
+    - **Conteúdos:**
+      - 01.01 - Programa.
+      - 01.02 - Projeto.
+      - 01.03 - Curso / oficina.
+      - 01.04 - Evento.
+      - 01.05 - Prestação de serviço.
+
+### N898 — Ciclo avaliativo IV
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### T296 — Intel artificial computacional
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Cenários da inteligência artificial. Modelagem de problemas de buscas. Representação de conhecimento.
+- **Programa:**
+  - **UNIDADE I - Cenários da inteligência artificial.**
+    - **Objetivos:**
+      - Explicar fundamentos da área de inteligência artificial com o foco na definição dos principais paradigmas e técnicas computacionais utilizadas.
+      - Construir sistema de IA (Inteligência Artificial) com uso de conceitos de agentes inteligentes.
+      - Ser assertivo na interação com pessoas de diferentes perfis e áreas de conhecimento.
+    - **Conteúdos:**
+      - 01.01 - Preceitos e paradigmas da Inteligência Artificial.
+      - 01.02 - Inteligência como habilidade para solucionar problemas complexos.
+      - 01.03 - Agentes Inteligentes: definição, tipos de agente e caracterização de ambientes.
+      - 01.04 - Integração programas de agente hardware/software.
+  - **UNIDADE II - Modelagem de problemas de buscas.**
+    - **Objetivos:**
+      - Diferenciar problemas de busca com a aplicação dos algoritmos apropriados.
+      - Modelar problemas de busca com a representação de espaços de estados.
+      - Valorar a modelagem de problemas de busca local com a formulação de funções coerentes com a natureza do problema.
+    - **Conteúdos:**
+      - 02.01 - Formulação de problemas.
+      - 02.02 - Funções heurísticas.
+      - 02.03 - Buscas informadas e competitivas.
+      - 02.04 - Busca local e cegas
+  - **UNIDADE III - Representação de conhecimento.**
+    - **Objetivos:**
+      - Explicar o raciocínio baseado em lógica para formação de conhecimento com a utilização dos conceitos adequados.
+      - Realizar provas de argumentos por meio de métodos de dedução.
+      - Ser crítico na escolha das formas de representação do conhecimento.
+    - **Conteúdos:**
+      - 03.01 - Lógica de primeira ordem.
+      - 03.02 - Raciocínio baseado em lógica.
+      - 03.03 - Representação de conhecimento.
+      - 03.04 - Regras de produção.
+      - 03.05 - Sistemas baseados em conhecimento.
+      - 03.06 - Web semântica.
+      - 03.07 - Raciocínio probabilísticos e fuzzy.
+      - 03.08 - Redes bayesianas.
+
+### N896 — Processamento digital imagem
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos do processamento de imagens. Filtragem nos domínios da frequência e espacial. Morfologia matemática. Representação, descrição e segmentação de imagem. Expansão e diversificação de conjunto de imagens.
+- **Programa:**
+  - **UNIDADE I - Fundamentos do processamento de imagens.**
+    - **Objetivos:**
+      - Comparar os princípios com o processamento de imagem.
+      - Criar as etapas do processamento de imagem.
+      - Valorar a importância das ferramentas matemáticas aplicadas à área de processamento digital de imagens.
+    - **Conteúdos:**
+      - 01.01 - Conceitos, fundamentos e áreas de aplicação.
+      - 01.02 - Relações e manipulações de imagens digitais.
+      - 01.03 - Transformações de Intensidade.
+      - 01.04 - Processamento do histograma.
+  - **UNIDADE II - Filtragem nos domínios da frequência e espacial.**
+    - **Objetivos:**
+      - Deduzir as principais técnicas de processamento de filtragem nos domínios da frequência e espacial.
+      - Aplicar os conceitos e fundamentos do processamento de imagens digitais, a partir de manipulações de imagens, transformações de intensidade e processamento de histogramas, para a melhoria da qualidade visual e a análise das imagens em diferentes áreas de aplicação.
+      - Ser cuidadoso por experimentações práticas, teorias de filtragem e avaliação dos resultados no processamento de imagens reais.
+    - **Conteúdos:**
+      - 02.01 - Fundamentos da filtragem para processamento de imagens.
+      - 02.02 - Filtragem para realce, suavização de imagens digitais.
+      - 02.03 - Detecção de objetos em imagens digitais.
+      - 02.04 - Filtragem para remoção de ruídos em imagens.
+  - **UNIDADE III - Morfologia matemática.**
+    - **Objetivos:**
+      - Deduzir os conceitos fundamentais de morfologia matemática, e sua importância no processamento de imagens.
+      - Relatar técnicas de reconstrução morfológica para extração de características estruturais de imagens.
+      - Ser agente promotor no engajamento e a responsabilidade no uso das técnicas de morfologia matemática.
+    - **Conteúdos:**
+      - 03.01 - Conceitos e operações de morfologia matemática.
+      - 03.02 - Erosão e dilatação para processamento de digital de imagens.
+      - 03.03 - Operações morfológicas de abertura de fechamento.
+      - 03.04 - Reconstrução morfológica.
+  - **UNIDADE IV - Representação, descrição e segmentação de imagem.**
+    - **Objetivos:**
+      - Deduzir os conceitos de segmentação de imagem e aplicações da identificação de objetos.
+      - Criar métodos de descrição de imagens baseados em contornos e regiões.
+      - Ser responsável na implementação e validação das técnicas de segmentação e descrição.
+    - **Conteúdos:**
+      - 04.01 - Detecção de pontos e bordas.
+      - 04.02 - Transformada Hough para detecção de formas geométricas.
+      - 04.03 - Representação por contorno.
+      - 04.04 - Descritores de textura, cor e forma.
+
+### N895 — Projeto de circuitos digitais
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos de sistemas digitais reconfiguráveis. Ferramentas e linguagens de descrição de hardware. Máquinas sequenciais síncronas. Projeto no nível de transferência entre registradores.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de sistemas digitais reconfiguráveis.**
+    - **Objetivos:**
+      - Identificar a metodologia de desenvolvimento de projeto de sistemas digitais reconfiguráveis e a arquitetura dos principais tipos de dispositivos lógicos programáveis, suas características e aplicações.
+      - Executar a simulação e implementação circuitos digitais com uso de dispositivos de lógica programável.
+      - Ser criterioso na escolha dos dispositivos lógicos programáveis, soluções eficientes e inovadoras através do estudo de casos reais.
+    - **Conteúdos:**
+      - 01.01 - Mux, demux, decodificadores, latches, flip-flops, registradores, e circuitos aritméticos (ULA).
+      - 01.02 - Dispositivos lógicos e programáveis: PLA, PAL, SPLD, CPLD, e FPGA.
+      - 01.03 - Núcleos de processadores em lógica programável (hard cores e soft cores).
+      - 01.04 - Famílias comerciais de dispositivos lógicos programáveis.
+  - **UNIDADE II - Ferramentas e linguagens de descrição de hardware.**
+    - **Objetivos:**
+      - Identificar os fundamentos das linguagens HDLs, e seus principais comandos, assim como os diferentes níveis de abstração de hardware (RTL, estrutural, e comportamental).
+      - Aplicar a habilidade no uso de linguagens HDLs na modelagem, simulação e sintetização de circuitos digitais, com ferramentas EDA no desenvolvimento e validação de sistemas digitais reconfiguráveis.
+      - Preocupar-se com a postura crítica e exploratória no uso de ferramentas EDA e linguagens HDLs, adaptação às constantes inovações tecnológicas na área de sistemas digitais.
+    - **Conteúdos:**
+      - 02.01 - Introdução à linguagem HDL (Hardware Description Language): VHDL e Verilog.
+      - 02.02 - Comandos de atribuição, comandos concorrentes, comandos sequenciais, e processos.
+      - 02.03 - Níveis de abstração de hardware, modelos de descrição de arquiteturas (RTL, estrutural, comportamental).
+      - 02.04 - Ferramentas EDA (Electronic Design Automation) para sistemas digitais reconfiguráveis.
+  - **UNIDADE III - Máquinas sequenciais síncronas.**
+    - **Objetivos:**
+      - Estimar o funcionamento de máquinas sequenciais síncronas, através da modelagem com máquinas de estados finita.
+      - Manejar a habilidade de análise de circuitos sequenciais síncronos com o conceito de máquinas de estado finita e ferramentas EDA.
+      - Permitir a adoção de abordagens sistemáticas e colaborativas em projetos de máquinas sequenciais síncronas, com uso de ferramentas EDA.
+    - **Conteúdos:**
+      - 03.01 - Máquinas de estado finita.
+      - 03.02 - Modelagem e análise de circuitos sequenciais síncronos.
+      - 03.03 - Codificação de estados usando ferramenta EDA.
+      - 03.04 - Modelos de Moore e de Mealy usando ferramenta EDA.
+      - 03.05 - Minimização e codificação de estados.
+  - **UNIDADE IV - Projeto no nível de transferência entre registradores.**
+    - **Objetivos:**
+      - Enumerar os conceitos fundamentais da metodologia de desenvolvimento de projetos digitais com abordagem RTL.
+      - Utilizar a capacidade de emprego da metodologia RTL em projetos digitais avançados com estudos de caso reais.
+      - Ser investigativo e crítico no processo de design de sistemas digitais com a metodologia RTL.
+    - **Conteúdos:**
+      - 04.01 - Classificação dos sistemas digitais.
+      - 04.02 - Metodologia de projeto RTL: Modelo bloco operacional x bloco controle.
+      - 04.03 - Projeto do bloco operacional.
+
+### N752 — Projeto tecnologia intercursos
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Integração de áreas e saberes como forma de enfrentamento aos problemas sociais. Ideação de soluções que integrem conhecimento, ciência e tecnologia. Projeto de interfaces e produtos com o uso da tecnologia da informação.
+- **Programa:**
+  - **UNIDADE I - Integração de áreas e saberes como forma de enfrentamento aos problemas sociais.**
+    - **Objetivos:**
+      - Descrever o papel da universidade na transformação da realidade social a partir do desenvolvimento de projetos de tecnologia.
+      - Aplicar o conhecimento técnico e científico em articulação às necessidades da comunidade.
+      - Ser uma agente difusor da importância do conhecimento científico aplicado à transformação social.
+    - **Conteúdos:**
+      - 01.01 - Os papéis da Universidade na contemporaneidade, na busca de soluções sociais.
+      - 01.02 - O Projeto Intercursos: origem, função, objetivos, contexto.
+      - 01.03 - Áreas de formação na integração de conhecimentos por meio da visão Inter e transdisciplinar.
+  - **UNIDADE II - Ideação de soluções que integrem conhecimento, ciência e tecnologia.**
+    - **Objetivos:**
+      - Identificar no cenário situacional necessidades da comunidade.
+      - Indicar soluções tecnológicas comprometidas com o desenvolvimento sustentável, ético e cidadão para resolução de demandas da comunidade.
+      - Ser um agente responsável no processo de coleta de informações junto a comunidade.
+    - **Conteúdos:**
+      - 02.01 - Brainstorming e ideações.
+      - 02.02 - Cartografia situacional dos problemas identificados.
+      - 02.03 - Organização e sistematização das ações.
+      - 02.04 - Sustentabilidade e plano de negócios.
+  - **UNIDADE III - Projeto de interfaces e produtos com o uso da tecnologia da informação.**
+    - **Objetivos:**
+      - Modelar soluções eficazes, sustentáveis e de impacto social.
+      - Desenvolver metodologicamente as etapas de execução e projeto de interfaces e produtos por meio da ferramenta digitais.
+      - Ser crítico na avaliação dos impactos sociais a partir da implementação de produtos desenvolvidos.
+    - **Conteúdos:**
+      - 03.01 - Prototipação da interação e validação com o usuário.
+      - 03.02 - Implementação, testes e treinamento.
+      - 03.03 - Avaliação da transformação social.
+
+### N753 — Tcc I
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Escolhas iniciais do trabalho de conclusão de curso. Estrutura e organização do trabalho de conclusão de curso. Elaboração do trabalho. Projeto do trabalho de conclusão de curso.
+- **Programa:**
+  - **UNIDADE I - Escolhas iniciais do trabalho de conclusão de curso.**
+    - **Objetivos:**
+      - Deduzir temas técnicos da engenharia relacionados ao projeto.
+      - Relatar tema de pesquisa de acordo com fatores internos e externos.
+      - Demostrar capacidade de autoavaliação e reflexão crítica, por meio da identificação de interesses e habilidades.
+    - **Conteúdos:**
+      - 01.01 - Tema e orientador técnico.
+      - 01.02 - Comitê de ética para pesquisa em humanos e plágio.
+  - **UNIDADE II - Estrutura e organização do trabalho de conclusão de curso.**
+    - **Objetivos:**
+      - Estimar uma estrutura do trabalho de conclusão de curso.
+      - Construir um trabalho de conclusão de curso.
+      - Decidir um modelo disponibilizado para a escrita.
+    - **Conteúdos:**
+      - 02.01 - Elementos pré-textuais.
+      - 02.02 - Elementos textuais.
+  - **UNIDADE III - Elaboração do trabalho de conclusão de curso.**
+    - **Objetivos:**
+      - Descrever uma estrutura do trabalho de conclusão de curso.
+      - Elaborar um trabalho de conclusão de curso.
+      - Estar ciente de importância das normas de estruturação de trabalhos acadêmicos.
+    - **Conteúdos:**
+      - 03.01 - Introdução, objetivos geral e específicos, justificativa e estrutura do trabalho.
+      - 03.02 - Fundamentação teórica e metodologia.
+  - **UNIDADE IV - Projeto do trabalho de conclusão de curso.**
+    - **Objetivos:**
+      - Comparar o trabalho de conclusão de curso escrito com o modelo teórico disponibilizado.
+      - Efetuar o trabalho de conclusão de curso com as correções da orientação teórico-metodológicas.
+      - Ser claro e conciso na escrita do projeto final do trabalho de conclusão de curso.
+    - **Conteúdos:**
+      - 04.01 - Escrita da redação científica do projeto final.
+      - 04.02 - Apresentação oral da redação científica do projeto final.
+
+## 10º semestre
+
+### N885 — Aplic em sistemas inteligentes
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos de sistemas inteligentes. Ciência de dados para sistemas inteligentes. Ferramentas de processamento de linguagem natural (PLN). Sistemas embarcados para aplicações inteligentes.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de sistemas inteligentes.**
+    - **Objetivos:**
+      - Explicar as principais áreas dos sistemas inteligentes na engenharia moderna.
+      - Aplicar técnicas de inteligência artificial e aprendizado de máquina em cenários de engenharia.
+      - Valorizar a importância das aplicações práticas de sistemas inteligentes na resolução de problemas reais.
+    - **Conteúdos:**
+      - 01.01 - Visão geral dos sistemas inteligentes.
+      - 01.02 - Inteligência artificial e aprendizado de máquina.
+      - 01.03 - Visão computacional.
+      - 01.04 - Aplicações práticas de sistemas inteligentes.
+  - **UNIDADE II - Ciência de dados para sistemas inteligentes.**
+    - **Objetivos:**
+      - Analisar as principais ferramentas e bibliotecas no processamento e análise de dados.
+      - Demonstrar modelos de deep learning para tarefas específicas de reconhecimento de padrões e previsão.
+      - Contribuir com integridade e qualidade dos dados na construção de sistemas inteligentes.
+    - **Conteúdos:**
+      - 02.01 - Limpeza e preparação de dados.
+      - 02.02 - Processamento e análise de dados.
+      - 02.03 - Técnicas de deep learning.
+      - 02.04 - Aplicações de ciência de dados em engenharia.
+  - **UNIDADE III - Ferramentas de processamento de linguagem natural (PLN).**
+    - **Objetivos:**
+      - Explicar como o PLN pode ser integrado em sistemas inteligentes para melhorar a interação humano-máquina.
+      - Comprovar funcionalidades de PLN em aplicações de engenharia com uso de APIs disponíveis.
+      - Ser ético no uso de tecnologias de PLN, com garantia da privacidade e segurança dos dados.
+    - **Conteúdos:**
+      - 03.01 - Conceitos de processamento de linguagem natural.
+      - 03.02 - Utilização de APIs (Application Programming Interface) para PLN.
+      - 03.03 - Integração de PLN em sistemas inteligentes.
+      - 03.04 - Aplicações práticas.
+  - **UNIDADE IV - Sistemas embarcados para aplicações inteligentes.**
+    - **Objetivos:**
+      - Deduzir os princípios de edge computing e sua aplicação em sistemas embarcados.
+      - Efetuar projetos práticos de IoT com sistemas embarcados com aplicações inteligentes.
+      - Ser colaborativo para a interdisciplinaridade no desenvolvimento de projetos integradores que envolvem sistemas embarcados e IoT.
+    - **Conteúdos:**
+      - 04.01 - Sensores inteligentes e aquisição de dados.
+      - 04.02 - Aplicações práticas de IoT e sistemas embarcados.
+      - 04.03 - Desenvolvimento de projetos integradores com sistemas embarcados.
+
+### A500 — Atividades complementares
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Atividades complementares de ensino, pesquisa e extensão.
+- **Programa:**
+  - **UNIDADE I - Atividades complementares de ensino, pesquisa e extensão.**
+    - **Objetivos:**
+      - Distinguir oportunidades diversas de ampliação e enriquecimento da trajetória de formação acadêmica e de carreira por meio da articulação de experiências de aprimoramento técnico-científico, cultural, desportivo e humanístico.
+      - Integrar à formação profissional a participação em atividades independentes interna ou externamente, presenciais ou a distância, na forma individual ou coletiva, mediante estudos e práticas nas dimensões do ensino, da pesquisa e/ou da extensão.
+      - Ser corresponsável e diligente na autogestão de carreira com adequada seleção e efetivo engajamento em experiências de formação profissional e de vida cidadã.
+    - **Conteúdos:**
+      - 01.01 - Programas e projetos de extensão;
+      - 01.02 - Programas e projetos de pesquisa;
+      - 01.03 - Programas de monitoria;
+      - 01.04 - Programas de iniciação científica;
+      - 01.05 - Seminários, congressos, simpósios, conclaves e atividades congêneres;
+      - 01.06 - Estágio curricular não obrigatório;
+      - 01.07 - Participação em grupos de estudo;
+      - 01.08 - Representação estudantil nos colegiados da instituição;
+      - 01.09 - Presença como ouvinte, em defesa de monografia, dissertação de mestrado e de tese de doutorado;
+      - 01.10 - Produção individual ou coletiva de artigos, livros, capítulos de livros, vídeos, filmes, softwares e protótipos; e
+      - 01.11 - Intercâmbio cultural nacional ou internacional.
+
+### N900 — Ciclo avaliativo V
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### T320 — Segurança no ciberespaço
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Aspectos regulatórios, organizacionais e tecnológicos da segurança no ciberespaço. Políticas de segurança na Infraestrutura lógica, física e de sistemas computacionais. Segurança no desenvolvimento de software e plataformas. Construção do projeto de ciberproteção.
+- **Programa:**
+  - **UNIDADE I - Aspectos regulatórios, organizacionais e tecnológicos da segurança no ciberespaço.**
+    - **Objetivos:**
+      - Distinguir os princípios fundamentais de avaliação de risco cibernético e seu papel na governança de risco.
+      - Representar modelo de segurança e técnicas envolvidas em ambientes computacionais de comunicação.
+      - Ser criterioso no julgamento quanto às técnicas de segurança mais adequadas para à situações-problemas em ambientes computacionais de comunicação.
+    - **Conteúdos:**
+      - 01.01 - Política Nacional de Segurança da Informação e Segurança Cibernética.
+      - 01.02 - Privacidade, direitos online, frameworks regulatórios.
+      - 01.03 - Gestão de riscos e governança digital.
+      - 01.04 - Prevenção e mitigação de ameaças cibernéticas.
+      - 01.05 - Tecnologias de Segurança: Forense; Malware; Ataque e comportamentos adversários.
+  - **UNIDADE II - Políticas de segurança na Infraestrutura lógica, física e de sistemas computacionais.**
+    - **Objetivos:**
+      - Identificar na infraestrutura lógica e física as políticas de segurança em ambientes computacionais de comunicação.
+      - Determinar com criticidade as políticas de segurança nas configurações de ambientes computacionais de comunicação.
+      - Ser ético quanto ao uso das políticas de segurança nos serviços em ambientes computacionais de comunicação.
+    - **Conteúdos:**
+      - 02.01 - Segurança de hardware, de rede e de sistemas ciberfísicos.
+      - 02.02 - Camada física e segurança de telecomunicações.
+      - 02.03 - Segurança de sistemas operacionais e virtualização.
+      - 02.04 - Criptografia.
+      - 02.05 - Autenticação, autorização e responsabilidade.
+      - 02.06 - Segurança de sistemas distribuídos.
+  - **UNIDADE III - Segurança no desenvolvimento de software e plataformas.**
+    - **Objetivos:**
+      - Diferenciar o software seguro, suas categorias de vulnerabilidades e as contramedidas de exploração.
+      - Utilizar ciclos de vida de desenvolvimento de software com uma visão estruturada do projeto, da codificação e das técnicas de segurança da informação.
+      - Ser proativo no ciclo de vida do software seguro com foco na prevenção, na detecção de vulnerabilidades e nas respostas em caso de exploração.
+    - **Conteúdos:**
+      - 03.01 - Segurança de software em plataformas móveis, web e nuvem.
+      - 03.02 - Engenharia da segurança da informação e o ciclo de desenvolvimento de software.
+      - 03.03 - Privacidade em projetos de software.
+      - 03.04 - Pirataria em software.
+  - **UNIDADE IV - Construção do Projeto de Ciberproteção.**
+    - **Objetivos:**
+      - Definir os requisitos para o modelo de ciberproteção, pautado na cultura da organização e na legislação vigente.
+      - Implantar as políticas de segurança cibernéticas com base na confiança digital e nos marcos regulatórios, com respeito aos padrões da organização e das tecnologias adotadas.
+      - Valorar a segurança cibernética, sua cultura e relações com a sociedade.
+    - **Conteúdos:**
+      - 04.01 - Políticas e estratégias de segurança cibernética na organização.
+      - 04.02 - Diagnóstico da segurança cibernética.
+      - 04.03 - Marcos legais e regulatórios; padrões, organizações e tecnologias.
+      - 04.04 - Arquitetura do Ciberproteção.
+      - 04.05 - Treinamento nas habilidades de segurança cibernética.
+      - 04.06 - Plano de implantação do Ciberproteção.
+      - 04.07 - Homologação do projeto.
+
+### N899 — Tcc II - eng. de computação
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Revisão de projeto de pesquisa. Desenvolvimento do resultado. Apresentação do trabalho. Revisão do projeto do trabalho.
+- **Programa:**
+  - **UNIDADE I - Revisão de projeto de pesquisa.**
+    - **Objetivos:**
+      - Identificar a metodologia da pesquisa, com inclusão de amostras.
+      - Executar os instrumentos de coleta de dados e os métodos de análise estatística.
+      - Ponderar os instrumentos de coleta de dados e os métodos de análise estatística.
+    - **Conteúdos:**
+      - 01.01 - Universo da população de pesquisa.
+      - 01.02 - Metodologia.
+  - **UNIDADE II - Desenvolvimento do resultado.**
+    - **Objetivos:**
+      - Identificar o problema de pesquisa e a justificativa para sua realização.
+      - Aplicar a metodologia na coleta e análise dos dados.
+      - Prestar atenção aos resultados à luz da literatura existente para apresentação das principais conclusões.
+    - **Conteúdos:**
+      - 02.01 - Dados e interpretação das informações.
+      - 02.02 - Resultados e discussões de situação-problema.
+  - **UNIDADE III - Apresentação do trabalho.**
+    - **Objetivos:**
+      - Analisar eficientemente na forma escrita e oral.
+      - Executar a apresentação de pesquisa acadêmica.
+      - Mostrar autonomia diante da defesa do trabalho científico diante da banca examinadora.
+    - **Conteúdos:**
+      - 03.01 - Estrutura da apresentação técnica.
+      - 03.02 - Ensaios gestão do tempo de apresentação com a banca examinadora.
+  - **UNIDADE IV - Revisão do projeto do trabalho.**
+    - **Objetivos:**
+      - Identificar o feedback de professores, as sugestões e críticas.
+      - Organizar o trabalho à procura de erros gramaticais, de formatação, de coerência nos argumentos e de falta de clareza nas ideias.
+      - Demonstrar postura profissional e ética na apresentação de projetos.
+    - **Conteúdos:**
+      - 04.01 - Conformidade com as normas.
+      - 04.02 - Implementação de correções e adequações normativas.
+
+## Disciplinas optativas
+
+### G368 — RESPONSABIL SOCIAL E AMBIENTAL
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fatores determinantes para a gestão da responsabilidade social e ambiental. Estratégias emergentes na gestão de ações comunitárias. Inovação e empreendedorismo social. Projeto de responsabilidade social e ambiental.
+- **Programa:**
+  - **UNIDADE I - Fatores determinantes para a gestão da responsabilidade social e ambiental.**
+    - **Objetivos:**
+      - Articular conceitos e práticas para aplicação da responsabilidade social e ambiental na comunidade
+      - Analisar situações problemas na comunidade com base nos princípios da responsabilidade social e ambiental e do desenvolvimento sustentável.
+      - Demonstrar visão crítica sobre responsabilidade social e ambiental e desenvolvimento sustentável.
+    - **Conteúdos:**
+      - 01.01 - Conceitos de responsabilidade social e ambiental;
+      - 01.02 - Evolução histórica e legislação da responsabilidade social;
+      - 01.03 - Objetivos de desenvolvimento sustentável - ODS.
+      - 01.04 - Capital humano e social.
+  - **UNIDADE II - Estratégias emergentes na gestão de ações comunitárias.**
+    - **Objetivos:**
+      - Identificar as necessidades locais junto à comunidade para a criação de um plano de ação.
+      - Prospectar cenários para a definição de estratégias e indicadores de gestão de ação comunitária.
+      - Ser agente de promoção da autonomia e capacidade empreendedora dos atores envolvidos em ação comunitária, com empatia e ética nas relações.
+    - **Conteúdos:**
+      - 02.01 - Empoderamento comunitário;
+      - 02.02 - Autonomia e responsabilidade social;
+      - 02.03 - Diagnóstico e análise de cenários;
+      - 02.04 - Mapeamento e análise do ambiente.
+  - **UNIDADE III - Inovação e empreendedorismo social.**
+    - **Objetivos:**
+      - Discutir sobre experiências exitosas de inovação e empreendedorismo com impacto social.
+      - Elaborar plano de ação com definição de estratégias baseadas nos cenários prospectados e alinhadas aos princípios do desenvolvimento sustentável.
+      - Ser eficiente na determinação da aplicação dos recursos e ferramentas de acordo com critérios de inovação e sustentabilidade.
+    - **Conteúdos:**
+      - 03.01 - Negócios de impacto social;
+      - 03.02 - Casos de sucesso;
+      - 03.03 - Definição de estratégias, recursos e ferramentas de projeto social;
+      - 03.04 - Indicadores de responsabilidade social e de sustentabilidade.
+  - **UNIDADE IV - Projeto de responsabilidade social e ambiental.**
+    - **Objetivos:**
+      - Desenvolver projeto de responsabilidade social e ambiental com implementação de ações na comunidade.
+      - Definir indicadores de impacto e de sustentabilidade para avaliação de projeto de responsabilidade social e ambiental.
+      - Ser criterioso na elaboração da comunicação e apresentação de relatório técnico com avaliação de resultados de acordo com padrões éticos e princípios socialmente responsáveis.
+    - **Conteúdos:**
+      - 04.01 - Ideação e planejamento estratégico;
+      - 04.02 - Desenvolvimento e avaliação;
+      - 04.03 - Monitoramento e análise de impacto;
+      - 04.04 - Comunicação e relatórios de resultados.
+
+### G770 — EMPREENDEDORISMO SOCIAL
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Universo do empreendedorismo social. Ferramentas para Impacto social. Avaliação de impacto social. Criação de negócio social.
+- **Programa:**
+  - **UNIDADE I - Universo do empreendedorismo social.**
+    - **Objetivos:**
+      - Explicar o desenvolvimento do empreendedorismo social por meio da identificação dos principais conceitos, dos atores e das estruturas no ecossistema de negócios sociais.
+      - Mapear estratégias eficazes e desafios comuns enfrentados por negócios sociais no contexto local.
+      - Apresentar postura crítica e reflexiva sobre oportunidades e desafios do empreendedorismo social com ênfase no pensamento inovador e na empatia social.
+    - **Conteúdos:**
+      - 01.01 - Empreendedorismo e inovação social;
+      - 01.02 - Evolução histórica do empreendedorismo social;
+      - 01.03 - Atores e estruturas no ecossistema de negócios sociais;
+      - 01.04 - Painel de discussão: oportunidades e desafios nos negócios sociais.
+  - **UNIDADE II - Ferramentas para impacto social.**
+    - **Objetivos:**
+      - Identificar ferramentas e técnicas adequadas ao desenvolvimento de negócios sociais.
+      - Aplicar técnicas de planejamento e design para o desenvolvimento de soluções de problemas sociais identificados no contexto local.
+      - Respeitar a diversidade de pensamento e de perspectivas, com vistas à inovação em soluções para negócios sociais.
+    - **Conteúdos:**
+      - 02.01 - Planejamento estratégico e teoria da mudança;
+      - 02.02 - Design centrado no humano e desenvolvimento de soluções;
+      - 02.03 - Empatia, atores sociais e stakeholders;
+      - 02.04 - Painel de discussão: técnicas e ferramentas inovadoras.
+  - **UNIDADE III - Avaliação de impacto social.**
+    - **Objetivos:**
+      - Descrever os elementos de um relatório de impacto, com ênfase na tese de impacto e nos indicadores sociais e ambientais para mensuração de alcance e resultados.
+      - Selecionar métodos adequados para avaliação de impacto em projetos ou negócios sociais de acordo com a natureza do projeto ou negócios.
+      - Ser criterioso na escolha do método e no manejo de dados para comunicação de impacto social de acordo com os preceitos do compliance social.
+    - **Conteúdos:**
+      - 03.01 - Tese de impacto social;
+      - 03.02 - Indicadores de impacto social e ambiental;
+      - 03.03 - Métodos quantitativos e qualitativos para análise de impacto;
+      - 03.04 - Painel de discussão: análises de caso e relatórios de impacto.
+  - **UNIDADE IV - Criação de negócio social.**
+    - **Objetivos:**
+      - Explicar os elementos, as etapas e os processos para a criação de negócios sociais sustentáveis.
+      - Desenvolver protótipos de negócio social, desde a concepção da ideia até a estratégia de captação de investimentos.
+      - Ser agente promotor da inovação, da criatividade e da resiliência nos processos de desenvolvimento de negócios sociais.
+    - **Conteúdos:**
+      - 04.01 - Hackathon de impacto social;
+      - 04.02 - Identificação e validação de problema social;
+      - 04.03 - Estratégias para ideação e prototipação de soluções;
+      - 04.04 - Painel de discussão: implementação e captação de investimentos.
+
+### H726 — ARTE E CULTURA BRASILEIRA
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 4.0
+- **Ementa:** O olhar sobre o Brasil e a formação de uma identidade brasileira. O modernismo. Diversidade cultural e religiosa no Brasil. Utopia, massificação e globalidade.
+- **Programa:**
+  - **UNIDADE I - O olhar sobre o Brasil e a formação de uma identidade brasileira.**
+    - **Objetivos:**
+      - Identificar as representações da cultura brasileira a partir das produções artísticas, literárias e científicas produzidas na Europa e no Brasil, até finais do século XIX.
+      - Analisar a criação de uma auto-imagem do brasileiro a partir da visão do estrangeiro.
+      - Ter criticidade na avaliação das tensões ideológicas na produção de uma identidade brasileira ao longo dos períodos colonial, imperial e início do republicano.
+    - **Conteúdos:**
+      - 01.01 - O Brasil na visão dos viajantes estrangeiros (século XVI ao XIX);
+      - 01.02 - Século XIX: (1) pátria, língua, território e construção do Estado; (2) as teorias raciais, imigração e ideal de branqueamento da raça;
+      - 01.03 - Final do século XIX e início do XX: intelectualidade, urbanização e Belle Époque.
+  - **UNIDADE II - O modernismo.**
+    - **Objetivos:**
+      - Caracterizar a produção artística e o pensamento acerca da arte e da cultura brasileira na primeira metade do século XX, com identificação das manifestações da cultura popular brasileira recolhidas pelos modernistas em suas viagens etnográficas.
+      - Problematizar o conceito de "democracia racial", criado pelo modernista Gilberto Freyre e disseminado pela política do Estado Novo.
+    - **Conteúdos:**
+      - 02.01 - O modernismo europeu x o modernismo brasileiro;
+      - 02.02 - Viagens de Mário de Andrade e da Missão de Pesquisas Folclóricas pelo Brasil: Minas, Norte e Nordeste;
+      - 02.03 - A mestiçagem sob a ótica da positividade nas artes plásticas, na literatura, na mídia e no pensamento social brasileiro.
+  - **UNIDADE III - Diversidade cultural e religiosa no Brasil.**
+    - **Objetivos:**
+      - Analisar a diversidade brasileira com ênfase na contribuição cultural de suas matrizes étnicas.
+      - Valorizar o respeito à diversidade da cultura brasileira em suas amplas manifestações (alimentação, artes, esporte, língua e sotaques, modos de morar/falar/vestir, crenças religiosas, relações com o corpo, entre outros).
+    - **Conteúdos:**
+      - 03.01 - As matrizes étnicas e suas contribuições da cultura brasileira;
+      - 03.02 - O universo social e religioso do Brasil desde o período Colonial;
+      - 03.03 - Religiões brasileiras de configuração sincrética e suas representações nas artes e na mídia.
+  - **UNIDADE IV - Utopia, massificação e globalidade.**
+    - **Objetivos:**
+      - Caracterizar a produção artística e o pensamento acerca da arte e da cultura brasileira na segunda metade do século XX e início do XXI
+      - Distinguir obras de artistas contemporâneos (instalações, performances, poesias, músicas, pinturas, esculturas e outras) em suas contextualizações e a partir de categorias específicas.
+    - **Conteúdos:**
+      - 04.01 - Imperialismo cultural e a defesa do nacional-popular;
+      - 04.02 - Movimentos artísticos, alienação e engajamento político: entre a utopia e a massificação;
+      - 04.03 - Globalização, mídia e contemporaneidade nas artes e na cultura.
+
+### H799 — LIBRAS
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 2.0
+- **Ementa:** Política linguística no Brasil e língua brasileira de sinais. Trajetória histórica da organização dos surdos e das línguas de sinais. Aspectos socioculturais dos surdos e das línguas de sinais. Elementos linguísticos da língua brasileira de sinais nos diferentes contextos e o tradutor/intérprete.
+- **Programa:**
+  - **UNIDADE I - Política linguística no Brasil e língua brasileira de sinais.**
+    - **Objetivos:**
+      - Empregar a visualidade da língua de sinais e os componentes linguísticos básicos da língua brasileira de sinais (Libras).
+    - **Conteúdos:**
+      - 01.01 - Visualidade das línguas de sinais e níveis linguísticos básicos da Libras: parâmetros fonológicos.
+      - 01.02 - Língua de sinais, constituição dos sujeitos surdos e o alfabeto manual.
+  - **UNIDADE II - Trajetória histórica da organização dos surdos e das línguas de sinais.**
+    - **Objetivos:**
+      - Analisar a trajetória histórica da organização dos surdos e das línguas de sinais, com ênfase na política linguística no Brasil.
+      - Comunicar-se em Libras nas diferentes situações e contextos.
+    - **Conteúdos:**
+      - 02.01 - Mitos e marcos históricos da organização dos surdos e das línguas de sinais.
+      - 02.02 - Habilidades na língua brasileira de sinais nas diferentes situações e contextos.
+  - **UNIDADE III - Aspectos socioculturais dos surdos e das línguas de sinais.**
+    - **Objetivos:**
+      - Analisar a especificidade sociocultural e linguística dos surdos.
+    - **Conteúdos:**
+      - 03.01 - Especificidade sociocultural dos surdos e suas respectivas identidades e linguística dos surdos.
+      - 03.02 - Habilidades receptivas e produtivas no uso das línguas de sinais e, especificamente, da Libras nos diferentes contextos.
+  - **UNIDADE IV - Elementos linguísticos da língua brasileira de sinais nos diferentes contextos e o tradutor/intérprete.**
+    - **Objetivos:**
+      - Comunicar-se em Libras nos contextos significativos.
+      - Caracterizar os elementos linguísticos da Libras e o perfil do intérprete/tradutor de língua de sinais (TILS) nos diferentes contextos.
+    - **Conteúdos:**
+      - 04.01 - Estratégias de comunicação em Libras nos contextos significativos.
+      - 04.02 - O tradutor/intérprete de língua de sinais traduzindo culturas e palavras nos diferentes contextos.
+
+### J005 — DIREITOS HUMANOS
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 4.0
+- **Ementa:** Construção histórica dos direitos humanos e seus reflexos nas constituições. Sistemas de proteção internacional dos direitos humanos. Principais tratados internacionais de proteção aos direitos humanos. Democracia e direitos humanos na contemporaneidade.
+- **Programa:**
+  - **UNIDADE I - Construção histórica dos direitos humanos e seus reflexos nas constituições.**
+    - **Objetivos:**
+      - Contextualizar o processo de construção histórica dos direitos humanos, seus principais pressupostos teóricos e a demonstração da importância das revoluções liberais e seus principais marcos regulatórios relacionados aos direitos humanos.
+    - **Conteúdos:**
+      - 01.01 - Direitos Humanos: Definição e consolidação histórica de suas gerações
+      - 01.02 - Constitucionalismo liberal, social e os direitos humanos;
+      - 01.03 - Teoria das Gerações dos Direitos Humanos;
+      - 01.04 - A segunda guerra mundial, a declaração universal de direitos humanos e sua internacionalização;
+  - **UNIDADE II - Sistemas de proteção internacional dos direitos humanos.**
+    - **Objetivos:**
+      - Relacionar a atuação entre os sistemas internacionais de proteção internacional dos direitos humanos e seus reflexos sobre a defesa dos direitos humanos na ordem interna.
+    - **Conteúdos:**
+      - 02.01 - As três vertentes da proteção internacional (direitos humanos, direito humanitário e direito dos refugiados) e o sistema global de proteção aos direitos humanos;
+      - 02.02 - Sistemas regionais de proteção aos direitos humanos: origens, princípios reitores (universalidade e indivisibilidade dos Direitos Humanos), principais mecanismos e diferenças entre os sistemas;
+      - 02.03 - Sistema Interamericano de direitos humanos: dinâmicas da comissão e da Corte Interamericana de Direitos Humanos;
+      - 02.04 - Tribunal Penal Internacional e o Estatuto de Roma e os efeitos dos sistemas internacionais no âmbito interno do Estado Brasileiro.
+  - **UNIDADE III - Principais Tratados Internacionais de Proteção aos Direitos Humanos.**
+    - **Objetivos:**
+      - Valorar o conteúdo dos principais tratados de direitos humanos em busca da construção de uma sociedade justa, equitativa e democrática.
+    - **Conteúdos:**
+      - 03.01 - Pacto de direitos civis e políticos e pacto direitos econômicos, sociais e culturais;
+      - 03.02 - Convenção internacional sobre a eliminação de todas as formas de discriminação racial;
+      - 03.03 - Convenção sobre a eliminação de todas as formas de discriminação contra as mulheres;
+      - 03.04 - O Pacto de San José da Costa Rica e outros tratados internacionais de direitos humanos.
+  - **UNIDADE IV - Democracia e direitos humanos na contemporaneidade.**
+    - **Objetivos:**
+      - Estabelecer a relação entre a democracia e os direitos humanos com análise dos principais problemas relacionados a sua defesa e descrição das ações afirmativas existentes no âmbito nacional para o fortalecimento dos direitos humanos, em conformidade com os ODS da ONU.
+      - Ser agente promotor de uma cultura de paz.
+    - **Conteúdos:**
+      - 04.01 - Democracia sob a perspectiva dos direitos humanos;
+      - 04.02 - Minorias sociais e ações afirmativas;
+      - 04.03 - A sociedade global em prol dos Direitos Humanos e os Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU);
+      - 04.04 - Proteção Internacional dos Direitos Humanos na contemporaneidade (igualdade de gênero; diversidade sexual; discriminação étnico-racial; outros).
+
+### J080 — MISSÃO INTER: SOC ARTE CULTURA
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Internacionalização e globalização. Missão internacional e os Objetivos de Desenvolvimento Sustentável (ODS) na formação para a cidadania global. Missão internacional, práticas e vivências.
+- **Programa:**
+  - **UNIDADE I- Internacionalização e globalização.**
+    - **Objetivos:**
+      - Analisar criticamente os impactos da globalização nas sociedades, nas expressões artísticas e nas culturas.
+      - Produzir reflexões escritas e orais sobre as interações entre globalização e cultura local.
+      - Valorizar o diálogo intercultural como meio de ampliação da formação humanística e cidadã.
+    - **Conteúdos:**
+      - 01.01 - Aspectos conceituais da internacionalização e globalização;
+      - 01.02 - Impactos da globalização nas sociedades, na arte e na cultura;
+      - 01.03 - Importância da internacionalização no Ensino Superior.
+  - **UNIDADE II - Missão internacional e os Objetivos de Desenvolvimento Sustentável (ODS) na formação para cidadania global.**
+    - **Objetivos:**
+      - Identificar aspectos culturais, linguísticos e sociais relevantes para o contexto da localidade de destino da missão.
+      - Planejar uma atuação consciente em contextos internacionais, considerando as metas dos ODS.
+      - Desenvolver empatia e respeito pelas diferenças culturais e sociais.
+    - **Conteúdos:**
+      - 02.01 - Missão internacional e a importância para o aprendizado acadêmico e cultural diante dos Objetivos de Desenvolvimento Sustentável (ODS);
+      - 02.02 - A cultura na formação da cidadania global;
+      - 02.03 - Aspectos culturais, linguisticos e sociais da localidade destino
+  - **UNIDADE III - Missão internacional - práticas e vivências.**
+    - **Objetivos:**
+      - Relacionar vivências culturais e sociais com os conteúdos abordados na formação acadêmica.
+      - Participar ativamente de atividades culturais e sociais propostas na missão, documentando e analisando essas experiências.
+      - Fortalecer a responsabilidade cidadã e o compromisso com a justiça social a partir das vivências no contexto internacional.
+    - **Conteúdos:**
+      - 03.01 - Exploração cultural e artística;
+      - 03.02 - Imersão na sociedade local;
+      - 03.03 - Reflexão, impacto pessoal e possível impacto social.
+
+### N390 — DESENV DE SOFTWARE EM NUVEM
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Computação em Nuvem, tecnologias, ambientes e modelos. Projeto de Software em Nuvem. Implantação de Software em Nuvem.
+- **Programa:**
+  - **UNIDADE I - Computação em Nuvem, tecnologias, ambientes e modelos.**
+    - **Objetivos:**
+      - Identificar a arquitetura de Computação em Nuvem e os princípios do desenvolvimento de aplicações relacionados.
+      - Utilizar serviços de nuvens públicas, privadas e seus modelos de entrega e implantação.
+      - Ser ético na prestação de serviço e na manipulação de dados.
+    - **Conteúdos:**
+      - 01.01 - Computação em Nuvem: origens, motivação, definições.
+      - 01.02 - Características essenciais: amplo acesso, elasticidade, serviço medido, serviços sob demanda e pooling de recursos.
+      - 01.03 - Modelos de Entrega: Software como Serviço, Plataforma como Serviço e Infraestrutura como Serviço.
+      - 01.04 - Modelos de Implantação: Nuvens públicas, privadas, comunitárias e híbridas.
+  - **UNIDADE II - Projeto de Software em Nuvem.**
+    - **Objetivos:**
+      - Distinguir provedores de Computação em Nuvem e seus serviços ofertados.
+      - Criar software para a utilização em ambientes PaaS (Plataform as a Service) e BaaS (Backend as a Service).
+      - Valorar o uso de serviços de ambiente de nuvem no projeto do software.
+    - **Conteúdos:**
+      - 02.01 - Provedores de serviços públicos de PaaS - Plataform as a Service.
+      - 02.02 - Provedores de serviços públicos de BaaS - Backend as a Service.
+      - 02.03 - Versionamento de software e sistemas de controle de versão.
+      - 02.04 - Sistema de gerenciamento e distribuição de pacotes para bibliotecas de apoio.
+      - 02.05 - Armazenamento e gerenciamento de configurações de software.
+  - **UNIDADE III - Implantação de Software em Nuvem.**
+    - **Objetivos:**
+      - Identificar características e necessidades para implantação de software em ambientes de Computação em Nuvem.
+      - Operar serviços PaaS (Plataform as a Service) e BaaS (Backend as a Service) para implantação de software em Computação em Nuvem.
+      - Ser crítico na seleção de pacotes de serviços adequados para o software a ser implantado.
+    - **Conteúdos:**
+      - 03.01 - Modelos de cobrança, pacotes de serviços e gerenciamento de custo.
+      - 03.02 - Integração, empacotamento e entrega de software.
+      - 03.03 - Configuração de software.
+      - 03.04 - Construção de software (build) baseado em scripts.
+      - 03.05 - Integração com banco de dados.
+      - 03.06 - Implantação de software em plataformas como serviço.
+
+### N394 — COMPUT GRÁF REALIDADE VIRTUAL
+
+- **Modalidade:** Presencial
+- **Créditos:** 0.4
+- **Ementa:** Dispositivos de entrada/saída, motores e bibliotecas gráficas. Criação de cenas 2D e 3D. Prototipação de soluções em ambientes gráficos interativos aplicadas a diferentes domínios na forma de jogos digitais.
+- **Programa:**
+  - **UNIDADE I - Dispositivos de entrada e saída, motores e bibliotecas gráficas.**
+    - **Objetivos:**
+      - Identificar os variados tipos de dispositivos de entrada/saída, motores de jogos e bibliotecas gráficas, usados na construção de aplicações gráficas interativas.
+      - Desenvolver soluções em computação gráfica com a aplicação das boas práticas no uso e controle de dispositivos gráficos de entrada/saída, motores de jogos e bibliotecas gráficas.
+      - Ser assertivo na seleção de qual dispositivo de entrada/saída, motor de jogos e biblioteca gráfica é utilizado na resolução de uma situação problema.
+    - **Conteúdos:**
+      - 01.01 - Visão Geral Comparativa das áreas de Computação Gráfica e Jogos Digitais.
+      - 01.02 - Pipeline gráfico e de produção de jogos digitais.
+      - 01.03 - Funcionamento de dispositivos de entrada e saída.
+      - 01.04 - Fundamentos em geometria computacional (algoritmos, métodos e estruturas de dados para problemas geométricos).
+      - 01.05 - Histórico comparativo de motores de jogos e bibliotecas gráficas.
+      - 01.06 - Áreas de Aplicação (com apresentação de exemplos de sucesso desenvolvidos).
+  - **UNIDADE II - Criação de cenas em duas e três dimensões.**
+    - **Objetivos:**
+      - Empregar os conceitos de computação gráfica, com uso de motores de jogos, bibliotecas gráficas e dispositivos de entrada/saída para a criação de cenas 2D/3D.
+      - Implementar cenas 2D/3D (estáticas e dinâmicas) em computação gráfica e jogos digitais, baseadas em uma situação problema, controladas pelo usuário via dispositivos de entrada/saída.
+      - Ser crítico em escolha de objetos e ambientes, animação de personagens e controle de componentes de interface, método de interação usuário/cena por evento, plataforma de execução e ferramentas, atributos de visualização, e efeitos especiais e sonoros, frente a uma situação problema.
+    - **Conteúdos:**
+      - 02.01 - Cenas estáticas x cenas dinâmicas.
+      - 02.02 - Primitivas gráficas e modelagem de objetos e ambientes.
+      - 02.03 - Transformações geométricas 2D/3D (escala, rotação e translação).
+      - 02.04 - Câmera sintética e recorte.
+      - 02.05 - Sistemas de coordenadas (mundo, normalizado, tela) e plataformas de execução.
+      - 02.06 - Preenchimento de polígonos.
+      - 02.07 - Iluminação e tonalização.
+      - 02.08 - Cor, atributos de visualização e efeitos especiais.
+      - 02.09 - Métodos de interação usuário/cena por evento.
+      - 02.10 - Animação de personagens e controle de componentes de interface.
+      - 02.11 - Efeitos sonoros e sonorização.
+  - **UNIDADE III - Prototipação de soluções em ambientes gráficos interativos aplicadas a diferentes domínios na forma de jogos digitais.**
+    - **Objetivos:**
+      - Empregar conceitos de criação de cenas 2D/3D no desenvolvimento de protótipos de jogos digitais.
+      - Desenvolver protótipos de jogos digitais em equipe utilizando motores de jogos, bibliotecas gráficas e dispositivos de entrada/saída.
+      - Ser colaborativo na construção de protótipos em jogos digitais utilizando conceitos de Computação Gráfica.
+    - **Conteúdos:**
+      - 03.01 - Estudo do problema e do domínio da aplicação.
+      - 03.02 - Uso de métodos para Ideação e chuva de ideias.
+      - 03.03 - Necessidade do usuário, personas e cenários.
+      - 03.04 - Análise de Requisitos.
+      - 03.05 - Elaboração do conceito e design.
+      - 03.06 - Construção de protótipos.
+      - 03.07 - Testes funcionais e de usabilidade.
+      - 03.08 - Refinamentos sucessivos.
+
+### N622 — TÓPICOS DE GESTÃO AMBIENTAL
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.0
+- **Ementa:** Evolução histórica das questões ambientais. Noções fundamentais de ecologia. A crise ambiental. A energia e o meio ambiente. A poluição ambiental. O desenvolvimento sustentável. Conceito e aplicações do modelo de desenvolvimento sustentável.
+- **Programa:**
+  - **UNIDADE I - Evolução histórica das questões ambientais**
+    - **Objetivos:**
+      - Compreender a evolução das questões ambientais e dos fatores condicionantes das mudanças, permitindo que seja avaliado de forma crítica o conceito de Desenvolvimento Sustentável.
+    - **Conteúdos:**
+      - 01.01 - No Brasil e no mundo;
+      - 01.02 - Fatores condicionantes das mudanças relativas ao tema.
+  - **UNIDADE II - Noções fundamentais de ecologia**
+    - **Objetivos:**
+      - Identificar dentre os níveis biológicos de organização os fundamentais para ecologia.
+    - **Conteúdos:**
+      - 02.01 - A dinâmica das populações;
+      - 02.02 - Comunidades;
+      - 02.03 - Ecossistemas;
+      - 02.04 - Biosfera.
+  - **UNIDADE III - A crise ambiental**
+    - **Objetivos:**
+      - Compreender a relação entre os principais componentes da crise ambiental.
+    - **Conteúdos:**
+      - 03.01 - População;
+      - 03.02 - Recursos naturais;
+      - 03.03 - Poluição.
+  - **UNIDADE IV - A energia e meio ambiente**
+    - **Objetivos:**
+      - Conhecer as fontes de energia presentes no meio ambiente.
+    - **Conteúdos:**
+      - 04.01 - Fontes de energia;
+      - 04.02 - Histórico da crise energética;
+      - 04.03 - A eficiência do aproveitamento energético;
+      - 04.04 - Perspectivas futuras.
+  - **UNIDADE V - A poluição ambiental**
+    - **Objetivos:**
+      - Analisar a poluição da água, do solo e do ar, identificando as medidas de controle existentes, a partir de suas respectivas características.
+    - **Conteúdos:**
+      - 05.01 - O meio aquático;
+      - 05.02 - O meio terrestre;
+      - 05.03 - O meio atmosférico;
+      - 05.04 - Preocupações ambientais: as questões globais do meio ambiente; o Brasil e os temas ambientais.
+  - **UNIDADE VI - O desenvolvimento sustentável**
+    - **Objetivos:**
+      - Compreender a fundamentação básica do desenvolvimento sustentável, conhecendo os conceitos, legislação e diretrizes do sistema de gestão ambiental (SGA) de acordo com ISO 14000.
+    - **Conteúdos:**
+      - 06.01 - Aspectos básicos;
+      - 06.02 - Aspectos legais e institucionais;
+      - 06.03 - Desenvolvimento econômico ambientalmente sustentável;
+      - 06.04 - Conceituação e diretrizes do Sistema de Gestão Ambiental - SGA.
+  - **UNIDADE VII - Conceito e aplicações do modelo de desenvolvimento sustentável**
+    - **Objetivos:**
+      - Entender os conceitos da gestão ambiental explorando a importância das parcerias pública e privada na criação de modelos sustentáveis.
+    - **Conteúdos:**
+      - 07.01 - Gestão socioambiental;
+      - 07.02 - Parcerias públicas e privadas;
+      - 07.03 - Modelos sustentáveis.
+
+### N623 — QUÍMICA E MATERIAIS ELÉTRICOS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 3.1
+- **Ementa:** Química do estado sólido. Estrutura da matéria. Ligações químicas. Estrutura cristalina dos sólidos. Imperfeições nos sólidos. Difusão. Propriedades elétricas. Propriedades magnéticas. Propriedades ópticas.
+- **Programa:**
+  - **UNIDADE I - Química do estado sólido**
+    - **Objetivos:**
+      - Analisar o conceito de Química do estado sólido e de química dos materiais para o Engenheiro.
+    - **Conteúdos:**
+      - 01.01 - Sistema de unidades de medidas: SI, CGS, Sistema Inglês, MKS;
+      - 01.02 - Propriedades físicas e químicas;
+      - 01.03 - Química do estado sólido e química dos materiais.
+  - **UNIDADE II - Estrutura da matéria**
+    - **Objetivos:**
+      - Construir um modelo de estrutura do átomo justificando as suas propriedades para cada elemento químico.
+    - **Conteúdos:**
+      - 02.01 - Características da radiação eletromagnética, efeito fotoelétrico;
+      - 02.02 - Modelo Atômico de Bohr;
+      - 02.03 - A dualidade onda-partícula da matéria;
+      - 02.04 - O Princípio da Incerteza;
+      - 02.05 - Orbitais atômicos e espectros atômicos;
+      - 02.06 - Propriedades periódicas da matéria;
+      - 02.07 - Atividade prática.
+  - **UNIDADE III - Ligações químicas**
+    - **Objetivos:**
+      - Explicar a formação de substâncias químicas e o comportamento dos sólidos utilizando os modelos de ligações químicas.
+    - **Conteúdos:**
+      - 03.01 - Ligações iônicas: energia de rede;
+      - 03.02 - Ligações covalente: energia e comprimento de ligação;
+      - 03.03 - Ligação metálica e suas propriedades;
+      - 03.04 - Eletronegatividade e polaridade de ligações e de moléculas;
+      - 03.05 - Atividade prática.
+  - **UNIDADE IV - Estrutura cristalina e microestrutura dos sólidos**
+    - **Objetivos:**
+      - Descrever e predizer propriedades macroscópicas de sólidos cristalinos a partir da estrutura cristalina e da microestrutura. Compreender a relação entre a microestrutura e as propriedades das fases.
+    - **Conteúdos:**
+      - 04.01 - Células unitárias; Estrutura de cristais metálicos;
+      - 04.02 - Densidade teórica; Sistemas cristalinos;
+      - 04.03 - Atividade prática.
+  - **UNIDADE V - Imperfeições nos sólidos**
+    - **Objetivos:**
+      - Entender como os defeitos em estruturas cristalinas influenciam nas propriedades estruturais e de condução eletrônica nas diferentes classes de materiais.
+    - **Conteúdos:**
+      - 05.01 - Defeitos pontuais; Impurezas nos sólidos;
+      - 05.02 - Discordâncias; Defeitos em superfície;
+      - 05.03 - Microscopia;
+      - 05.04 - Atividade prática.
+  - **UNIDADE VI - Difusão**
+    - **Objetivos:**
+      - Entender mecanismos atômicos de difusão em regime estacionário e não estacionário e sua influência nas propriedades dos materiais.
+    - **Conteúdos:**
+      - 06.01 - Mecanismos de difusão;
+      - 06.02 - Difusão em regime estacionário e não estacionário: 1a e 2a Lei de Fick;
+      - 06.03 - Fatores que influenciam na difusão;
+      - 06.04 - Aplicação da difusão em dopagem de semicondutores.
+  - **UNIDADE VII - Propriedades elétricas**
+    - **Objetivos:**
+      - Analisar os conceitos sobre as propriedades elétricas dos materiais metálicos, cerâmicos e poliméricos.
+    - **Conteúdos:**
+      - 07.01 - Condutores, semicondutores e isolantes;
+      - 07.02 - Estrutura da energia de bandas nos sólidos;
+      - 07.03 - Influência da temperatura e de impurezas na condutividade dos materiais;
+      - 07.04 - Comportamento dielétrico; Ferroeletricidade; Piezoeletricidade;
+      - 07.05 - Seleção de materiais para aplicações elétricas;
+      - 07.06 - Atividade prática.
+  - **UNIDADE VIII - Propriedades magnéticas**
+    - **Objetivos:**
+      - Descrever as propriedades magnéticas dos materiais.
+    - **Conteúdos:**
+      - 08.01 - Dipolos e domínios magnéticos;
+      - 08.02 - Diamagnetismo, paramagnetismo, ferrimagnetismo, ferromagnetismo;
+      - 08.03 - Materiais magnéticos moles e duros;
+      - 08.04 - Histerese; Supercondutividade;
+      - 08.05 - Seleção de materiais para aplicações magnéticas;
+      - 08.06 - Atividade prática.
+  - **UNIDADE IX - Propriedades ópticas**
+    - **Objetivos:**
+      - Demonstrar as propriedades ópticas dos materiais metálicos, cerâmicos e poliméricos.
+    - **Conteúdos:**
+      - 09.01 - Fenômenos de refração, reflexão, transmissão e absorção óptica;
+      - 09.02 - Aplicações de fenômenos ópticos: luminescência, fotocondutividade, laser, fibra óptica;
+      - 09.03 - Seleção de materiais para aplicações ópticas;
+      - 09.04 - Atividade prática.
+
+### S801 — ORATÓRIA CONTEMPORÂNEA
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Oratória como comunicação oral profissional. Processos da comunicação oral relacionados à oratória. Técnicas de aperfeiçoamento fonoaudiológico para o desenvolvimento da oratória. Oratória em diversos cenários.
+- **Programa:**
+  - **UNIDADE I - Oratória como comunicação oral profissional.**
+    - **Objetivos:**
+      - Identificar os aspectos históricos da oratória, com consideração às contribuições da Fonoaudiologia para a oratória contemporânea.
+      - Caracterizar a oratória contemporânea.
+    - **Conteúdos:**
+      - 01.01 - Contribuições da Fonoaudiologia para a oratória.
+      - 01.02 - Características da oratória contemporânea.
+  - **UNIDADE II - Processos da comunicação oral relacionados à oratória.**
+    - **Objetivos:**
+      - Identificar as estruturas e o mecanismo corporal responsáveis pela produção da comunicação oral.
+      - Realizar auto-avaliação da comunicação oral profissional sob a perspectiva fonoaudiológica.
+    - **Conteúdos:**
+      - 02.01 - Mecanismos anatômicos, fisiológicos e fisiopatológicos da comunicação oral.
+      - 02.02 - Avaliação fonoaudiológica na comunicação oral profissional.
+  - **UNIDADE III - Técnicas de aperfeiçoamento fonoaudiológico para o desenvolvimento da oratória.**
+    - **Objetivos:**
+      - Distinguir técnicas de aperfeiçoamento fonoaudiológico para o desenvolvimento da oratória.
+      - Aplicar técnicas de oratória em situações de comunicação profissional.
+    - **Conteúdos:**
+      - 03.01 - Regras de saúde vocal.
+      - 03.02 - Técnicas de postura corporal, relaxamento vocal, aquecimento vocal, desaquecimento vocal, respiração para o uso da voz profissional, nitidez articulatória, expressividade, fluência da fala e da leitura oral, comunicação não-verbal, e eloquência.
+  - **UNIDADE IV - Oratória em diversos cenários.**
+    - **Objetivos:**
+      - Operar equipamentos de natureza audiovisual na prática da oratória.
+      - Ser respeitoso e criterioso no emprego de técnicas de oratória para diversos públicos.
+    - **Conteúdos:**
+      - 04.01 - Recursos audiovisuais para a oratória.
+      - 04.02 - Oratória e a diversidade de público.
+
+### T116 — ÉTICA EM COMPUTAÇÃO
+
+- **Modalidade:** Ead
+- **Créditos:** 2.0
+- **Ementa:** Desafios éticos na sociedade do conhecimento e seus desdobramentos no ambiente profissional. Códigos de ética na área da computação. Transtornos de conduta e conflito no ciberespaço. A era digital comprometida com a responsabilidades socioambiental.
+- **Programa:**
+  - **UNIDADE I - Desafios éticos na sociedade do conhecimento e seus desdobramentos no ambiente profissional**
+    - **Objetivos:**
+      - Defender os valores e princípios éticos nas relações sociais e profissionais.
+      - Praticar os princípios éticos e dos direitos humanos nas relações de trabalho em sua área de atuação.
+      - Identificar os valores e responsabilidades pertinentes às relações profissionais e sociais.
+    - **Conteúdos:**
+      - 01.01 - Princípios e fundamentos da ética.
+      - 01.02 - Dimensões ética nos campos social e profissional.
+  - **UNIDADE II - Códigos de ética na área de computação**
+    - **Objetivos:**
+      - Interpretar os códigos de ética da computação para o uso nas atividades profissionais.
+      - Associar os princípios éticos que norteiam o profissional da computação com a cultura organizacional em que atua.
+      - Ser agente multiplicador de legislações e condutas éticas com vistas a disseminação dos direitos e deveres no ciberespaço.
+    - **Conteúdos:**
+      - 02.01 - Legislação e compliance no cenário que envolve a computação.
+      - 02.02 - Código de ética da computação e as relações com a cultura organizacional associada as instituições normalizadoras da área de computação.
+  - **UNIDADE III - Transtornos de conduta e conflito no ciberespaço**
+    - **Objetivos:**
+      - Categorizar os tipos de crimes informáticos com indicação de seus impactos no mundo do trabalho.
+      - Disseminar as legislações e políticas que norteiam o ciberespaço.
+      - Agir com postura ética-profissional em meio a desvios de conduta.
+    - **Conteúdos:**
+      - 03.01 - Políticas e Legislação aplicadas ao ciberespaço: privacidade, pirataria, invasões e propriedade intelectual.
+      - 03.02 - Crimes cibernéticos e seus impactos sociais e profissionais.
+  - **UNIDADE IV - A era digital comprometida com a responsabilidades socioambiental**
+    - **Objetivos:**
+      - Discriminar os elementos da tecnologia da informação que conflitam com a legislação socioambiental.
+      - Demonstrar os códigos de ética aplicados no tratamento do lixo tecnológico com contribuições assertivas.
+      - Ser autocrítico na avaliação da tecnologia da informação de forma ajustada dos próprios comportamentos, atitudes frente aos aspectos socioambientais.
+    - **Conteúdos:**
+      - 04.01 - Legislação socioambiental relacionada a tecnologia da informação e comunicação.
+      - 04.02 - Código de ética no tratamento do lixo tecnológico: Cenários e Impactos.
+
+### T161 — EXPERIMENTAÇÃO ORIENTADA
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Prototipação funcional de aplicativos. Prototipação eletrônica. Integração de aplicativos e eletrônica.
+- **Programa:**
+  - **UNIDADE I - Prototipação funcional de aplicativos.**
+    - **Objetivos:**
+      - Relacionar técnicas de prototipação rápida para desenvolvimento de aplicações para dispositivos móveis.
+      - Criar protótipos de aplicativos.
+      - Valorar características necessárias a um bom produto (eficácia, eficiência e usabilidade).
+    - **Conteúdos:**
+      - 01.01 - Criação de interfaces para dispositivos móveis.
+      - 01.02 - Lógica de Programação utilizando blocos lógicos.
+      - 01.03 - Estruturas de programação utilizando blocos lógicos.
+      - 01.04 - Acesso a sensores de dispositivos móveis.
+  - **UNIDADE II - Prototipação eletrônica.**
+    - **Objetivos:**
+      - Relacionar técnicas de prototipação rápida para desenvolvimento de dispositivos físicos.
+      - Criar protótipos físicos integrados com aplicativos.
+      - Ser colaborativo na criação e integração de protótipos.
+    - **Conteúdos:**
+      - 02.01 - Noções básicas de eletrônica, atuadores e sensoriamento remoto.
+      - 02.02 - Primeiros passos com placa de prototipação eletrônica.
+      - 02.03 - Programação de microcontrolador.
+      - 02.04 - Princípios de automação.
+  - **UNIDADE III - Integração de aplicativos e eletrônica.**
+    - **Objetivos:**
+      - Explicar ferramentas de prototipação em projetos simples de automação.
+      - Construir sistemas de automação básicos.
+      - Valorar prototipagem como parte do processo criativo para desenvolvimentos de projetos.
+    - **Conteúdos:**
+      - 03.01 - Tecnologia Bluetooth serial.
+      - 03.02 - Implementação de pequenos projetos.
+      - 03.03 - Criação de projetos personalizados.
+      - 03.04 - Técnica para apresentação de projetos.
+
+### T192 — GOVERNANÇA EM SISTEMAS DE T.I.
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Fundamentos de Governança de Tecnologia da Informação (TI). Arquitetura Empresarial. Governança de Desenvolvimento de Software. Estrutura de Gerenciamento da Governança de TI. Ferramentas de Apoio ao Ciclo de Vida da Governança de TI. Plano de Governança de TI.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de Governança de Tecnologia da Informação (TI).**
+    - **Objetivos:**
+      - Referir os conceitos-chave de governança em sistemas de TI.
+      - Inferir os avanços da governança corporativa na governança de tecnologia da informação.
+    - **Conteúdos:**
+      - 01.01 - Governança de TI: a realidade entre teoria e prática.
+      - 01.02 - O ciclo de vida da governança de TI.
+      - 01.03 - Visão dos negócios: conceitos e definições.
+      - 01.04 - Histórico da evolução da governança.
+      - 01.05 - Alinhamento de TI e negócios.
+  - **UNIDADE II - Arquitetura Empresarial.**
+    - **Objetivos:**
+      - Relacionar a Arquitetura Empresarial (AE) à governança de TI com distinção dos aspectos de adoção do ciclo de governança de TI.
+    - **Conteúdos:**
+      - 02.01 - Fundamentos de arquitetura Empresarial.
+      - 02.02 - Solução e arquiteturas empresariais.
+      - 02.03 - Aspectos da AE: arquitetura, governança e transição.
+      - 02.04 - Explorando a capacidade da AE.
+      - 02.05 - Estratégias para empresa ágil.
+  - **UNIDADE III - Governança de Desenvolvimento de Software.**
+    - **Objetivos:**
+      - Utilizar modelos de processos de software e metodologias para o gerenciamento de projetos de forma integrada e interdisciplinar.
+      - Valorar a importância da gestão de desenvolvimento de softwares.
+    - **Conteúdos:**
+      - 03.01 - Fundamentos da gestão de desenvolvimento de software.
+      - 03.02 - Gerenciamento de projetos e portfólios.
+      - 03.03 - Processos, padrões e métricas de produção de software.
+      - 03.04 - Gerenciamento de ativos de software.
+      - 03.05 - Gerenciamento de requisitos.
+      - 03.06 - Gerenciamento de mudanças e controle de versão.
+      - 03.07 - Gerenciamento de qualidade de software.
+  - **UNIDADE IV - Estrutura de Gerenciamento da Governança de TI.**
+    - **Objetivos:**
+      - Aplicar os princípios da Governança de TI.
+      - Explicar como os princípios de Governança de TI estão associados aos objetivos de negócio.
+    - **Conteúdos:**
+      - 04.01 - Modelos de melhores práticas de Governança de TI.
+      - 04.02 - Arquitetura orientada a serviços.
+      - 04.03 - Operações e gerência de serviços.
+  - **UNIDADE V - Ferramentas de Apoio ao Ciclo de Vida da Governança de TI.**
+    - **Objetivos:**
+      - Utilizar ferramentas para a governança de sistemas de TI.
+      - Estar atento às melhorias de processos.
+    - **Conteúdos:**
+      - 05.01 - Gestão Estratégica: TOGAF e Balanced Scorecard.
+      - 05.02 - Modelagem de processo de negócio: CBOK, BABOK.
+      - 05.03 - Modelo de melhoria de processos: Six Sigma, COBIT e ITIL.
+  - **UNIDADE VI Plano de Governança de TI.**
+    - **Objetivos:**
+      - Elaborar plano de governança de TI alinhado com negócios e sua arquitetura empresarial.
+    - **Conteúdos:**
+      - 06.01 - Elaboração de plano de governança de TI.
+
+### T195 — DESENVOLVIMENTO DE JOGOS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.4
+- **Ementa:** História, Plataformas e Gêneros em Jogos Digitais. Projetos de Jogos. Estruturas de Jogos. Modelagens de Jogos. Métodos de Entrada. Interfaces para Jogos. Desenvolvimento de Jogos.
+- **Programa:**
+  - **UNIDADE I - História, Plataformas e Gêneros em Jogos Digitais.**
+    - **Objetivos:**
+      - Explicar a história dos jogos digitais com identificação de seus atributos e das plataformas de programação.
+    - **Conteúdos:**
+      - 01.01 - Evolução no sistema de jogos.
+      - 01.02 - Plataformas de jogos digitais.
+      - 01.03 - Gêneros de jogos digitais e suas características.
+  - **UNIDADE II - Projetos de Jogos.**
+    - **Objetivos:**
+      - Analisar as etapas de projetos de jogos e seus níveis de construção.
+      - Elaborar documentos aderentes ao ciclo de produção de jogos.
+      - Apresentar postura colaborativa em projetos de jogos.
+    - **Conteúdos:**
+      - 02.01 - Princípios de projetos de jogos.
+      - 02.02 - Enredo, roteiro e narrativas.
+      - 02.03 - Níveis de jogos.
+      - 02.04 - Equipes de desenvolvimento.
+      - 02.05 - Ciclo de produção e documentos.
+      - 02.06 - Técnicas de desenvolvimento.
+  - **UNIDADE III - Estruturas de Jogos.**
+    - **Objetivos:**
+      - Distinguir as estruturas de jogos com classificação dos seus elementos.
+      - Diagramar a lógica de jogos com definição de seus objetos.
+    - **Conteúdos:**
+      - 03.01 - Etapas de construção de jogos.
+      - 03.02 - Requisitos.
+      - 03.03 - Controle de tempo em jogos.
+      - 03.04 - Objetos do jogo.
+  - **UNIDADE IV - Modelagens de Jogos.**
+    - **Objetivos:**
+      - Identificar as técnicas de modelagem de jogos.
+      - Utilizar etapas de processo de desenvolvimento de jogos 3D com catálogo de atributos em diferentes dimensões visuais.
+      - Estar atento aos critérios e técnicas de seleção de processos de modelagem em projetos de desenvolvimento de jogos.
+    - **Conteúdos:**
+      - 04.01 - Manipulação de imagens.
+      - 04.02 - Eixos de coordenadas do mundo-objeto.
+      - 04.03 - Modelagem.
+      - 04.04 - Texturização.
+      - 04.05 - Iluminação.
+      - 04.06 - Animação.
+  - **UNIDADE V - Métodos de Entrada.**
+    - **Objetivos:**
+      - Identificar as aplicações baseadas em eventos, com identificação dos tipos de entradas e classificação de suas características.
+    - **Conteúdos:**
+      - 05.01 - Dispositivos de entrada.
+      - 05.02 - Sistema baseado em eventos.
+  - **UNIDADE VI - Interfaces para Jogos.**
+    - **Objetivos:**
+      - Relacionar os elementos de interfaces para jogos.
+      - Estabelecer as interfaces de jogos internacionalizadas.
+    - **Conteúdos:**
+      - 06.01 - Fundamentos de interfaces humana-computador aplicados em jogos.
+      - 06.02 - Elementos de interfaces.
+      - 06.03 - Internacionalização.
+  - **UNIDADE VII - Desenvolvimento de Jogos.**
+    - **Objetivos:**
+      - Conceber jogos a partir de fundamentos e técnicas apreendidas.
+      - Programar jogos com utilização de linguagem de programação.
+    - **Conteúdos:**
+      - 07.01 - Definição da mecânica.
+      - 07.02 - Elaboração dos elementos do jogo.
+      - 07.03 - Programação dos comportamentos da mecânica.
+      - 07.04 - Montagem da Interface.
+      - 07.05 - Testes.
+
+### T197 — DESENV PLATAFORMAS MÓVEIS
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Criação de interfaces gráficas e planejamento navegacional. Desenvolvimento de soluções de persistência de dados locais. Desenvolvimento de soluções de persistência de dados em nuvem. Consumindo serviços web via RESTFul.
+- **Programa:**
+  - **UNIDADE I - Criação de interface gráfica e planejamento navegacional.**
+    - **Objetivos:**
+      - Descrever os elementos de interface gráfica referentes à construção de telas e de navegação.
+      - Implementar aplicativos para dispositivos móveis com utilização de boas práticas de construção de interface gráfica e de navegação entre elas.
+      - Qualificar criticamente as práticas de interface gráfica e de navegação adequadas para a solução de situações problemas a partir de demandas sociais.
+    - **Conteúdos:**
+      - 01.01 - Diretrizes de layout de interfaces gráficas para dispositivos móveis.
+      - 01.02 - Componentes de interface gráfica para dispositivos móveis.
+      - 01.03 - Gerenciadores de layout.
+      - 01.04 - Navegação entre janelas.
+  - **UNIDADE II - Desenvolvimento de soluções de persistência de dados locais.**
+    - **Objetivos:**
+      - Relacionar as formas de persistência de dados para dispositivos móveis.
+      - Implementar soluções de persistência de dados locais para aplicações para dispositivos móveis vista à solução de problemas sociais.
+      - Ser criterioso na elaboração de modelos de dados adequados à solução de situações-problema com aplicações para dispositivos móveis.
+    - **Conteúdos:**
+      - 02.01 - Modelos de dados.
+      - 02.02 - Persistência do tipo chave-valor.
+      - 02.03 - Persistência via sistema de gerenciamento de banco de dados local.
+      - 02.04 - Bibliotecas de persistência para dispositivos móveis.
+  - **UNIDADE III - Desenvolvimento de soluções de persistência de dados em nuvem.**
+    - **Objetivos:**
+      - Diferenciar as formas de persistência de dados em nuvem para dispositivos móveis.
+      - Implementar soluções de persistência de dados em nuvem em aplicações para dispositivos móveis.
+      - Ser criterioso na elaboração de modelo de dados em nuvem de modo adequado à resolução de situações-problema com aplicações para dispositivos móveis.
+    - **Conteúdos:**
+      - 03.01 - Modelo de dados em nuvem.
+      - 03.02 - Persistência do tipo chave-valor na estrutura do modelo de dados na nuvem.
+      - 03.03 - Biblioteca de persistência para dispositivos móveis em nuvem.
+      - 03.04 - Persistência via sistema de gerenciamento de banco de dados na nuvem.
+  - **UNIDADE IV - Consumindo serviços web dia RESTFul.**
+    - **Objetivos:**
+      - Diferenciar os conceitos de serviços web inerentes a aplicativos para dispositivos móveis.
+      - Implementar aplicativos para dispositivos móveis com consumo de serviços disponíveis na web.
+      - Ponderar criticamente a escolha de serviços web na resolução de prolems durante o processo de desenvolvimento de aplicações para dispositivos móveis.
+    - **Conteúdos:**
+      - 04.01 - Modelos de serviços web.
+      - 04.02 - Arquitetura de serviços web RESTFul.
+      - 04.03 - Modelos de representação de dados.
+      - 04.04 - Consumo e Integração de serviços web para dispositivos móveis.
+
+### T227 — EDUCAÇÃO AMBIENTAL
+
+- **Modalidade:** Ead
+- **Créditos:** 4.0
+- **Ementa:** Sociedade, natureza e desenvolvimento. Princípios de educação ambiental e conservação da natureza. Meio ambiente e cidadania. Educar para a sustentabilidade. Elaboração e acompanhamento de projetos de educação ambiental.
+- **Programa:**
+  - **UNIDADE I - Sociedade, natureza e desenvolvimento.**
+    - **Objetivos:**
+      - Comentar de forma crítica e fundamentada sobre as questões relacionadas à educação ambiental.
+      - Ilustrar situações do ambientalismo contemporâneo sob a percepção da evolução histórica e científica.
+      - Respeitar o meio ambiente e preocupar-se com o uso racional dos recursos naturais para conservação do meio ambiente.
+    - **Conteúdos:**
+      - 01.01 - A educação e o contexto da crise ambiental.
+      - 01.02 - Evolução histórica e científica das ideias ambientalistas.
+      - 01.03 - Cultura e manejo dos recursos naturais.
+      - 01.04 - Educação ambiental e promoção da sustentabilidade.
+      - 01.05 - Principais conceitos do ambientalismo contemporâneo.
+      - 01.06 - Política nacional de educação ambiental.
+  - **UNIDADE II - Princípios de educação ambiental e conservação da natureza.**
+    - **Objetivos:**
+      - Descrever os diferentes processos naturais em relação à qualidade de vida dos indivíduos e de suas comunidades.
+      - Demonstrar mecanismos de funcionamento natural do planeta e dos principais biomas mundiais e brasileiros.
+      - Valorar a conservação da biodiversidade para o desenvolvimento.
+    - **Conteúdos:**
+      - 02.01 - Mecanismos de funcionamento natural do planeta e dos principais biomas mundiais e brasileiros.
+      - 02.02 - Visão sobre os limites e a capacidade de suporte do planeta.
+      - 02.03 - Conservação da biodiversidade e desenvolvimento no século XXI.
+  - **UNIDADE III - Meio ambiente e cidadania.**
+    - **Objetivos:**
+      - Descrever a importância da sociodiversidade para a conservação dos patrimônios natural e cultural.
+      - Planejar ações que contribuam para o desenvolvimento sustentável de grupos ou entidades.
+      - Adotar postura de respeito frente à diferentes etnias e culturas na perspectiva da formação do sujeito ecológico.
+    - **Conteúdos:**
+      - 03.01 - Metodologias de ação social e promoção da sociedade sustentável.
+      - 03.02 - Cidadania e ética ecológica.
+      - 03.03 - Identidade e subjetividade: a formação do sujeito ecológico.
+  - **UNIDADE IV - Educar para a sustentabilidade.**
+    - **Objetivos:**
+      - Explicar as diferentes relações estabelecidas entre as sociedades e a natureza ao longo da história.
+      - Assinalar os principais marcos históricos que representam mudanças de cunho sustentável.
+      - Ser um agente aberto para novos aprendizados e diferentes saberes.
+    - **Conteúdos:**
+      - 04.01 - Bases filosóficas da educação ambiental.
+      - 04.02 - Epistemologias da educação ambiental.
+      - 04.03 - Holismo, interdisciplinaridade e hermenêutica.
+      - 04.04 - A educação ambiental e o lugar do educador ambiental.
+  - **UNIDADE V - Elaboração e acompanhamento de projetos de educação ambiental.**
+    - **Objetivos:**
+      - Descrever as metodologias de elaboração de projetos desde diagnósticos ambientais até análises de causas e efeitos de problemas diagnosticados.
+      - Elaborar de forma coletiva e participativa planos de educação ambiental, o qual será destinado para trazer sustentabilidade às atividades antrópicas.
+      - Demonstrar postura profissional e ética na apresentação de projetos.
+    - **Conteúdos:**
+      - 05.01 - Elaboração de projetos em educação ambiental, apresentando a configuração de um instrumento que possa nortear a composição de um projeto crítico em educação ambiental.
+      - 05.02 - Apresentação do repertório básico de experiências de educação ambiental que guardam uma relação direta com os princípios norteadores da educação ambiental, apresentados no curso e durante a disciplina.
+
+### T242 — DESENV PLATAFORMAS WEB
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Projeto de sites web. Desenvolvimento de interfaces web dinâmicas. Tecnologias para soluções de serviços na web. Implementação de serviços web.
+- **Programa:**
+  - **UNIDADE I - Projeto de sites web.**
+    - **Objetivos:**
+      - Identificar os elementos utilizados no projeto de sites web com sua respectiva representação visual em página web.
+      - Construir páginas web com a utilização da linguagem HTML e tecnologias para estilização e interação.
+      - Ser colaborativo no desenvolvimento de sites web com vistas aos pares e clientes.
+    - **Conteúdos:**
+      - 01.01 - Histórico e evolução da internet e de sistemas web.
+      - 01.02 - Linguagem HTML.
+      - 01.03 - Estilização de páginas HTML.
+      - 01.04 - Interação de páginas HTML.
+  - **UNIDADE II - Desenvolvimento de interfaces web dinâmicas.**
+    - **Objetivos:**
+      - Identificar os elementos e os componentes necessários para o desenvolvimento de interfaces web.
+      - Construir interfaces para sistemas web.
+      - Ser agente promotor de soluções tecnológicas com vistas à transformação da realidade de pessoas, empresas e/ou instituições.
+    - **Conteúdos:**
+      - 02.01 - Tecnologias e ferramentas.
+      - 02.02 - Arquitetura e organização de aplicações.
+      - 02.03 - Elementos básicos de aplicações: componentes, entidades e serviços.
+      - 02.04 - Navegação entre telas, desenvolvimento e validação de formulários.
+  - **UNIDADE III - Tecnologias para soluções de serviços web.**
+    - **Objetivos:**
+      - Tipificar as tecnologias de serviços na web.
+      - Propor aplicativos interativos como meio para a solução de problemas reais de comunidades e/ou instituições.
+      - Ser proativo na identificação de tecnologias inovadoras para soluções web.
+    - **Conteúdos:**
+      - 03.01 - Tecnologias e ferramentas.
+      - 03.02 - Comparação entre tecnologias.
+      - 03.03 - Análise dos critérios de segurança.
+      - 03.04 - Avaliação do consumo de serviços web.
+  - **UNIDADE IV - Implementação de serviços web.**
+    - **Objetivos:**
+      - Discriminar os elementos e os componentes necessários para o desenvolvimento de serviços web.
+      - Desenvolver serviços web com vistas ao atendimento de demandas de projetos sociais.
+      - Respeitar os princípios éticos e parâmetros legais quanto ao tratamento e manipulação de dados.
+    - **Conteúdos:**
+      - 04.01 - Arquitetura e organização de serviços web.
+      - 04.02 - Definição de serviços web.
+      - 04.03 - Acesso e manipulação de dados.
+      - 04.04 - Programação de serviços web.
+
+### T300 — PROGRAMAÇÃO FUNCIONAL
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Técnicas da programação funcional na construção de funções. Aplicações da programação funcional no desenvolvimento de aplicações.
+- **Programa:**
+  - **UNIDADE I - Técnicas da programação funcional na construção de funções.**
+    - **Objetivos:**
+      - Enumerar elementos que fundamentam o paradigma de programação funcional e se relacionam com emergentes práticas de desenvolvimento de softwares.
+      - Construir funções com utilização de recursos da programação funcional e resolução de desafios que permeiam imutabilidade e ausência de efeito colateral.
+      - Ser atencioso nos fundamentos da programação funcional dentro do contexto matemático, tecnológico e científico.
+    - **Conteúdos:**
+      - 01.01 - Motivações para Lambda Calculus.
+      - 01.02 - Funções anônimas e expressões Lambda.
+      - 01.03 - Introdução às funções recursivas e recursividade em Cauda.
+      - 01.04 - Módulos e funções de alta ordem.
+      - 01.05 - Imutabilidade e efeitos colaterais.
+      - 01.06 - Organização e manipulação de dados imutáveis: listas, tuplas e maps.
+      - 01.07 - Closure, currying, map, reduce, filter e flatmap.
+      - 01.08 - Compreensão de listas.
+      - 01.09 - Pattern matching e sobrecargas.
+      - 01.10 - Lazy evaluation.
+      - 01.11 - Continuation passing style.
+      - 01.12 - Functors e monads.
+  - **UNIDADE II - Aplicações da programação funcional no desenvolvimento de aplicações.**
+    - **Objetivos:**
+      - Situar as técnicas de programação funcional nos seus respectivos artefatos de software contemporâneos voltados ao desenvolvimento de aplicações.
+      - Desenvolver softwares com exploração de recursos característicos do paradigma funcional nas linguagens de programação.
+      - Ponderar vantagens e limitações do paradigma funcional em relação ao imperativo, com referência do cenário tecnológico contemporâneo.
+    - **Conteúdos:**
+      - 02.01 - Definição, projeto e fundamentação de aplicações realísticas.
+      - 02.02 - Apresentação e justificativa do uso de potenciais artefatos e linguagens.
+      - 02.03 - Preparação do ambiente e construção do esqueleto do projeto.
+      - 02.04 - Fatores elementares do ambiente de programação.
+      - 02.05 - Elementos de segurança a considerar: funções e criptografia.
+      - 02.06 - Vinculação com banco de dados.
+      - 02.07 - Validação de acesso e restrições.
+      - 02.08 - Cadastro, consulta, atualização e remoção de itens.
+      - 02.09 - Recursos de framework: scaffolds e geração de boilerplates.
+      - 02.10 - Diferenciais tecnológicos.
+      - 02.11 - Suporte à server side rendering, expressividade, abstração, ausência de variáveis e estado, perspectivas de recuperação de falha.
+      - 02.12 - Validação da aplicação e teste de stress.
+
+### T326 — CIÊNCIA DOS DADOS
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Visão sistêmica de ciência de dados. Aprendizado de máquina. Aplicações em redes neurais.
+- **Programa:**
+  - **UNIDADE I - Visão sistêmica de ciência de dados.**
+    - **Objetivos:**
+      - Relacionar os fundamentos de ciência de dados com ferramentas computacionais.
+      - Mapear fenômenos a partir das aplicações técnicas de ciência de dados.
+      - Ser colaborativo na interação com pessoas de diferentes perfis e áreas de conhecimento.
+    - **Conteúdos:**
+      - 01.01 - Elementos e arquitetura de big data.
+      - 01.02 - Business intelligence.
+      - 01.03 - Linguagens de programação para ciência de dados.
+      - 01.04 - Padronização, higienização, pareamento e caracterização de dados.
+  - **UNIDADE II - Aprendizado de máquina.**
+    - **Objetivos:**
+      - Explicar algoritmos de aprendizado de máquina com aplicação para cada problema.
+      - Utilizar ambientes de programação para resolução de problemas de classificação e regressão.
+      - Ser crítico na condução de pesquisas de análise de dados com vistas à personalização de serviços e qualidade da vida da sociedade.
+    - **Conteúdos:**
+      - 02.01 - Elementos do aprendizado de máquina: problemas, dados, ferramentas.
+      - 02.02 - Tipos de aprendizado de máquina: supervisionado e não-supervisionado.
+      - 02.03 - Overfitting, complexidade, treinamento, dados de validação e teste.
+      - 02.04 - API (Application Programming Interface) para implementação de aprendizado de máquina.
+      - 02.05 - Algoritmos regressão linear, árvore de decisão (regressão e classificação), KNN (K-nearest neighbors), regressão logística, k-means e DBSCAN (Density Based Spatial Clustering of Application with Noise).
+  - **UNIDADE III - Aplicações em redes neurais.**
+    - **Objetivos:**
+      - Explicar arquiteturas de redes neurais com o reconhecimento e aplicação para cada problema.
+      - Modelar arquiteturas de redes neurais para resolução de problemas de classificação e regressão, com base em características de conjuntos de dados explorados.
+      - Ser crítico na escolha de arquiteturas de redes neurais artificiais para a transformação de soluções tecnológicas para a sociedade.
+    - **Conteúdos:**
+      - 03.01 - Neurônios e redes neurais biológicas.
+      - 03.02 - Modelo perceptron simples e multicamadas.
+      - 03.03 - Redes convolucionais.
+      - 03.04 - Aplicações de redes neurais em problemas de classificação e regressão.
+      - 03.05 - Programação para implementação de aprendizado profundo.
+
+### T333 — PROJETO BANCO DE DADOS
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Implementação de protótipo de mecanismo de busca e indexação. Implementação de protótipo de processador de consultas. Protótipo de aplicação de bancos de dados não-relacionais (NoSQL).
+- **Programa:**
+  - **UNIDADE I - Implementação de protótipo de mecanismo de busca e indexação.**
+    - **Objetivos:**
+      - Distinguir tipos de bancos de dados, suas arquiteturas e seus papéis no ambiente de computação moderno.
+      - Desenvolver protótipo de Sistema Gerenciador de Banco de Banco de Dados (SGBD) com mecanismos de armazenamento e busca com uso de índices.
+      - Atuar em cooperação com os demais profissionais na implementação de emuladores de SGBDs.
+    - **Conteúdos:**
+      - 01.01 - Tipos, funcionalidades e arquitetura de sistemas de banco de dados.
+      - 01.02 - Princípios de armazenamento de dados e gerenciamento de buffers.
+      - 01.03 - Tipos de índices e estruturas de indexação.
+      - 01.04 - Implementação de mecanismos de busca usando índices.
+  - **UNIDADE II - Implementação de protótipo de processador de consultas.**
+    - **Objetivos:**
+      - Detalhar as fases do processamento de consultas, o funcionamento dos operadores físicos, as mudanças de estado de transações e os principais mecanismos de recuperação.
+      - Desenvolver componentes computacionais de processamento de consultas com suporte a diferentes algoritmos de operadores físicos.
+      - Agir com proatividade na adaptação de algoritmos e técnicas de processamento de consultas para resolução de problemas na implementação de bancos de dados.
+    - **Conteúdos:**
+      - 02.01 - Representação e processamento de consultas.
+      - 02.02 - Implementação de algoritmos de operadores de consulta.
+      - 02.03 - Problemas de concorrência em bancos de dados e o paradigma de transação.
+      - 02.04 - Mecanismos de recuperação e sua implementação.
+  - **UNIDADE III - Protótipo de aplicação de bancos de dados não-relacionais (NoSQL).**
+    - **Objetivos:**
+      - Enumerar tipos de bancos de dados não-relacionais e suas aplicações no ambiente de computação moderno.
+      - Implementar aplicações de bancos de dados não-relacionais com uso de diferentes bancos e paradigmas de consulta dentro de ambientes de computação em nuvem.
+      - Qualificar de forma crítica os tipos de bancos de dados não-relacionais para solução de problemas.
+    - **Conteúdos:**
+      - 03.01 - Tipos de bancos de dados não-relacionais.
+      - 03.02 - Esquemas em bancos de dados não-relacionais.
+      - 03.03 - Consultas em bancos de dados não-relacionais.
+      - 03.04 - Aplicações de bancos de dados não-relacionais.
+
+### T335 — COMPUTAÇÃO DISTRIBUÍDA
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos de sistemas distribuídos. Padrões e tecnologias para sistemas distribuídos. Desenvolvimento, implantação e avaliação de aplicações em ambientes distribuídos.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de sistemas distribuídos.**
+    - **Objetivos:**
+      - Distinguir requisitos e modelos fundamentais para o projeto de sistemas distribuídos.
+      - Determinar o uso de requisitos e modelos em sistemas distribuídos utilizados em produção.
+      - Ponderar o impacto dos sistemas distribuídos na sociedade e na qualidade de vida de seus cidadãos.
+    - **Conteúdos:**
+      - 01.01 - Histórico e definições.
+      - 01.02 - Requisitos de projeto.
+      - 01.03 - Modelos de arquitetura.
+      - 01.04 - Modelos de interação e coordenação.
+      - 01.05 - Modelos de falha.
+  - **UNIDADE II - Padrões e tecnologias para sistemas distribuídos.**
+    - **Objetivos:**
+      - Identificar os principais padrões e tecnologias utilizados no desenvolvimento e implantação de aplicações distribuídas.
+      - Indicar padrões e tecnologias de acordo com os requisitos e necessidades específicas de cada aplicação ou organização.
+      - Ser crítico na seleção dos padrões e tecnologias a serem utilizados na implantação de aplicações distribuídas em produção.
+    - **Conteúdos:**
+      - 02.01 - Tecnologias de middleware.
+      - 02.02 - Padrões de invocação de serviços.
+      - 02.03 - Padrões de resiliência.
+      - 02.04 - Computação em nuvem.
+      - 02.05 - Computação em borda.
+      - 02.06 - Internet das coisas.
+      - 02.07 - Tecnologias de virtualização.
+  - **UNIDADE III - Desenvolvimento, implantação e avaliação de aplicações em ambientes distribuídos.**
+    - **Objetivos:**
+      - Analisar as diferentes formas de configuração dos ambientes distribuídos, de acordo com as características de cada tecnologia utilizada.
+      - Aplicar padrões e tecnologias de forma efetiva no desenvolvimento, implantação e avaliação de aplicações distribuídas.
+      - Ser assertivo nas configurações e do desempenho de sistemas distribuídos em ambientes produtivos.
+    - **Conteúdos:**
+      - 03.01 - Configuração de ambientes distribuídos.
+      - 03.02 - Desenvolvimento e implantação de aplicações em ambientes distribuídos.
+      - 03.03 - Avaliação de aplicações em ambientes distribuídos.
+
+### T339 — INOVAÇÃO SOLUÇÕES COMPUTACION
+
+- **Modalidade:** Ead
+- **Créditos:** 2.0
+- **Ementa:** Princípios do blockchain. Funcionamento da plataforma blockchain. Contratos Inteligentes. Desenvolvimento de aplicações descentralizadas baseadas em blockchain.
+- **Programa:**
+  - **UNIDADE I - Princípios do blockchain**
+    - **Objetivos:**
+      - Conceituar blockchain, com suas funcionalidades e domínios de aplicações.
+      - Estruturar requisitos de utilização de blockchain para soluções computacionais frente as suas qualidades e limitações.
+      - Ser agente disseminador dos conceitos e aplicações de blockchain para a promoção de várias soluções de problemas reais da sociedade.
+    - **Conteúdos:**
+      - 01.01 - Origem e evolução das blockhain.
+      - 01.02 - Criptografia, livro-razão, consenso.
+  - **UNIDADE II - Funcionamento da plataforma blockchain**
+    - **Objetivos:**
+      - Analisar os aspectos funcionais da plataforma.
+      - Associar as melhores práticas de programação no uso de linguagens para blockchain.
+      - Ser colaborativo no desenvolvimento de aplicações com blockchain.
+    - **Conteúdos:**
+      - 02.01 - Instalação e configuração do ambiente de blockchain.
+      - 02.02 - Introdução blockchain Etehreum.
+  - **UNIDADE III- Contratos Inteligentes**
+    - **Objetivos:**
+      - Categorizar os contratos inteligentes.
+      - Estabelecer os critérios de avaliação dos contratos.
+      - Ser ético na aplicação dos contratos.
+    - **Conteúdos:**
+      - 03.01 - Linguagem Solidity.
+      - 03.02 - Implementação de contratos inteligentes em solidity/Ethereum.
+  - **UNIDADE IV - Desenvolvimento de aplicações descentralizadas baseadas em blockchain**
+    - **Objetivos:**
+      - Projetar soluções computacionais baseadas em blockchain em problemas diversos.
+      - Aplicar os requisitos de teste e qualidade de software nas soluções implementadas, com respeito aos preceitos éticos.
+      - Disseminar estratégias para a promoção de segurança e rastreabilidade às operações no meio cibernético.
+    - **Conteúdos:**
+      - 04.01 - Arquitetura do projeto blockchain.
+      - 04.02 - Modelagem, projeto e implementação em Solidity.
+
+### T371 — TÓPICOS EM BANCO DE DADOS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Bancos de dados distribuídos. Bancos de dados não relacionais. Otimização de consultas e desempenho. Segurança em bancos de dados.
+- **Programa:**
+  - **UNIDADE I - Bancos de dados distribuídos.**
+    - **Objetivos:**
+      - Descrever os princípios fundamentais dos sistemas distribuídos e como se aplicam aos bancos de dados distribuídos.
+      - Implementar soluções de banco de dados distribuídos, com vistas à replicação e particionamento de dados.
+      - Ser criterioso e técnico na implementação de escalabilidade e resiliência em ambientes distribuídos.
+    - **Conteúdos:**
+      - 01.01 - Introdução aos sistemas distribuídos.
+      - 01.02 - Características de bancos de dados distribuídos.
+      - 01.03 - Modelos de consistência em ambientes distribuídos.
+      - 01.04 - Técnicas de replicação e particionamento de dados.
+  - **UNIDADE II - Bancos de dados não relacionais.**
+    - **Objetivos:**
+      - Definir os conceitos-chave por trás dos bancos de dados NoSQL e suas diferenças em relação aos bancos de dados relacionais.
+      - Implementar soluções de banco de dados NoSQL adequadas para diferentes casos de uso.
+      - Ser criativo em relação a diferentes paradigmas de banco de dados e sua aplicabilidade em diferentes contextos.
+    - **Conteúdos:**
+      - 02.01 - Conceitos básicos de bancos de dados não relacionais.
+      - 02.02 - Tipos de bancos de dados não relacionais (documentos, grafos, colunas, chave-valor).
+      - 02.03 - Modelagem de dados não relacionais.
+      - 02.04 - Casos de uso e comparação com bancos de dados relacionais.
+  - **UNIDADE III - Otimização de consultas e desempenho.**
+    - **Objetivos:**
+      - Definir os princípios de otimização de consultas e desempenho em bancos de dados relacionais.
+      - Aplicar estratégias de otimização de consultas e índices para melhoria do desempenho do sistema.
+      - Ser criativo no desenvolvimento de estratégias de otimização de consultas e índices para a melhora do desempenho do sistema.
+    - **Conteúdos:**
+      - 03.01 - Estratégias de otimização de consultas.
+      - 03.02 - Índices e suas aplicações.
+      - 03.03 - Uso de exibições (views) para otimização.
+      - 03.04 - Ferrament.
+  - **UNIDADE IV - Segurança em bancos de dados.**
+    - **Objetivos:**
+      - Descrever os princípios básicos de segurança em bancos de dados e as ameaças potenciais.
+      - Implementar medidas de segurança, como controle de acesso e auditoria, com vista aos dados do sistema.
+      - Assumir postura proativa na proteção dos dados do sistema contra ameaças internas e externas.
+    - **Conteúdos:**
+      - 04.01 - Princípios básicos de segurança em bancos de dados.
+      - 04.02 - Controle de acesso e privacidade.
+      - 04.03 - Auditoria e trilha de auditoria.
+      - 04.04 - Estratégias para prevenção de ataques a bancos de dados.
+
+### T380 — TÓPICOS EM PROGRAMAÇÃO
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Fundamentos da programação paralela e distribuída. Técnicas de sincronização e coordenação. Programação paralela com threads e processos. Comunicação e coordenação em sistemas distribuídos.
+- **Programa:**
+  - **UNIDADE I - Fundamentos da programação paralela e distribuída.**
+    - **Objetivos:**
+      - Descrever os princípios fundamentais da programação paralela e distribuída.
+      - Diferenciar os modelos de execução com aplicação dos conceitos de threads e processos em programas paralelos e distribuídos.
+      - Demonstrar postura orientada para a eficiência e escalabilidade na resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 01.01 - Introdução à programação paralela e distribuída.
+      - 01.02 - Modelos de execução: paralelismo e distribuição.
+      - 01.03 - Threads e processos: conceitos e diferenças.
+      - 01.04 - Comunicação e sincronização em ambientes distribuídos.
+  - **UNIDADE II - Técnicas de sincronização e coordenação.**
+    - **Objetivos:**
+      - Indicar os mecanismos de sincronização utilizados em ambientes paralelos e distribuídos.
+      - Aplicar corretamente técnicas de sincronização com vistas à consistência dos dados em sistemas paralelos e distribuídos.
+      - Assumir postura cuidadosa em relação à sincronização de processos e threads.
+    - **Conteúdos:**
+      - 02.01 - Mutexes e semáforos.
+      - 02.02 - Barreiras de sincronização.
+      - 02.03 - Variáveis de condição.
+      - 02.04 - Exclusão mútua distribuída.
+  - **UNIDADE III - Programação paralela com threads e processos.**
+    - **Objetivos:**
+      - Conceituar paralelismo de dados e de tarefas.
+      - Implementar programas a partir de uso eficiente de threads e processos com execução de tarefas paralelas e distribuídas.
+      - Estar atento à otimização e eficiência na implementação de programas paralelos e distribuídos.
+    - **Conteúdos:**
+      - 03.01 - Criação e gerenciamento de threads e processos.
+      - 03.02 - Paralelismo de dados: processamento de dados em paralelo.
+      - 03.03 - Paralelismo de tarefas: decomposição de problemas em tarefas independentes.
+      - 03.04 - Pools de threads e executores distribuídos.
+  - **UNIDADE IV - Comunicação e coordenação em sistemas distribuídos.**
+    - **Objetivos:**
+      - Diferenciar mecanismos de comunicação utilizados em sistemas distribuídos.
+      - Implementar sistemas distribuídos de forma eficiente e coordenada.
+      - Ser colaborativo e orientado para a solução de problemas em ambientes distribuídos.
+    - **Conteúdos:**
+      - 04.01 - Comunicação ponto a ponto.
+      - 04.02 - Filas de mensagens.
+      - 04.03 - Comunicação via sockets.
+      - 04.04 - Middleware de comunicação.
+
+### T400 — TÓPICOS EM ENG. SOFTWARE
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.0
+- **Ementa:** Arquitetura de microsserviços avançada. Métodos de desenvolvimento. Qualidade de software e métricas. Cultura devops.
+- **Programa:**
+  - **UNIDADE I - Arquitetura de microsserviços avançada.**
+    - **Objetivos:**
+      - Descrever escalabilidade e resiliência aplicados a arquiteturas de microsserviços.
+      - Implementar estratégias de escalabilidade e resiliência em arquiteturas de microsserviços.
+      - Importar-se com a escalabilidade e resiliência na manutenção de sistemas de microsserviços.
+    - **Conteúdos:**
+      - 01.01 - Estratégias de escalabilidade e resiliência.
+      - 01.02 - Orquestração de microsserviços.
+      - 01.03 - Modelagem de dados em arquiteturas de microsserviços.
+      - 01.04 - Desenvolvimento e implantação contínua de microsserviços.
+  - **UNIDADE II - Métodos de desenvolvimento.**
+    - **Objetivos:**
+      - Diferenciar os métodos de desenvolvimento avançado.
+      - Aplicar os métodos de desenvolvimento avançados em projetos de software, com vista às necessidades específicas de cada projeto.
+      - Assumir postura flexível em relação aos métodos de desenvolvimento de software.
+    - **Conteúdos:**
+      - 02.01 - Feature-Driven Development (FDD).
+      - 02.02 - Dynamic Systems Development Method (DSDM).
+      - 02.03 - Metodologia ágil crystal.
+      - 02.04 - Métodos híbridos e adaptativos.
+  - **UNIDADE III - Qualidade de software e métricas.**
+    - **Objetivos:**
+      - Relacionar os conceitos de qualidade de software e métricas.
+      - Aplicar técnicas de medição e avaliação da qualidade de software.
+      - Ser proativo em relação à qualidade de software, com vista à manutenção de altos padrões de qualidade.
+    - **Conteúdos:**
+      - 03.01 - Métricas de código e qualidade.
+      - 03.02 - Análise estática de código.
+      - 03.03 - Testes de desempenho e estresse.
+      - 03.04 - Ferramentas e práticas para garantia de qualidade.
+  - **UNIDADE IV - Cultura devops.**
+    - **Objetivos:**
+      - Definir os princípios e práticas da cultura DevOps.
+      - Implementar práticas DevOps em ambientes de desenvolvimento e operações.
+      - Ser colaborativo e responsável por meio de uma abordagem integrada para a entrega de software de qualidade.
+    - **Conteúdos:**
+      - 04.01 - Práticas de colaboração e cultura.
+      - 04.02 - Automação.
+      - 04.03 - Monitoramento e observabilidade.
+      - 04.04 - Práticas de segurança.
+
+### T929 — MICROPROCESSADORES
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 3.1
+- **Ementa:** Introdução aos microprocessadores. Arquitetura MCS8051. Programação para o 8051. Sistemas baseados no 8051. Interrupções. Temporizadores. Interface USART.
+- **Programa:**
+  - **UNIDADE I - Introdução aos microprocessadores**
+    - **Objetivos:**
+      - Identificar a diferença entre microprocessadores e microcontroladores.
+      - Avaliar o tipo de memória, família de microprocessadores e microcontroladores mais adequado para cada tipo de aplicação.
+    - **Conteúdos:**
+      - 01.01 - Arquitetura básica de um microprocessador;
+      - 01.02 - Microcontrolador versus microprocessador;
+      - 01.03 - Memórias SRAM, DRAM, EEPROM, e FLASH;
+      - 01.04 - Arquitetura de memória Multi-channel ;
+      - 01.05 - Histórico e fabricantes de microprocessadores;
+      - 01.06 - Classificação das arquiteturas: RISC e CISC, Harvard e Von Neumann, radial e ortogonal;
+      - 01.07 - Pipeline de instruções;
+      - 01.08 - Arquitetura x86;
+      - 01.09 - Atividade prática em laboratório.
+  - **UNIDADE II - Arquitetura MCS8051**
+    - **Objetivos:**
+      - Conhecer a arquitetura de microprocessadores.
+      - Identificar e projetar os circuitos referentes aos sinais vitais de microprocessadores.
+    - **Conteúdos:**
+      - 02.01 - Família MCS8051;
+      - 02.02 - Arquitetura do MCS8051;
+      - 02.03 - Sinais vitais de um microprocessador: alimentação, clock e reset;
+      - 02.04 - Organização de memória, pilha de dados, registros internos;
+      - 02.05 - Memória de programa e memória de dados;
+      - 02.06 - Portos de entrada e saída (I/O);
+      - 02.07 - Atividade prática em laboratório.
+  - **UNIDADE III - Programação para o 8051**
+    - **Objetivos:**
+      - Desenvolver programas básicos na linguagem Assembly.
+      - Dominar a utilização de ferramentas de desenvolvimento para sistemas microprocessados.
+    - **Conteúdos:**
+      - 03.01 - Conjunto de instruções do MCS8051;
+      - 03.02 - Diferença entre montadores e compiladores;
+      - 03.03 - Programação em Assembly para o 8051;
+      - 03.04 - Simuladores, montadores e emuladores;
+      - 03.05 - Sistemas de desenvolvimento;
+      - 03.06 - Teclado matricial;
+      - 03.07 - Display de 7 segmentos;
+      - 03.08 - Atividade prática em laboratório.
+  - **UNIDADE IV - Sistemas baseados no 8051**
+    - **Objetivos:**
+      - Projetar o hardware de sistemas baseados no microprocessador com memória externa e com expansão de entradas de saídas (I/O).
+    - **Conteúdos:**
+      - 04.01 - Memórias externas de programa e de dados;
+      - 04.02 - Expansão de entradas e saídas;
+      - 04.03 - Sistema mínimo com o MCS8051;
+      - 04.04 - Sistemas com expansão de memória e de I/O;
+      - 04.05 - Display de cristal líquido ¿ LCD;
+      - 04.06 - Atividade prática em laboratório.
+  - **UNIDADE V - Interrupções**
+    - **Objetivos:**
+      - Desenvolver sistemas microprocessados orientados a eventos.
+      - Desenvolver aplicações com interrupções externas simples.
+    - **Conteúdos:**
+      - 05.01 - Fontes de interrupções da família MCS8051;
+      - 05.02 - Modos de programação;
+      - 05.03 - Controlador de interrupções do 8051;
+      - 05.04 - Interrupções externas INT0 e INT1;
+      - 05.05 - Atividade prática em laboratório.
+  - **UNIDADE VI - Temporizadores**
+    - **Objetivos:**
+      - Identificar o funcionamento dos temporizadores.
+      - Desenvolver aplicações com contagem de eventos e temporizações avançadas.
+    - **Conteúdos:**
+      - 06.01 - Modos de operação e programação dos timers/ counters;
+      - 06.02 - Watchdog timer;
+      - 06.03 - Real Time Clock (RTC) baseado em um timer interno;
+      - 06.04 - Modulação por largura de pulso - PWM;
+      - 06.05 - Atividade prática em laboratório.
+  - **UNIDADE VII - Interface USART**
+    - **Objetivos:**
+      - Desenvolver sistemas com comunicação serial assíncrona.
+      - Desenvolver projetos de sistemas microprocessados com periféricos.
+    - **Conteúdos:**
+      - 07.01 - Comunicação serial síncrona e assíncrona;
+      - 07.02 - Modos de operação da serial do 8051;
+      - 07.03 - Programação da interface serial;
+      - 07.04 - Tabela ASCII;
+      - 07.05 - Projeto completo de sistemas microprocessados.
+
+### T956 — PRINCÍPIOS DE TELECOMUNICAÇÕES
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Estruturas de sistemas de telecomunicações. Técnicas de digitalização e multiplexação. Sistemas de telefonia fixa. Comutação IP- Multimídia. Transmissão digital. Sistemas de transmissão por radiofrequência. Sistemas de transmissão óptica. Redes de acesso.
+- **Programa:**
+  - **UNIDADE I - Estruturas de Sistemas de Telecomunicações.**
+    - **Objetivos:**
+      - Classificar estruturas de sistemas de telecomunicações com identificação dos elementos constituintes das redes.
+    - **Conteúdos:**
+      - 01.01 - Hierarquia das redes de telecomunicações.
+      - 01.02 - Exemplos de redes: telefonia fixa, telefonia móvel celular, redes multimídia.
+  - **UNIDADE II - Técnicas de Digitalização e Multiplexação.**
+    - **Objetivos:**
+      - Utilizar processo de digitalização e reconstrução de sinais analógicos.
+      - Explicar a multiplexação síncrona.
+    - **Conteúdos:**
+      - 02.01 - Blocos funcionais do sistema PCM.
+      - 02.02 - Amostragem.
+      - 02.03 - Quantização.
+      - 02.04 - Codificação.
+      - 02.05 - Decodificação.
+      - 02.06 - Reconstrução.
+      - 02.07 - Multiplexação por divisão do tempo.
+  - **UNIDADE III - Sistemas de Telefonia Fixa.**
+    - **Objetivos:**
+      - Explicar o funcionamento de sistemas de telefonia com identificação de seus elementos e funções.
+    - **Conteúdos:**
+      - 03.01 - Elementos e funções no sistema de telefonia.
+      - 03.02 - Diagrama de blocos e funções do aparelho telefônico.
+      - 03.03 - Sinalização telefônica.
+      - 03.04 - Infraestrutura do sistema de telefonia.
+      - 03.05 - Sistemas de telefonia corporativos.
+      - 03.06 - Planos de numeração.
+      - 03.07 - Encaminhamento das chamadas.
+  - **UNIDADE IV - Comutação IP-Multimídia.**
+    - **Objetivos:**
+      - Distinguir a comutação de circuitos e a comutação de pacotes.
+      - Relacionar protocolos de comutação IP e multimídia.
+    - **Conteúdos:**
+      - 04.01 - Soluções para transporte de voz e outras mídias sobre redes IP.
+      - 04.02 - SIP.
+      - 04.03 - RTP e RTCP.
+      - 04.04 - Aplicações.
+  - **UNIDADE V - Transmissão Digital.**
+    - **Objetivos:**
+      - Elaborar os protocolos.
+      - Desenvolver diagramas de blocos de transmissores e receptores de sinais digitais.
+    - **Conteúdos:**
+      - 05.01 - Transmissão de pulsos.
+      - 05.02 - Sistemas ASK, FSK e PSK.
+      - 05.03 - Sistemas BPSK, QPSK, M-PSK e M-QAM.
+      - 05.04 - Diagramas de blocos e funções do transmissor e do receptor.
+  - **UNIDADE VI - Sistemas de Transmissão por Radiofrequência.**
+    - **Objetivos:**
+      - Definir enlace de radiocomunicação.
+      - Aplicar as equações de projeto de enlace de rádio.
+    - **Conteúdos:**
+      - 06.01 - O espectro eletromagnético.
+      - 06.02 - Elementos do enlace de radiocomunicação.
+      - 06.03 - Antenas.
+      - 06.04 - Equações do projeto do enlace de rádio.
+      - 06.05 - Aplicações: Comunicação por satélite.
+  - **UNIDADE VII - Sistemas de Transmissão Óptica.**
+    - **Objetivos:**
+      - Definir enlace de comunicação por fibra óptica.
+      - Aplicar as equações de projeto de enlace óptico.
+    - **Conteúdos:**
+      - 07.01 - Elementos do enlace de comunicação óptica: laser, fibra e detector.
+      - 07.02 - Princípios da transmissão por fibra óptica.
+      - 07.03 - Equações do projeto do enlace óptico.
+      - 07.04 - Aplicações.
+  - **UNIDADE VIII - Redes de Acesso.**
+    - **Objetivos:**
+      - Classificar redes de acesso de acordo com as distintas tecnologias aplicadas.
+    - **Conteúdos:**
+      - 08.01 - Conceitos gerais de redes de acesso em telecomunicações.
+      - 08.02 - Redes de acesso cabeadas.
+      - 08.03 - Redes HFC.
+      - 08.04 - Redes Ópticas Passivas (PON).
+      - 08.05 - Acesso sem fio.
+      - 08.06 - Serviços e aplicações das diversas tecnologias de rede de acesso.
+
+### T958 — REDES DE COMPUTADORES
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Conceitos básicos de comunicação de dados. Introdução às redes de computadores. Modelo de referência OSI. Protocolos de acesso ao meio. Arquitetura TCP/IP. Protocolo IP. Roteamento. Protocolos de transporte. Protocolos de aplicação.
+- **Programa:**
+  - **UNIDADE I - Conceitos básicos de comunicação de dados**
+    - **Objetivos:**
+      - Aplicar os conceitos básicos de comunicação de dados e de algoritmos de detecção e correção de erros.
+    - **Conteúdos:**
+      - 01.01 - Histórico;
+      - 01.02 - Tipos de sinais;
+      - 01.03 - Representação de caracteres;
+      - 01.04 - Transmissão serial;
+      - 01.05 - Multiplexação;
+      - 01.06 - Meios de transmissão;
+      - 01.07 - Modulação;
+      - 01.08 - Paridade de caractere e combinada;
+      - 01.09 - Polinômio gerador (CRC).
+  - **UNIDADE II - Introdução às redes de computadores**
+    - **Objetivos:**
+      - Classificar as redes de computadores.
+    - **Conteúdos:**
+      - 02.01 - Conceitos básicos de redes de computadores;
+      - 02.02 - Redes ponto-a-ponto;
+      - 02.03 - Redes multi-ponto;
+      - 02.04 - Topologias;
+      - 02.05 - Padronização de redes.
+  - **UNIDADE III - Modelo de referência OSI**
+    - **Objetivos:**
+      - Identificar o modelo de referência OSI e as funções básicas de cada uma de suas camadas.
+    - **Conteúdos:**
+      - 03.01 - Camada física;
+      - 03.02 - Camada de enlace;
+      - 03.03 - Camada de rede;
+      - 03.04 - Camada de transporte;
+      - 03.05 - Camada de sessão;
+      - 03.06 - Camada de apresentação;
+      - 03.07 - Camada de aplicação.
+  - **UNIDADE IV - Protocolos de acesso ao meio**
+    - **Objetivos:**
+      - Conceituar os principais protocolos de acesso ao meio utilizados em redes de computadores.
+    - **Conteúdos:**
+      - 04.01 - ALOHA;
+      - 04.02 - S-ALOHA;
+      - 04.03 - CSMA;
+      - 04.04 - CSMA/CD;
+      - 04.05 - Token Bus;
+      - 04.06 - Token Ring.
+  - **UNIDADE V - Arquitetura TCP/IP**
+    - **Objetivos:**
+      - Identificar as camadas da arquitetura de redes TCP/IP.
+    - **Conteúdos:**
+      - 05.01 - Modelo TCP/IP;
+      - 05.02 - Camada física;
+      - 05.03 - Camada de rede;
+      - 05.04 - Camada de transporte;
+      - 05.05 - Camada de aplicação.
+  - **UNIDADE VI - Protocolo IP**
+    - **Objetivos:**
+      - Descrever o protocolo IP.
+    - **Conteúdos:**
+      - 06.01 - Características e funcionalidades;
+      - 06.02 - Descrição do datagrama IP;
+      - 06.03 - Fragmentação;
+      - 06.04 - Endereçamento IP.
+  - **UNIDADE VII - Roteamento**
+    - **Objetivos:**
+      - Aplicar os principais algoritmos e protocolos de roteamento utilizados nas redes de computadores.
+    - **Conteúdos:**
+      - 07.01 - Conceitos básicos;
+      - 07.02 - Roteamento estático;
+      - 07.03 - Algoritmos de roteamento: vetor de distância, estado de enlace e path vector;
+      - 07.04 - Protocolos de roteamento: RIP, IGRP, BGP e OSPF.
+  - **UNIDADE VIII - Protocolos de transporte**
+    - **Objetivos:**
+      - Desenvolver aplicações de software usando protocolos de transporte TCP e UDP.
+    - **Conteúdos:**
+      - 08.01 - Protocolo TCP;
+      - 08.02 - Características e funcionalidades;
+      - 08.03 - Descrição do segmento TCP;
+      - 08.04 - Gerenciamento de conexões;
+      - 08.05 - Controle de fluxo;
+      - 08.06 - Controle de congestionamento;
+      - 08.07 - Protocolo UDP;
+      - 08.08 - Características e funcionalidades;
+      - 08.09 - Descrição do segmento UDP.
+  - **UNIDADE IX - Protocolos de aplicação**
+    - **Objetivos:**
+      - Desenvolver aplicações de software usando os protocolos da camada de aplicação.
+    - **Conteúdos:**
+      - 09.01 - Princípios de aplicações de rede;
+      - 09.02 - Protocolos: HTTP, FTP, SMTP, DNS.
+
+### T994 — INTRODUÇÃO À ENG DE COMPUTAÇÃO
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.1
+- **Ementa:** O curso de Engenharia de Computação da UNIFOR. História da engenharia e do desenvolvimento tecnológico. Comunicação na engenharia. Planejamento e projeto na engenharia. Sinais e sistemas. Desenvolvimento de um projeto integrador.
+- **Programa:**
+  - **UNIDADE I - O curso de Engenharia de Computação da UNIFOR**
+    - **Objetivos:**
+      - Contextualizar o curso de Engenharia de Computação com a Universidade e a sociedade, possibilitando conhecer a regulamentação da profissão, formas de atuação e mercado de trabalho.
+    - **Conteúdos:**
+      - 01.01 - Eventos de integração com atividades como: palestras, seminários, minicursos, visitas técnicas.
+  - **UNIDADE II - História da engenharia e do desenvolvimento tecnológico**
+    - **Objetivos:**
+      - Conhecer a história da engenharia em geral e da Engenharia de Computação em especial, sua evolução e importância para o desenvolvimento tecnológico e social da sociedade.
+    - **Conteúdos:**
+      - 02.01 - O surgimento da Engenharia;
+      - 02.02 - A descoberta da eletricidade;
+      - 02.03 - História da computação;
+      - 02.04 - Evolução dos microprocessadores;
+      - 02.05 - Os principais fatos da evolução tecnológica e seu impacto na sociedade.
+  - **UNIDADE III - Comunicação na engenharia**
+    - **Objetivos:**
+      - Identificar o processo de comunicação, suas formas de representação e sua importância para o engenheiro.
+    - **Conteúdos:**
+      - 03.01 - O engenheiro e a comunicação;
+      - 03.02 - O processo de comunicação;
+      - 03.03 - Estrutura do trabalho;
+      - 03.04 - Estrutura física do relatório técnico.
+  - **UNIDADE IV - Planejamento e projeto na engenharia**
+    - **Objetivos:**
+      - Conceituar o planejamento e o projeto, identificando seus tipos, fases e sua importância na engenharia.
+    - **Conteúdos:**
+      - 04.01 - Planejamento e projetos;
+      - 04.02 - Tipos de projetos;
+      - 04.03 - Fases de um projeto;
+      - 04.04 - Processos de modelagem;
+      - 04.05 - Simulação
+      - 04.06 - Otimização.
+  - **UNIDADE V - Sinais e sistemas**
+    - **Objetivos:**
+      - Classificar os tipos básicos de sinais e sistemas.
+    - **Conteúdos:**
+      - 05.01 - Classificação dos sinais;
+      - 05.02 - O sinal senoidal;
+      - 05.03 - Conversão analógico / digital.
+  - **UNIDADE VI - Desenvolvimento de um projeto integrador**
+    - **Objetivos:**
+      - Aplicar os conhecimentos adquiridos no desenvolvimento de um projeto integrador.
+    - **Conteúdos:**
+      - 06.01 - Definição do projeto;
+      - 06.02 - Critérios de desenvolvimento do projeto;
+      - 06.03 - Cronograma do projeto;
+      - 06.04 - Avaliação do produto gerado pelo projeto integrador.

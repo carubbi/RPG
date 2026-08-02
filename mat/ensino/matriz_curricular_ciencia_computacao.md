@@ -1,0 +1,3417 @@
+# Matriz curricular — Ciência da Computação
+
+- **Fonte:** [Universidade de Fortaleza](https://unifor.br/web/graduacao/ciencia-da-computacao)
+- **Data de acesso:** 1º de agosto de 2026.
+
+> O conteúdo abaixo reproduz a matriz publicada na data de acesso. Professores e bibliografias foram omitidos.
+
+## 1º semestre
+
+### T105 — Desafios do ciberespaço
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Cibercultura, ciberespaço, tecnologia e ambientes. Ambientes virtuais, impactos e inovação. Projeto vida conectada.
+- **Programa:**
+  - **UNIDADE I - Cibercultura, ciberespaço, tecnologia e ambientes.**
+    - **Objetivos:**
+      - Caracterizar as relações entre tecnologias e sociedade no contexto da cibercultura e ciberespaço.
+      - Estruturar a arquitetura do ciberespaço a partir da compreensão de seus elementos.
+      - Demonstrar visão estratégica sobre as diversas oportunidades de carreira e as competências exigidas pelo mercado de trabalho.
+    - **Conteúdos:**
+      - 01.01 - Arquitetura conceitual do ciberespaço e da cibercultura.
+      - 01.02 - Princípios de comunicação no ciberespaço.
+      - 01.03 - Análise de áreas de atuação e identificação de habilidades necessárias para a carreira profissional.
+  - **UNIDADE II - Ambientes virtuais, impactos e inovação.**
+    - **Objetivos:**
+      - Explicar os usos, efeitos e implicações éticas e sociais dos ambientes virtuais.
+      - Explorar as mudanças tecnológicas e os impactos da inovação em diferentes contextos, com segurança, privacidade e novas formas de trabalho.
+      - Estar atento sobre as tendências emergentes em tecnologia e inovação, suas oportunidades de atuação e desenvolvimento profissional.
+    - **Conteúdos:**
+      - 02.01 - Cibercrimes: Impactos, privacidade e proteção de dados.
+      - 02.02 - O uso das tecnologias emergentes na transformação digital de processos e modelos de negócio.
+      - 02.03 - Ética e responsabilidade social na aplicaçao de tecnologias.
+  - **UNIDADE III - Projeto vida conectada.**
+    - **Objetivos:**
+      - Identificar problemas reais da sociedade para proposição de soluções tecnologicas e inovadoras.
+      - Elaborar projetos para o ciberespaço com integração de tecnologias inovadoras.
+      - Ponderar soluções tecnologicas a partir de decisões com o equilíbrio dos elementos envolvidos.
+    - **Conteúdos:**
+      - 03.01 - Conceber modelos de negócio no ciberespaço considerando a viabilidade de sua implementação.
+      - 03.02 - Formular o plano do projeto a partir da articulação de conceitos, diretrizes e arquitetura do ciberespaço.
+
+### T161 — Experimentação orientada
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Prototipação funcional de aplicativos. Prototipação eletrônica. Integração de aplicativos e eletrônica.
+- **Programa:**
+  - **UNIDADE I - Prototipação funcional de aplicativos.**
+    - **Objetivos:**
+      - Relacionar técnicas de prototipação rápida para desenvolvimento de aplicações para dispositivos móveis.
+      - Criar protótipos de aplicativos.
+      - Valorar características necessárias a um bom produto (eficácia, eficiência e usabilidade).
+    - **Conteúdos:**
+      - 01.01 - Criação de interfaces para dispositivos móveis.
+      - 01.02 - Lógica de Programação utilizando blocos lógicos.
+      - 01.03 - Estruturas de programação utilizando blocos lógicos.
+      - 01.04 - Acesso a sensores de dispositivos móveis.
+  - **UNIDADE II - Prototipação eletrônica.**
+    - **Objetivos:**
+      - Relacionar técnicas de prototipação rápida para desenvolvimento de dispositivos físicos.
+      - Criar protótipos físicos integrados com aplicativos.
+      - Ser colaborativo na criação e integração de protótipos.
+    - **Conteúdos:**
+      - 02.01 - Noções básicas de eletrônica, atuadores e sensoriamento remoto.
+      - 02.02 - Primeiros passos com placa de prototipação eletrônica.
+      - 02.03 - Programação de microcontrolador.
+      - 02.04 - Princípios de automação.
+  - **UNIDADE III - Integração de aplicativos e eletrônica.**
+    - **Objetivos:**
+      - Explicar ferramentas de prototipação em projetos simples de automação.
+      - Construir sistemas de automação básicos.
+      - Valorar prototipagem como parte do processo criativo para desenvolvimentos de projetos.
+    - **Conteúdos:**
+      - 03.01 - Tecnologia Bluetooth serial.
+      - 03.02 - Implementação de pequenos projetos.
+      - 03.03 - Criação de projetos personalizados.
+      - 03.04 - Técnica para apresentação de projetos.
+
+### T099 — Fund sist computacionais
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Fundamentos de computação. Representação de dados em sistemas computacionais. Sistemas lógicos e digitais. Simulação de sistemas programáveis por meio de instruções.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de computação.**
+    - **Objetivos:**
+      - Identificar os ramos e as competências exigidas do profissional de computação.
+      - Estratificar as estruturas de sistemas computacionais.
+      - Valorar a importância do modelo sistêmico para a computação enquanto ciência.
+    - **Conteúdos:**
+      - 01.01 - Evolução das tecnologias de hardware de computadores: do Ábaco a Computação Quântica.
+      - 01.02 - Visão geral das camadas de sistemas computacional.
+      - 01.03 - Diferenças entre sistemas analógicos e sistemas digitais.
+      - 01.04 - Informação digital: bits, bytes e seus múltiplos.
+  - **UNIDADE II - Representação de dados em sistemas computacionais.**
+    - **Objetivos:**
+      - Explicar as diversas representações de dados e seus formatos de armazenamento.
+      - Realizar operações aritméticas com os tipos de dados usados em computação.
+      - Ponderar a importância da representação dos tipos de dados.
+    - **Conteúdos:**
+      - 02.01 - Representação de imagens, sons e textos no computador.
+      - 02.02 - Sistemas de numeração binário e hexadecimal.
+      - 02.03 - Aritmética de números binários em notação por complemento de 2.
+      - 02.04 - Notação binária com ponto flutuante para números reais.
+  - **UNIDADE III - Sistemas lógicos e digitais.**
+    - **Objetivos:**
+      - Representar sistemas digitais e seus componentes fundamentais.
+      - Construir circuitos lógicos otimizados para problemas modelados de forma booleana.
+      - Valorar os simuladores como instrumento de análise de circuitos lógicos e digitais.
+    - **Conteúdos:**
+      - 03.01 - Modelagem sistemas lógicos: tabelas, funções e circuitos.
+      - 03.02 - Otimização de sistemas lógicos: técnicas de simplificação de circuitos.
+      - 03.03 - Operações lógicas e aritméticas.
+      - 03.04 - Circuitos de decodificação.
+  - **UNIDADE IV - Simulação de sistemas programáveis por meio de instruções**
+    - **Objetivos:**
+      - Aplicar modelos de sistemas programáveis simples no processamento de dados.
+      - Converter a linguagem de montagem em linguagem de máquina.
+      - Valorar os fundamentos da computação na resolução de problemas com atendimento dos critérios definidos para o seu uso.
+    - **Conteúdos:**
+      - 04.01 - Componentes básicos de circuitos sequenciais.
+      - 04.02 - Armazenamento e contagem utilizando registradores e contadores.
+      - 04.03 - Armazenamento de dados em memória.
+      - 04.04 - Instruções em nível de máquina e de montagem.
+
+### T100 — Modelagem prob matemática
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Funções como ferramenta de modelagem e aproximações infinitesimais. Determinação de variações de funções para descrição de fenômenos diversos. Aplicações geométricas, computacionais e em modelos variacionais com uso de integrais.
+- **Programa:**
+  - **UNIDADE I - Funções como ferramenta de modelagem e aproximações infinitesimais.**
+    - **Objetivos:**
+      - Identificar os diversos tipos de funções e seu comportamento em aproximações infinitesimais.
+      - Representar fenômenos através de modelos matemáticos com utilização de funções e limites.
+      - Demonstrar criticidade na percepção da importância dos modelos matemáticos aplicados à computação.
+    - **Conteúdos:**
+      - 01.01 - Funções e sua representação gráfica.
+      - 01.02 - Modelagem de variações e implementação computacional: Modelos lineares e polinomiais.
+      - 01.03 - Funções transcendentes: Propriedades e gráficos.
+      - 01.04 - Limite: Noções e propriedades.
+      - 01.05 - Limites laterais e continuidade.
+      - 01.06 - Limites que envolvem infinidade e assíntotas de gráficos.
+  - **UNIDADE II - Determinação de variações de funções para descrição de fenômenos diversos.**
+    - **Objetivos:**
+      - Explicar as dimensões quantitativas de problemas com utilização de derivadas.
+      - Elaborar modelos matemáticos por meio de derivadas para descrição da variação de fenômenos.
+      - Trabalhar de forma cooperativa em equipe na modelagem e execução de projetos com uso de variações de funções.
+    - **Conteúdos:**
+      - 02.01 - Derivada: Definição e interpretação geométrica.
+      - 02.02 - Regras de derivação e derivadas de funções trigonométricas.
+      - 02.03 - Derivadas de ordem superior e Taxas de variação.
+      - 02.04 - Método de Newton-Raphson e aplicações computacionais da derivada.
+      - 02.05 - A Regra da cadeia.
+      - 02.06 - Problemas de otimização: Valores máximos e mínimos.
+      - 02.07 - Derivadas de funções exponenciais e logarítmicas.
+  - **UNIDADE III - Aplicações geométricas, computacionais e em modelos variacionais com uso de integrais.**
+    - **Objetivos:**
+      - Reconhecer a integral como instrumento de medição da área e volume de formas geométricas.
+      - Calcular a integral na resolução de problemas.
+      - Interpor-se criticamente na escolha das técnicas utilizadas na modelagem de problemas com integrais.
+    - **Conteúdos:**
+      - 03.01 - Integral indefinida e regras de integração.
+      - 03.02 - Técnica da substituição (regra da cadeia para integrais)
+      - 03.03 - Integral definida: Definição e interpretação geométrica.
+      - 03.04 - As Somas de Riemann, integração numérica e resolução computacional.
+      - 03.05 - Teorema fundamental do cálculo.
+      - 03.06 - Teorema do valor médio aplicado a modelos variacionais.
+      - 03.07 - Aplicações geométricas da integral: Área e Volume.
+      - 03.08 - Integração por partes e frações parciais.
+
+### T096 — Postura prof com interpessoal
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Desafios contemporâneos e o mundo do trabalho. Postura profissional e as relações de trabalho. Liderança e desenvolvimento profissional. Projeto trilha profissional.
+- **Programa:**
+  - **UNIDADE I - Desafios contemporâneos e o mundo do trabalho.**
+    - **Objetivos:**
+      - Detalhar os desafios contemporâneos e seus impactos no mundo do trabalho.
+      - Usar estratégias de adaptabilidade para adequação às mudanças tecnológicas e aos novos ambientes de trabalho.
+      - Contribuir nas dinâmicas do mundo do trabalho e suas implicações sobre a construção de carreira.
+    - **Conteúdos:**
+      - 01.01 - Transformação digital e a integração on-line off-line.
+      - 01.02 - Competências para inserção e crescimento profissional: adaptabilidade, gestão de mudança e carreira sem fronteiras.
+  - **UNIDADE II - Postura profissional e as relações de trabalho.**
+    - **Objetivos:**
+      - Diferenciar os componentes e fundamentos da comunicação interpessoal.
+      - Propor estratégias para o fomento de relações interpessoais com vistas à atuação profissional condizente com as expectativas do mercado de trabalho.
+      - Agir colaborativamente em equipes de diferentes perfis e nos diversos níveis organizacionais com postura ética.
+    - **Conteúdos:**
+      - 02.01 - Marketing pessoal: networking e construção de imagem.
+      - 02.02 - Comunicação profissional e as relações interpessoais: trabalho em equipe, diversidade, repertório cultural e engajamento.
+  - **UNIDADE III - Liderança e desenvolvimento profissional.**
+    - **Objetivos:**
+      - Identificar os elementos contribuintes para o desenvolvimento das inteligências emocionais.
+      - Empregar conceitos e atitudes para o alcance do protagonismo e direcionamento de carreira.
+      - Ser proativo para o autodesenvolvimento profissional.
+    - **Conteúdos:**
+      - 03.01 - Inteligência Emocional como competência para liderança.
+      - 03.02 - Auto liderança e o contexto profissional.
+  - **UNIDADE IV - Projeto trilha profissional.**
+    - **Objetivos:**
+      - Relacionar os princípios do mundo do trabalho moderno ao planejamento da carreira profissional.
+      - Formular projetos profissionais favoráveis à colaboração e à condução de times auto organizáveis.
+      - Ser assertivo na disseminação de informações e estratégias pertinentes para a atuação profissional aderente aos anseios do mercado de trabalho.
+    - **Conteúdos:**
+      - 04.01 - Estruturação de Projeto a partir da articulação de conceitos, princípios e fundamentos do mundo do trabalho.
+      - 04.02 - Autoavaliação de desempenho à luz do mindset de agilidade.
+
+### T160 — Raciocínio lógico algoritmico
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Utilização de algoritmos na resolução de problemas. Implantação das estruturas de controle de fluxo em algoritmos computacionais. Aplicação de algoritmos em problemas computacionais. Estruturas de dados simples e suas aplicações.
+- **Programa:**
+  - **UNIDADE I - Utilização de algoritmos na resolução de problemas.**
+    - **Objetivos:**
+      - Caracterizar o papel dos algoritmos no processo de resolução de problemas do mundo moderno.
+      - Desenvolver programas com elementos fundamentais de linguagens de programação
+      - Valorar o algoritmo como um solucionador de problemas.
+    - **Conteúdos:**
+      - 01.01 - Conceito e representação simbólica de algoritmos.
+      - 01.02 - Ambiente computacional para o desenvolvimento de algoritmos.
+      - 01.03 - Variáveis e expressões.
+      - 01.04 - Entrada e saída de dados.
+  - **UNIDADE II - Implantação das estruturas de controle de fluxo em algoritmos computacionais.**
+    - **Objetivos:**
+      - Explicar o funcionamento de programas com o uso das estruturas sequencial, condicional e de repetição.
+      - Aplicar estruturas de controle na solução de problemas computacionais.
+      - Ser crítico no uso das estruturas de controle de fluxo na programação.
+    - **Conteúdos:**
+      - 02.01 - Sequenciamento de comandos para estruturar um algoritmo.
+      - 02.02 - Checagem de condições para a realização de uma instrução.
+      - 02.03 - Execução de códigos diferentes dependendo da condição.
+      - 02.04 - Como repetir tarefas de um programa: utilização de while, do-while e for.
+  - **UNIDADE III - Aplicação de algoritmos em problemas computacionais.**
+    - **Objetivos:**
+      - Identificar algoritmos adequados para a aplicação em problemas computacionais, com consideração as suas combinações.
+      - Implementar algoritmos e subalgoritmos na solução de problemas computacionais.
+      - Valorar a importância dos algoritmos e suas combinações para a resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 03.01 - Algoritmo para a troca de valores de duas variáveis.
+      - 03.02 - Algoritmo para a realização de contagem, soma e multiplicação de um conjunto de valores.
+      - 03.03 - Reutilização de código com o uso de funções.
+      - 03.04 - Algoritmo para o cálculo de séries e sequências.
+  - **UNIDADE IV - Estruturas de dados simples e suas aplicações.**
+    - **Objetivos:**
+      - Identificar cenários propícios para o emprego de estruturas de dados.
+      - Desenvolver algoritmos que manipulam variáveis compostas.
+      - Ser crítico na escolha das estruturas algorítmicas para uso no desenvolvimento de um programa.
+    - **Conteúdos:**
+      - 04.01 - Armazenamento de um conjunto de dados: vetores e matrizes.
+      - 04.02 - Representação de variáveis compostas.
+      - 04.03 - Técnica com vetores: reversão de ordem, histograma e busca binária.
+      - 04.04 - Como ordenar dados de um vetor (método bolha).
+
+## 2º semestre
+
+### T196 — Arquitetura de computadores
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Arquitetura de hardware e seus elementos. Sistemas de memórias e seus requisitos. Memórias cache e desempenho dos sistemas de memória. Projeto de processadores modernos.
+- **Programa:**
+  - **UNIDADE I - Arquitetura de hardware e seus elementos.**
+    - **Objetivos:**
+      - Identificar os elementos de sistemas computacionais e suas funcionalidades.
+      - Demonstrar o ciclo de execução de instruções por meio de ferramentas computacionais.
+      - Dar significado a arquitetura de hardware para a resolução de problemas por software.
+    - **Conteúdos:**
+      - 01.01 - Utilização de registradores para armazenamento de dados, contagem e avaliação de falhas em programas.
+      - 01.02 - Apresentação de instruções aritméticas e de controle de fluxo.
+      - 01.03 - Leitura e escrita em memória por meio de regitradores de índice, segnmento e modos de endereçamento.
+      - 01.04 - Descrição do fluxograma de interrupções para operações de entrada e saída e tratamento de eventos externos.
+      - 01.05 - Manipulação de dados de entrada e saída mapeada em memória ou isolada.
+  - **UNIDADE II - Sistemas de memórias e seus requisitos.**
+    - **Objetivos:**
+      - Distinguir os papéis dos principais tipos de memória em sistemas computacionais.
+      - Representar algoritmicamente o funcionamento dos sistemas de memória.
+      - Estar atento à importância da hierarquia de memória para a reunião dos requisitos de capacidade, desempenho e economia em sistemas computacionais.
+    - **Conteúdos:**
+      - 02.01 - Leitura e escrita em memória via hardware.
+      - 02.02 - Indexação de palavras por multiplexação de endereços.
+      - 02.03 - Associação de memórias para aumento de capacidade.
+      - 02.04 - Uso das diversas tecnologias de memória em sistemas computacionais.
+      - 02.05 - Organização hierárquica de sistemas de memória.
+  - **UNIDADE III - Memórias cache e desempenho dos sistemas de memória.**
+    - **Objetivos:**
+      - Especificar a localização em cache dos dados mais acessados dentro de sistemas de memória.
+      - Emular o comportamento de algoritmos de mapeamento e substituição em cache.
+      - Comprometer-se com boas escolhas dos requisitos de memória cache para o desempenho do sistema de memória.
+    - **Conteúdos:**
+      - 03.01 - Princípios da localidade e sua relação com a programação.
+      - 03.02 - Mapeamento em cache direto, associativo e associativo por conjuntos.
+      - 03.03 - Substituição e atualização de dados em memória cache.
+      - 03.04 - Avaliação do impacto de requisitos para desempenho de cache.
+  - **UNIDADE IV - Projeto de processadores modernos.**
+    - **Objetivos:**
+      - Identificar os impactos da microarquitetura na programação.
+      - Esquematizar a execução paralela de instruções em processadores com pipeline.
+      - Perceber criticamente a presença de conceitos fundamentais no projeto de processadores modernos.
+    - **Conteúdos:**
+      - 04.01 - Comparação entre arquiteturas microcodificadas e hardwired: ciclo de dados.
+      - 04.02 - Correspondência entre recursos e processos no pipeline de instruções.
+      - 04.03 - Identificação de restrições à execução de programas no pipeline.
+      - 04.04 - Descrição de estratégias para resolução de inconsistências no pipeline.
+      - 04.05 - Caracterização de arquiteturas RISC, CISC, de Harvard e de Von Neumann.
+
+### T166 — Experimentação de protótipos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Desenvolvimento de soluções interativas em hardware. Prototipação de soluções interativas. Prototipação de soluções com modelagem 3D.
+- **Programa:**
+  - **UNIDADE I - Desenvolvimento de soluções interativas em hardware.**
+    - **Objetivos:**
+      - Explicar os conceitos básicos de eletrônica digital na ideação de projetos.
+      - Projetar soluções interativas com a utilização de componentes eletrônicos.
+      - Ser agente difusor do uso de sistemas embarcados e eletrônicos em projetos.
+    - **Conteúdos:**
+      - 01.01 - Prototipação eletrônica.
+      - 01.02 - Sensores e atuadores eletrônicos.
+      - 01.03 - Interfaces para dispositivos eletrônicos: botões, sons, telas.
+  - **UNIDADE II - Prototipação de soluções interativas**
+    - **Objetivos:**
+      - Identificar os tipos básicos de plataformas interativas.
+      - Projetar soluções interativas com a utilização de bibliotecas e alinhado com as necessidades do mercado de trabalho.
+      - Ser agente difusor do uso de bibliotecas como recurso para aceleração da prototipagem.
+    - **Conteúdos:**
+      - 02.01 - Ambiente de desenvolvimento.
+      - 02.02 - Aceleração do processo de desenvolvimento utilizando bibliotecas.
+      - 02.03 - Integração com dispositivos eletrônicos.
+      - 02.04 - Aplicações de cenários interdisciplinares.
+  - **UNIDADE III - Prototipação de soluções com modelagem 3D.**
+    - **Objetivos:**
+      - Explicar ferramentas e técnicas de modelagem CAD.
+      - Desenvolver protótipos de modelagem 3D com o auxílio de ferramentas CAD.
+      - Ser agente colaborativo no trabalho em equipe na construção de protótipos.
+    - **Conteúdos:**
+      - 03.01 - Conceitos e ferramentas para desenho assistido por computador (CAD).
+      - 03.02 - Técnicas para aceleração de modelagem.
+      - 03.03 - Fabricação por adição de materiais.
+      - 03.04 - Integração de projetos impressos a soluções eletrônicas.
+
+### T163 — Interação humano-computador
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 2.2
+- **Ementa:** Usuário como agente principal para produto interativo. Idealização e projeto de produto interativo. Técnicas de avaliação de produtos interativos. Usabilidade e ergonomia em soluções de hardware.
+- **Programa:**
+  - **UNIDADE I - Usuário como agente principal para produto interativo.**
+    - **Objetivos:**
+      - Caracterizar os aspectos que afetam a experiência do usuário.
+      - Situar os usuários como agentes principais no contexto de projeto de interação.
+      - Ser agente difusor dos conceitos de interação humano-computador como meio para a promoção e o desenvolvimento de sistemas aderentes às necessidades e demandas do usuário.
+    - **Conteúdos:**
+      - 01.01 - Aspectos da experiência do usuário e fatores humanos.
+      - 01.02 - Fundamentos da usabilidade: Interação, Interface, metáforas, padrões de projeto de interação.
+      - 01.03 - Modelo mental do usuário, modelo conceitual do projetista, e modelo de implementação do desenvolvedor.
+      - 01.04 - Processo do projeto da interação e critérios de avaliação de interfaces.
+  - **UNIDADE II - Idealização e projeto de produto interativo.**
+    - **Objetivos:**
+      - Relacionar as técnicas de IHC para o desenvolvimento de projetos de interação com foco no usuário.
+      - Aplicar técnicas de usabilidade em produtos interativos com vista ao desenvolvimento de sistemas.
+      - Ser criterioso quanto ao respeito do papel de usuários no desenvolvimento de produtos interativos.
+    - **Conteúdos:**
+      - 02.01 - Design criativo.
+      - 02.02 - Técnicas para modelagem de usuário: coleta de dados e geração de personas.
+      - 02.03 - Técnicas para modelagem de tarefas: especificação do contexto de uso, descrição de cenários, pirâmide de requisitos e fluxo das tarefas do usuário.
+      - 02.04 - Construção de alternativas de design: storyboard, prototipação de baixa e alta fidelidades.
+  - **UNIDADE III - Técnicas de avaliação de produtos interativos.**
+    - **Objetivos:**
+      - Classificar as técnicas de avaliação de interface para a melhoria da usabilidade de projetos.
+      - Aplicar técnicas de avaliação da usabilidade em produtos interativos.
+      - Ser agente promotor no uso de técnicas de avaliação para melhoria contínua da experiência do usuário em produtos interativos.
+    - **Conteúdos:**
+      - 03.01 - Avaliação por inspeção.
+      - 03.02 - Avaliação heurística.
+      - 03.03 - Avaliação de design visual.
+      - 03.04 - Avaliação com usuários.
+  - **UNIDADE IV - Usabilidade e ergonomia em soluções de hardware.**
+    - **Objetivos:**
+      - Identificar os aspectos ergonômicos e de usabilidade para o desenvolvimento de soluções físicas.
+      - Aplicar técnicas de projeto e avaliação da usabilidade e ergonomia em soluções físicas.
+      - Valorar a usabilidade e ergonomia em soluções de hardware.
+    - **Conteúdos:**
+      - 04.01 - Componentes de hardware: funções e utilizações.
+      - 04.02 - Experiência do usuário (UX) em projetos de soluções de hardware.
+      - 04.03 - Ergonomia de produtos.
+      - 04.04 - Avaliação da interação de protótipos físicos.
+
+### T164 — Programação orient objetos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** O mundo real sob a perspectiva da orientação a objetos. Representação de objetos em sistemas computacionais. Implementação de algoritmos com uso dos pilares do paradigma orientado a objetos. Aplicação de estruturas avançadas de orientação a objetos.
+- **Programa:**
+  - **UNIDADE I - O mundo real sob a perspectiva da orientação a objetos.**
+    - **Objetivos:**
+      - Demonstrar os pilares da orientação a objetos.
+      - Representar entidades do mundo real sob a perspectiva da orientação a objetos.
+      - Valorizar a importância da abstração de dados para modelagem de objetos.
+    - **Conteúdos:**
+      - 01.01 - Pilares da orientação a objetos: abstração, encapsulamento, herança e polimorfismo.
+      - 01.02 - Comparação entre os paradigmas estruturado e orientado a objetos.
+      - 01.03 - Diagramas de classe.
+      - 01.04 - Relacionamento entre objetos: associação, composição e agregação.
+  - **UNIDADE II - Representação de objetos em sistemas computacionais.**
+    - **Objetivos:**
+      - Explicar o emprego das técnicas de representação de objetos na implementação de sistemas.
+      - Implementar os componentes básicos de uma classe para a instanciação de objetos.
+      - Valorar a importância da aplicação dos fundamentos da representação de objetos para a construção de um código limpo.
+    - **Conteúdos:**
+      - 02.01 - Classes e objetos: atributos, métodos, instanciação.
+      - 02.02 - Modificadores de acesso, métodos construtores.
+      - 02.03 - Classes abstratas.
+      - 02.04 - Interface.
+  - **UNIDADE III - Implementação de algoritmos com uso dos pilares do paradigma orientado a objetos.**
+    - **Objetivos:**
+      - Explicar o funcionamento de programas desenvolvidos a partir das construções fundamentais do paradigma orientado a objetos.
+      - Programar com elementos fundamentais de linguagens orientadas a objetos.
+      - Qualificar criticamente o uso da orientação a objetos no desenvolvimento de sistemas computacionais.
+    - **Conteúdos:**
+      - 03.01 - Abstração de objetos.
+      - 03.02 - Encapsulamento: métodos assessores e métodos modificadores.
+      - 03.03 - Heranças simples e múltipla.
+      - 03.04 - Polimorfismo: sobrecarga e sobrescrita de métodos, classes abstratas e interfaces.
+  - **UNIDADE IV - Aplicação de estruturas avançadas de orientação a objetos.**
+    - **Objetivos:**
+      - Identificar as estruturas avançadas de orientação a objetos para aplicação em problemas computacionais.
+      - Construir aplicações com utilização de estruturas avançadas de orientação a objetos.
+      - Agir com autonomia no uso das estruturas avançadas de orientação a objetos.
+    - **Conteúdos:**
+      - 04.01 - Tratamento de exceções.
+      - 04.02 - Coleções.
+      - 04.03 - Arquivos e Fluxo de dados.
+      - 04.04 - Noções de interface gráfica (GUI).
+
+### T168 — Álgebra e geom computacional
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Álgebra matricial, determinante e sistemas de equações lineares. Transformação de matrizes de dimensões diferentes. Valores próprios, vetores próprios e espaços vetoriais.
+- **Programa:**
+  - **UNIDADE I - Álgebra matricial, determinante e sistemas de equações lineares.**
+    - **Objetivos:**
+      - Explicar os métodos matemáticos e computacionais utilizados na resolução de equações lineares.
+      - Implementar soluções algorítmicas para sistemas lineares e operações matriciais.
+      - Qualificar criticamente o uso das técnicas de resolução de sistemas lineares e de operações matriciais.
+    - **Conteúdos:**
+      - 01.01 - Representação de matrizes.
+      - 01.02 - Operações com matrizes.
+      - 01.03 - Cálculo de determinante.
+      - 01.04 - Sistemas de equações lineares.
+      - 01.05 - Eliminação gaussiana.
+      - 01.06 - Inversão de matrizes.
+      - 01.07 - Resolução numérica de Sistemas Lineares: Método de Gauss-Seidel.
+      - 01.08 - Métodos dos Mínimos Quadrados: Regressão Linear e Regressão Polinomial.
+  - **UNIDADE II - Transformação de matrizes de dimensões diferentes.**
+    - **Objetivos:**
+      - Aplicar os conceitos de transformações lineares na modelagem e resolução de problemas.
+      - Implementar modelos computacionais para resolução de problemas com transformações lineares.
+      - Ser crítico com o uso das técnicas de transformações lineares na resolução de problemas.
+    - **Conteúdos:**
+      - 02.01 - Vetores bi, tri e n-dimensionais.
+      - 02.02 - Norma, produto escalar e distância em Rn.
+      - 02.03 - Ortogonalidade.
+      - 02.04 - Transformações matriciais de Rn em Rm.
+      - 02.05 - Propriedades das transformações matriciais.
+      - 02.06 - A geometria de operações matriciais de R² em R³.
+  - **UNIDADE III - Valores próprios, vetores próprios e espaços vetoriais.**
+    - **Objetivos:**
+      - Definir autovalores e autovetores nos diversos tipos de situações problemas.
+      - Implementar soluções algorítmicas para resolução de problemas com autovalores e autovetores.
+      - Julgar com criticidade a aplicabilidade de autovalores e autovetores na modelagem e resolução de problemas.
+    - **Conteúdos:**
+      - 03.01 - Dependência linear de vetores em Rn.
+      - 03.02 - Base de vetores de Rn.
+      - 03.03 - Autovalores e autovetores.
+      - 03.04 - Diagonalização de operadores.
+
+## 3º semestre
+
+### F041 — Ciclo avaliativo I
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### T197 — Desenv plataformas móveis
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Criação de interfaces gráficas e planejamento navegacional. Desenvolvimento de soluções de persistência de dados locais. Desenvolvimento de soluções de persistência de dados em nuvem. Consumindo serviços web via RESTFul.
+- **Programa:**
+  - **UNIDADE I - Criação de interface gráfica e planejamento navegacional.**
+    - **Objetivos:**
+      - Descrever os elementos de interface gráfica referentes à construção de telas e de navegação.
+      - Implementar aplicativos para dispositivos móveis com utilização de boas práticas de construção de interface gráfica e de navegação entre elas.
+      - Qualificar criticamente as práticas de interface gráfica e de navegação adequadas para a solução de situações problemas a partir de demandas sociais.
+    - **Conteúdos:**
+      - 01.01 - Diretrizes de layout de interfaces gráficas para dispositivos móveis.
+      - 01.02 - Componentes de interface gráfica para dispositivos móveis.
+      - 01.03 - Gerenciadores de layout.
+      - 01.04 - Navegação entre janelas.
+  - **UNIDADE II - Desenvolvimento de soluções de persistência de dados locais.**
+    - **Objetivos:**
+      - Relacionar as formas de persistência de dados para dispositivos móveis.
+      - Implementar soluções de persistência de dados locais para aplicações para dispositivos móveis vista à solução de problemas sociais.
+      - Ser criterioso na elaboração de modelos de dados adequados à solução de situações-problema com aplicações para dispositivos móveis.
+    - **Conteúdos:**
+      - 02.01 - Modelos de dados.
+      - 02.02 - Persistência do tipo chave-valor.
+      - 02.03 - Persistência via sistema de gerenciamento de banco de dados local.
+      - 02.04 - Bibliotecas de persistência para dispositivos móveis.
+  - **UNIDADE III - Desenvolvimento de soluções de persistência de dados em nuvem.**
+    - **Objetivos:**
+      - Diferenciar as formas de persistência de dados em nuvem para dispositivos móveis.
+      - Implementar soluções de persistência de dados em nuvem em aplicações para dispositivos móveis.
+      - Ser criterioso na elaboração de modelo de dados em nuvem de modo adequado à resolução de situações-problema com aplicações para dispositivos móveis.
+    - **Conteúdos:**
+      - 03.01 - Modelo de dados em nuvem.
+      - 03.02 - Persistência do tipo chave-valor na estrutura do modelo de dados na nuvem.
+      - 03.03 - Biblioteca de persistência para dispositivos móveis em nuvem.
+      - 03.04 - Persistência via sistema de gerenciamento de banco de dados na nuvem.
+  - **UNIDADE IV - Consumindo serviços web dia RESTFul.**
+    - **Objetivos:**
+      - Diferenciar os conceitos de serviços web inerentes a aplicativos para dispositivos móveis.
+      - Implementar aplicativos para dispositivos móveis com consumo de serviços disponíveis na web.
+      - Ponderar criticamente a escolha de serviços web na resolução de prolems durante o processo de desenvolvimento de aplicações para dispositivos móveis.
+    - **Conteúdos:**
+      - 04.01 - Modelos de serviços web.
+      - 04.02 - Arquitetura de serviços web RESTFul.
+      - 04.03 - Modelos de representação de dados.
+      - 04.04 - Consumo e Integração de serviços web para dispositivos móveis.
+
+### T390 — Estrutura de dados
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Técnicas de programação para implementação de estruturas de dados. Estrutura de dados lineares. Estruturas de dados dispersas. Estruturas de dados hierárquicas.
+- **Programa:**
+  - **UNIDADE I - Técnicas de programação para implementação de estruturas de dados.**
+    - **Objetivos:**
+      - Descrever as técnicas de programação usadas na implementação de estruturas de dados.
+      - Implementar algoritmos com uso de técnicas de programação.
+      - Valorar o emprego das técnicas de programação na construção de estruturas de dados.
+    - **Conteúdos:**
+      - 01.01 - Recursividade.
+      - 01.02 - Tipos abstratos de dados.
+      - 01.03 - Referências e alias.
+      - 01.04 - Alocação de memória: estática e dinâmica.
+  - **UNIDADE II - Estruturas de dados lineares.**
+    - **Objetivos:**
+      - Diferenciar as estruturas de dados e suas complexidades na resolução de problemas computacionais.
+      - Implementar algoritmos com estruturas de dados e linguagens de programação.
+      - Ser crítico no uso de estruturas de dados para resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 02.01 - Listas: estática e dinâmica (simplesmente encadeada, duplamente encadeada, não ordenada, ordenada e circulares).
+      - 02.02 - Pilhas: estática e dinâmica.
+      - 02.03 - Filas: estática e dinâmica.
+      - 02.04 - Filas de prioridade: não ordenada, ordenada e heap.
+  - **UNIDADE III - Estruturas de dados dispersas**
+    - **Objetivos:**
+      - Explicar o funcionamento de estruturas de dados dispersas na resolução de problemas computacionais.
+      - Implementar algoritmos com estruturas de dados dispersas.
+      - Valorar a importância das estruturas de dados dispersas para organização e busca de dados.
+    - **Conteúdos:**
+      - 03.01 - Tabelas hashing.
+      - 03.02 - Função de hashing.
+      - 03.03 - Endereçamento aberto: tentativa linear e tentativa quadrática.
+      - 03.04 - Endereçamento fechado.
+  - **UNIDADE IV - Estruturas de dados hierárquicas**
+    - **Objetivos:**
+      - Identificar os cenários propícios para o emprego de estruturas de dados hierárquicas.
+      - Aplicar estruturas de dados hierárquicas na resolução de problemas computacionais.
+      - Ser crítico no uso das estruturas de dados hierárquicas na resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 04.01 - Árvore N-ária.
+      - 04.02 - Árvore binária.
+      - 04.03 - Árvore de busca.
+      - 04.04 - Árvore balanceada AVL.
+
+### T193 — Requisitos e mod de sistemas
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Dimensões da engenharia de software e engenharia de requisitos. Processos da engenharia de requisitos. Ética e colaboração em projetos de software. Desenvolvimento de projetos de software.
+- **Programa:**
+  - **UNIDADE I - Dimensões da engenharia de software e engenharia de requisitos.**
+    - **Objetivos:**
+      - Explicar as etapas do processo genérico de engenharia de requisitos.
+      - Estruturar os requisitos, com reconhecimento das premissas e restrições em projetos de software.
+      - Ser agente difusor do uso da engenharia de requisitos como meio para a promoção da qualidade do produto de software aderente as demandas do usuário.
+    - **Conteúdos:**
+      - 01.01 - Aspectos da engenharia de software e da engenharia de requisitos.
+      - 01.02 - O processo de software: modelos e abordagens.
+      - 01.03 - Tipos de requisitos, restrições e premissas, dificuldades comuns em requisitos.
+      - 01.04 - Critérios de qualidade de requisitos.
+  - **UNIDADE II - Processos da engenharia de requisitos.**
+    - **Objetivos:**
+      - Selecionar técnicas e modelos para a gestão de requisitos em projetos de software.
+      - Diagramar requisitos funcionais e não funcionais com o uso de técnicas formais de engenharia de software com vistas ao desenvolvimento de sistemas para o atendimento de demanda social.
+      - Ser coerente na abordagem prática das técnicas de levantamento e construção de ativos de desenho da solução.
+    - **Conteúdos:**
+      - 02.01 - Elicitação de requisitos.
+      - 02.02 - Análise de requisitos.
+      - 02.03 - Gerência de requisitos.
+      - 02.04 - Modelos e especificação de requisitos: diagrama de classe, modelo CRC (Classe, Responsabilidade de Colaboração), relatório de especificação de requisitos.
+  - **UNIDADE III - Ética e colaboração em projetos de software.**
+    - **Objetivos:**
+      - Relacionar os aspectos legais da lei de proteção de dados em conformidade com os requisitos para qualidade de software.
+      - Empregar abordagens ágeis para definição de produtos em conformidade com a legislação de proteção de dados.
+      - Ser colaborativo na atuação em equipes de diferentes perfis e com os diversos níveis organizacionais.
+    - **Conteúdos:**
+      - 03.01 - Lei Geral de Proteção de Dados Pessoais (LGPD).
+      - 03.02 - Metodologia ágil.
+      - 03.03 - Abordagens de definição de produto de software em projetos (Lean Inception).
+      - 03.04 - Prototipação de produto de software (Design Sprint).
+  - **UNIDADE IV - Desenvolvimento de projetos de software.**
+    - **Objetivos:**
+      - Explicar as principais etapas de gestão de projeto de software e a relevância do processo de requisitos neste contexto.
+      - Elaborar projetos de software com base nos princípios de qualidade do produto com vistas ao atendimento de demanda social.
+      - Estar comprometido com a adoção de boas práticas de gestão em projetos de software.
+    - **Conteúdos:**
+      - 04.01 - Princípios de gestão de projetos.
+      - 04.02 - Definição de escopo do projeto de software.
+      - 04.03 - Análise de viabilidade e estimativa de software.
+      - 04.04 - Qualidade de produto com foco na qualidade dos requisitos.
+
+### T162 — Res problemas nat discreta
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Noções de lógica proposicional, de 1a ordem e de predicados. Fundamentos de teoria dos conjuntos e relações. Conceitos de funções e sequências. Diferenciação dos métodos de contagem.
+- **Programa:**
+  - **UNIDADE I - Noções de lógica proposicional, de 1a ordem e de predicados.**
+    - **Objetivos:**
+      - Explicar raciocínios lógicos a partir dos principais métodos de prova de lógica proposicional.
+      - Traduzir sentenças de linguagem natural com uso dos quantificadores universal e existencial.
+      - Ser crítico quanto à escolha das técnicas utilizadas nos métodos de prova.
+    - **Conteúdos:**
+      - 01.01 - Conjuntos Numéricos.
+      - 01.02 - Proposições, conectivos, valores lógicos, tabela verdade e tautologias.
+      - 01.03 - Argumentos válidos e verbais, dedução e refutação.
+      - 01.04 - Predicados e quantificadores.
+  - **UNIDADE II - Fundamentos de teoria dos conjuntos e relações.**
+    - **Objetivos:**
+      - Identificar a teoria de conjuntos como instrumento para representações de coleções de objetos.
+      - Desenvolver provas de argumentos por meio da teoria de conjuntos.
+      - Ser criterioso na avaliação de propostas de intervenção na realidade, com coerência técnica de conhecimentos algébricos e numéricos.
+    - **Conteúdos:**
+      - 02.01 - Introdução aos conjuntos: representações, relações sobre conjuntos e tipos de conjuntos.
+      - 02.02 - Operações de conjuntos e identidades envolvendo conjuntos.
+      - 02.03 - Relações: conceitos, representações, tipos e operações.
+      - 02.04 - Aplicação da lógica em problemas com teoria dos conjuntos e relações.
+  - **UNIDADE III - Conceitos de funções e sequências.**
+    - **Objetivos:**
+      - Interpretar problemas de natureza discreta com auxílio dos conceitos de funções e sequências.
+      - Representar computacionalmente funções e sequências em problemas de natureza discreta.
+      - Importar-se com lógica proposicional, das técnicas de demonstração e da teoria dos conjuntos para as definições funções e frequências, e na resolução de problemas de natureza discreta.
+    - **Conteúdos:**
+      - 03.01 - Funções: conceitos, representações, tipos e operações.
+      - 03.02 - Enumeração, conjuntos contáveis e não contáveis.
+      - 03.03 - Sequências, Recorrência e Indução.
+      - 03.04 - Aplicação da lógica em problemas com funções e sequências.
+  - **UNIDADE IV - Diferenciação dos métodos de contagem.**
+    - **Objetivos:**
+      - Diferenciar os métodos de contagem e suas relações com problemas de natureza discreta.
+      - Aplicar métodos de contagem na resolução de problemas de natureza discreta.
+      - Ser assertivo na tomada de decisões baseadas no uso de métodos de contagem.
+    - **Conteúdos:**
+      - 04.01 - Princípio da multiplicação e da adição, princípio da casa dos pombos e princípio da inclusão e exclusão.
+      - 04.02 - Permutações e arranjos.
+      - 04.03 - Combinações.
+      - 04.04 - Coeficientes binomiais.
+
+### T169 — Sist ciberfísic colaborativos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Projeto técnico de sistemas ciberfísicos e colaborativos.
+- **Programa:**
+  - **UNIDADE I - Projeto Técnico de sistemas ciberfísicos e colaborativos**
+    - **Objetivos:**
+      - Explicar os aspectos determinantes dos sistemas ciberfísicos.
+      - Projetar soluções computacionais para integração dos componentes de sistemas ciberfísicos e colaborativos.
+      - Ser assertivo no desenvolvimento de projetos para integração de componentes de sistemas ciberfísicos e colaborativos com vistas a promoção de soluções computacionais para a sociedade.
+    - **Conteúdos:**
+      - 01.01 - Arquitetura de sistemas ciberfísicos e seus componentes.
+      - 01.02 - Princípios de sistemas embarcados e distribuídos com sensores e atuadores.
+      - 01.03 - O ambiente dinâmico da Internet das Coisas.
+      - 01.04 - Especificação dos requisitos de sistemas ciberfísicos.
+      - 01.05 - Integração dos componentes dos Sistemas ciberfísicos.
+
+### T116 — Ética em computação
+
+- **Modalidade:** Ead
+- **Créditos:** 2.0
+- **Ementa:** Desafios éticos na sociedade do conhecimento e seus desdobramentos no ambiente profissional. Códigos de ética na área da computação. Transtornos de conduta e conflito no ciberespaço. A era digital comprometida com a responsabilidades socioambiental.
+- **Programa:**
+  - **UNIDADE I - Desafios éticos na sociedade do conhecimento e seus desdobramentos no ambiente profissional**
+    - **Objetivos:**
+      - Defender os valores e princípios éticos nas relações sociais e profissionais.
+      - Praticar os princípios éticos e dos direitos humanos nas relações de trabalho em sua área de atuação.
+      - Identificar os valores e responsabilidades pertinentes às relações profissionais e sociais.
+    - **Conteúdos:**
+      - 01.01 - Princípios e fundamentos da ética.
+      - 01.02 - Dimensões ética nos campos social e profissional.
+  - **UNIDADE II - Códigos de ética na área de computação**
+    - **Objetivos:**
+      - Interpretar os códigos de ética da computação para o uso nas atividades profissionais.
+      - Associar os princípios éticos que norteiam o profissional da computação com a cultura organizacional em que atua.
+      - Ser agente multiplicador de legislações e condutas éticas com vistas a disseminação dos direitos e deveres no ciberespaço.
+    - **Conteúdos:**
+      - 02.01 - Legislação e compliance no cenário que envolve a computação.
+      - 02.02 - Código de ética da computação e as relações com a cultura organizacional associada as instituições normalizadoras da área de computação.
+  - **UNIDADE III - Transtornos de conduta e conflito no ciberespaço**
+    - **Objetivos:**
+      - Categorizar os tipos de crimes informáticos com indicação de seus impactos no mundo do trabalho.
+      - Disseminar as legislações e políticas que norteiam o ciberespaço.
+      - Agir com postura ética-profissional em meio a desvios de conduta.
+    - **Conteúdos:**
+      - 03.01 - Políticas e Legislação aplicadas ao ciberespaço: privacidade, pirataria, invasões e propriedade intelectual.
+      - 03.02 - Crimes cibernéticos e seus impactos sociais e profissionais.
+  - **UNIDADE IV - A era digital comprometida com a responsabilidades socioambiental**
+    - **Objetivos:**
+      - Discriminar os elementos da tecnologia da informação que conflitam com a legislação socioambiental.
+      - Demonstrar os códigos de ética aplicados no tratamento do lixo tecnológico com contribuições assertivas.
+      - Ser autocrítico na avaliação da tecnologia da informação de forma ajustada dos próprios comportamentos, atitudes frente aos aspectos socioambientais.
+    - **Conteúdos:**
+      - 04.01 - Legislação socioambiental relacionada a tecnologia da informação e comunicação.
+      - 04.02 - Código de ética no tratamento do lixo tecnológico: Cenários e Impactos.
+
+## 4º semestre
+
+### T203 — Ambiente de dados
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos de banco de dados relacional. Modelagem, definição e manipulação de dados. Estrutura de Banco de Dados Relacional. Projeto de Banco de Dados.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de banco de dados relacional e gerenciadores de banco de dados**
+    - **Objetivos:**
+      - Decodificar as estruturas internas de um banco de dados relacional.
+      - Recomendar o tipo de banco de dados que melhor se adequa à solução de um problema computacional.
+      - Perceber a importância do banco de dados como base das soluções computacionais nas diversas áreas de conhecimento.
+    - **Conteúdos:**
+      - 01.01 - Aplicação do BD nas empresas.
+      - 01.02 - Tecnologia de banco de dados.
+      - 01.03 - Tipos de BD e suas estruturas.
+      - 01.04 - Aspectos de gestão de sistemas gerenciadores de banco de dados.
+  - **UNIDADE II - Modelagem, definição e manipulação de dados.**
+    - **Objetivos:**
+      - Conceber soluções computacionais a partir de dados mapeados.
+      - Modelar dados de acordo com as técnicas requeridas pelas tecnologias adotadas.
+      - Mostrar autonomia e responsabilidade ética na realização de tarefas requeridas no manuseio de dados.
+    - **Conteúdos:**
+      - 02.01 - Acesso a banco de dados via linguagem de programação.
+      - 02.02 - Diagrama de modelos Entidade-Relacionamento.
+      - 02.03 - Fundamentos de linguagens de definição e manipulação de dados.
+      - 02.04 - Modelo Entidade - Relacionamento (MER).
+  - **UNIDADE III - Estrutura de Banco de Dados Relacional**
+    - **Objetivos:**
+      - Diferenciar as técnicas de construção dos bancos de dados relacionais.
+      - Avaliar a adequabilidade e desempenho de sistemas computacionais de banco de dados, com a análise das configurações e funcionamento dos seus serviços.
+      - Respeitar os aspectos legais e éticos na busca de novas aplicações e tecnologias de banco de dados.
+    - **Conteúdos:**
+      - 03.01 - Técnicas de Projeto de Banco de Dados Relacional.
+      - 03.02 - Estruturas de armazenamento de dados considerando álgebra relacional.
+      - 03.03 - Gerenciamento de alocação de memória.
+      - 03.04 - Estrutura de processamento de transações e controle de concorrência.
+  - **Unidade IV - Projeto de Banco de Dados**
+    - **Objetivos:**
+      - Efetuar o planejamento e Implementação do projeto físico de banco de dados com utilização de linguagens relacionais.
+      - Ser colaborativo e responsável no trabalho em equipe no desenvolvimento de aplicações que necessitam de armazenamento e recuperação de dados.
+    - **Conteúdos:**
+      - 04.01 - Cenários problematizados para modelagem dos dados.
+      - 04.02 - Objetos de banco de dados.
+      - 04.03 - Organização e normalização do banco de dados.
+      - 04.04 - Arquitetura do banco de dados e linguagens de armazenamento e recuperação de dados.
+
+### T198 — Construção a. de algoritmos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Utilização de técnicas fundamentais de análise de algoritmos. Análise de algoritmos comuns de pesquisa e de ordenação. Aplicação de técnicas fundamentais de construção de algoritmos.
+- **Programa:**
+  - **UNIDADE I - Utilização de técnicas fundamentais de análise de algoritmos.**
+    - **Objetivos:**
+      - Distinguir as classes mais comuns de funções no contexto de complexidade de algoritmos.
+      - Verificar a eficiência de algoritmos por meio de estudos empíricos e de técnicas avançadas de análise de algoritmos iterativos e recursivos.
+      - Considerar a importância da construção de algoritmos eficientes para o uso responsável dos recursos computacionais.
+    - **Conteúdos:**
+      - 01.01 - Análise de algoritmos iterativos e recursivos: medidas empíricas de performance, função de tempo de execução, ordem de crescimento de funções, notação assintótica, comportamentos de melhor caso, de pior caso e de caso esperado, relações de recorrência, árvores de recursão e teorema mestre.
+      - 01.02 - Classes comuns de complexidade de algoritmos: constante, logarítmica, linear, linearítmica, quadrática e exponencial.
+  - **UNIDADE II - Análise de algoritmos comuns de pesquisa e de ordenação.**
+    - **Objetivos:**
+      - Contrastar as complexidades de algoritmos comumente utilizados na resolução de problemas de pesquisa e de ordenação.
+      - Desenvolver soluções algorítmicas para aplicações que envolvam pesquisa e ordenação de dados.
+      - Ser crítico na elaboração e na escolha de soluções algorítmicas alternativas para os problemas computacionais.
+    - **Conteúdos:**
+      - 02.01 - Algoritmos de pesquisa e de ordenação: pesquisa linear, pesquisa binária, ordenação por seleção, ordenação por trocas, ordenação por inserção, ordenação por intercalação, heapsort, quicksort e ordenação por contagem.
+  - **UNIDADE III - Aplicação de técnicas fundamentais de construção de algoritmos.**
+    - **Objetivos:**
+      - Explicar as técnicas de construção de algoritmos e suas aplicações de acordo com a natureza do problema.
+      - Aplicar diferentes técnicas de construção de algoritmos para resolução de problemas computacionais.
+      - Ser proativo na descoberta e na criação de soluções algorítmicas eficientes para a resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 03.01 - Abordagens de programação: iterativa e recursiva.
+      - 03.02 - Técnicas de construção de algoritmos: força bruta, divisão e conquista, programação dinâmica, algoritmos gulosos, heurísticas.
+
+### T242 — Desenv plataformas web
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Projeto de sites web. Desenvolvimento de interfaces web dinâmicas. Tecnologias para soluções de serviços na web. Implementação de serviços web.
+- **Programa:**
+  - **UNIDADE I - Projeto de sites web.**
+    - **Objetivos:**
+      - Identificar os elementos utilizados no projeto de sites web com sua respectiva representação visual em página web.
+      - Construir páginas web com a utilização da linguagem HTML e tecnologias para estilização e interação.
+      - Ser colaborativo no desenvolvimento de sites web com vistas aos pares e clientes.
+    - **Conteúdos:**
+      - 01.01 - Histórico e evolução da internet e de sistemas web.
+      - 01.02 - Linguagem HTML.
+      - 01.03 - Estilização de páginas HTML.
+      - 01.04 - Interação de páginas HTML.
+  - **UNIDADE II - Desenvolvimento de interfaces web dinâmicas.**
+    - **Objetivos:**
+      - Identificar os elementos e os componentes necessários para o desenvolvimento de interfaces web.
+      - Construir interfaces para sistemas web.
+      - Ser agente promotor de soluções tecnológicas com vistas à transformação da realidade de pessoas, empresas e/ou instituições.
+    - **Conteúdos:**
+      - 02.01 - Tecnologias e ferramentas.
+      - 02.02 - Arquitetura e organização de aplicações.
+      - 02.03 - Elementos básicos de aplicações: componentes, entidades e serviços.
+      - 02.04 - Navegação entre telas, desenvolvimento e validação de formulários.
+  - **UNIDADE III - Tecnologias para soluções de serviços web.**
+    - **Objetivos:**
+      - Tipificar as tecnologias de serviços na web.
+      - Propor aplicativos interativos como meio para a solução de problemas reais de comunidades e/ou instituições.
+      - Ser proativo na identificação de tecnologias inovadoras para soluções web.
+    - **Conteúdos:**
+      - 03.01 - Tecnologias e ferramentas.
+      - 03.02 - Comparação entre tecnologias.
+      - 03.03 - Análise dos critérios de segurança.
+      - 03.04 - Avaliação do consumo de serviços web.
+  - **UNIDADE IV - Implementação de serviços web.**
+    - **Objetivos:**
+      - Discriminar os elementos e os componentes necessários para o desenvolvimento de serviços web.
+      - Desenvolver serviços web com vistas ao atendimento de demandas de projetos sociais.
+      - Respeitar os princípios éticos e parâmetros legais quanto ao tratamento e manipulação de dados.
+    - **Conteúdos:**
+      - 04.01 - Arquitetura e organização de serviços web.
+      - 04.02 - Definição de serviços web.
+      - 04.03 - Acesso e manipulação de dados.
+      - 04.04 - Programação de serviços web.
+
+### T199 — Mét quant em computação
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Estatística descritiva para interpretação de base de dados. Probabilidade e distribuições de probabilidade para modelagem de fenômenos aleatórios. Estatística inferencial para os parâmetros populacionais.
+- **Programa:**
+  - **UNIDADE I - Estatística descritiva para interpretação de base de dados.**
+    - **Objetivos:**
+      - Explicar os fundamentos estatísticos na interpretação de conjuntos de dados.
+      - Construir representações sintéticas de dados estatísticos com apoio de ferramenta computacional.
+      - Ser crítico e imparcial na condução de pesquisas e interpretação dos dados estatísticos.
+    - **Conteúdos:**
+      - 01.01 - Fundamentos estatísticos: População, amostra, margem de erro, tipos de variáveis, séries estatísticas.
+      - 01.02 - Representação gráfica e tabular dos dados estatísticos.
+      - 01.03 - Medidas de posição para dados agrupados e não agrupados.
+      - 01.04 - Medidas de dispersão para dados agrupados e não agrupados.
+      - 01.05 - Medidas de associação para variável quantitativa: correlação e regressão linear simples.
+  - **UNIDADE II - Probabilidade e distribuições de probabilidade para modelagem de fenômenos aleatórios.**
+    - **Objetivos:**
+      - Relacionar padrões de comportamento dos dados com base nos modelos probabilísticos.
+      - Esquematizar distribuições aleatórias de dados a partir dos modelos probabilísticos.
+      - Exercer liderança na sua atuação junto a equipe.
+    - **Conteúdos:**
+      - 02.01 - Probabilidade: conceitos fundamentais da probabilidade, teorema da soma, teorema do produto, probabilidade condicional, teorema probabilidade total e teorema de Bayes.
+      - 02.02 - Variável aleatória Unidimensional: Discreta e contínua.
+      - 02.03 - Distribuições de probabilidade discretas: Binomial, Poisson.
+      - 02.04 - Distribuições de probabilidade contínuas: uniforme, exponencial e normal.
+  - **UNIDADE III - Estatística inferencial para os parâmetros populacionais.**
+    - **Objetivos:**
+      - Explicar o papel da modelagem probabilística para resolução de problemas.
+      - Elaborar testes de significância estatística com base em dados amostrais para tomada de decisão.
+      - Ser cooperativo na realização de trabalhos.
+    - **Conteúdos:**
+      - 03.01 - Técnicas de amostragem.
+      - 03.02 - Estimação pontual e intervalar para os parâmetros populacionais.
+      - 03.03 - Testes Estatísticos para tomada de Decisão: Teste de Hipótese para a média populacional e proporção de sucesso populacional.
+
+### T200 — Proj arquitetura de sistemas
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Desenho de projetos de sistemas. Programação Orientada a Aspectos (POA). Arquitetura de software e padrões arquiteturais. Elaboração de Projeto de Arquitetura de Software.
+- **Programa:**
+  - **UNIDADE I - Desenho de projetos de sistemas**
+    - **Objetivos:**
+      - Analisar os padrões de atribuição de responsabilidades e design patterns em orientação a objetos.
+      - Desenvolver projetos de software orientado a objetos com uso de padrões de atribuição de responsabilidade e design patterns.
+      - Ser criterioso na definição de projetos de software com consideração às necessdade dos atores envolvidos.
+    - **Conteúdos:**
+      - 01.01 - Estudo de Princípios de Projeto: Single Responsibility Principle; Open Closed Principle; Liskov Substitution Principle; Interface Segregation Principle; Dependency Inversion Principle (S.O.L.I.D.).
+      - 01.02 - Padrões de atribuição de Responsabilidades: General Responsibility Assignment Software Principles (GRASP).
+      - 01.03 - Padrões de Projeto (Design Patterns).
+      - 01.04 - Avaliação dos Padrões de Projetos.
+  - **UNIDADE II - Programação Orientada a Aspectos (POA)**
+    - **Objetivos:**
+      - Avaliar as deficiências de programas desenvolvidos com uso do paradigma orientado a objetos que resultam em interesses transversais.
+      - Implementar programas baseado no paradigma de aspectos (POA).
+      - Apresentar criticidade na identificação das necessidades do uso da POA em sistemas orientados a objetos.
+    - **Conteúdos:**
+      - 02.01 - Motivação para POA e interesses transversais.
+      - 02.02 - Entrelaçamento e espalhamento.
+      - 02.03 - Aspectos e Pointcuts Advices.
+      - 02.04 - Evolução do estudo de caso para incorporar aspectos.
+  - **UNIDADE III - Arquitetura de software e padrões arquiteturais**
+    - **Objetivos:**
+      - Analisar situações para modularização de sistemas legados em serviços.
+      - Construir estratégias de migração de sistemas legados com uso de serviços e microsserviços.
+      - Ser criterioso no uso dos padrões arquiteturais.
+    - **Conteúdos:**
+      - 03.01 - Modelagem de arquitetura de software.
+      - 03.02 - Padrões arquiteturais.
+      - 03.03 - Padrão monolítico e microsserviços.
+      - 03.04 - Padrão Serverless Computing (Function As a Service - FaaS).
+  - **UNIDADE IV - Elaboração de Projeto de Arquitetura de Software**
+    - **Objetivos:**
+      - Identificar os padrões arquiteturais adequados a partir da análise do problema.
+      - Implementação do projeto com base nos padrões arquiteturais.
+      - Agir de forma colaborativa durante o processo de desenvolvimento de soluções integradas.
+    - **Conteúdos:**
+      - 04.01 - Aplicação dos princípios de projeto (S.O.L.I.D.).
+      - 04.02 - Analise do cenário-problema.
+      - 04.03 - Desenho da arquitetura utilizando padrões de projeto.
+      - 04.04 - Programação orientada a aspectos.
+
+## 5º semestre
+
+### F042 — Ciclo avaliativo II
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### T113 — Experiência empreendedora
+
+- **Modalidade:** Ead
+- **Créditos:** 2.0
+- **Ementa:** Ideação de negócios digitais inovadores. Construção de modelos de negócios. Validação de negócios digitais pautado na legislação e nos estudos de impactos socioambiental e econômico. Socialização do negócio digital e as estratégias de marketing.
+- **Programa:**
+  - **UNIDADE I - Ideação de negócios digitais inovadores.**
+    - **Objetivos:**
+      - Identificar as etapas do processo de criação de inovações em casos reais.
+      - Modelar negócios com transformação de ideias em produtos ou serviços.
+      - Ser proativo diante das situações ou necessidades do mercado com vistas às oportunidades para criação de negócios inovadores.
+    - **Conteúdos:**
+      - 01.01 - Processo criativo de inovação em negócio com observância das oportunidades.
+      - 01.02 - Ferramentas para desenvolvimento de projetos criativos.
+  - **UNIDADE II - Construção de modelos de negócios digitais.**
+    - **Objetivos:**
+      - Analisar o mercado e o comportamento do cliente diante das transformações digitais com vistas ao negócio.
+      - Conceber negócios digitais pautados nas dimensões estruturantes com observância na geração de valor agregado.
+      - Ser agente promotor de soluções para o fortalecimento de pequenos negócios.
+    - **Conteúdos:**
+      - 02.01 - Dimensões estruturantes de negócios com prospecção tecnológica e mercadológica.
+      - 02.02 - Modelos de negócios digitais inovadores e a importância das Startups.
+  - **UNIDADE III - Validação de negócios digitais pautado na legislação e nos estudos de impactos socioambiental e econômico.**
+    - **Objetivos:**
+      - Identificar as diversas formas de proteção da propriedade intelectual e suas relações com o negócio.
+      - Avaliar a viabilidade da implantação do negócio no ambiente digital pautado na legislação e nos impactos socioambiental e econômico.
+      - Preocupar-se com a sustentabilidade e crescimento do negócio.
+    - **Conteúdos:**
+      - 03.01 - Proteção da propriedade intelectual.
+      - 03.02 - Análise de viabilidade, modelagem de receita e estruturação de custos.
+  - **UNIDADE IV - Socialização do negócio digital e as estratégias de marketing.**
+    - **Objetivos:**
+      - Relacionar as características do empreendedor comprometido com os aspectos éticos no mundo do negócio digital
+      - Elaborar apresentação da arquitetura do negócio e seus valores, com clareza e efetividade para com o público envolvido, e consideração às estratégias de marketing para o lançamento do negócio.
+      - Fomentar na comunidade acadêmica e/ou seu entorno o processo de ideação e empreendedorismo para promoção e fortalecimento de pequenos negócios autônomos que buscam o crescimento econômico.
+    - **Conteúdos:**
+      - 04.01 - Perfil empreendedor e suas relações com o mercado e os códigos de ética.
+      - 04.02 - Formação de equipe, liderança de grupos em organizações.
+
+### T289 — Gerenciamentos de projetos
+
+- **Modalidade:** Ead
+- **Créditos:** 4.0
+- **Ementa:** O gerenciamento de projetos. O ambiente organizacional e a influência na gestão de projetos. Áreas de conhecimento do gerenciamento de projetos - PMBoK. Metodologias ágeis de projetos.
+- **Programa:**
+  - **UNIDADE I - O gerenciamento de projetos.**
+    - **Objetivos:**
+      - Contextualizar historicamente a evolução do gerenciamento de projetos.
+      - Aplicar os elementos de gestão de projetos utilizados no Brasil e no mundo.
+      - Ser um agente questionador dos critérios para um projeto ser considerado de sucesso.
+    - **Conteúdos:**
+      - 01.01 - A história do gerenciamento de projetos e instituições de controle.
+      - 01.02 - Gerenciamento de projetos no Brasil e no mundo.
+      - 01.03 - Projetos como agentes de mudanças.
+      - 01.04 - Conceito de sucesso em projetos.
+  - **UNIDADE II - O ambiente organizacional e a influência na gestão de projetos.**
+    - **Objetivos:**
+      - Identificar elementos estratégicos do gerenciamento de projetos.
+      - Compor uma estrutura analítica de projeto (EAP).
+      - Ser um agente propagador dos critérios de análise operacional no escritório de projetos.
+    - **Conteúdos:**
+      - 02.01 - Gerente de projetos e escritórios de projetos (PMO).
+      - 02.02 - Termo de abertura, definição de projeto, programa, portfólio e gerenciamento de stakeholders.
+      - 02.03 - Estrutura analítica de projetos (EAP).
+      - 02.04 - Ciclo de vida de um projeto e tríplice restrição.
+  - **UNIDADE III - Áreas do conhecimento do gerenciamento de projetos - PMBOK.**
+    - **Objetivos:**
+      - Explicar os componentes abordados pelo PMBoK (Project Management body of Knowledge) para as áreas de conhecimento de projetos.
+      - Organizar os elementos do gerenciamento do tempo, de recursos humanos e de custos através de uma ferramenta de cronograma.
+      - Ter criticidade na percepção das ferramentas do gerenciamento de projetos e a implementação de cada um destes.
+    - **Conteúdos:**
+      - 03.01 - Definição do escopo, técnicas de cronograma, gestão do tempo, determinação do orçamento, controle dos custos e processos de comunicação.
+      - 03.02 - Gestão de recursos humanos, dimensionamento de equipes, fornecedores e aquisições.
+      - 03.03 - Gestão da qualidade e riscos e processos de monitoramento e controle.
+      - 03.04 - Gerenciamento da integração.
+  - **UNIDADE IV - Metodologias ágeis de projetos.**
+    - **Objetivos:**
+      - Relacionar os conceitos de metodologias ágeis em gestão de projetos.
+      - Aplicar mecanismos de gerenciamento de projetos ágeis sob uma perspectiva operacional.
+      - Ser um agente difusor dos padrões técnicos e éticos na avaliação do desempenho de projetos por meio de ferramentas de tecnologia da informação.
+    - **Conteúdos:**
+      - 04.01 - Gerenciamento ágil de projetos.
+      - 04.02 - Metodologias ágeis (Scrum, Lean, Kanban e SMART) e modelos híbridos de gestão.
+      - 04.03 - Modelos de maturidade em gerenciamento de projetos.
+      - 04.04 - Tendências contemporâneas em gerenciamento de projetos.
+
+### T293 — Modelagem em prog matemática
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Construção de modelos em programação matemática. Métodos de resolução de modelos em programação matemática. Ferramentas computacionais aplicadas à otimização.
+- **Programa:**
+  - **UNIDADE I - Construção de modelos em programação matemática.**
+    - **Objetivos:**
+      - Distinguir as classes mais comuns de problemas no contexto de programação matemática.
+      - Desenvolver modelos em programação matemática para representação correta de problemática identificada no contexto da aplicação.
+      - Ser promotor da utilização responsável dos recursos de programação matemática.
+    - **Conteúdos:**
+      - 01.01 - Planejamento de Produção.
+      - 01.02 - Escalonamento de Pessoal.
+      - 01.03 - Transporte e Alocação.
+      - 01.04 - Fluxo em Redes.
+      - 01.05 - Designação; Corte e Empacotamento
+      - 01.06 - Mochila; Cobertura.
+      - 01.07 - Caixeiro Viajante.
+      - 01.08 - Finanças (Modelos Quadrático Linear).
+  - **UNIDADE II - Métodos de resolução de modelos em programação matemática.**
+    - **Objetivos:**
+      - Identificar os métodos mais apropriados para a resolução de modelo em programação matemática de acordo com as características do problema.
+      - Empregar soluções algorítmicas na resolução de modelos em programação matemática.
+      - Ser crítico na elaboração e na escolha de métodos de resolução para os problemas em programação matemática.
+    - **Conteúdos:**
+      - 02.01 - Método gráfico.
+      - 02.02 - Método simplex: interpretação econômica, análise, sensibilidade, dualidade.
+      - 02.03 - Algoritmo de Branch-and-Bound.
+  - **UNIDADE III - Ferramentas computacionais aplicadas à otimização.**
+    - **Objetivos:**
+      - Identificar quais ferramentas computacionais são mais adequadas para resolução de problemas em programação matemática.
+      - Modelar problemas aderentes à sintaxe e semântica das ferramentas computacionais aplicadas à otimização.
+      - Valorar a importância da utilização de ferramentas computacionais em situações reais.
+    - **Conteúdos:**
+      - 03.01 - Implementar modelos de programação matemática em linguagens de otimização;
+      - 03.02 - Solucionar problemas através das ferramentas computacionais;
+      - 03.03 - Interpretar os resultados obtidos pelas ferramentas computacionais.
+
+### T300 — Programação funcional
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Técnicas da programação funcional na construção de funções. Aplicações da programação funcional no desenvolvimento de aplicações.
+- **Programa:**
+  - **UNIDADE I - Técnicas da programação funcional na construção de funções.**
+    - **Objetivos:**
+      - Enumerar elementos que fundamentam o paradigma de programação funcional e se relacionam com emergentes práticas de desenvolvimento de softwares.
+      - Construir funções com utilização de recursos da programação funcional e resolução de desafios que permeiam imutabilidade e ausência de efeito colateral.
+      - Ser atencioso nos fundamentos da programação funcional dentro do contexto matemático, tecnológico e científico.
+    - **Conteúdos:**
+      - 01.01 - Motivações para Lambda Calculus.
+      - 01.02 - Funções anônimas e expressões Lambda.
+      - 01.03 - Introdução às funções recursivas e recursividade em Cauda.
+      - 01.04 - Módulos e funções de alta ordem.
+      - 01.05 - Imutabilidade e efeitos colaterais.
+      - 01.06 - Organização e manipulação de dados imutáveis: listas, tuplas e maps.
+      - 01.07 - Closure, currying, map, reduce, filter e flatmap.
+      - 01.08 - Compreensão de listas.
+      - 01.09 - Pattern matching e sobrecargas.
+      - 01.10 - Lazy evaluation.
+      - 01.11 - Continuation passing style.
+      - 01.12 - Functors e monads.
+  - **UNIDADE II - Aplicações da programação funcional no desenvolvimento de aplicações.**
+    - **Objetivos:**
+      - Situar as técnicas de programação funcional nos seus respectivos artefatos de software contemporâneos voltados ao desenvolvimento de aplicações.
+      - Desenvolver softwares com exploração de recursos característicos do paradigma funcional nas linguagens de programação.
+      - Ponderar vantagens e limitações do paradigma funcional em relação ao imperativo, com referência do cenário tecnológico contemporâneo.
+    - **Conteúdos:**
+      - 02.01 - Definição, projeto e fundamentação de aplicações realísticas.
+      - 02.02 - Apresentação e justificativa do uso de potenciais artefatos e linguagens.
+      - 02.03 - Preparação do ambiente e construção do esqueleto do projeto.
+      - 02.04 - Fatores elementares do ambiente de programação.
+      - 02.05 - Elementos de segurança a considerar: funções e criptografia.
+      - 02.06 - Vinculação com banco de dados.
+      - 02.07 - Validação de acesso e restrições.
+      - 02.08 - Cadastro, consulta, atualização e remoção de itens.
+      - 02.09 - Recursos de framework: scaffolds e geração de boilerplates.
+      - 02.10 - Diferenciais tecnológicos.
+      - 02.11 - Suporte à server side rendering, expressividade, abstração, ausência de variáveis e estado, perspectivas de recuperação de falha.
+      - 02.12 - Validação da aplicação e teste de stress.
+
+### T303 — Proj de sistema operacional
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Definição e arquitetura de sistemas operacionais. Gerenciamento, escalonamento e comunicação de processos. Gerenciamento de memória e sistemas de arquivos.
+- **Programa:**
+  - **UNIDADE I - Definição e arquitetura de sistemas operacionais.**
+    - **Objetivos:**
+      - Distinguir tipos de sistemas operacionais, suas arquiteturas e seus papéis no ambiente de computação moderno.
+      - Desenvolver emuladores de sistemas operacionais com um kernel básico e suporte a chamadas de sistema.
+      - Atuar cooperativamente com os demais profissionais na implementação de emuladores de sistemas operacionais.
+    - **Conteúdos:**
+      - 01.01 - Definição e evolução dos sistemas operacionais.
+      - 01.02 - Multiprogramação, compartilhamento de tempo e categorias de aplicações.
+      - 01.03 - Interpretador de comandos e modos de operação.
+      - 01.04 - Chamadas de sistema.
+  - **UNIDADE II - Gerenciamento, escalonamento e comunicação de processos.**
+    - **Objetivos:**
+      - Detalhar o gerenciamento otimizado do tempo de processador e o funcionamento do escalonador de processos dentro de sistemas operacionais.
+      - Desenvolver componentes computacionais de escalonamento de processos com suporte a diferentes algoritmos e primitivas de sincronização.
+      - Julgar criticamente a aplicabilidade dos algoritmos de escalonamento na resolução de problemas diversos.
+    - **Conteúdos:**
+      - 02.01 - Definição, estados e ciclo de vida de um processo.
+      - 02.02 - Escalonamento de processos e troca de contexto.
+      - 02.03 - Algoritmos de escalonamento.
+      - 02.04 - Comunicação interprocessos e primitivas de sincronização.
+  - **UNIDADE III - Gerenciamento de memória e sistemas de arquivos.**
+    - **Objetivos:**
+      - Analisar técnicas de gerenciamento de memória e algoritmos de alocação em diferentes contextos de aplicação.
+      - Desenvolver componentes computacionais de gerenciamento de memória emulados com suporte a gerenciamento de espaço, algoritmos de alocação e swapping em sistemas de arquivos.
+      - Qualificar criticamente a integração dos componentes de sistemas computacionais na solução de problemas.
+    - **Conteúdos:**
+      - 03.01 - Particionamento da memória e gerenciamento de espaço.
+      - 03.02 - Algoritmos de alocação.
+      - 03.03 - Memória virtual e swapping.
+      - 03.04 - Implementação de sistemas de arquivos.
+
+### T290 — Resolução prob com grafos
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Modelar e representar problemas com grafos. Resolver problemas com grafos conexos. Otimizar grafos ponderados.
+- **Programa:**
+  - **UNIDADE I - Modelar e representar problemas com grafos.**
+    - **Objetivos:**
+      - Distinguir conceitos e representações de grafos a partir de problemas clássicos da teoria dos grafos.
+      - Modelar problemas com grafos por meio de representação computacional.
+      - Ser proativo na busca por conceitos de grafos extradisciplinares.
+    - **Conteúdos:**
+      - 01.01 - Teoria dos Grafos: vértice, aresta, ordem, tamanho, densidade, grau; ponte, adjacência e incidência.
+      - 01.02 - Tipos de Grafos: rotulado, simples, multigrafo, não orientado, dígrafo, ponderado, regular, completo, bipartido, planar, conexo, subgrafo, ciclo.
+      - 01.03 - Representação computacional: matrizes de adjacência e incidência, listas de adjacência e incidência.
+      - 01.04 - Problemas clássicos: isomorfismo, emparelhamento, coloração.
+  - **UNIDADE II - Resolver problemas com grafos conexos.**
+    - **Objetivos:**
+      - Dimensionar a conectividade com a aplicação dos principais algoritmos de grafos dirigidos e não dirigidos.
+      - Aplicar algoritmos de busca em profundidade e largura na resolução de problemas em grafos conexos.
+      - Tomar decisões a partir da interpretação do resultado da execução de algoritmos em grafos dirigidos e não dirigidos.
+    - **Conteúdos:**
+      - 02.01 - Grafos não-dirigidos: passeio, trilha, caminho, ciclo, circuito e tour, grafos eulerianos e hamiltonianos, problema do caixeiro viajante e problema do carteiro chinês, componentes conexos, corte em vértices e arestas.
+      - 02.02 - Algoritmos de busca em largura e profundidade.
+      - 02.03 - Grafos dirigidos: ordenação topológica, componentes f-conexos, fecho transitivo.
+  - **UNIDADE III - Otimizar grafos ponderados.**
+    - **Objetivos:**
+      - Diferenciar problemas de otimização em grafos com a utilização da modelagem.
+      - Modelar problemas de otimização em grafos com a aplicação de algoritmos de busca de caminho mínimo e algoritmos de fluxo máximo.
+      - Interpor-se criticamente na escolha de algoritmos de otimização com grafos.
+    - **Conteúdos:**
+      - 03.01 - Problema da árvore de cobertura mínima: algoritmos de Kruskal e Prim.
+      - 03.02 - Problema do caminho mínimo: algoritmos de Dijkstra, Bellman-Ford e Floyd-Warshall.
+      - 03.03 - Problema do fluxo máximo em redes: algoritmo de Ford-Fulkerson.
+
+## 6º semestre
+
+### T291 — Aspectos teóricos computação
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Formalismos computacionais para construção de linguagens. Os limites da computabilidade perante os modelos formais de computação.
+- **Programa:**
+  - **UNIDADE I - Formalismos computacionais para construção de linguagens.**
+    - **Objetivos:**
+      - Analisar sistemas formais para reconhecimento da construção de linguagens na perspectiva computacional.
+      - Construir gramáticas e reconhecedores de linguagens com uso dos mecanismos formais adequados.
+      - Valorizar a sistemática na construção de linguagens e sua importância para alcance da confiabilidade e consistência em reconhecedores.
+    - **Conteúdos:**
+      - 01.01 - Sistemas formais: fundamentos e aplicações.
+      - 01.02 - Gramáticas, alfabetos e linguagens.
+      - 01.03 - A estratégia dos autômatos finitos e linguagens regulares.
+      - 01.04 - A pilha nos autômatos para resolver problemas potencialmente recursivos.
+      - 01.05 - Aplicação: analisador léxico e sintático.
+  - **UNIDADE II - Os limites da computabilidade perante os modelos formais de computação.**
+    - **Objetivos:**
+      - Classificar modelos formais de computação e a equivalência deles com as Máquinas de Turing para explicação dos limites da computação e as classes de problemas computacionais.
+      - Elaborar simuladores que implementam modelos formais, com a capacidade de processamento efetivo das instruções textuais que representam algoritmos.
+      - Considerar a Matemática e o Formalismo nas máquinas reais de computação e suas limitações diante de conjuntos de problemas complexos.
+    - **Conteúdos:**
+      - 02.01 - A relação dos problemas de Hilbert com a computação: Tese de Church, Teorema de Gödel.
+      - 02.02 - Computação de algoritmos e equivalência com Máquinas de Turing: funções parcialmente recursivas, máquinas com registradores.
+      - 02.03 - Os problemas clássicos de indecidibilidade: correspondência de Post, castor atarefado, problema da parada.
+      - 02.04 - A classes de problemas e a complexidade de tempo: P, NP e NP-completo, teorema de Cook, redução de problemas.
+      - 02.05 - Aplicação: geração de código em máquina de registradores.
+
+### N394 — Comput gráf realidade virtual
+
+- **Modalidade:** Presencial
+- **Créditos:** 0.4
+- **Ementa:** Dispositivos de entrada/saída, motores e bibliotecas gráficas. Criação de cenas 2D e 3D. Prototipação de soluções em ambientes gráficos interativos aplicadas a diferentes domínios na forma de jogos digitais.
+- **Programa:**
+  - **UNIDADE I - Dispositivos de entrada e saída, motores e bibliotecas gráficas.**
+    - **Objetivos:**
+      - Identificar os variados tipos de dispositivos de entrada/saída, motores de jogos e bibliotecas gráficas, usados na construção de aplicações gráficas interativas.
+      - Desenvolver soluções em computação gráfica com a aplicação das boas práticas no uso e controle de dispositivos gráficos de entrada/saída, motores de jogos e bibliotecas gráficas.
+      - Ser assertivo na seleção de qual dispositivo de entrada/saída, motor de jogos e biblioteca gráfica é utilizado na resolução de uma situação problema.
+    - **Conteúdos:**
+      - 01.01 - Visão Geral Comparativa das áreas de Computação Gráfica e Jogos Digitais.
+      - 01.02 - Pipeline gráfico e de produção de jogos digitais.
+      - 01.03 - Funcionamento de dispositivos de entrada e saída.
+      - 01.04 - Fundamentos em geometria computacional (algoritmos, métodos e estruturas de dados para problemas geométricos).
+      - 01.05 - Histórico comparativo de motores de jogos e bibliotecas gráficas.
+      - 01.06 - Áreas de Aplicação (com apresentação de exemplos de sucesso desenvolvidos).
+  - **UNIDADE II - Criação de cenas em duas e três dimensões.**
+    - **Objetivos:**
+      - Empregar os conceitos de computação gráfica, com uso de motores de jogos, bibliotecas gráficas e dispositivos de entrada/saída para a criação de cenas 2D/3D.
+      - Implementar cenas 2D/3D (estáticas e dinâmicas) em computação gráfica e jogos digitais, baseadas em uma situação problema, controladas pelo usuário via dispositivos de entrada/saída.
+      - Ser crítico em escolha de objetos e ambientes, animação de personagens e controle de componentes de interface, método de interação usuário/cena por evento, plataforma de execução e ferramentas, atributos de visualização, e efeitos especiais e sonoros, frente a uma situação problema.
+    - **Conteúdos:**
+      - 02.01 - Cenas estáticas x cenas dinâmicas.
+      - 02.02 - Primitivas gráficas e modelagem de objetos e ambientes.
+      - 02.03 - Transformações geométricas 2D/3D (escala, rotação e translação).
+      - 02.04 - Câmera sintética e recorte.
+      - 02.05 - Sistemas de coordenadas (mundo, normalizado, tela) e plataformas de execução.
+      - 02.06 - Preenchimento de polígonos.
+      - 02.07 - Iluminação e tonalização.
+      - 02.08 - Cor, atributos de visualização e efeitos especiais.
+      - 02.09 - Métodos de interação usuário/cena por evento.
+      - 02.10 - Animação de personagens e controle de componentes de interface.
+      - 02.11 - Efeitos sonoros e sonorização.
+  - **UNIDADE III - Prototipação de soluções em ambientes gráficos interativos aplicadas a diferentes domínios na forma de jogos digitais.**
+    - **Objetivos:**
+      - Empregar conceitos de criação de cenas 2D/3D no desenvolvimento de protótipos de jogos digitais.
+      - Desenvolver protótipos de jogos digitais em equipe utilizando motores de jogos, bibliotecas gráficas e dispositivos de entrada/saída.
+      - Ser colaborativo na construção de protótipos em jogos digitais utilizando conceitos de Computação Gráfica.
+    - **Conteúdos:**
+      - 03.01 - Estudo do problema e do domínio da aplicação.
+      - 03.02 - Uso de métodos para Ideação e chuva de ideias.
+      - 03.03 - Necessidade do usuário, personas e cenários.
+      - 03.04 - Análise de Requisitos.
+      - 03.05 - Elaboração do conceito e design.
+      - 03.06 - Construção de protótipos.
+      - 03.07 - Testes funcionais e de usabilidade.
+      - 03.08 - Refinamentos sucessivos.
+
+### T292 — Computação paralela concorrent
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Paralelismo e concorrência: uso de recursos simultâneos e gerenciamento da concorrência para preservação da corretude e da eficiência computacional. Soluções, técnicas e resolução de problemas com paralelismo e seção crítica. Exploração do paralelismo com memória distribuída para resolução de problemas embaraçosamente paralelos.
+- **Programa:**
+  - **UNIDADE I - Paralelismo e concorrência: uso de recursos simultâneos e gerenciamento da concorrência para preservação da corretude e da eficiência computacional.**
+    - **Objetivos:**
+      - Enumerar fundamentos, terminologias e clássicos problemas relacionados com computação paralela e concorrente, com ênfase em requisitos essenciais decorrentes desse contexto para produção de software em ambiente paralelo de memória compartilhada.
+      - Simular falhas inerentes aos softwares concorrentes, bem como possíveis soluções para garantia de consistência.
+      - Ser cuidadoso quanto aos principais desafios voltados ao tratamento de concorrência e paralelismo.
+    - **Conteúdos:**
+      - 01.01 - Introdução à programação concorrente e paralela.
+      - 01.02 - Paralelismo: memória compartilhada e memória distribuída.
+      - 01.03 - As abstrações da programação corrente: programa, processo, tarefas, dados, recursos globais.
+      - 01.04 - Os fundamentos da programação com threads.
+      - 01.05 - Desafios: consistência de acordos sobre valores de dados ou mensagens; atomicidade na indivisibilidade de uma ação computacional; o problema da seção crítica; propriedades liveness e safety; consenso.
+  - **UNIDADE II - Soluções, técnicas e resolução de problemas com paralelismo e seção crítica.**
+    - **Objetivos:**
+      - Analisar propriedades Liveness e Safety, para resolução de problemas da seção crítica em ambiente paralelo e concorrente com memória compartilhada.
+      - Utilizar algoritmos clássicos como possíveis instrumentos para problemas de paralelismo e concorrência.
+      - Criticar artefatos científicos e tecnológicos para garantia e confiabilidade do software em ambiente multiprocessado e concorrente.
+    - **Conteúdos:**
+      - 02.01 - Algoritmos destacados na literatura para o problema da seção crítica.
+      - 02.02 - Semáforos e monitores.
+      - 02.03 - Canais (Channels).
+      - 02.04 - Aplicação de um problema contemporâneo com concorrência e/ou paralelismo.
+  - **UNIDADE III - Exploração do paralelismo com memória distribuída para resolução de problemas embaraçosamente paralelos.**
+    - **Objetivos:**
+      - Explicar os tipos de paralelismo e sua aplicabilidade em memória distribuída através de clusters.
+      - Utilizar mecanismos de troca de mensagens em ambiente paralelo, praticando o uso da troca de mensagens.
+      - Ponderar o potencial e desafios no uso de Clusters como ferramenta incremental de desempenho.
+    - **Conteúdos:**
+      - 03.01 - Clusters.
+      - 03.02 - Paralelismo de tarefas e dados.
+      - 03.03 - Interface de passagem de mensagens.
+      - 03.04 - Métricas de desempenho: eficiência e speedup.
+      - 03.05 - Construindo aplicações paralelas com memória distribuída.
+
+### T296 — Intel artificial computacional
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Cenários da inteligência artificial. Modelagem de problemas de buscas. Representação de conhecimento.
+- **Programa:**
+  - **UNIDADE I - Cenários da inteligência artificial.**
+    - **Objetivos:**
+      - Explicar fundamentos da área de inteligência artificial com o foco na definição dos principais paradigmas e técnicas computacionais utilizadas.
+      - Construir sistema de IA (Inteligência Artificial) com uso de conceitos de agentes inteligentes.
+      - Ser assertivo na interação com pessoas de diferentes perfis e áreas de conhecimento.
+    - **Conteúdos:**
+      - 01.01 - Preceitos e paradigmas da Inteligência Artificial.
+      - 01.02 - Inteligência como habilidade para solucionar problemas complexos.
+      - 01.03 - Agentes Inteligentes: definição, tipos de agente e caracterização de ambientes.
+      - 01.04 - Integração programas de agente hardware/software.
+  - **UNIDADE II - Modelagem de problemas de buscas.**
+    - **Objetivos:**
+      - Diferenciar problemas de busca com a aplicação dos algoritmos apropriados.
+      - Modelar problemas de busca com a representação de espaços de estados.
+      - Valorar a modelagem de problemas de busca local com a formulação de funções coerentes com a natureza do problema.
+    - **Conteúdos:**
+      - 02.01 - Formulação de problemas.
+      - 02.02 - Funções heurísticas.
+      - 02.03 - Buscas informadas e competitivas.
+      - 02.04 - Busca local e cegas
+  - **UNIDADE III - Representação de conhecimento.**
+    - **Objetivos:**
+      - Explicar o raciocínio baseado em lógica para formação de conhecimento com a utilização dos conceitos adequados.
+      - Realizar provas de argumentos por meio de métodos de dedução.
+      - Ser crítico na escolha das formas de representação do conhecimento.
+    - **Conteúdos:**
+      - 03.01 - Lógica de primeira ordem.
+      - 03.02 - Raciocínio baseado em lógica.
+      - 03.03 - Representação de conhecimento.
+      - 03.04 - Regras de produção.
+      - 03.05 - Sistemas baseados em conhecimento.
+      - 03.06 - Web semântica.
+      - 03.07 - Raciocínio probabilísticos e fuzzy.
+      - 03.08 - Redes bayesianas.
+
+### T295 — Investigação científica
+
+- **Modalidade:** Ead
+- **Créditos:** 2.0
+- **Ementa:** Princípios de metodologia científica. Pesquisa científica. Desenvolvimento de pesquisa científica. Redação científica, normas técnicas e os estrutura dos trabalhos acadêmicos.
+- **Programa:**
+  - **UNIDADE I - Princípios de metodologia científica.**
+    - **Objetivos:**
+      - Explicar o método científico como procedimento para o desenvolvimento da ciência e da sociedade com vistas à disseminação de saberes na comunidade.
+      - Aplicar o método científico em estratégia de análise de contextos e definição de problemas para investigação.
+      - Ser um agente de transformação social para divulgação do papel da ciência como difusor de conhecimentos e gerador de saberes para a transformação da sociedade.
+    - **Conteúdos:**
+      - 01.01 - Pensamento científico, crítico, criativo e modalidades do conhecimento.
+      - 01.02 - A ciência como instrumento de transformação da sociedade.
+      - 01.03 - Diferenças entre estudo e investigação e seus protocolos.
+      - 01.04 - Definição e aplicação do método científico.
+  - **UNIDADE II - Pesquisa científica.**
+    - **Objetivos:**
+      - Explicar o que é uma pesquisa e os elementos necessários ao seu planejamento e fomento.
+      - Categorizar pesquisas científicas a partir da diferenciação de sua tipologia, classificação e etapas de desenvolvimento.
+      - Ser um agente multiplicador com vistas a difusão dos preceitos de éticos presentes na concepção e execução de pesquisa científica.
+    - **Conteúdos:**
+      - 02.01 - A pesquisa como atividade básica da ciência.
+      - 02.02 - Tipologia, classificação e etapas da pesquisa científica.
+      - 02.03 - Preceitos éticos na pesquisa científica.
+      - 02.04 - Instrumentos e agências de fomento à pesquisa.
+  - **UNIDADE III - Desenvolvimento de pesquisa científica.**
+    - **Objetivos:**
+      - Relacionar o objeto de estudo, sua problematização e hipóteses no planejamento de pesquisa científica.
+      - Elaborar projeto de pesquisa com adequados processos de busca, tratamento de fontes e seleção de bibliografia em bases de dados físicas e digitais.
+      - Ser ético e crítico na elaboração e desenvolvimento de pesquisa científica.
+    - **Conteúdos:**
+      - 03.01 - Construção do objeto de pesquisa, problematização.
+      - 03.02 - Acesso e tratamento das fontes de pesquisa e seleção de bibliografia preliminar.
+      - 03.03 - A pesquisa em meios digitais.
+      - 03.04 - Planejamento e elaboração do projeto de pesquisa.
+  - **UNIDADE IV - Redação científica, normas técnicas e estrutura dos trabalhos acadêmicos.**
+    - **Objetivos:**
+      - Caracterizar os diferentes gêneros acadêmicos de publicação científica.
+      - Empregar adequadamente as normas técnicas da redação científica na elaboração de trabalhos acadêmicos, técnicos e de pesquisa.
+      - Apresentar postura ética e de respeito à autoria na escrita e comunicação acadêmico-científica.
+    - **Conteúdos:**
+      - 04.01 - Organização e estruturação de trabalhos científicos: artigos, projetos, trabalhos de conclusão de cursos, relatórios técnicos e acadêmicos.
+      - 04.02 - Normas para elaboração de citações e referências (NBR 10520 e 6023).
+      - 04.03 - A comunicação do trabalho científico.
+      - 04.04 - Escrita científica.
+
+### T310 — Projeto de redes convergentes
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos de redes de computadores. Protocolos e endereçamento de redes. Roteamento avançado e virtualização de redes.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de redes de computadores.**
+    - **Objetivos:**
+      - Explicar o funcionamento das redes de computadores e das aplicações da internet.
+      - Selecionar os meios físicos e seus usos para a conexão de equipamentos de redes.
+      - Ser crítico na qualificação de protocolos e modelos em camadas de redes de computadores.
+    - **Conteúdos:**
+      - 01.01 - O que é rede de computadores? Conceito e importância.
+      - 01.02 - Tipos de redes: LAN, MAN, WAN - definições e aplicações.
+      - 01.03 - Arquitetura cliente-servidor e redes Ponto-a-Ponto (P2P).
+      - 01.04 - Meios físicos de transmissão: guiados (cabo de par trançado, fibra óptica) e não guiados (rádio, micro-ondas).
+      - 01.05 - Modelo OSI: camadas, funcionalidades e protocolos associados.
+      - 01.06 - Introdução ao modelo TCP/IP: estrutura e funcionamento básico.
+      - 01.07 - Tráfego de porta Ethernet versus socket.
+      - 01.08 - Ferramentas para estudo de redes.
+  - **UNIDADE II - protocolos e endereçamento de redes.**
+    - **Objetivos:**
+      - Definir a estrutura e importância do endereçamento IP para o roteamento dos pacotes nas redes.
+      - Empregar os conceitos dos serviços na comutação de pacotes no projeto de redes.
+      - Valorar o funcionamento dos algoritmos de roteamento para o funcionamento dos protocolos de redes.
+    - **Conteúdos:**
+      - 02.01 - Camada de rede e suas funções de comunicação (datagrama e circuito virtual).
+      - 02.02 - Endereçamento IP: estrutura do IPv4 e IPv6.
+      - 02.03 - Máscaras de sub-rede e endereçamento CIDR.
+      - 02.04 - Configuração e diferenças entre IPv4 e IPv6.
+      - 02.05 - Protocolos de roteamento: conceitos e importância no encaminhamento de pacotes.
+      - 02.06 - Introdução aos protocolos de roteamento dinâmico: RIP, EIGRP.
+  - **UNIDADE III - Roteamento avançado e virtualização de redes.**
+    - **Objetivos:**
+      - Definir as aplicações de virtualização e computação em nuvem aplicadas à redes.
+      - Aplicar os protocolos de roteamento avançados no projeto e interligação de redes.
+      - Ser cuidadoso sobre os aspectos básicos e práticas recomendadas em segurança de redes.
+    - **Conteúdos:**
+      - 03.01 - Roteamento avançado: OSPF (Open Shortest Path First) - funcionamento e configuração.
+      - 03.02 - IS-IS (Intermediate System to Intermediate System) e suas aplicações em redes complexas.
+      - 03.03 - BGP (Border Gateway Protocol): Roteamento entre sistemas autônomos na internet.
+      - 03.04 - Introdução à virtualização de redes e computação em nuvem: conceitos e aplicações.
+      - 03.05 - Segurança em redes: aspectos básicos e práticas recomendadas.
+
+## 7º semestre
+
+### F043 — Ciclo avaliativo III
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### T326 — Ciência dos dados
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Visão sistêmica de ciência de dados. Aprendizado de máquina. Aplicações em redes neurais.
+- **Programa:**
+  - **UNIDADE I - Visão sistêmica de ciência de dados.**
+    - **Objetivos:**
+      - Relacionar os fundamentos de ciência de dados com ferramentas computacionais.
+      - Mapear fenômenos a partir das aplicações técnicas de ciência de dados.
+      - Ser colaborativo na interação com pessoas de diferentes perfis e áreas de conhecimento.
+    - **Conteúdos:**
+      - 01.01 - Elementos e arquitetura de big data.
+      - 01.02 - Business intelligence.
+      - 01.03 - Linguagens de programação para ciência de dados.
+      - 01.04 - Padronização, higienização, pareamento e caracterização de dados.
+  - **UNIDADE II - Aprendizado de máquina.**
+    - **Objetivos:**
+      - Explicar algoritmos de aprendizado de máquina com aplicação para cada problema.
+      - Utilizar ambientes de programação para resolução de problemas de classificação e regressão.
+      - Ser crítico na condução de pesquisas de análise de dados com vistas à personalização de serviços e qualidade da vida da sociedade.
+    - **Conteúdos:**
+      - 02.01 - Elementos do aprendizado de máquina: problemas, dados, ferramentas.
+      - 02.02 - Tipos de aprendizado de máquina: supervisionado e não-supervisionado.
+      - 02.03 - Overfitting, complexidade, treinamento, dados de validação e teste.
+      - 02.04 - API (Application Programming Interface) para implementação de aprendizado de máquina.
+      - 02.05 - Algoritmos regressão linear, árvore de decisão (regressão e classificação), KNN (K-nearest neighbors), regressão logística, k-means e DBSCAN (Density Based Spatial Clustering of Application with Noise).
+  - **UNIDADE III - Aplicações em redes neurais.**
+    - **Objetivos:**
+      - Explicar arquiteturas de redes neurais com o reconhecimento e aplicação para cada problema.
+      - Modelar arquiteturas de redes neurais para resolução de problemas de classificação e regressão, com base em características de conjuntos de dados explorados.
+      - Ser crítico na escolha de arquiteturas de redes neurais artificiais para a transformação de soluções tecnológicas para a sociedade.
+    - **Conteúdos:**
+      - 03.01 - Neurônios e redes neurais biológicas.
+      - 03.02 - Modelo perceptron simples e multicamadas.
+      - 03.03 - Redes convolucionais.
+      - 03.04 - Aplicações de redes neurais em problemas de classificação e regressão.
+      - 03.05 - Programação para implementação de aprendizado profundo.
+
+### T335 — Computação distribuída
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos de sistemas distribuídos. Padrões e tecnologias para sistemas distribuídos. Desenvolvimento, implantação e avaliação de aplicações em ambientes distribuídos.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de sistemas distribuídos.**
+    - **Objetivos:**
+      - Distinguir requisitos e modelos fundamentais para o projeto de sistemas distribuídos.
+      - Determinar o uso de requisitos e modelos em sistemas distribuídos utilizados em produção.
+      - Ponderar o impacto dos sistemas distribuídos na sociedade e na qualidade de vida de seus cidadãos.
+    - **Conteúdos:**
+      - 01.01 - Histórico e definições.
+      - 01.02 - Requisitos de projeto.
+      - 01.03 - Modelos de arquitetura.
+      - 01.04 - Modelos de interação e coordenação.
+      - 01.05 - Modelos de falha.
+  - **UNIDADE II - Padrões e tecnologias para sistemas distribuídos.**
+    - **Objetivos:**
+      - Identificar os principais padrões e tecnologias utilizados no desenvolvimento e implantação de aplicações distribuídas.
+      - Indicar padrões e tecnologias de acordo com os requisitos e necessidades específicas de cada aplicação ou organização.
+      - Ser crítico na seleção dos padrões e tecnologias a serem utilizados na implantação de aplicações distribuídas em produção.
+    - **Conteúdos:**
+      - 02.01 - Tecnologias de middleware.
+      - 02.02 - Padrões de invocação de serviços.
+      - 02.03 - Padrões de resiliência.
+      - 02.04 - Computação em nuvem.
+      - 02.05 - Computação em borda.
+      - 02.06 - Internet das coisas.
+      - 02.07 - Tecnologias de virtualização.
+  - **UNIDADE III - Desenvolvimento, implantação e avaliação de aplicações em ambientes distribuídos.**
+    - **Objetivos:**
+      - Analisar as diferentes formas de configuração dos ambientes distribuídos, de acordo com as características de cada tecnologia utilizada.
+      - Aplicar padrões e tecnologias de forma efetiva no desenvolvimento, implantação e avaliação de aplicações distribuídas.
+      - Ser assertivo nas configurações e do desempenho de sistemas distribuídos em ambientes produtivos.
+    - **Conteúdos:**
+      - 03.01 - Configuração de ambientes distribuídos.
+      - 03.02 - Desenvolvimento e implantação de aplicações em ambientes distribuídos.
+      - 03.03 - Avaliação de aplicações em ambientes distribuídos.
+
+### T339 — Inovação soluções computacion
+
+- **Modalidade:** Ead
+- **Créditos:** 2.0
+- **Ementa:** Princípios do blockchain. Funcionamento da plataforma blockchain. Contratos Inteligentes. Desenvolvimento de aplicações descentralizadas baseadas em blockchain.
+- **Programa:**
+  - **UNIDADE I - Princípios do blockchain**
+    - **Objetivos:**
+      - Conceituar blockchain, com suas funcionalidades e domínios de aplicações.
+      - Estruturar requisitos de utilização de blockchain para soluções computacionais frente as suas qualidades e limitações.
+      - Ser agente disseminador dos conceitos e aplicações de blockchain para a promoção de várias soluções de problemas reais da sociedade.
+    - **Conteúdos:**
+      - 01.01 - Origem e evolução das blockhain.
+      - 01.02 - Criptografia, livro-razão, consenso.
+  - **UNIDADE II - Funcionamento da plataforma blockchain**
+    - **Objetivos:**
+      - Analisar os aspectos funcionais da plataforma.
+      - Associar as melhores práticas de programação no uso de linguagens para blockchain.
+      - Ser colaborativo no desenvolvimento de aplicações com blockchain.
+    - **Conteúdos:**
+      - 02.01 - Instalação e configuração do ambiente de blockchain.
+      - 02.02 - Introdução blockchain Etehreum.
+  - **UNIDADE III- Contratos Inteligentes**
+    - **Objetivos:**
+      - Categorizar os contratos inteligentes.
+      - Estabelecer os critérios de avaliação dos contratos.
+      - Ser ético na aplicação dos contratos.
+    - **Conteúdos:**
+      - 03.01 - Linguagem Solidity.
+      - 03.02 - Implementação de contratos inteligentes em solidity/Ethereum.
+  - **UNIDADE IV - Desenvolvimento de aplicações descentralizadas baseadas em blockchain**
+    - **Objetivos:**
+      - Projetar soluções computacionais baseadas em blockchain em problemas diversos.
+      - Aplicar os requisitos de teste e qualidade de software nas soluções implementadas, com respeito aos preceitos éticos.
+      - Disseminar estratégias para a promoção de segurança e rastreabilidade às operações no meio cibernético.
+    - **Conteúdos:**
+      - 04.01 - Arquitetura do projeto blockchain.
+      - 04.02 - Modelagem, projeto e implementação em Solidity.
+
+### T334 — Model avaliação de desempenho
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos, técnicas e artefatos para avaliação de desempenho de sistemas computacionais. Os modelos de apoio na comparação entre dois ou mais sistemas. Representações matemáticas e modelagem de sistemas computacionais diversos.
+- **Programa:**
+  - **UNIDADE I - Fundamentos, técnicas e artefatos para avaliação de desempenho de sistemas computacionais.**
+    - **Objetivos:**
+      - Classificar com rigor metodológico a utilização dos princípios, técnicas e métricas na avaliação e modelagem de sistemas.
+      - Executar o processo de benchmarking, por meio da carga de trabalho computacional, como ferramenta para mensuração de aspectos quantitativos de projetos de sistemas.
+      - Estar atento à qualidade do software, por meio da aferição de potenciais variações de desempenho.
+    - **Conteúdos:**
+      - 01.01 - Rigor metodológico.
+      - 01.02 - Técnicas: características, métricas, cargas de trabalho.
+      - 01.03 - Benchmarks: conceitos, ferramentas e aplicabilidade.
+  - **UNIDADE II - Os modelos de apoio na comparação entre dois ou mais sistemas.**
+    - **Objetivos:**
+      - Descrever terminologias e modelos estatísticos/matemáticos voltados para avaliação e comparação de dois ou mais sistemas computacionais.
+      - Elaborar projetos de experimentos fatoriais, potencialmente correlacionados com intervalos de confiança aplicados em amostras quantitativas.
+      - Valorar a otimização dos níveis de fatores a serem avaliados em abordagens comparativas.
+    - **Conteúdos:**
+      - 02.01 - Principais abordagens estatísticas na avaliação de desempenho de sistemas.
+      - 02.02 - Terminologias.
+      - 02.03 - Comparação entre dois ou mais sistemas.
+      - 02.04 - Projeto de experimentos fatoriais.
+  - **UNIDADE III - Representações matemáticas e modelagem de sistemas computacionais diversos.**
+    - **Objetivos:**
+      - Analisar modelos de simulação voltados para sistemas computacionais.
+      - Aplicar redes de Petri e/ou Filas na especificação de software e em processos de workflow.
+      - Valorar os limites da modelagem de sistemas como ferramenta de simulação.
+    - **Conteúdos:**
+      - 03.01 - Modelagem.
+      - 03.02 - Rede de Filas.
+      - 03.03 - Redes de Petri.
+
+### T333 — Projeto banco de dados
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Implementação de protótipo de mecanismo de busca e indexação. Implementação de protótipo de processador de consultas. Protótipo de aplicação de bancos de dados não-relacionais (NoSQL).
+- **Programa:**
+  - **UNIDADE I - Implementação de protótipo de mecanismo de busca e indexação.**
+    - **Objetivos:**
+      - Distinguir tipos de bancos de dados, suas arquiteturas e seus papéis no ambiente de computação moderno.
+      - Desenvolver protótipo de Sistema Gerenciador de Banco de Banco de Dados (SGBD) com mecanismos de armazenamento e busca com uso de índices.
+      - Atuar em cooperação com os demais profissionais na implementação de emuladores de SGBDs.
+    - **Conteúdos:**
+      - 01.01 - Tipos, funcionalidades e arquitetura de sistemas de banco de dados.
+      - 01.02 - Princípios de armazenamento de dados e gerenciamento de buffers.
+      - 01.03 - Tipos de índices e estruturas de indexação.
+      - 01.04 - Implementação de mecanismos de busca usando índices.
+  - **UNIDADE II - Implementação de protótipo de processador de consultas.**
+    - **Objetivos:**
+      - Detalhar as fases do processamento de consultas, o funcionamento dos operadores físicos, as mudanças de estado de transações e os principais mecanismos de recuperação.
+      - Desenvolver componentes computacionais de processamento de consultas com suporte a diferentes algoritmos de operadores físicos.
+      - Agir com proatividade na adaptação de algoritmos e técnicas de processamento de consultas para resolução de problemas na implementação de bancos de dados.
+    - **Conteúdos:**
+      - 02.01 - Representação e processamento de consultas.
+      - 02.02 - Implementação de algoritmos de operadores de consulta.
+      - 02.03 - Problemas de concorrência em bancos de dados e o paradigma de transação.
+      - 02.04 - Mecanismos de recuperação e sua implementação.
+  - **UNIDADE III - Protótipo de aplicação de bancos de dados não-relacionais (NoSQL).**
+    - **Objetivos:**
+      - Enumerar tipos de bancos de dados não-relacionais e suas aplicações no ambiente de computação moderno.
+      - Implementar aplicações de bancos de dados não-relacionais com uso de diferentes bancos e paradigmas de consulta dentro de ambientes de computação em nuvem.
+      - Qualificar de forma crítica os tipos de bancos de dados não-relacionais para solução de problemas.
+    - **Conteúdos:**
+      - 03.01 - Tipos de bancos de dados não-relacionais.
+      - 03.02 - Esquemas em bancos de dados não-relacionais.
+      - 03.03 - Consultas em bancos de dados não-relacionais.
+      - 03.04 - Aplicações de bancos de dados não-relacionais.
+
+### T319 — Projeto final integrador I
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Diagnóstico e ideação de projetos de tecnologias digitais. Projeto técnico de soluções computacionais. Soluções tecnológicas baseadas em sistemas de software. Desenvolvimento da solução e delineamento da infraestrutura. Construção do instrumento de comunicação científica.
+- **Programa:**
+  - **UNIDADE I - Diagnóstico e ideação de projetos de tecnologias digitais.**
+    - **Objetivos:**
+      - Identificar cenários de problematização passíveis de soluções computacionais, com o registro dos pontos fortes e frágeis no estudo de viabilidade.
+      - Estabelecer relações do cenário em estudo, com criticidade e a tangibilidade da problemática identificada, com vista à construção do plano de projeto.
+      - Estar atento às oportunidades de negócios para transformação de ideias em produtos ou serviços inovadores.
+    - **Conteúdos:**
+      - 01.01 - Ideação e definição do escopo do projeto.
+      - 01.02 - Análise de cenários-problema.
+      - 01.03 - Definição da situação-problemas e justificativas da escolha.
+      - 01.04 - Estudo de viabilidade.
+  - **UNIDADE II - Projeto técnico de soluções computacionais.**
+    - **Objetivos:**
+      - Analisar os requisitos para problemas específicos com a associação de diferentes tecnologias digitais com vistas a automatização da solução.
+      - Elaborar projeto técnico para negócio mapeado, com uso de métodos ágeis no planejamento e no monitoramento da solução.
+      - Inovar no desenvolvimento de soluções computacionais consciente dos impactos tecnológicos, sociais, econômicos e ambientais.
+    - **Conteúdos:**
+      - 02.01 - Delineação das estratégias de desenvolvimento.
+      - 02.02 - Plano de gerenciamento da comunicação.
+      - 02.03 - Modelagem de negócio.
+      - 02.04 - Produção do plano de testes.
+  - **UNIDADE III - Soluções tecnológicas baseadas em sistemas de software.**
+    - **Objetivos:**
+      - Avaliar metodologias de visem o uso de boas práticas em todas as etapas de gerenciamento pautado nos elementos de segurança.
+      - Desenvolver provas de conceito para sistemas de qualquer natureza no âmbito computacional, que atendam com qualidade o processo, o produto e serviços para diferentes plataformas.
+      - Prover soluções computacionais a partir de decisões com vistas ao equilíbrio dos fatores envolvidos, consciente da importância do trabalho em equipe.
+    - **Conteúdos:**
+      - 03.01 - Gerenciamento do projeto.
+      - 03.02 - Elaboração de prova de conceito.
+      - 03.03 - Análise de serviços técnicos no contexto da solução.
+      - 03.04 - Identificação de plataformas de suporte à solução.
+  - **UNIDADE IV - Desenvolvimento da solução e delineamento da infraestrutura.**
+    - **Objetivos:**
+      - Dominar os princípios da engenharia de software na construção de projetos, com consideração aos aspectos de segurança aplicados em todo o ciclo de desenvolvimento.
+      - Avaliar a adequabilidade e desempenho de sistemas, com análise crítica dos requisitos, configurações e funcionamentos dos serviços em ambientes diversos.
+      - Ponderar criticamente os serviços utilizados no projeto de infraestrutura para administração dos diversos ambientes, comprometido com os critérios de segurança.
+    - **Conteúdos:**
+      - 04.01 - Projeto e modelagem da infraestrutura do sistema.
+      - 04.02 - Configuração preliminar da infraestrutura.
+      - 04.03 - Desenvolvimento do MVP da solução.
+      - 04.04 - Execução dos testes integrados.
+  - **UNIDADE V - Construção do instrumento de comunicação científica.**
+    - **Objetivos:**
+      - Destacar a contribuição de natureza técnica e científica de trabalhos na área da computação, fundamentado dos preceitos da pesquisa acadêmica.
+      - Discriminar o estado atual da arte no contexto do projeto, pautado no rigor científico e metodológico com subsídio do diagnóstico e a ideação de projetos de tecnologias digitais, como o registro em instrumento de comunicação científica
+      - Assumir atitudes que agregam valor na área de conhecimento consciente do papel da ciência como o difusor do conhecimento.
+    - **Conteúdos:**
+      - 05.01 - Elementos textuais do artigo científico de acordo com as normas ABNT.
+      - 05.02 - Revisão da Literatura.
+      - 05.03 - Trabalhos relacionados.
+      - 05.04 - Documentação preliminar da solução.
+      - 05.05 - Considerações finais e trabalhos futuros.
+
+## 8º semestre
+
+### A500 — Atividades complementares
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Atividades complementares de ensino, pesquisa e extensão.
+- **Programa:**
+  - **UNIDADE I - Atividades complementares de ensino, pesquisa e extensão.**
+    - **Objetivos:**
+      - Distinguir oportunidades diversas de ampliação e enriquecimento da trajetória de formação acadêmica e de carreira por meio da articulação de experiências de aprimoramento técnico-científico, cultural, desportivo e humanístico.
+      - Integrar à formação profissional a participação em atividades independentes interna ou externamente, presenciais ou a distância, na forma individual ou coletiva, mediante estudos e práticas nas dimensões do ensino, da pesquisa e/ou da extensão.
+      - Ser corresponsável e diligente na autogestão de carreira com adequada seleção e efetivo engajamento em experiências de formação profissional e de vida cidadã.
+    - **Conteúdos:**
+      - 01.01 - Programas e projetos de extensão;
+      - 01.02 - Programas e projetos de pesquisa;
+      - 01.03 - Programas de monitoria;
+      - 01.04 - Programas de iniciação científica;
+      - 01.05 - Seminários, congressos, simpósios, conclaves e atividades congêneres;
+      - 01.06 - Estágio curricular não obrigatório;
+      - 01.07 - Participação em grupos de estudo;
+      - 01.08 - Representação estudantil nos colegiados da instituição;
+      - 01.09 - Presença como ouvinte, em defesa de monografia, dissertação de mestrado e de tese de doutorado;
+      - 01.10 - Produção individual ou coletiva de artigos, livros, capítulos de livros, vídeos, filmes, softwares e protótipos; e
+      - 01.11 - Intercâmbio cultural nacional ou internacional.
+
+### F044 — Ciclo avaliativo IV
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### T338 — Ger da implantação de sistemas
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Inteligência Organizacional. Estrutura dos processos. Gerenciamento de Processos de Tecnologia da Informação (TI). Transformação de dados em resultados com uso de Business Inteligence (BI).
+- **Programa:**
+  - **UNIDADE I - Inteligência Organizacional**
+    - **Objetivos:**
+      - Analisar processos a partir de cenários de negócio.
+      - Construir processos organizacionais com indicadores eficazes.
+      - Mostrar autonomia na organização e no planejamento de tarefas com equipe de diferentes perfis.
+    - **Conteúdos:**
+      - 01.01 - Estrutura organizacional;
+      - 01.02 - Mapeamento de processos da empresa;
+      - 01.03 - Análise dos processos, seus indicadores e eficiência;
+      - 01.04 - Processos inteligentes e adaptáveis.
+  - **UNIDADE II - Estrutura dos processos**
+    - **Objetivos:**
+      - Identificar soluções de priorização de demandas desenvolvidas com a visão do negócio.
+      - Elaborar projeto de desenvolvimento de software a partir de critérios de segurança e qualidade de software.
+      - Mostrar desenvoltura na transformação de ideias em produtos ou serviços inovadores com a inclusão de novas tecnologias e a partir da identificação de oportunidades de negócios.
+    - **Conteúdos:**
+      - 02.01 - Modelo de gestão e priorização de demandas;
+      - 02.02 - Processo de desenvolvimento de software;
+      - 02.03 - Processo de implantação de software;
+      - 02.04 - Modelagem do processo usando BPMN.
+  - **Unidade III - Gerenciamento de Processos de Tecnologia da informação (TI)**
+    - **Objetivos:**
+      - Classificar os pontos de melhoria e controle nos processos.
+      - Estruturar os indicadores dos processos para análise crítica de sua efetividade.
+      - Ser colaborativo no trabalho em equipe de diferentes perfis, a partir do atendimento de responsabilidades, obrigações e deveres.
+    - **Conteúdos:**
+      - 03.01 - Gerenciamento de processos com ITIL;
+      - 03.02 - Gestão de Incidentes e Problemas;
+      - 03.03 - Gerenciamento de capacidade e disponibilidade;
+      - 03.04 - Definição de indicadores para o processo.
+  - **UNIDADE IV - Transformação de dados em resultados com uso de Business Inteligence (BI).**
+    - **Objetivos:**
+      - Analisar os indicadores dos processos quanto a eficiência e eficácia a partir das etapas do Business Inteligence.
+      - Construir modelos de análise dos indicadores e dados.
+      - Valorar a importância da cultura digital para a transformação do mundo digital vistas as tecnologias de apoio a tomada de decisão.
+    - **Conteúdos:**
+      - 04.01 - Transformando dados em informação;
+      - 04.02 - Indicadores de desempenho e suas análises;
+      - 04.03 - Business Inteligence como fonte de informação para tomada de decisão;
+      - 04.04 - Instrumentos para suporte ao planejamento estratégico diferenciado.
+
+### T337 — Ger de serviços no ciberespaço
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos, estratégias e processos da gestão de serviços de Tecnologia da Informação (TI). Modelos de gestão em serviços de TI e de governança digital. Ferramentas e práticas para a gestão de serviços de TI e de governança digital. Implantação do gerenciamento de serviços de Tecnologia da informação (TI).
+- **Programa:**
+  - **UNIDADE III - Fundamentos, estratégias e processos da gestão de serviços de Tecnologia da Informação (TI).**
+    - **Objetivos:**
+      - Caracterizar os estágios de implantação de gerenciamento de serviços de tecnologia da informação.
+      - Aplicar as estratégias adequadas ao processo de gestão de serviços de TI.
+      - Preocupar-se com estratégias alinhadas ao processo de gestão de serviços de TI com vista ao atendimento de projetos sociais.
+    - **Conteúdos:**
+      - 01.01 - Fundamentos da gestão de serviços de TI.
+      - 01.02 - Alinhamento da TI ao planejamento estratégico empresarial.
+      - 01.03 - Definição de estratégias e indicadores.
+      - 01.04 - Estágios de implantação do Gerenciamento de Serviços de TI.
+  - **UNIDADE II - Modelos de gestão em serviços de TI e de governança digital.**
+    - **Objetivos:**
+      - Distinguir modelos e práticas de gestão de serviços de TI e de governança de TI.
+      - Empregar os processos da biblioteca ITIL com a indicação de seu uso de governança digital.
+      - Combinar boas práticas de gestão de serviços com foco na garantia de continuidade dos serviços e no desenvolvimento de projetos sociais.
+    - **Conteúdos:**
+      - 02.01 - Modelo ITIL (Information Technology Infrastructure Library) e Integração com do COBIT (Control Objectives for Information and related Technology).
+      - 02.02 - Gestão de incidentes, gestão de problemas.
+      - 02.03 - Gestão de configuração, gestão de mudanças.
+      - 02.04 - Gerenciamento de capacidade, disponibilidade e continuidade de serviços.
+  - **UNIDADE III - Ferramentas e práticas para a gestão de serviços de TI e de governança digital.**
+    - **Objetivos:**
+      - Comparar as formas de contratação de terceirização de produtos e serviços de TI com foco na redução de riscos e ampliação na capacidade operacional de TI.
+      - Usar soluções de BI, IoT, CLoud e Devops na gestão e operacionalização dos processos e serviços de TI.
+      - Estar atento às melhores práticas de gestão e governança juntamente com a cultura devopes e cloud.
+    - **Conteúdos:**
+      - 03.01 - Terceirização e acordos de níveis de serviço.
+      - 03.02 - BI - Business Inteligence.
+      - 03.03 - Internet of Things (IoT).
+      - 03.04 - Cultura devops e cloud e aplicações em governança e serviços de TI.
+  - **UNIDADE IV - Implantação do gerenciamento de serviços de Tecnologia da Informação (TI).**
+    - **Objetivos:**
+      - Classificar as características das ferramentas e as necessidades para implantação do Gerenciamento de serviços de TI.
+      - Empregar ferramentas para implantação de processos de gestão de serviços e governança digital.
+      - Ser crítico na adoção das ferramentas de gestão de serviços de TI na perspectiva de uso do cliente.
+    - **Conteúdos:**
+      - 04.01 - Ferramentas para gestão de incidentes e problemas.
+      - 04.02 - Ferramentas para monitoramento e escalabilidade de sistemas.
+      - 04.03 - Ferramentas para pipelines de implementação, integração e implantação.
+      - 04.04 - Ferramentas para testes de carga e planejamento de capacidade.
+
+### T138 — Projeto de tecn intercursos
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Integração de áreas e saberes como forma de enfrentamento aos problemas sociais. Ideação de soluções que integrem conhecimento, ciência e tecnologia. Projeto de interfaces e produtos com o uso da tecnologia da informação.
+- **Programa:**
+  - **UNIDADE I - Integração de áreas e saberes como forma de enfrentamento aos problemas sociais.**
+    - **Objetivos:**
+      - Descrever o papel da universidade na transformação da realidade social a partir do desenvolvimento de projetos de tecnologia.
+      - Aplicar o conhecimento técnico e científico em articulação às necessidades da comunidade.
+      - Ser uma agente difusor da importância do conhecimento científico aplicado à transformação social.
+    - **Conteúdos:**
+      - 01.01 - Os papéis da Universidade na contemporaneidade, na busca de soluções sociais;
+      - 01.02 - O Projeto Intercursos: origem, função. Objetivos, contexto;
+      - 01.03 - Áreas de formação na integração de conhecimentos por meio da visão Inter e transdisciplinar.
+  - **UNIDADE II - Ideação de soluções que integrem conhecimento, ciência e tecnologia.**
+    - **Objetivos:**
+      - Identificar no cenário situacional necessidades da comunidade.
+      - Indicar soluções tecnológicas comprometidas com o desenvolvimento sustentável, ético e cidadão para resolução de demandas da comunidade.
+      - Ser um agente responsável no processo de coleta de informações junto a comunidade.
+    - **Conteúdos:**
+      - 02.01 - Brainstorming e ideações;
+      - 02.02 - Cartografia situacional dos problemas identificados;
+      - 02.03 - Organização e sistematização das ações;
+      - 02.04 - Sustentabilidade e plano de negócios.
+  - **UNIDADE III - Projeto de interfaces e produtos com o uso da tecnologia da informação.**
+    - **Objetivos:**
+      - Modelar soluções eficazes, sustentáveis e de impacto social.
+      - Desenvolver metodologicamente as etapas de execução e projeto de interfaces e produtos por meio da ferramenta digitais.
+      - Ser crítico na avaliação dos impactos sociais a partir da implementação de produtos desenvolvidos.
+    - **Conteúdos:**
+      - 03.01 - Prototipação da interação e validação com o usuário;
+      - 03.02 - Implementação, testes e treinamento;
+      - 03.03 - Avaliação da transformação social.
+
+### T336 — Projeto final integrador II
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Planejamento de projetos de tecnologias digitais. Aplicação dos ciclos de desenvolvimento e disponibilização da solução tecnológica. Homologação do produto. Construção do instrumento de comunicação científica.
+- **Programa:**
+  - **UNIDADE I - Planejamento de projetos de tecnologias digitais.**
+    - **Objetivos:**
+      - Avaliar os temas da cadeia produtiva passíveis de soluções computacionais com propósitos de inovação.
+      - Delinear as estratégias metodológicas norteadas pelos marcos do projeto, comprometido com os objetivos estabelecidos na proposta de intervenção tecnológica.
+      - Estar atento às soluções inovadoras com valor agregado ao negócio e ciente dos preceitos da ética.
+    - **Conteúdos:**
+      - 01.01 - Ideação e chuvas de Ideias.
+      - 01.02 - Objetivos, justificativas e metas.
+      - 01.03 - Contextualização da inovação.
+      - 01.04 - Proposta de intervenção tecnológica.
+      - 01.05 - Delineamento das estratégias metodológicas.
+  - **UNIDADE II - Aplicação dos ciclos de desenvolvimento e disponibilização da solução tecnológica.**
+    - **Objetivos:**
+      - Analisar os requisitos para problemas específicos com a associação de tecnologias digitais para automatização da solução com aplicação de testes que evidenciem a qualidade do produto.
+      - Configurar o ambiente de desenvolvimento e implantação baseado no modelo de negócio, com o uso de métodos ágeis no ciclo construtivo da solução tecnológica.
+      - Ser consciente do esforço da equipe no desenvolvimento do projeto para garantir que o trabalho avance nas etapas e no cumprimento dos prazos e metas gerais.
+    - **Conteúdos:**
+      - 02.01 - Configuração do ambiente de implantação.
+      - 02.02 - Implementação e implantação da solução.
+      - 02.03 - Empacotamento e entrega em plataformas com serviços.
+      - 02.04 - Refinamento dos testes funcionais e não-funcionais.
+      - 02.05 - Documentação da solução.
+  - **UNIDADE III - Homologação do produto.**
+    - **Objetivos:**
+      - Validar o processo de construção da solução comprometido com os padrões da funcionalidade, qualidade e segurança do produto.
+      - Avaliar a adequabilidade e desempenho do produto com a análise crítica dos requisitos, configurações e artefatos usados no processo, com o registro dos defeitos no plano de acertos para o reteste.
+      - Assegurar o cumprimento das normas regulamentadoras para a homologação do produto.
+    - **Conteúdos:**
+      - 03.01 - Estabelecimento das etapas da homologação do produto.
+      - 03.02 - Planejamento de testes junto aos stakeholders.
+      - 03.03 - Aferição do ciclo de desenvolvimento do produto.
+      - 03.04 - Registro e síntese de evidências do produto.
+      - 03.05 - Certificação da versão executável do produto.
+  - **UNIDADE IV - Construção do instrumento de comunicação científica.**
+    - **Objetivos:**
+      - Destacar a contribuição de natureza técnica e científica de trabalhos na área da computação, fundamentado nos preceitos da pesquisa acadêmica.
+      - Justificar a bibliografia que fundamenta a solução tecnológica e a problemática abordada, com o registro das evidências, procedimentos e artefatos em relatório de comunicação cientifica.
+      - Registrar evidências, procedimentos e artefatos, agregando valor na área de conhecimento, consciente do papel da ciência como difusor do conhecimento.
+    - **Conteúdos:**
+      - 04.01 - Elementos textuais para relato técnico de acordo com as normas ABNT.
+      - 04.02 - Revisão da literatura.
+      - 04.03 - Método e produção técnica.
+      - 04.04 - Documentação da solução tecnológica e dos artefatos.
+      - 04.05 - Considerações finais e publicação.
+
+## Disciplinas optativas
+
+### A900 — ATIVIDADES AVALIATIVAS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.0
+- **Ementa:** não disponibilizada na página consultada
+- **Programa:** não disponibilizado na página consultada.
+
+### G368 — RESPONSABIL SOCIAL E AMBIENTAL
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.2
+- **Ementa:** Fatores determinantes para a gestão da responsabilidade social e ambiental. Estratégias emergentes na gestão de ações comunitárias. Inovação e empreendedorismo social. Projeto de responsabilidade social e ambiental.
+- **Programa:**
+  - **UNIDADE I - Fatores determinantes para a gestão da responsabilidade social e ambiental.**
+    - **Objetivos:**
+      - Articular conceitos e práticas para aplicação da responsabilidade social e ambiental na comunidade
+      - Analisar situações problemas na comunidade com base nos princípios da responsabilidade social e ambiental e do desenvolvimento sustentável.
+      - Demonstrar visão crítica sobre responsabilidade social e ambiental e desenvolvimento sustentável.
+    - **Conteúdos:**
+      - 01.01 - Conceitos de responsabilidade social e ambiental;
+      - 01.02 - Evolução histórica e legislação da responsabilidade social;
+      - 01.03 - Objetivos de desenvolvimento sustentável - ODS.
+      - 01.04 - Capital humano e social.
+  - **UNIDADE II - Estratégias emergentes na gestão de ações comunitárias.**
+    - **Objetivos:**
+      - Identificar as necessidades locais junto à comunidade para a criação de um plano de ação.
+      - Prospectar cenários para a definição de estratégias e indicadores de gestão de ação comunitária.
+      - Ser agente de promoção da autonomia e capacidade empreendedora dos atores envolvidos em ação comunitária, com empatia e ética nas relações.
+    - **Conteúdos:**
+      - 02.01 - Empoderamento comunitário;
+      - 02.02 - Autonomia e responsabilidade social;
+      - 02.03 - Diagnóstico e análise de cenários;
+      - 02.04 - Mapeamento e análise do ambiente.
+  - **UNIDADE III - Inovação e empreendedorismo social.**
+    - **Objetivos:**
+      - Discutir sobre experiências exitosas de inovação e empreendedorismo com impacto social.
+      - Elaborar plano de ação com definição de estratégias baseadas nos cenários prospectados e alinhadas aos princípios do desenvolvimento sustentável.
+      - Ser eficiente na determinação da aplicação dos recursos e ferramentas de acordo com critérios de inovação e sustentabilidade.
+    - **Conteúdos:**
+      - 03.01 - Negócios de impacto social;
+      - 03.02 - Casos de sucesso;
+      - 03.03 - Definição de estratégias, recursos e ferramentas de projeto social;
+      - 03.04 - Indicadores de responsabilidade social e de sustentabilidade.
+  - **UNIDADE IV - Projeto de responsabilidade social e ambiental.**
+    - **Objetivos:**
+      - Desenvolver projeto de responsabilidade social e ambiental com implementação de ações na comunidade.
+      - Definir indicadores de impacto e de sustentabilidade para avaliação de projeto de responsabilidade social e ambiental.
+      - Ser criterioso na elaboração da comunicação e apresentação de relatório técnico com avaliação de resultados de acordo com padrões éticos e princípios socialmente responsáveis.
+    - **Conteúdos:**
+      - 04.01 - Ideação e planejamento estratégico;
+      - 04.02 - Desenvolvimento e avaliação;
+      - 04.03 - Monitoramento e análise de impacto;
+      - 04.04 - Comunicação e relatórios de resultados.
+
+### G770 — EMPREENDEDORISMO SOCIAL
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Universo do empreendedorismo social. Ferramentas para Impacto social. Avaliação de impacto social. Criação de negócio social.
+- **Programa:**
+  - **UNIDADE I - Universo do empreendedorismo social.**
+    - **Objetivos:**
+      - Explicar o desenvolvimento do empreendedorismo social por meio da identificação dos principais conceitos, dos atores e das estruturas no ecossistema de negócios sociais.
+      - Mapear estratégias eficazes e desafios comuns enfrentados por negócios sociais no contexto local.
+      - Apresentar postura crítica e reflexiva sobre oportunidades e desafios do empreendedorismo social com ênfase no pensamento inovador e na empatia social.
+    - **Conteúdos:**
+      - 01.01 - Empreendedorismo e inovação social;
+      - 01.02 - Evolução histórica do empreendedorismo social;
+      - 01.03 - Atores e estruturas no ecossistema de negócios sociais;
+      - 01.04 - Painel de discussão: oportunidades e desafios nos negócios sociais.
+  - **UNIDADE II - Ferramentas para impacto social.**
+    - **Objetivos:**
+      - Identificar ferramentas e técnicas adequadas ao desenvolvimento de negócios sociais.
+      - Aplicar técnicas de planejamento e design para o desenvolvimento de soluções de problemas sociais identificados no contexto local.
+      - Respeitar a diversidade de pensamento e de perspectivas, com vistas à inovação em soluções para negócios sociais.
+    - **Conteúdos:**
+      - 02.01 - Planejamento estratégico e teoria da mudança;
+      - 02.02 - Design centrado no humano e desenvolvimento de soluções;
+      - 02.03 - Empatia, atores sociais e stakeholders;
+      - 02.04 - Painel de discussão: técnicas e ferramentas inovadoras.
+  - **UNIDADE III - Avaliação de impacto social.**
+    - **Objetivos:**
+      - Descrever os elementos de um relatório de impacto, com ênfase na tese de impacto e nos indicadores sociais e ambientais para mensuração de alcance e resultados.
+      - Selecionar métodos adequados para avaliação de impacto em projetos ou negócios sociais de acordo com a natureza do projeto ou negócios.
+      - Ser criterioso na escolha do método e no manejo de dados para comunicação de impacto social de acordo com os preceitos do compliance social.
+    - **Conteúdos:**
+      - 03.01 - Tese de impacto social;
+      - 03.02 - Indicadores de impacto social e ambiental;
+      - 03.03 - Métodos quantitativos e qualitativos para análise de impacto;
+      - 03.04 - Painel de discussão: análises de caso e relatórios de impacto.
+  - **UNIDADE IV - Criação de negócio social.**
+    - **Objetivos:**
+      - Explicar os elementos, as etapas e os processos para a criação de negócios sociais sustentáveis.
+      - Desenvolver protótipos de negócio social, desde a concepção da ideia até a estratégia de captação de investimentos.
+      - Ser agente promotor da inovação, da criatividade e da resiliência nos processos de desenvolvimento de negócios sociais.
+    - **Conteúdos:**
+      - 04.01 - Hackathon de impacto social;
+      - 04.02 - Identificação e validação de problema social;
+      - 04.03 - Estratégias para ideação e prototipação de soluções;
+      - 04.04 - Painel de discussão: implementação e captação de investimentos.
+
+### H726 — ARTE E CULTURA BRASILEIRA
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 4.0
+- **Ementa:** O olhar sobre o Brasil e a formação de uma identidade brasileira. O modernismo. Diversidade cultural e religiosa no Brasil. Utopia, massificação e globalidade.
+- **Programa:**
+  - **UNIDADE I - O olhar sobre o Brasil e a formação de uma identidade brasileira.**
+    - **Objetivos:**
+      - Identificar as representações da cultura brasileira a partir das produções artísticas, literárias e científicas produzidas na Europa e no Brasil, até finais do século XIX.
+      - Analisar a criação de uma auto-imagem do brasileiro a partir da visão do estrangeiro.
+      - Ter criticidade na avaliação das tensões ideológicas na produção de uma identidade brasileira ao longo dos períodos colonial, imperial e início do republicano.
+    - **Conteúdos:**
+      - 01.01 - O Brasil na visão dos viajantes estrangeiros (século XVI ao XIX);
+      - 01.02 - Século XIX: (1) pátria, língua, território e construção do Estado; (2) as teorias raciais, imigração e ideal de branqueamento da raça;
+      - 01.03 - Final do século XIX e início do XX: intelectualidade, urbanização e Belle Époque.
+  - **UNIDADE II - O modernismo.**
+    - **Objetivos:**
+      - Caracterizar a produção artística e o pensamento acerca da arte e da cultura brasileira na primeira metade do século XX, com identificação das manifestações da cultura popular brasileira recolhidas pelos modernistas em suas viagens etnográficas.
+      - Problematizar o conceito de "democracia racial", criado pelo modernista Gilberto Freyre e disseminado pela política do Estado Novo.
+    - **Conteúdos:**
+      - 02.01 - O modernismo europeu x o modernismo brasileiro;
+      - 02.02 - Viagens de Mário de Andrade e da Missão de Pesquisas Folclóricas pelo Brasil: Minas, Norte e Nordeste;
+      - 02.03 - A mestiçagem sob a ótica da positividade nas artes plásticas, na literatura, na mídia e no pensamento social brasileiro.
+  - **UNIDADE III - Diversidade cultural e religiosa no Brasil.**
+    - **Objetivos:**
+      - Analisar a diversidade brasileira com ênfase na contribuição cultural de suas matrizes étnicas.
+      - Valorizar o respeito à diversidade da cultura brasileira em suas amplas manifestações (alimentação, artes, esporte, língua e sotaques, modos de morar/falar/vestir, crenças religiosas, relações com o corpo, entre outros).
+    - **Conteúdos:**
+      - 03.01 - As matrizes étnicas e suas contribuições da cultura brasileira;
+      - 03.02 - O universo social e religioso do Brasil desde o período Colonial;
+      - 03.03 - Religiões brasileiras de configuração sincrética e suas representações nas artes e na mídia.
+  - **UNIDADE IV - Utopia, massificação e globalidade.**
+    - **Objetivos:**
+      - Caracterizar a produção artística e o pensamento acerca da arte e da cultura brasileira na segunda metade do século XX e início do XXI
+      - Distinguir obras de artistas contemporâneos (instalações, performances, poesias, músicas, pinturas, esculturas e outras) em suas contextualizações e a partir de categorias específicas.
+    - **Conteúdos:**
+      - 04.01 - Imperialismo cultural e a defesa do nacional-popular;
+      - 04.02 - Movimentos artísticos, alienação e engajamento político: entre a utopia e a massificação;
+      - 04.03 - Globalização, mídia e contemporaneidade nas artes e na cultura.
+
+### H799 — LIBRAS
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 2.0
+- **Ementa:** Política linguística no Brasil e língua brasileira de sinais. Trajetória histórica da organização dos surdos e das línguas de sinais. Aspectos socioculturais dos surdos e das línguas de sinais. Elementos linguísticos da língua brasileira de sinais nos diferentes contextos e o tradutor/intérprete.
+- **Programa:**
+  - **UNIDADE I - Política linguística no Brasil e língua brasileira de sinais.**
+    - **Objetivos:**
+      - Empregar a visualidade da língua de sinais e os componentes linguísticos básicos da língua brasileira de sinais (Libras).
+    - **Conteúdos:**
+      - 01.01 - Visualidade das línguas de sinais e níveis linguísticos básicos da Libras: parâmetros fonológicos.
+      - 01.02 - Língua de sinais, constituição dos sujeitos surdos e o alfabeto manual.
+  - **UNIDADE II - Trajetória histórica da organização dos surdos e das línguas de sinais.**
+    - **Objetivos:**
+      - Analisar a trajetória histórica da organização dos surdos e das línguas de sinais, com ênfase na política linguística no Brasil.
+      - Comunicar-se em Libras nas diferentes situações e contextos.
+    - **Conteúdos:**
+      - 02.01 - Mitos e marcos históricos da organização dos surdos e das línguas de sinais.
+      - 02.02 - Habilidades na língua brasileira de sinais nas diferentes situações e contextos.
+  - **UNIDADE III - Aspectos socioculturais dos surdos e das línguas de sinais.**
+    - **Objetivos:**
+      - Analisar a especificidade sociocultural e linguística dos surdos.
+    - **Conteúdos:**
+      - 03.01 - Especificidade sociocultural dos surdos e suas respectivas identidades e linguística dos surdos.
+      - 03.02 - Habilidades receptivas e produtivas no uso das línguas de sinais e, especificamente, da Libras nos diferentes contextos.
+  - **UNIDADE IV - Elementos linguísticos da língua brasileira de sinais nos diferentes contextos e o tradutor/intérprete.**
+    - **Objetivos:**
+      - Comunicar-se em Libras nos contextos significativos.
+      - Caracterizar os elementos linguísticos da Libras e o perfil do intérprete/tradutor de língua de sinais (TILS) nos diferentes contextos.
+    - **Conteúdos:**
+      - 04.01 - Estratégias de comunicação em Libras nos contextos significativos.
+      - 04.02 - O tradutor/intérprete de língua de sinais traduzindo culturas e palavras nos diferentes contextos.
+
+### J005 — DIREITOS HUMANOS
+
+- **Modalidade:** Presencial, ead
+- **Créditos:** 4.0
+- **Ementa:** Construção histórica dos direitos humanos e seus reflexos nas constituições. Sistemas de proteção internacional dos direitos humanos. Principais tratados internacionais de proteção aos direitos humanos. Democracia e direitos humanos na contemporaneidade.
+- **Programa:**
+  - **UNIDADE I - Construção histórica dos direitos humanos e seus reflexos nas constituições.**
+    - **Objetivos:**
+      - Contextualizar o processo de construção histórica dos direitos humanos, seus principais pressupostos teóricos e a demonstração da importância das revoluções liberais e seus principais marcos regulatórios relacionados aos direitos humanos.
+    - **Conteúdos:**
+      - 01.01 - Direitos Humanos: Definição e consolidação histórica de suas gerações
+      - 01.02 - Constitucionalismo liberal, social e os direitos humanos;
+      - 01.03 - Teoria das Gerações dos Direitos Humanos;
+      - 01.04 - A segunda guerra mundial, a declaração universal de direitos humanos e sua internacionalização;
+  - **UNIDADE II - Sistemas de proteção internacional dos direitos humanos.**
+    - **Objetivos:**
+      - Relacionar a atuação entre os sistemas internacionais de proteção internacional dos direitos humanos e seus reflexos sobre a defesa dos direitos humanos na ordem interna.
+    - **Conteúdos:**
+      - 02.01 - As três vertentes da proteção internacional (direitos humanos, direito humanitário e direito dos refugiados) e o sistema global de proteção aos direitos humanos;
+      - 02.02 - Sistemas regionais de proteção aos direitos humanos: origens, princípios reitores (universalidade e indivisibilidade dos Direitos Humanos), principais mecanismos e diferenças entre os sistemas;
+      - 02.03 - Sistema Interamericano de direitos humanos: dinâmicas da comissão e da Corte Interamericana de Direitos Humanos;
+      - 02.04 - Tribunal Penal Internacional e o Estatuto de Roma e os efeitos dos sistemas internacionais no âmbito interno do Estado Brasileiro.
+  - **UNIDADE III - Principais Tratados Internacionais de Proteção aos Direitos Humanos.**
+    - **Objetivos:**
+      - Valorar o conteúdo dos principais tratados de direitos humanos em busca da construção de uma sociedade justa, equitativa e democrática.
+    - **Conteúdos:**
+      - 03.01 - Pacto de direitos civis e políticos e pacto direitos econômicos, sociais e culturais;
+      - 03.02 - Convenção internacional sobre a eliminação de todas as formas de discriminação racial;
+      - 03.03 - Convenção sobre a eliminação de todas as formas de discriminação contra as mulheres;
+      - 03.04 - O Pacto de San José da Costa Rica e outros tratados internacionais de direitos humanos.
+  - **UNIDADE IV - Democracia e direitos humanos na contemporaneidade.**
+    - **Objetivos:**
+      - Estabelecer a relação entre a democracia e os direitos humanos com análise dos principais problemas relacionados a sua defesa e descrição das ações afirmativas existentes no âmbito nacional para o fortalecimento dos direitos humanos, em conformidade com os ODS da ONU.
+      - Ser agente promotor de uma cultura de paz.
+    - **Conteúdos:**
+      - 04.01 - Democracia sob a perspectiva dos direitos humanos;
+      - 04.02 - Minorias sociais e ações afirmativas;
+      - 04.03 - A sociedade global em prol dos Direitos Humanos e os Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU);
+      - 04.04 - Proteção Internacional dos Direitos Humanos na contemporaneidade (igualdade de gênero; diversidade sexual; discriminação étnico-racial; outros).
+
+### J080 — MISSÃO INTER: SOC ARTE CULTURA
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Internacionalização e globalização. Missão internacional e os Objetivos de Desenvolvimento Sustentável (ODS) na formação para a cidadania global. Missão internacional, práticas e vivências.
+- **Programa:**
+  - **UNIDADE I- Internacionalização e globalização.**
+    - **Objetivos:**
+      - Analisar criticamente os impactos da globalização nas sociedades, nas expressões artísticas e nas culturas.
+      - Produzir reflexões escritas e orais sobre as interações entre globalização e cultura local.
+      - Valorizar o diálogo intercultural como meio de ampliação da formação humanística e cidadã.
+    - **Conteúdos:**
+      - 01.01 - Aspectos conceituais da internacionalização e globalização;
+      - 01.02 - Impactos da globalização nas sociedades, na arte e na cultura;
+      - 01.03 - Importância da internacionalização no Ensino Superior.
+  - **UNIDADE II - Missão internacional e os Objetivos de Desenvolvimento Sustentável (ODS) na formação para cidadania global.**
+    - **Objetivos:**
+      - Identificar aspectos culturais, linguísticos e sociais relevantes para o contexto da localidade de destino da missão.
+      - Planejar uma atuação consciente em contextos internacionais, considerando as metas dos ODS.
+      - Desenvolver empatia e respeito pelas diferenças culturais e sociais.
+    - **Conteúdos:**
+      - 02.01 - Missão internacional e a importância para o aprendizado acadêmico e cultural diante dos Objetivos de Desenvolvimento Sustentável (ODS);
+      - 02.02 - A cultura na formação da cidadania global;
+      - 02.03 - Aspectos culturais, linguisticos e sociais da localidade destino
+  - **UNIDADE III - Missão internacional - práticas e vivências.**
+    - **Objetivos:**
+      - Relacionar vivências culturais e sociais com os conteúdos abordados na formação acadêmica.
+      - Participar ativamente de atividades culturais e sociais propostas na missão, documentando e analisando essas experiências.
+      - Fortalecer a responsabilidade cidadã e o compromisso com a justiça social a partir das vivências no contexto internacional.
+    - **Conteúdos:**
+      - 03.01 - Exploração cultural e artística;
+      - 03.02 - Imersão na sociedade local;
+      - 03.03 - Reflexão, impacto pessoal e possível impacto social.
+
+### N589 — PROCESSAMENTO DE IMAGENS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.2
+- **Ementa:** Princípios do processamento de imagens. Transformação da intensidade e filtragem no domínio espacial. Filtragem no domínio de frequência. Morfologia matemática. Segmentação de imagem. Representação e descrição. Projeto de processamento de imagem.
+- **Programa:**
+  - **UNIDADE I - Princípios do Processamento de Imagens.**
+    - **Objetivos:**
+      - Aplicar os princípios que envolvem o processamento de imagem.
+      - Atentar as etapas do processamento de imagem.
+    - **Conteúdos:**
+      - 01.01 - Conceitos e Fundamentos.
+      - 01.02 - Áreas de aplicação.
+      - 01.03 - Etapas do processamento de imagens.
+      - 01.04 - Elementos e formação da imagem digital.
+      - 01.05 - Resolução espacial e de intensidade.
+      - 01.06 - Relações entre pixels.
+      - 01.07 - Operações aritméticas e lógicas sobre a imagem.
+  - **UNIDADE II - Transformação da Intensidade e Filtragem no Domínio Espacial.**
+    - **Objetivos:**
+      - Executar as técnicas de transformação de intensidade e filtragem no domínio espacial de imagem.
+      - Distinguir os tipos de filtragem no domínio espacial.
+    - **Conteúdos:**
+      - 02.01 - Conceitos e fundamentos.
+      - 02.02 - Transformações de intensidade.
+      - 02.03 - Processamento do histograma.
+      - 02.04 - Filtragem para suavização e remoção de ruído.
+      - 02.05 - Filtragem para realce.
+      - 02.06 - Filtragem para identificação de objetos.
+  - **UNIDADE III - Filtragem no Domínio de Frequência.**
+    - **Objetivos:**
+      - Relacionar as principais técnicas de processamento de filtragem no domínio da frequência.
+    - **Conteúdos:**
+      - 03.01 - Conceitos e fundamentos.
+      - 03.02 - Dimensões e propriedades.
+      - 03.03 - Filtragem para suavização.
+      - 03.04 - Filtragem para realce.
+  - **UNIDADE IV - Morfologia Matemática.**
+    - **Objetivos:**
+      - Utilizar as técnicas de processamento de imagem baseadas em morfologia.
+      - Analisar os algoritmos morfológicos.
+    - **Conteúdos:**
+      - 04.01 - Fundamentação matemática.
+      - 04.02 - Erosão e dilatação.
+      - 04.03 - Abertura e fechamento.
+      - 04.04 - Algoritmos morfológicos.
+  - **UNIDADE V - Segmentação de Imagem.**
+    - **Objetivos:**
+      - Relacionar os métodos e técnicas na segmentação de imagens.
+      - Analisar a segmentação de imagem.
+    - **Conteúdos:**
+      - 05.01 - Conceitos e fundamentos.
+      - 05.02 - Detecção de pontos e bordas.
+      - 05.03 - Transformada Hough para detecção de retas.
+      - 05.04 - Limiarização.
+      - 05.05 - Segmentação baseada em regiões e bordas.
+  - **UNIDADE VI - Representação e Descrição.**
+    - **Objetivos:**
+      - Analisar elementos descritivos de imagens de acordo com seus atributos.
+      - Avaliar as métricas de similaridades.
+    - **Conteúdos:**
+      - 06.01 - Conceitos e fundamentos.
+      - 06.02 - Assinaturas.
+      - 06.03 - Texturas.
+      - 06.04 - Métricas de similaridades.
+  - **UNIDADE VII - Projeto de Processamento de Imagem.**
+    - **Objetivos:**
+      - Desenvolver projeto de processamento de imagem com avaliação das técnicas adotadas.
+      - Atentar para a importância do processamento de imagens.
+    - **Conteúdos:**
+      - 07.01 - Projeto de processamento de imagem.
+
+### N622 — TÓPICOS DE GESTÃO AMBIENTAL
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.0
+- **Ementa:** Evolução histórica das questões ambientais. Noções fundamentais de ecologia. A crise ambiental. A energia e o meio ambiente. A poluição ambiental. O desenvolvimento sustentável. Conceito e aplicações do modelo de desenvolvimento sustentável.
+- **Programa:**
+  - **UNIDADE I - Evolução histórica das questões ambientais**
+    - **Objetivos:**
+      - Compreender a evolução das questões ambientais e dos fatores condicionantes das mudanças, permitindo que seja avaliado de forma crítica o conceito de Desenvolvimento Sustentável.
+    - **Conteúdos:**
+      - 01.01 - No Brasil e no mundo;
+      - 01.02 - Fatores condicionantes das mudanças relativas ao tema.
+  - **UNIDADE II - Noções fundamentais de ecologia**
+    - **Objetivos:**
+      - Identificar dentre os níveis biológicos de organização os fundamentais para ecologia.
+    - **Conteúdos:**
+      - 02.01 - A dinâmica das populações;
+      - 02.02 - Comunidades;
+      - 02.03 - Ecossistemas;
+      - 02.04 - Biosfera.
+  - **UNIDADE III - A crise ambiental**
+    - **Objetivos:**
+      - Compreender a relação entre os principais componentes da crise ambiental.
+    - **Conteúdos:**
+      - 03.01 - População;
+      - 03.02 - Recursos naturais;
+      - 03.03 - Poluição.
+  - **UNIDADE IV - A energia e meio ambiente**
+    - **Objetivos:**
+      - Conhecer as fontes de energia presentes no meio ambiente.
+    - **Conteúdos:**
+      - 04.01 - Fontes de energia;
+      - 04.02 - Histórico da crise energética;
+      - 04.03 - A eficiência do aproveitamento energético;
+      - 04.04 - Perspectivas futuras.
+  - **UNIDADE V - A poluição ambiental**
+    - **Objetivos:**
+      - Analisar a poluição da água, do solo e do ar, identificando as medidas de controle existentes, a partir de suas respectivas características.
+    - **Conteúdos:**
+      - 05.01 - O meio aquático;
+      - 05.02 - O meio terrestre;
+      - 05.03 - O meio atmosférico;
+      - 05.04 - Preocupações ambientais: as questões globais do meio ambiente; o Brasil e os temas ambientais.
+  - **UNIDADE VI - O desenvolvimento sustentável**
+    - **Objetivos:**
+      - Compreender a fundamentação básica do desenvolvimento sustentável, conhecendo os conceitos, legislação e diretrizes do sistema de gestão ambiental (SGA) de acordo com ISO 14000.
+    - **Conteúdos:**
+      - 06.01 - Aspectos básicos;
+      - 06.02 - Aspectos legais e institucionais;
+      - 06.03 - Desenvolvimento econômico ambientalmente sustentável;
+      - 06.04 - Conceituação e diretrizes do Sistema de Gestão Ambiental - SGA.
+  - **UNIDADE VII - Conceito e aplicações do modelo de desenvolvimento sustentável**
+    - **Objetivos:**
+      - Entender os conceitos da gestão ambiental explorando a importância das parcerias pública e privada na criação de modelos sustentáveis.
+    - **Conteúdos:**
+      - 07.01 - Gestão socioambiental;
+      - 07.02 - Parcerias públicas e privadas;
+      - 07.03 - Modelos sustentáveis.
+
+### S801 — ORATÓRIA CONTEMPORÂNEA
+
+- **Modalidade:** Presencial
+- **Créditos:** 2.0
+- **Ementa:** Oratória como comunicação oral profissional. Processos da comunicação oral relacionados à oratória. Técnicas de aperfeiçoamento fonoaudiológico para o desenvolvimento da oratória. Oratória em diversos cenários.
+- **Programa:**
+  - **UNIDADE I - Oratória como comunicação oral profissional.**
+    - **Objetivos:**
+      - Identificar os aspectos históricos da oratória, com consideração às contribuições da Fonoaudiologia para a oratória contemporânea.
+      - Caracterizar a oratória contemporânea.
+    - **Conteúdos:**
+      - 01.01 - Contribuições da Fonoaudiologia para a oratória.
+      - 01.02 - Características da oratória contemporânea.
+  - **UNIDADE II - Processos da comunicação oral relacionados à oratória.**
+    - **Objetivos:**
+      - Identificar as estruturas e o mecanismo corporal responsáveis pela produção da comunicação oral.
+      - Realizar auto-avaliação da comunicação oral profissional sob a perspectiva fonoaudiológica.
+    - **Conteúdos:**
+      - 02.01 - Mecanismos anatômicos, fisiológicos e fisiopatológicos da comunicação oral.
+      - 02.02 - Avaliação fonoaudiológica na comunicação oral profissional.
+  - **UNIDADE III - Técnicas de aperfeiçoamento fonoaudiológico para o desenvolvimento da oratória.**
+    - **Objetivos:**
+      - Distinguir técnicas de aperfeiçoamento fonoaudiológico para o desenvolvimento da oratória.
+      - Aplicar técnicas de oratória em situações de comunicação profissional.
+    - **Conteúdos:**
+      - 03.01 - Regras de saúde vocal.
+      - 03.02 - Técnicas de postura corporal, relaxamento vocal, aquecimento vocal, desaquecimento vocal, respiração para o uso da voz profissional, nitidez articulatória, expressividade, fluência da fala e da leitura oral, comunicação não-verbal, e eloquência.
+  - **UNIDADE IV - Oratória em diversos cenários.**
+    - **Objetivos:**
+      - Operar equipamentos de natureza audiovisual na prática da oratória.
+      - Ser respeitoso e criterioso no emprego de técnicas de oratória para diversos públicos.
+    - **Conteúdos:**
+      - 04.01 - Recursos audiovisuais para a oratória.
+      - 04.02 - Oratória e a diversidade de público.
+
+### T114 — TÉCNICAS DE PROGRAMAÇÃO LINUX
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Implantação do sistema operacional Linux. Programação em Shell Script. Gerenciamento e configuração de serviços.
+- **Programa:**
+  - **UNIDADE I - Implantação do sistema operacional Linux.**
+    - **Objetivos:**
+      - Explicar os procedimentos necessários para a instalação e operação de servidores Linux.
+      - Realizar a instalação de sistemas operacionais Linux e serviços computacionais.
+      - Ser proativo quanto ao planejamento e à instalação do sistema operacional Linux.
+    - **Conteúdos:**
+      - 01.01 - Instalação e configuração do Linux.
+      - 01.02 - Terminal e comandos do sistema.
+      - 01.03 - Diretórios e Arquivos.
+      - 01.04 - Segurança e Permissões.
+  - **UNIDADE II - Programação em Shell Script.**
+    - **Objetivos:**
+      - Explicar a automação de tarefas recorrentes com Shell Script.
+      - Desenvolver scripts para Shell para automação de tarefas.
+      - Julgar a necessidade de aplicação Shell script para automatização de tarefas em ambientes de programação e infraestrutura.
+    - **Conteúdos:**
+      - 02.01 - Entendendo o Shell.
+      - 02.02 - Estrutura de programação.
+      - 02.03 - Principais comandos.
+  - **UNIDADE III - Gerenciamento e configuração de serviços.**
+    - **Objetivos:**
+      - Detalhar as configurações e serviços utilizados na implantação de sistemas operacionais Linux.
+      - Implantar o sistema operacional Linux em diferentes contextos.
+      - Ser criterioso quanto ao processo de gerenciamento do sistema Linux.
+    - **Conteúdos:**
+      - 03.01 - Gerenciamento de disco e pacotes.
+      - 03.02 - Configuração de rede.
+      - 03.03 - Serviço web.
+      - 03.04 - Virtualização.
+      - 03.05 - Gerenciamento de processos.
+      - 03.06 - Edição de texto.
+      - 03.07 - Gestão de sistemas de arquivos.
+      - 03.08 - Implantação de servidor Linux.
+
+### T117 — SOLUÇÕES LINUX II
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Administração de sistemas. Segurança de redes. Scripting e automação. Desenvolvimento em ambiente linux.
+- **Programa:**
+  - **UNIDADE I - Administração de sistemas.**
+    - **Objetivos:**
+      - Descrever o processo de gerenciamento de recursos do linux.
+      - Otimizar sistemas a partir da identificação de suas possibilidades.
+      - Ponderar acerca do processo de virtualização e gerenciamento de memória.
+    - **Conteúdos:**
+      - 01.01 - Gerenciamento de processos e recursos.
+      - 01.02 - Desempenho do sistema.
+      - 01.03 - Virtualização.
+      - 01.04 - Gerenciamento do armazenamento.
+  - **UNIDADE II - Segurança de redes.**
+    - **Objetivos:**
+      - Classificar problemas de redes.
+      - Planejar a efetiva comunicação de dados.
+      - Ponderar acerca de práticas de segurança.
+    - **Conteúdos:**
+      - 02.01 - Configuração de redes.
+      - 02.02 - Sistemas de intrusão.
+      - 02.03 - Criptografia e comunicação de dados.
+      - 02.04 - Resistência de servidores.
+  - **UNIDADE III - Scripting e automação.**
+    - **Objetivos:**
+      - Comparar ferramentas de automação de tarefas.
+      - Executar automação de processos.
+      - Estar atento ao uso das ferramentas de monitoramento de sistemas linux.
+    - **Conteúdos:**
+      - 03.01 - Automação com bash.
+      - 03.02 - Gerenciamento de configuração.
+      - 03.03 - Orquestração de contêineres.
+      - 03.04 - Monitoramento de sistema.
+  - **UNIDADE IV - Desenvolvimento em ambiente linux.**
+    - **Objetivos:**
+      - Comparar ferramentas de desenvolvimento.
+      - Planejar o uso de objetos de reuso em ambientes linux.
+      - Ser cuidadoso no uso de bibliotecas e frameworks para o desenvolvimento em ambientes linux.
+    - **Conteúdos:**
+      - 04.01 - Ferramentas de desenvolvimento.
+      - 04.02 - Bibliotecas e apis.
+      - 04.03 - Servidores web linux.
+      - 04.04 - Frameworks de desenvolvimento.
+
+### T118 — SOLUÇÕES WINDOWS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Administração avançada do windows server. Redes e segurança em windows. Gerenciamento de clientes windows. Tópicos avançados em windows.
+- **Programa:**
+  - **UNIDADE I - Administração avançada do windows server.**
+    - **Objetivos:**
+      - Descrever os múltiplos processos de administração do windows server.
+      - Gerenciar infraestruturas de TI com uso de Active Directory, virtualização com Hyper-V, gerenciamento de armazenamento e automação de tarefas administrativas com PowerShell.
+      - Ponderar acerca da automação de processos com uso de powershell.
+    - **Conteúdos:**
+      - 01.01 - Active Directory.
+      - 01.02 - Virtualização com Hyper-V.
+      - 01.03 - Gerenciamento de armazenamento.
+      - 01.04 - Automação de tarefas administrativas com powershell.
+  - **UNIDADE II - Redes e segurança em windows.**
+    - **Objetivos:**
+      - Classificar os problemas de segurança.
+      - Planejar a efetiva comunicação de dados com uso de práticas de segurança.
+      - Ponderar acerca de práticas de segurança.
+    - **Conteúdos:**
+      - 02.01 - Solução de problemas de redes windows.
+      - 02.02 - Firewall.
+      - 02.03 - Serviços de rede.
+      - 02.04 - Controle de acesso.
+  - **UNIDADE III - Gerenciamento de clientes windows.**
+    - **Objetivos:**
+      - Descrever o processo de configuração e gerenciamento de imagens de sistema.
+      - Planejar políticas de grupo.
+      - Ser cuidadoso no uso das técnicas de suporte técnico.
+    - **Conteúdos:**
+      - 03.01 - Imagens de sistema.
+      - 03.02 - Patches de segurança.
+      - 03.03 - Gerenciamento de políticas.
+      - 03.04 - Soluções de problemas e suporte técnico.
+  - **UNIDADE IV - Tópicos avançados em windows.**
+    - **Objetivos:**
+      - Comparar recursos de criptografia.
+      - Planejar o monitoramento e análise de desempenho dos servidores.
+      - Ponderar acerca de técnicas avançadas de scripting.
+    - **Conteúdos:**
+      - 04.01 - Ferramentas de segurança.
+      - 04.02 - Monitoramento e análise de desempenho do Windows Server.
+      - 04.03 - Computação em nuvem com Windows Server.
+      - 04.04 - Powershell
+
+### T133 — PROJ APL INTERNET DAS COISAS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Introdução à Internet das Coisas. Desenvolvimento de arquitetura de soluções para Internet das Coisas. Processamento, visualização e segurança. Tópicos avançados em projetos IoT.
+- **Programa:**
+  - **UNIDADE I - Introdução à Internet das Coisas.**
+    - **Objetivos:**
+      - Descrever modelos de arquitetura IoT.
+      - Implementar protocolos de comunicação com uso de necessidade da solução.
+      - Ponderar acerca do processo de virtualização e gerenciamento de memória.
+    - **Conteúdos:**
+      - 01.01 - Arquitetura de soluções IoT.
+      - 01.02 - Protocolos de comunicação.
+      - 01.03 - Segurança em IoT.
+      - 01.04 - Plataformas de desenvolvimento IoT.
+  - **UNIDADE II - Desenvolvimento de arquitetura de soluções para Internet das Coisas.**
+    - **Objetivos:**
+      - Distinguir as camadas da arquitetura IoT, com vistas à implementação.
+      - Utilizar protocolos de comunicação.
+      - Demonstrar boas práticas de implementação com sensores.
+    - **Conteúdos:**
+      - 02.01 - Implementando arquiteturas IoT.
+      - 02.02 - Implementação com protocolos de comunicação.
+      - 02.03 - Armazenamento e gerenciamento de dados.
+      - 02.04 - Interfaceamento de sensores e atuadores.
+  - **UNIDADE III - Processamento, visualização e segurança.**
+    - **Objetivos:**
+      - Descrever os métodos e práticas acerca do processamento de dados na borda.
+      - Planejar a correta visualização de dados.
+      - Ser cuidadoso no uso das técnicas de integração de dados
+    - **Conteúdos:**
+      - 03.01 - Processamento de dados na borda.
+      - 03.02 - Visualização de dados.
+      - 03.03 - Segurança em IoT.
+      - 03.04 - Integração de dados.
+  - **UNIDADE IV - Tópícos avançados em projetos IoT.**
+    - **Objetivos:**
+      - Indicar interfaces eficientes em projetos IoT.
+      - Implementar comunicação eficiente com serviços e plataformas.
+      - Ser cuidadoso no uso de frameworks para o desenvolvimento de projetos IoT.
+    - **Conteúdos:**
+      - 04.01 - Interação humano computador para IoT.
+      - 04.02 - Comunicação com serviços e plataformas.
+      - 04.03 - Cenários e casos de uso.
+      - 04.04 - Frameworks de desenvolvimento.
+
+### T134 — PERÍCIA FORENSE
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Fundamentos de perícia forense computacional. Coleta e preservação de evidências digitais. Análise forense de sistemas operacionais. Ferramentas e técnicas avançadas.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de perícia forense computacional.**
+    - **Objetivos:**
+      - Descrever os princípios fundamentais da perícia forense computacional.
+      - Coletar evidências digitais de crimes cibernéticos.
+      - Ponderar acerca de normas e legislações vigentes.
+    - **Conteúdos:**
+      - 01.01 - Introdução à perícia forense computacional.
+      - 01.02 - Tipos de crimes cibernéticos.
+      - 01.03 - Legislação e normas.
+      - 01.04 - Tipos de evidências digitais.
+  - **UNIDADE II - Coleta e preservação de evidências digitais.**
+    - **Objetivos:**
+      - Definir as técnicas de coleta e análise de evidências digitais.
+      - Testar a integridade de evidências digitais.
+      - Demonstrar postura responsável e cuidadosa em relação à garantia de integridade.
+    - **Conteúdos:**
+      - 02.01 - Ferramentas e técnicas de coleta.
+      - 02.02 - Análise de evidências digitais.
+      - 02.03 - Integridade de evidências digitais.
+      - 02.04 - Cadeia de custódia e preservação de evidências.
+  - **UNIDADE III - Análise forense de sistemas operacionais.**
+    - **Objetivos:**
+      - Definir o funcionamento dos sistemas de arquivos.
+      - Coletar evidências e rastros em sistemas operacionais.
+      - Ponderar acerca das diversas técnicas de análise forense em sistemas operacionais.
+    - **Conteúdos:**
+      - 03.01 - Arquitetura e funcionamento de sistemas de arquivos.
+      - 03.02 - Análise forense em windows.
+      - 03.03 - Análise forense em linux.
+      - 03.04 - Análise forense em dispositivos móveis.
+  - **UNIDADE IV - Ferramentas e técnicas avançadas.**
+    - **Objetivos:**
+      - Descrever os principais malwares.
+      - Planejar o uso de procedimentos avançados de análise forense.
+      - Ser cuidadoso no uso de ferramentas para análise forense.
+    - **Conteúdos:**
+      - 04.01 - Análise de memória.
+      - 04.02 - Análise de arquivos.
+      - 04.03 - Análise de malwares.
+      - 04.04 - Ferramentas anti-forense e contramedidas.
+
+### T135 — ATIVIDADES EXTENSIONISTAS
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Ações de extensão e suas modalidades.
+- **Programa:**
+  - **UNIDADE I - Ações de extensão e suas modalidades.**
+    - **Objetivos:**
+      - Identificar as distintas modalidades de ações de extensão como oportunidades de ampliação da formação acadêmica e de vida cidadã.
+      - Protagonizar ações de transformação social educativo-pedagógicas, inter/transdisciplinares, multiprofissionais, acadêmico-científicas, artístico-culturais, sociais, ambientais, esportivas, tecnológicas, de inovação e/ou de inclusão social.
+      - Ser promotor do conhecimento e do desenvolvimento sustentável em atividades de responsabilidade social, por meio da interação dialógica com públicos alvos diversos.
+    - **Conteúdos:**
+      - 01.01 - Programa.
+      - 01.02 - Projeto.
+      - 01.03 - Curso / oficina.
+      - 01.04 - Evento.
+      - 01.05 - Prestação de serviço.
+
+### T139 — TÉC DE PROGRAMAÇÃO PARA NUVEM
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Fundamentos da programação para nuvem. Desenvolvimento de microsserviços. Programação serverless. DevOps para computação em nuvem.
+- **Programa:**
+  - **UNIDADE I - Fundamentos da programação para nuvem.**
+    - **Objetivos:**
+      - Descrever os fundamentos de computação em nuvem.
+      - Projetar solução de aplicação em nuvem, com arquiteturas de nuvem, APIs REST, e conteinerização.
+      - Ponderar acerca do uso de arquiteturas de comunicação.
+    - **Conteúdos:**
+      - 01.01 - Introdução à computação em nuvem.
+      - 01.02 - Arquiteturas de aplicações em nuvem.
+      - 01.03 - Introdução a APIS e arquiteturas REST.
+      - 01.04 - Conteinerização.
+  - **UNIDADE II - Desenvolvimento de microsserviços.**
+    - **Objetivos:**
+      - Descrever as técnicas de implementação de microsserviços.
+      - Planejar a efetiva comunicação entre microsserviços.
+      - Ponderar acerca das técnicas que garantem a tolerância a falhas.
+    - **Conteúdos:**
+      - 02.01 - Implementação de microsserviços.
+      - 02.02 - Comunicação entre microsserviços.
+      - 02.03 - Balanceamento de carga e tolerância a falhas.
+      - 02.04 - Redundância e replicação.
+  - **UNIDADE III - Programação serverless.**
+    - **Objetivos:**
+      - Definir os fundamentos da computação serverless.
+      - Desenvolver soluções serverless, com fundamentos, design patterns e práticas de desenvolvimento de funções serverless.
+      - Ponderar acerca da efetiva orquestração de serverless.
+    - **Conteúdos:**
+      - 03.01 - Fundamentos de computação serverless.
+      - 03.02 - Desenvolvimento de funções serverless.
+      - 03.03 - Padrões de design.
+      - 03.04 - Orquestração de funções serverless.
+  - **UNIDADE IV - DevOps para computação em nuvem.**
+    - **Objetivos:**
+      - Descrever a cultura devops.
+      - Planejar a integração e entrega contínuas.
+      - Demonstrar habilidade no uso das técnicas de análise.
+    - **Conteúdos:**
+      - 04.01 - Introdução a devops.
+      - 04.02 - Integração e entrega contínua.
+      - 04.03 - Infraestrutura como código.
+      - 04.04 - Monitoramento de aplicações.
+
+### T143 — ARQUITETURA DA COMPUT EM NUVEM
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Introdução à computação em nuvem. Arquitetura de aplicações em nuvem. Segurança em computação em nuvem. Tendências em computação em nuvem.
+- **Programa:**
+  - **UNIDADE I - Introdução à computação em nuvem.**
+    - **Objetivos:**
+      - Descrever os fundamentos de computação em nuvem.
+      - Aplicar conceitos fundamentais da computação em nuvem, com seus benefícios e desafios.
+      - Ponderar acerca das plataformas de nuvem.
+    - **Conteúdos:**
+      - 01.01 - Evolução e conceitos fundamentais.
+      - 01.02 - Benefícios e desafios da computação em nuvem.
+      - 01.03 - Plataformas de nuvem.
+      - 01.04 - Virtualização e infraestrutura de nuvem.
+  - **UNIDADE II - Arquitetura de aplicações em nuvem.**
+    - **Objetivos:**
+      - Definir as técnicas de design de sistemas para nuvem.
+      - Planejar o uso de bancos de dados e mensageria em arquiteturas em nuvem.
+      - Ponderar acerca de métricas e rastreamento de aplicações.
+    - **Conteúdos:**
+      - 02.01 - Princípios de design para nuvem.
+      - 02.02 - Gerenciamento de dados em nuvem.
+      - 02.03 - Comunicação e mensageria.
+      - 02.04 - Monitoramento e gerenciamento de aplicações em nuvem
+  - **UNIDADE III - Segurança em computação em nuvem.**
+    - **Objetivos:**
+      - Definir métodos de controle de acesso e gerenciamento.
+      - Gerenciar a segurança na nuvem a partir de modelos de responsabilidade, controle de acesso, gerenciamento de dados e serviços de segurança.
+      - Ponderar acerca dos serviços de segurança em nuvem.
+    - **Conteúdos:**
+      - 03.01 - Modelos de responsabilidade.
+      - 03.02 - Controle de acesso.
+      - 03.03 - Gerenciamento de dados em nuvem.
+      - 03.04 - Serviços de segurança.
+  - **UNIDADE IV - Tendências em computação em nuvem.**
+    - **Objetivos:**
+      - Descrever arquiteturas emergentes.
+      - Orquestrar a execução de contêineres.
+      - Ser ético na prática da computação em nuvem.
+
+### T149 — TÓPICOS DE TECN DA INFORMAÇÃO
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.0
+- **Ementa:** Formação acadêmica na Área de Tecnologia da Informação (TI). Princípios da Tecnologia da Informação. O profissional de Tecnologia da Informação e as áreas de atuação.
+- **Programa:**
+  - **UNIDADE I - Formação acadêmica na Área de Tecnologia da Informação (TI).**
+    - **Objetivos:**
+      - Analisar o cenário da área de Tecnologia da Informação.
+      - Distinguir as competências nas áreas da Tecnologia da Informação e suas aplicações no mercado de trabalho.
+      - Valorizar as competências necessárias à formação acadêmica e ao desenvolvimento profissional da área de Tecnologia da Informação.
+    - **Conteúdos:**
+      - 01.01 - A importância do Ensino Superior na formação do profissional de TI.
+      - 01.02 - Competências, habilidades e atitudes na formação profissional.
+      - 01.03 - O percurso do aprendizado e sua formação a partir da matriz curricular.
+  - **UNIDADE II - Princípios da Tecnologia da Informação.**
+    - **Objetivos:**
+      - Caracterizar os marcos da evolução da tecnologia da informação/computação com identificação das particularidades.
+      - Distinguir as diferentes linguagens de programação para associação de suas aplicações.
+      - Perceber a importância da Tecnologia da Informação como elemento provocador da transformação digital.
+    - **Conteúdos:**
+      - 02.01 - Fundamentos e estrutura de sistema computacional: entrada, saída, processamento.
+      - 02.02 - Linguagem binária e operações básicas.
+      - 02.03 - Tipos de memória do computador.
+      - 02.04 - Classificação e características das linguagens de programação.
+      - 02.05 - Camadas de software.
+      - 02.06 - Gerações de computadores.
+      - 02.07 - Repositórios de dados.
+      - 02.08 - Segurança da informação.
+      - 02.09 - Redes de computadores.
+  - **UNIDADE III - O profissional de Tecnologia da Informação e as áreas de atuação.**
+    - **Objetivos:**
+      - Identificar os papéis dos profissionais de Tecnologia da Informação e suas relações.
+      - Utilizar ferramentas digitais com aplicação de conceitos da Tecnologia da Informação (TI).
+      - Ser crítico quanto à necessidade de formação contínua, com atenção às oportunidades de negócios e ao mercado de trabalho em Tecnologia da Informação.
+    - **Conteúdos:**
+      - 03.01 - O perfil do profissional de suas responsabilidades.
+      - 03.02 - O mercado de trabalho e suas relações.
+      - 03.03 - Desenvolvimento de sistemas: backend, frontend, mobile, híbrido, tendências.
+      - 03.04 - Marco legal e os órgãos legisladores na área de TI.
+      - 03.05 - Empreendedorismo com visão inovadora: startups, portfolio.
+      - 03.06 - Tendências do mercados de TI.
+      - 03.07 - Utilização das ferramentas digitais para a TI.
+
+### T192 — GOVERNANÇA EM SISTEMAS DE T.I.
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Fundamentos de Governança de Tecnologia da Informação (TI). Arquitetura Empresarial. Governança de Desenvolvimento de Software. Estrutura de Gerenciamento da Governança de TI. Ferramentas de Apoio ao Ciclo de Vida da Governança de TI. Plano de Governança de TI.
+- **Programa:**
+  - **UNIDADE I - Fundamentos de Governança de Tecnologia da Informação (TI).**
+    - **Objetivos:**
+      - Referir os conceitos-chave de governança em sistemas de TI.
+      - Inferir os avanços da governança corporativa na governança de tecnologia da informação.
+    - **Conteúdos:**
+      - 01.01 - Governança de TI: a realidade entre teoria e prática.
+      - 01.02 - O ciclo de vida da governança de TI.
+      - 01.03 - Visão dos negócios: conceitos e definições.
+      - 01.04 - Histórico da evolução da governança.
+      - 01.05 - Alinhamento de TI e negócios.
+  - **UNIDADE II - Arquitetura Empresarial.**
+    - **Objetivos:**
+      - Relacionar a Arquitetura Empresarial (AE) à governança de TI com distinção dos aspectos de adoção do ciclo de governança de TI.
+    - **Conteúdos:**
+      - 02.01 - Fundamentos de arquitetura Empresarial.
+      - 02.02 - Solução e arquiteturas empresariais.
+      - 02.03 - Aspectos da AE: arquitetura, governança e transição.
+      - 02.04 - Explorando a capacidade da AE.
+      - 02.05 - Estratégias para empresa ágil.
+  - **UNIDADE III - Governança de Desenvolvimento de Software.**
+    - **Objetivos:**
+      - Utilizar modelos de processos de software e metodologias para o gerenciamento de projetos de forma integrada e interdisciplinar.
+      - Valorar a importância da gestão de desenvolvimento de softwares.
+    - **Conteúdos:**
+      - 03.01 - Fundamentos da gestão de desenvolvimento de software.
+      - 03.02 - Gerenciamento de projetos e portfólios.
+      - 03.03 - Processos, padrões e métricas de produção de software.
+      - 03.04 - Gerenciamento de ativos de software.
+      - 03.05 - Gerenciamento de requisitos.
+      - 03.06 - Gerenciamento de mudanças e controle de versão.
+      - 03.07 - Gerenciamento de qualidade de software.
+  - **UNIDADE IV - Estrutura de Gerenciamento da Governança de TI.**
+    - **Objetivos:**
+      - Aplicar os princípios da Governança de TI.
+      - Explicar como os princípios de Governança de TI estão associados aos objetivos de negócio.
+    - **Conteúdos:**
+      - 04.01 - Modelos de melhores práticas de Governança de TI.
+      - 04.02 - Arquitetura orientada a serviços.
+      - 04.03 - Operações e gerência de serviços.
+  - **UNIDADE V - Ferramentas de Apoio ao Ciclo de Vida da Governança de TI.**
+    - **Objetivos:**
+      - Utilizar ferramentas para a governança de sistemas de TI.
+      - Estar atento às melhorias de processos.
+    - **Conteúdos:**
+      - 05.01 - Gestão Estratégica: TOGAF e Balanced Scorecard.
+      - 05.02 - Modelagem de processo de negócio: CBOK, BABOK.
+      - 05.03 - Modelo de melhoria de processos: Six Sigma, COBIT e ITIL.
+  - **UNIDADE VI Plano de Governança de TI.**
+    - **Objetivos:**
+      - Elaborar plano de governança de TI alinhado com negócios e sua arquitetura empresarial.
+    - **Conteúdos:**
+      - 06.01 - Elaboração de plano de governança de TI.
+
+### T195 — DESENVOLVIMENTO DE JOGOS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 0.4
+- **Ementa:** História, Plataformas e Gêneros em Jogos Digitais. Projetos de Jogos. Estruturas de Jogos. Modelagens de Jogos. Métodos de Entrada. Interfaces para Jogos. Desenvolvimento de Jogos.
+- **Programa:**
+  - **UNIDADE I - História, Plataformas e Gêneros em Jogos Digitais.**
+    - **Objetivos:**
+      - Explicar a história dos jogos digitais com identificação de seus atributos e das plataformas de programação.
+    - **Conteúdos:**
+      - 01.01 - Evolução no sistema de jogos.
+      - 01.02 - Plataformas de jogos digitais.
+      - 01.03 - Gêneros de jogos digitais e suas características.
+  - **UNIDADE II - Projetos de Jogos.**
+    - **Objetivos:**
+      - Analisar as etapas de projetos de jogos e seus níveis de construção.
+      - Elaborar documentos aderentes ao ciclo de produção de jogos.
+      - Apresentar postura colaborativa em projetos de jogos.
+    - **Conteúdos:**
+      - 02.01 - Princípios de projetos de jogos.
+      - 02.02 - Enredo, roteiro e narrativas.
+      - 02.03 - Níveis de jogos.
+      - 02.04 - Equipes de desenvolvimento.
+      - 02.05 - Ciclo de produção e documentos.
+      - 02.06 - Técnicas de desenvolvimento.
+  - **UNIDADE III - Estruturas de Jogos.**
+    - **Objetivos:**
+      - Distinguir as estruturas de jogos com classificação dos seus elementos.
+      - Diagramar a lógica de jogos com definição de seus objetos.
+    - **Conteúdos:**
+      - 03.01 - Etapas de construção de jogos.
+      - 03.02 - Requisitos.
+      - 03.03 - Controle de tempo em jogos.
+      - 03.04 - Objetos do jogo.
+  - **UNIDADE IV - Modelagens de Jogos.**
+    - **Objetivos:**
+      - Identificar as técnicas de modelagem de jogos.
+      - Utilizar etapas de processo de desenvolvimento de jogos 3D com catálogo de atributos em diferentes dimensões visuais.
+      - Estar atento aos critérios e técnicas de seleção de processos de modelagem em projetos de desenvolvimento de jogos.
+    - **Conteúdos:**
+      - 04.01 - Manipulação de imagens.
+      - 04.02 - Eixos de coordenadas do mundo-objeto.
+      - 04.03 - Modelagem.
+      - 04.04 - Texturização.
+      - 04.05 - Iluminação.
+      - 04.06 - Animação.
+  - **UNIDADE V - Métodos de Entrada.**
+    - **Objetivos:**
+      - Identificar as aplicações baseadas em eventos, com identificação dos tipos de entradas e classificação de suas características.
+    - **Conteúdos:**
+      - 05.01 - Dispositivos de entrada.
+      - 05.02 - Sistema baseado em eventos.
+  - **UNIDADE VI - Interfaces para Jogos.**
+    - **Objetivos:**
+      - Relacionar os elementos de interfaces para jogos.
+      - Estabelecer as interfaces de jogos internacionalizadas.
+    - **Conteúdos:**
+      - 06.01 - Fundamentos de interfaces humana-computador aplicados em jogos.
+      - 06.02 - Elementos de interfaces.
+      - 06.03 - Internacionalização.
+  - **UNIDADE VII - Desenvolvimento de Jogos.**
+    - **Objetivos:**
+      - Conceber jogos a partir de fundamentos e técnicas apreendidas.
+      - Programar jogos com utilização de linguagem de programação.
+    - **Conteúdos:**
+      - 07.01 - Definição da mecânica.
+      - 07.02 - Elaboração dos elementos do jogo.
+      - 07.03 - Programação dos comportamentos da mecânica.
+      - 07.04 - Montagem da Interface.
+      - 07.05 - Testes.
+
+### T294 — IMAGEM E INTERAÇÃO
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.2
+- **Ementa:** Dispositivos de entrada/saída, motores e bibliotecas gráficas. Criação de cenas 2D e 3D. Prototipação de soluções em ambientes gráficos interativos aplicadas a diferentes domínios na forma de jogos digitais.
+- **Programa:**
+  - **UNIDADE I - Dispositivos de entrada/saída, motores e bibliotecas gráficas.**
+    - **Objetivos:**
+      - Distinguir, entre os variados tipos de dispositivos gráficos de entrada/saída, motores e bibliotecas gráficas, a boa prática de construção de aplicações interativas em computação gráfica, realidade virtual e realidade aumentada.
+      - Desenvolver soluções gráficas em computação gráfica, realidade virtual e realidade aumentada, com a aplicação das boas práticas no uso e controle de dispositivos gráficos de entrada/saída, motores e bibliotecas gráficas.
+      - Ser criterioso na análise e seleção de dispositivo de entrada/saída, motor e biblioteca gráfica na resolução de situações problema em computação gráfica, realidade virtual e/ou aumentada.
+    - **Conteúdos:**
+      - 01.01 - Conceitos básicos da computação gráfica, realidade virtual e realidade aumentada.
+      - 01.02 - Pipeline gráfico.
+      - 01.03 - Funcionamento de dispositivos de entrada e saída.
+      - 01.04 - Fundamentos em geometria computacional.
+      - 01.05 - Histórico comparativo de motores e bibliotecas gráficas.
+      - 01.06 - Áreas de aplicação.
+  - **UNIDADE II - Criação de cenas 2D e 3D.**
+    - **Objetivos:**
+      - Empregar os conceitos de computação gráfica, realidade virtual e realidade aumentada, com uso de motores, bibliotecas gráficas e dispositivos de entrada/saída para a criação de cenas 2D/3D.
+      - Implementar cenas 2D/3D (estáticas e dinâmicas) em computação gráfica, realidade virtual e/ou aumentada baseadas em uma situação problema, controladas pelo usuário via dispositivos de entrada/saída.
+      - Ponderar criticamente a escolha de objetos e ambientes, animação de personagens e controle de componentes de interface, método de interação usuário/cena por evento, plataforma de execução e atributos de visualização.
+    - **Conteúdos:**
+      - 02.01 - Cenas estáticas x cenas dinâmicas.
+      - 02.02 - Primitivas gráficas e modelagem de objetos e ambientes.
+      - 02.03 - Transformações geométricas 2D/3D (escala, rotação e translação).
+      - 02.04 - Câmera sintética e recorte.
+      - 02.05 - Sistemas de coordenadas (mundo, normalizado, tela) e plataformas de execução.
+      - 02.06 - Preenchimento de polígonos.
+      - 02.07 - Iluminação e tonalização.
+      - 02.08 - Cor, atributos de visualização e efeitos especiais.
+      - 02.09 - Métodos de interação usuário/cena por evento.
+      - 02.10 - Animação de personagens e controle de componentes de interface.
+  - **UNIDADE III - Prototipação de soluções em ambientes gráficos interativos aplicadas a diferentes domínios na forma de jogos digitais.**
+    - **Objetivos:**
+      - Aplicar os conceitos de criação de cenas 2D/3D no desenvolvimento de protótipos de jogos digitais em equipe, com uso de motores, bibliotecas gráficas e dispositivos de entrada/saída.
+      - Valorar a importância do trabalho colaborativo na construção de protótipos em computação gráfica, realidade virtual e/ou realidade aumentada na forma de jogos digitais.
+    - **Conteúdos:**
+      - 03.01 - Estudo do problema e do domínio da aplicação (saúde, entretenimento, educação, simulação, treinamento).
+      - 03.02 - Ideação e chuva de ideias.
+      - 03.03 - Perfil do público-alvo.
+      - 03.04 - Análise de requisitos.
+      - 03.05 - Conceito e design.
+      - 03.06 - Construção de protótipos.
+      - 03.07 - Testes funcionais e de usabilidade.
+      - 03.08 - Refinamentos sucessivos.
+
+### T304 — TESTE VALIDAÇÃO DE SISTEMAS
+
+- **Modalidade:** Ead
+- **Créditos:** 2.2
+- **Ementa:** Fundamentos e modelos de teste de software. Planejamento e gestão de teste. Processo de teste de software e os tipos de aplicação. Ferramentas de automação de testes.
+- **Programa:**
+  - **UNIDADE I - Fundamentos e modelos de teste de software.**
+    - **Objetivos:**
+      - Discutir os métodos, técnicas e ferramentas de suporte na validação e verificação de softwares, com a articulação dos conceitos fundamentais relacionados a testes de software.
+      - Interpretar as habilidades para a execução das atividades de teste em conformidade com a ética computacional.
+      - Valorar a importância do teste de software para a qualidade do produto.
+    - **Conteúdos:**
+      - 01.01 - Princípios, pilares e modelos de teste de software.
+      - 01.02 - Fases da atividade de teste, limitações e impactos dos testes.
+      - 01.03 - Critérios de teste de software.
+      - 01.04 - Papel do analista de testes, certificações e equipes de times ágeis.
+  - **UNIDADE II - Planejamento e gestão de teste.**
+    - **Objetivos:**
+      - Detalhar o papel do planejamento e gestão de testes de projetos de software para a sustentação dos negócios e empreendimento.
+      - Inferir os modelos de testes no desenvolvimento de software com aderência ao ciclo de vida.
+      - Declarar os erros e defeitos no processo de teste de software com respeito a ética profissional.
+    - **Conteúdos:**
+      - 02.01 - Abordagem ágil e tradicional no processo de teste de software.
+      - 02.02 - Principais modelos de verificação e validação.
+      - 02.03 - Técnicas estáticas e dinâmicas de verificação e validação de software.
+      - 02.04 - Planejamento, modelagem do teste, execução, monitoramento e controle, validação dos resultados.
+  - **UNIDADE III - Processo de teste de software e os tipos de aplicação.**
+    - **Objetivos:**
+      - Explorar a teoria e a prática dos tipos de teste e ferramentas utilizadas no processo de desenvolvimento de software.
+      - Aplicar técnicas e métodos no planejamento, execução e monitoramento de verificação de software em projetos.
+      - Agir de forma preventiva na detecção de falhas de software em avaliação do processo de desenvolvimento de software.
+    - **Conteúdos:**
+      - 03.01 - Planejamento de testes: plano de testes, definição de critérios de qualidade do produto e do processo.
+      - 03.02 - Documentação e gestão do projeto de testes, gestão de configuração e versionamento.
+      - 03.03 - Tipos de Testes: integração, regressão, funcional, usabilidade, desempenho, carga, aceitação, volume.
+      - 03.04 - Estágios de Testes: Caixa Branca, Caixa Preta, Unitário, Integração Sistema, Aceitação.
+  - **UNIDADE IV - Ferramentas de automação de testes.**
+    - **Objetivos:**
+      - Selecionar as ferramentas de testes que atendam as estratégicas de desenvolvimento de software da organização.
+      - Aplicar as ferramentas de verificação e validação no processo de desenvolvimento de software com observância na qualidade do processo.
+      - Mostrar criticidade na avaliação das ferramentas de automação de testes.
+    - **Conteúdos:**
+      - 04.01 - Tipos de ferramentas de automação de testes.
+      - 04.02 - Critério para automação e os cuidados para implantação.
+      - 04.03 - Analise de viabilidade da automação dos testes.
+      - 04.04 - Ferramentas de teste: processos de verificação e validação de software; gestão de testes, defeitos, indicadores de qualidade.
+
+### T320 — SEGURANÇA NO CIBERESPAÇO
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Aspectos regulatórios, organizacionais e tecnológicos da segurança no ciberespaço. Políticas de segurança na Infraestrutura lógica, física e de sistemas computacionais. Segurança no desenvolvimento de software e plataformas. Construção do projeto de ciberproteção.
+- **Programa:**
+  - **UNIDADE I - Aspectos regulatórios, organizacionais e tecnológicos da segurança no ciberespaço.**
+    - **Objetivos:**
+      - Distinguir os princípios fundamentais de avaliação de risco cibernético e seu papel na governança de risco.
+      - Representar modelo de segurança e técnicas envolvidas em ambientes computacionais de comunicação.
+      - Ser criterioso no julgamento quanto às técnicas de segurança mais adequadas para à situações-problemas em ambientes computacionais de comunicação.
+    - **Conteúdos:**
+      - 01.01 - Política Nacional de Segurança da Informação e Segurança Cibernética.
+      - 01.02 - Privacidade, direitos online, frameworks regulatórios.
+      - 01.03 - Gestão de riscos e governança digital.
+      - 01.04 - Prevenção e mitigação de ameaças cibernéticas.
+      - 01.05 - Tecnologias de Segurança: Forense; Malware; Ataque e comportamentos adversários.
+  - **UNIDADE II - Políticas de segurança na Infraestrutura lógica, física e de sistemas computacionais.**
+    - **Objetivos:**
+      - Identificar na infraestrutura lógica e física as políticas de segurança em ambientes computacionais de comunicação.
+      - Determinar com criticidade as políticas de segurança nas configurações de ambientes computacionais de comunicação.
+      - Ser ético quanto ao uso das políticas de segurança nos serviços em ambientes computacionais de comunicação.
+    - **Conteúdos:**
+      - 02.01 - Segurança de hardware, de rede e de sistemas ciberfísicos.
+      - 02.02 - Camada física e segurança de telecomunicações.
+      - 02.03 - Segurança de sistemas operacionais e virtualização.
+      - 02.04 - Criptografia.
+      - 02.05 - Autenticação, autorização e responsabilidade.
+      - 02.06 - Segurança de sistemas distribuídos.
+  - **UNIDADE III - Segurança no desenvolvimento de software e plataformas.**
+    - **Objetivos:**
+      - Diferenciar o software seguro, suas categorias de vulnerabilidades e as contramedidas de exploração.
+      - Utilizar ciclos de vida de desenvolvimento de software com uma visão estruturada do projeto, da codificação e das técnicas de segurança da informação.
+      - Ser proativo no ciclo de vida do software seguro com foco na prevenção, na detecção de vulnerabilidades e nas respostas em caso de exploração.
+    - **Conteúdos:**
+      - 03.01 - Segurança de software em plataformas móveis, web e nuvem.
+      - 03.02 - Engenharia da segurança da informação e o ciclo de desenvolvimento de software.
+      - 03.03 - Privacidade em projetos de software.
+      - 03.04 - Pirataria em software.
+  - **UNIDADE IV - Construção do Projeto de Ciberproteção.**
+    - **Objetivos:**
+      - Definir os requisitos para o modelo de ciberproteção, pautado na cultura da organização e na legislação vigente.
+      - Implantar as políticas de segurança cibernéticas com base na confiança digital e nos marcos regulatórios, com respeito aos padrões da organização e das tecnologias adotadas.
+      - Valorar a segurança cibernética, sua cultura e relações com a sociedade.
+    - **Conteúdos:**
+      - 04.01 - Políticas e estratégias de segurança cibernética na organização.
+      - 04.02 - Diagnóstico da segurança cibernética.
+      - 04.03 - Marcos legais e regulatórios; padrões, organizações e tecnologias.
+      - 04.04 - Arquitetura do Ciberproteção.
+      - 04.05 - Treinamento nas habilidades de segurança cibernética.
+      - 04.06 - Plano de implantação do Ciberproteção.
+      - 04.07 - Homologação do projeto.
+
+### T342 — TÉC DE INTEGRAÇÃO DE SISTEMAS
+
+- **Modalidade:** Presencial
+- **Créditos:** 4.0
+- **Ementa:** Abordagens de integração de sistemas. Protocolos de comunicação para sistemas web. Desenho de projeto de software com utilização de padrões de integração. Sistematização de projeto de integração baseado em padrões.
+- **Programa:**
+  - **UNIDADE I - Abordagens de integração de sistemas.**
+    - **Objetivos:**
+      - Classificar as etapas do processo de integração de sistemas.
+      - Analisar as abordagens de integração de sistemas.
+      - Ser atencioso na seleção das abordagens de integração vista ao contexto do problema.
+    - **Conteúdos:**
+      - 01.01 - Estratégias básicas de integração;
+      - 01.02 - Tipos de abordagens;
+      - 01.03 - Estilos de integração;
+      - 01.04 - Análise de Casos e soluções adotadas.
+  - **UNIDADE II - Protocolos de comunicação para sistemas web.**
+    - **Objetivos:**
+      - Classificar as etapas do processo de desenvolvimento com a utilização do protocolo de comunicação API HTTP REST.
+      - Elaborar projetos de software com a utilização do protocolo de comunicação API HTTP REST;
+      - Valorar o potencial do uso do protocolo de comunicação API HTTP REST em soluções.
+    - **Conteúdos:**
+      - 02.01 - Protocolo HTTP e API HTTP REST;
+      - 02.02 - Modelo requisição-resposta;
+      - 02.03 - WebServices e arquitetura RESTful;
+      - 02.04 - Desenvolvimento e documentação de API.
+  - **UNIDADE III - Desenho de projeto de software com utilização de padrões de integração.**
+    - **Objetivos:**
+      - Categorizar os padrões de integração em orientação a objetos.
+      - Desenhar projetos de software com utilização de padrões de integração.
+      - Ser criterioso na seleção de padrões de integração em projetos de software vista às necessidades dos atores envolvidos.
+    - **Conteúdos:**
+      - 03.01 - Padrões de integração com microservices;
+      - 03.02 - Padrões de integração com IoT (Internet of Things);
+      - 03.03 - Padrões baseado em mensageria;
+      - 03.04 - Integração de aplicações através de ESB (Enterprise Service Bus).
+  - **UNIDADE IV - Sistematização de Projeto de Integração baseado em padrões.**
+    - **Objetivos:**
+      - Avaliar situações para modularização de sistemas legados microservices e IoT.
+      - Construir projetos de integração com base nos padrões.
+      - Agir de forma colaborativa em atividades necessárias ao processo de desenvolvimento de uma solução para integração.
+    - **Conteúdos:**
+      - 04.01 - Projeto com utilização de microservices;
+      - 04.02 - Projeto com utilização de IoT (Internet of Things);
+      - 04.03 - Projeto com utilização de mensageria;
+      - 04.04 - Projeto de integração usando ESB (Enterprise Service Bus).
+
+### T371 — TÓPICOS EM BANCO DE DADOS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Bancos de dados distribuídos. Bancos de dados não relacionais. Otimização de consultas e desempenho. Segurança em bancos de dados.
+- **Programa:**
+  - **UNIDADE I - Bancos de dados distribuídos.**
+    - **Objetivos:**
+      - Descrever os princípios fundamentais dos sistemas distribuídos e como se aplicam aos bancos de dados distribuídos.
+      - Implementar soluções de banco de dados distribuídos, com vistas à replicação e particionamento de dados.
+      - Ser criterioso e técnico na implementação de escalabilidade e resiliência em ambientes distribuídos.
+    - **Conteúdos:**
+      - 01.01 - Introdução aos sistemas distribuídos.
+      - 01.02 - Características de bancos de dados distribuídos.
+      - 01.03 - Modelos de consistência em ambientes distribuídos.
+      - 01.04 - Técnicas de replicação e particionamento de dados.
+  - **UNIDADE II - Bancos de dados não relacionais.**
+    - **Objetivos:**
+      - Definir os conceitos-chave por trás dos bancos de dados NoSQL e suas diferenças em relação aos bancos de dados relacionais.
+      - Implementar soluções de banco de dados NoSQL adequadas para diferentes casos de uso.
+      - Ser criativo em relação a diferentes paradigmas de banco de dados e sua aplicabilidade em diferentes contextos.
+    - **Conteúdos:**
+      - 02.01 - Conceitos básicos de bancos de dados não relacionais.
+      - 02.02 - Tipos de bancos de dados não relacionais (documentos, grafos, colunas, chave-valor).
+      - 02.03 - Modelagem de dados não relacionais.
+      - 02.04 - Casos de uso e comparação com bancos de dados relacionais.
+  - **UNIDADE III - Otimização de consultas e desempenho.**
+    - **Objetivos:**
+      - Definir os princípios de otimização de consultas e desempenho em bancos de dados relacionais.
+      - Aplicar estratégias de otimização de consultas e índices para melhoria do desempenho do sistema.
+      - Ser criativo no desenvolvimento de estratégias de otimização de consultas e índices para a melhora do desempenho do sistema.
+    - **Conteúdos:**
+      - 03.01 - Estratégias de otimização de consultas.
+      - 03.02 - Índices e suas aplicações.
+      - 03.03 - Uso de exibições (views) para otimização.
+      - 03.04 - Ferrament.
+  - **UNIDADE IV - Segurança em bancos de dados.**
+    - **Objetivos:**
+      - Descrever os princípios básicos de segurança em bancos de dados e as ameaças potenciais.
+      - Implementar medidas de segurança, como controle de acesso e auditoria, com vista aos dados do sistema.
+      - Assumir postura proativa na proteção dos dados do sistema contra ameaças internas e externas.
+    - **Conteúdos:**
+      - 04.01 - Princípios básicos de segurança em bancos de dados.
+      - 04.02 - Controle de acesso e privacidade.
+      - 04.03 - Auditoria e trilha de auditoria.
+      - 04.04 - Estratégias para prevenção de ataques a bancos de dados.
+
+### T380 — TÓPICOS EM PROGRAMAÇÃO
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 4.0
+- **Ementa:** Fundamentos da programação paralela e distribuída. Técnicas de sincronização e coordenação. Programação paralela com threads e processos. Comunicação e coordenação em sistemas distribuídos.
+- **Programa:**
+  - **UNIDADE I - Fundamentos da programação paralela e distribuída.**
+    - **Objetivos:**
+      - Descrever os princípios fundamentais da programação paralela e distribuída.
+      - Diferenciar os modelos de execução com aplicação dos conceitos de threads e processos em programas paralelos e distribuídos.
+      - Demonstrar postura orientada para a eficiência e escalabilidade na resolução de problemas computacionais.
+    - **Conteúdos:**
+      - 01.01 - Introdução à programação paralela e distribuída.
+      - 01.02 - Modelos de execução: paralelismo e distribuição.
+      - 01.03 - Threads e processos: conceitos e diferenças.
+      - 01.04 - Comunicação e sincronização em ambientes distribuídos.
+  - **UNIDADE II - Técnicas de sincronização e coordenação.**
+    - **Objetivos:**
+      - Indicar os mecanismos de sincronização utilizados em ambientes paralelos e distribuídos.
+      - Aplicar corretamente técnicas de sincronização com vistas à consistência dos dados em sistemas paralelos e distribuídos.
+      - Assumir postura cuidadosa em relação à sincronização de processos e threads.
+    - **Conteúdos:**
+      - 02.01 - Mutexes e semáforos.
+      - 02.02 - Barreiras de sincronização.
+      - 02.03 - Variáveis de condição.
+      - 02.04 - Exclusão mútua distribuída.
+  - **UNIDADE III - Programação paralela com threads e processos.**
+    - **Objetivos:**
+      - Conceituar paralelismo de dados e de tarefas.
+      - Implementar programas a partir de uso eficiente de threads e processos com execução de tarefas paralelas e distribuídas.
+      - Estar atento à otimização e eficiência na implementação de programas paralelos e distribuídos.
+    - **Conteúdos:**
+      - 03.01 - Criação e gerenciamento de threads e processos.
+      - 03.02 - Paralelismo de dados: processamento de dados em paralelo.
+      - 03.03 - Paralelismo de tarefas: decomposição de problemas em tarefas independentes.
+      - 03.04 - Pools de threads e executores distribuídos.
+  - **UNIDADE IV - Comunicação e coordenação em sistemas distribuídos.**
+    - **Objetivos:**
+      - Diferenciar mecanismos de comunicação utilizados em sistemas distribuídos.
+      - Implementar sistemas distribuídos de forma eficiente e coordenada.
+      - Ser colaborativo e orientado para a solução de problemas em ambientes distribuídos.
+    - **Conteúdos:**
+      - 04.01 - Comunicação ponto a ponto.
+      - 04.02 - Filas de mensagens.
+      - 04.03 - Comunicação via sockets.
+      - 04.04 - Middleware de comunicação.
+
+### T400 — TÓPICOS EM ENG. SOFTWARE
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.0
+- **Ementa:** Arquitetura de microsserviços avançada. Métodos de desenvolvimento. Qualidade de software e métricas. Cultura devops.
+- **Programa:**
+  - **UNIDADE I - Arquitetura de microsserviços avançada.**
+    - **Objetivos:**
+      - Descrever escalabilidade e resiliência aplicados a arquiteturas de microsserviços.
+      - Implementar estratégias de escalabilidade e resiliência em arquiteturas de microsserviços.
+      - Importar-se com a escalabilidade e resiliência na manutenção de sistemas de microsserviços.
+    - **Conteúdos:**
+      - 01.01 - Estratégias de escalabilidade e resiliência.
+      - 01.02 - Orquestração de microsserviços.
+      - 01.03 - Modelagem de dados em arquiteturas de microsserviços.
+      - 01.04 - Desenvolvimento e implantação contínua de microsserviços.
+  - **UNIDADE II - Métodos de desenvolvimento.**
+    - **Objetivos:**
+      - Diferenciar os métodos de desenvolvimento avançado.
+      - Aplicar os métodos de desenvolvimento avançados em projetos de software, com vista às necessidades específicas de cada projeto.
+      - Assumir postura flexível em relação aos métodos de desenvolvimento de software.
+    - **Conteúdos:**
+      - 02.01 - Feature-Driven Development (FDD).
+      - 02.02 - Dynamic Systems Development Method (DSDM).
+      - 02.03 - Metodologia ágil crystal.
+      - 02.04 - Métodos híbridos e adaptativos.
+  - **UNIDADE III - Qualidade de software e métricas.**
+    - **Objetivos:**
+      - Relacionar os conceitos de qualidade de software e métricas.
+      - Aplicar técnicas de medição e avaliação da qualidade de software.
+      - Ser proativo em relação à qualidade de software, com vista à manutenção de altos padrões de qualidade.
+    - **Conteúdos:**
+      - 03.01 - Métricas de código e qualidade.
+      - 03.02 - Análise estática de código.
+      - 03.03 - Testes de desempenho e estresse.
+      - 03.04 - Ferramentas e práticas para garantia de qualidade.
+  - **UNIDADE IV - Cultura devops.**
+    - **Objetivos:**
+      - Definir os princípios e práticas da cultura DevOps.
+      - Implementar práticas DevOps em ambientes de desenvolvimento e operações.
+      - Ser colaborativo e responsável por meio de uma abordagem integrada para a entrega de software de qualidade.
+    - **Conteúdos:**
+      - 04.01 - Práticas de colaboração e cultura.
+      - 04.02 - Automação.
+      - 04.03 - Monitoramento e observabilidade.
+      - 04.04 - Práticas de segurança.
+
+### T569 — SISTEMAS DE TEMPO REAL
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.2
+- **Ementa:** Introdução a sistemas de tempo real. Modelagem de restrições de tempo. Escalonamento de tarefas. Manipulação de recursos compartilhados. Escalonamento em sistemas multiprocessados e distribuídos. Sistemas operacionais de tempo real comerciais. Comunicação em tempo real. Banco de dados de tempo real.
+- **Programa:**
+  - **Introdução a sistemas de tempo real**
+    - **Objetivos:**
+      - Analisar as características e aspectos de segurança e confiabilidade em sistemas de tempo real (Real Time Operating Systems  RTOS).
+      - Modelar sistemas de tempo real.
+    - **Conteúdos:**
+      - 01.01 - Definição de sistemas tempo real.
+      - 01.02 - Exemplos de sistemas tempo real.
+      - 01.03 - Modelagem de sistemas tempo real.
+      - 01.04 - Características de sistemas tempo real.
+      - 01.05 - Segurança e confiabilidade.
+      - 01.06 - Técnicas de software de tolerância a falhas.
+  - **Modelagem de restrições de tempo**
+    - **Objetivos:**
+      - Modelar restrições de tempo em RTOS.
+      - Classificar os tipos de restrições temporais em RTOS.
+    - **Conteúdos:**
+      - 02.01 - Restrições de tempo.
+      - 02.02 - Classificações das restrições de tempo.
+      - 02.03 - Modelagem de restrições de tempo.
+  - **Escalonamento de tarefas**
+    - **Objetivos:**
+      - Modelar os escalonadores de tarefas em sistemas de tempo real entendendo as suas características, aplicações e restrições.
+      - Desenvolver e analisar escalonadores de tarefas de acordo com seus tipos em sistemas de tempo real.
+    - **Conteúdos:**
+      - 03.01 - Tipos de tarefas.
+      - 03.02 - Conceitos básicos de escalonamento.
+      - 03.03 - Algoritmos de escalonamento de tarefas.
+      - 03.04 - Escalonamento orientado a clock e a tabelas.
+      - 03.05 - Tipos de escalonadores: cíclicos, generalizado, híbridos, orientados a eventos, Earliest Deadline First (EDF), Rate Monotonic Algoritm (RMA), Deadline Monotonic Algoritm (DMA), etc.
+  - **Manipulação de recursos compartilhados**
+    - **Objetivos:**
+      - Escolher o protocolo para tratamento de compartilhamento de recursos em RTOS mais adequado para cada aplicação.
+      - Desenvolver mecanismos de tratamento de dependência de recursos em sistemas RTOS.
+    - **Conteúdos:**
+      - 04.01 - Compartilhamento de recursos em sistemas de tempo real.
+      - 04.02 - Inversão de prioridade.
+      - 04.03 - Protocolo PIP (Priority Inheritance Protocol).
+      - 04.04 - Protocolo HLP (Highest Locker Protocol).
+      - 04.05 - Protocolo PCP (Priority Ceiling Protocol).
+      - 04.06 - Tipos de inversão de Prioridade com PCP.
+      - 04.07 - Tratamento de dependência de recursos.
+  - **Escalonamento em sistemas multiprocessados e distribuídos**
+    - **Objetivos:**
+      - Desenvolver e analisar escalonadores de processos em sistemas multiprocessados e distribuídos.
+    - **Conteúdos:**
+      - 05.01 - Sistemas multiprocessados.
+      - 05.02 - Gerenciamento de recursos em sistemas multiprocessados.
+      - 05.03 - Tolerância a falhas em sistemas multiprocessados.
+      - 05.04 - Sincronização de tarefas em sistemas distribuídos.
+  - **Sistemas operacionais de tempo real comerciais**
+    - **Objetivos:**
+      - Analisar as características dos sistemas de tempo real comerciais de acordo com as necessidades de cada aplicação.
+      - Selecionar o sistema de tempo real comercial mais adequado a uma aplicação específica.
+    - **Conteúdos:**
+      - 06.01 - Gerenciamento do tempo.
+      - 06.02 - Escalonamento de tarefas.
+      - 06.03 - Atribuição de Prioridades de Tarefas.
+      - 06.04 - Preempção de tarefas.
+      - 06.05 - Sistemas comerciais: FreeRTOS, RTOS Unix, VxWorks, QNX, uC/OS-III, RT-Linux, etc.
+  - **Comunicação em tempo real**
+    - **Objetivos:**
+      - Determinar os requisitos de tempo de resposta em aplicações de comunicação de dados.
+      - Definir arquiteturas de redes de comunicação de dados para sistemas de tempo real.
+    - **Conteúdos:**
+      - 07.01 - Introdução a comunicação em tempo real.
+      - 07.02 - Conceitos básicos: Qualidade de Serviço (QoS); Tipos de rede; Categorização do tráfego.
+      - 07.03 - Arquitetura de redes de tempo real.
+      - 07.04 - LAN de tempo real.
+      - 07.05 - Medidas de desempenho.
+  - **Banco de dados de tempo real**
+    - **Objetivos:**
+      - Determinar os requisitos de tempo de resposta e de concorrência em aplicações com banco de dados.
+      - Definir arquiteturas e modelos de banco de dados para sistemas de tempo real.
+    - **Conteúdos:**
+      - 08.01 - Conceitos de bancos de dados.
+      - 08.02 - Bancos de dado de tempo real.
+      - 08.03 - Característica temporal dos dados.
+      - 08.04 - Controle de concorrência.
+      - 08.05 - Bancos de dados comerciais.
+
+### T951 — SISTEMAS INTELIGENTES
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 3.1
+- **Ementa:** Redes neurais. Sistemas nebulosos. Computação evolucionária. Sistemas bioinspirados.
+- **Programa:**
+  - **UNIDADE I - Redes Neurais.**
+    - **Objetivos:**
+      - Relacionar os fundamentos de redes neurais artificiais com os problemas de reconhecimento de padrões na computação.
+      - Classificar os diferentes paradigmas de aprendizado, as arquiteturas e algoritmos clássicos.
+      - Ponderar em quais situações práticas utilizar os modelos neurais.
+    - **Conteúdos:**
+      - 01.01 - Neurônios e redes neurais biológicas.
+      - 01.02 - Histórico e conceitos básicos.
+      - 01.03 - Estruturas de conexão: redes de única e múltiplas camadas, redes recorrentes.
+      - 01.04 - Paradigmas de aprendizado: supervisionado e não-supervisionado.
+      - 01.05 - Algoritmos de aprendizado: Regra de Hebb; Regra Delta; Retropropagação do erro.
+      - 01.06 - Redes neurais clássicas: Perceptron simples e multicamadas.
+      - 01.07 - Aplicações de redes neurais.
+  - **UNIDADE II - Sistemas Nebulosos.**
+    - **Objetivos:**
+      - Descrever os fundamentos dos sistemas nebulosos.
+      - Relacionar os conjuntos e números nebulosos bem como operações básicas sobre estes na resolução de problemas computacionais.
+      - Ponderar em quais situações práticas utilizar os sistemas nebulosos.
+    - **Conteúdos:**
+      - 02.01 - Conjuntos e números nebulosos: definição, propriedades e operações básicas.
+      - 02.02 - Relações e composições nebulosos.
+      - 02.03 - Lógica nebulosos: representação de incerteza, variáveis linguísticas, raciocínio aproximado.
+      - 02.04 - Sistemas nebulosos: regras nebulosas.
+      - 02.05 - Aplicações de sistemas nebulosos: controle de processos, mineração de dados e outros.
+  - **UNIDADE III - Computação Evolucionária.**
+    - **Objetivos:**
+      - Descrever os fundamentos dos algoritmos evolucionários.
+      - Relacionar os dialetos da computação evolucionária na resolução de problemas de otimização.
+      - Identificar os componentes conceituais de algoritmos genéticos e de programas genéticos.
+      - Ponderar em quais situações utilizar a computação evolucionária.
+    - **Conteúdos:**
+      - 03.01 - Inspiração biológica: teoria da evolução.
+      - 03.02 - Computação evolucionária: paradigmas.
+      - 03.03 - Algoritmos genéticos.
+      - 03.04 - Programação genética.
+      - 03.05 - Algoritmos evolucionários avançados.
+      - 03.06 - Aplicações de algoritmos evolucionários.
+  - **UNIDADE IV - Sistemas Bioinspirados.**
+    - **Objetivos:**
+      - Descrever os fundamentos de novos algoritmos inspirados na natureza.
+      - Ponderar em quais situações utilizar os algoritmos bioinspirados.
+    - **Conteúdos:**
+      - 04.01 - Autômatos celulares e vida artificial.
+      - 04.02 - Algoritmos de inteligência coletiva.
+      - 04.03 - Aplicações.
+
+### T954 — SISTEMAS EMBARCADOS
+
+- **Modalidade:** não disponibilizada na página consultada
+- **Créditos:** 2.2
+- **Ementa:** Introdução à Arquitetura de processadores para sistemas embarcados. Características da Arquitetura de processadores para sistemas embarcados. Interfaces de comunicação e I/O. Introdução ao Linux embarcado. Núcleo do Linux. Sistemas de arquivos raiz. Ferramentas de desenvolvimento e depuração. Controladores de dispositivos. Fundamentos da internet das coisas.
+- **Programa:**
+  - **UNIDADE I - Introdução à Arquitetura de processadores para sistemas embarcados**
+    - **Objetivos:**
+      - Compreender os conceitos básicos da arquitetura de processadores ARM.
+    - **Conteúdos:**
+      - 01.01 - Núcleo ARM;
+      - 01.02 - Registradores;
+      - 01.03 - Conjunto de instruções ARM;
+      - 01.04 - Conjunto de instruções Thumb;
+      - 01.05 - Modos de processamento;
+      - 01.06 - Arquiteturas Multi-core.
+  - **UNIDADE II - Características da Arquitetura de processadores para sistemas embarcados**
+    - **Objetivos:**
+      - Distinguir as principais famílias da arquitetura de processadores ARM.
+    - **Conteúdos:**
+      - 02.01 - Famílias da arquitetura ARM;
+      - 02.02 - Barramentos de dados e endereço;
+      - 02.03 - Mapa de memória;
+      - 02.04 - Sistema de interrupção;
+      - 02.05 - Módulos internos (MMU, MPU, VFP, etc.);
+      - 02.06 - Pinos de I/O.
+  - **UNIDADE III - Interfaces de comunicação e I/O**
+    - **Objetivos:**
+      - Aplicar as principais interfaces usadas em sistemas embarcados.
+    - **Conteúdos:**
+      - 03.01 - Interface USB;
+      - 03.02 - Interface Ethernet;
+      - 03.03 - Padrões de interface de saída de vídeo;
+      - 03.04 - Atividade Prática.
+  - **UNIDADE IV - Introdução ao Linux Emarcados**
+    - **Objetivos:**
+      - Configurar o sistema operacional Linux e suas especificidades aplicadas aos sistemas embarcados.
+    - **Conteúdos:**
+      - 04.01 - Tipos de Hosts;
+      - 04.02 - Configuração de alvo de desenvolvimento;
+      - 04.03 - Configuração de alvo de depuração;
+      - 04.04 - Arquitetura genérica de um sistema Linux Embedded;
+      - 04.05 - Tipos de configuração de boot;
+      - 04.06 - Atividade Prática.
+  - **UNIDADE V - Núcleo do Linux**
+    - **Objetivos:**
+      - Configurar o Kernel do Linux, incluindo sua compilação e instalação.
+    - **Conteúdos:**
+      - 05.01 - Versões do Kernel;
+      - 05.02 - Configuração do Kernel;
+      - 05.03 - Compilação e instalação;
+      - 05.04 - Port para novas plataformas de hardware;
+      - 05.05 - Bootloader para sistemas embarcados;
+      - 05.06 - Boot pela rede;
+      - 05.07 - Atividade Prática.
+  - **UNIDADE VI - Sistema de arquivos Raiz**
+    - **Objetivos:**
+      - Analisar o root filesystem, seus dispositivos associados e seus tipos e possíveis configurações.
+    - **Conteúdos:**
+      - 06.01 - Estrutura básica;
+      - 06.02 - Bibliotecas;
+      - 06.03 - Dispositivos MTD e de disco;
+      - 06.04 - Módulos e imagens do kernel;
+      - 06.05 - Tipos de sistemas de arquivo para dispositivos embedded;
+      - 06.06 - Rootfs e Initramfs;
+      - 06.07 - Atividade Prática.
+  - **UNIDADE VII - Ferramentas de desenvolvimento e depuração**
+    - **Objetivos:**
+      - Utilizar as principais ferramentas para desenvolvimento e deputação para Linux Embedded.
+    - **Conteúdos:**
+      - 07.01 - Ferramentas GNU;
+      - 07.02 - Bibliotecas em C;
+      - 07.03 - IDEs para Linux;
+      - 07.04 - Depuração de aplicações;
+      - 07.05 - Análise de desempenho;
+      - 07.06 - Depuração de memória;
+      - 07.07 - Atividade Prática.
+  - **UNIDADE VIII - Controladores de dispositivos**
+    - **Objetivos:**
+      - Desenvolver controladores de dispositivos para sistemas embarcados.
+    - **Conteúdos:**
+      - 08.01 - Modelo de device drivers do Linux;
+      - 08.02 - Driver tipo char;
+      - 08.03 - Driver tipo block;
+      - 08.04 - Driver tipo network;
+      - 08.05 - Outros tipos de drivers;
+      - 08.06 - Concorrência e condições de corrida;
+      - 08.07 - Atividade Prática.
+  - **UNIDADE IX - Fundamentos da Internet das Coisas**
+    - **Objetivos:**
+      - Compreender as tecnologias de sistemas embarcados associadas a internet das coisas.
+    - **Conteúdos:**
+      - 09.01 - Introdução;
+      - 09.02 - Histórico;
+      - 09.03 - Definições;
+      - 09.04 - Características;
+      - 09.05 - Tecnologias;
+      - 09.06 - Protocolos;
+      - 09.07 - System On Chips;
+      - 09.08 - Sistemas Operacionais;
+      - 09.09 - Plataformas.
