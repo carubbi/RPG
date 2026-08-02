@@ -100,10 +100,10 @@
 - **Recursos:** [T1 — DFS/BFS](../../trabalhos/und1/T1.md), [`BreadthFirstPaths`](../../algs4-py/algs4/breadth_first_paths.py), [`tinyG.txt`](../../dataset/tinyG.txt) e [`mediumG.txt`](../../dataset/mediumG.txt).
 - **Produto/evidência:** solução testada; estratégia justificada; `Accepted`; correção; complexidade; apresentação.
 
-#### Semana 6 — Síntese de fundamentos e apresentação do T1 — 07–10/09
+#### Semana 6 — Revisão teórica para a AT1 e apresentação do T1 — 07–10/09
 
 - **Datas:** **07/09 — Dia da Independência do Brasil — feriado, sem aula**; teórica em 08/09 (ter.); apresentações em 09/09 (qua.) e 10/09 (qui.).
-- **Turma teórica — síntese de fundamentos e buscas:** modelagem; tipos de grafos; representações computacionais; DFS; BFS; alcançabilidade; caminhos; revisão formativa.
+- **Turma teórica — revisão teórica completa para a AT1:** fundamentos; tipos de grafos; representações computacionais; DFS; BFS; dúvidas.
 - **Turma prática — apresentação da AP1:** apresentações do T1; aproximadamente dez grupos; avaliação; devolutiva.
 - **Recursos:** repositórios, apresentações e rubrica do [T1](../../trabalhos/und1/T1.md).
 - **Produto/evidência:** apresentação; avaliação da AP1; repositório congelado; devolutiva.
