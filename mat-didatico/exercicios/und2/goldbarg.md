@@ -4,7 +4,7 @@ Fonte: `livros/Goldbarg2012.pdf`.
 
 ## Critérios de extração
 
-- Seleção alinhada aos assuntos de `mat/exs/und2/orientacao_estudo.md`, seção `Assuntos Para Estudar`.
+- Seleção alinhada aos assuntos de `mat-didatico/exercicios/und2/orientacao_estudo.md`, seção `Assuntos Para Estudar`.
 - Páginas de soluções no final do PDF foram evitadas.
 - Cada exercício inclui texto extraído e crop da região do exercício quando disponível, para preservar figuras, tabelas e dados gráficos.
 - Quando a extração textual apresentar ruído de OCR/fonte, priorizar o crop como dado visual de conferência.
@@ -963,48 +963,48 @@ Imagens / dados gráficos:
 
 ### Imagens geradas
 
-- `mat/exs/und2/imgs/goldbarg_cap1_ex01_p81_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap1_ex03_p82_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap1_ex10_p83_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap1_ex15_p85_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap1_ex16_p85_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex01_p269_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex03_p269_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex03_p270_2.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex05_p270_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex06_p270_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex07_p270_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex08_p270_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex08_p271_2.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex09_p271_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex10_p271_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex16_p273_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex17_p273_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex18_p273_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap4_ex19_p273_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap5_ex09_p362_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap5_ex10_p362_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap5_ex10_p363_2.png`
-- `mat/exs/und2/imgs/goldbarg_cap5_ex11_p363_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex01_p480_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex02_p480_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex03_p480_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex04_p480_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex05_p480_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex05_p481_2.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex06_p481_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex07_p481_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex07_p482_2.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex08_p482_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex09_p482_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex09_p483_2.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex10_p483_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex11_p483_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex12_p483_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex13_p483_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex14_p483_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex14_p484_2.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex15_p484_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap7_ex15_p485_2.png`
-- `mat/exs/und2/imgs/goldbarg_cap9_ex01_p613_1.png`
-- `mat/exs/und2/imgs/goldbarg_cap9_ex02_p613_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap1_ex01_p81_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap1_ex03_p82_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap1_ex10_p83_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap1_ex15_p85_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap1_ex16_p85_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex01_p269_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex03_p269_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex03_p270_2.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex05_p270_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex06_p270_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex07_p270_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex08_p270_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex08_p271_2.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex09_p271_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex10_p271_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex16_p273_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex17_p273_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex18_p273_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap4_ex19_p273_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap5_ex09_p362_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap5_ex10_p362_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap5_ex10_p363_2.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap5_ex11_p363_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex01_p480_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex02_p480_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex03_p480_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex04_p480_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex05_p480_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex05_p481_2.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex06_p481_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex07_p481_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex07_p482_2.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex08_p482_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex09_p482_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex09_p483_2.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex10_p483_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex11_p483_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex12_p483_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex13_p483_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex14_p483_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex14_p484_2.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex15_p484_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap7_ex15_p485_2.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap9_ex01_p613_1.png`
+- `mat-didatico/exercicios/und2/imgs/goldbarg_cap9_ex02_p613_1.png`

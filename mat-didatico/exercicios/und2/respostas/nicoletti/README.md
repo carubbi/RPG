@@ -1,10 +1,10 @@
 # Respostas - Nicoletti
 
-Este diretório reúne as respostas didáticas dos exercícios selecionados de Nicoletti em `mat/exs/und2/nicoletti.md`.
+Este diretório reúne as respostas didáticas dos exercícios selecionados de Nicoletti em `mat-didatico/exercicios/und2/nicoletti.md`.
 
 ## Fluxo adotado
 
-- Quando uma figura contiver vários grafos, primeiro gerar recortes individuais com as ferramentas da `.venv`, preferencialmente `Pillow`, e salvar os recortes em `mat/exs/und2/respostas/nicoletti/imgs/`.
+- Quando uma figura contiver vários grafos, primeiro gerar recortes individuais com as ferramentas da `.venv`, preferencialmente `Pillow`, e salvar os recortes em `mat-didatico/exercicios/und2/respostas/nicoletti/imgs/`.
 - Inserir o recorte correspondente antes da lista de adjacência de cada grafo, para reduzir ambiguidade visual e facilitar a aprovação.
 - Exercícios com grafo em imagem começam pela leitura do grafo e pela lista de adjacência proposta.
 - A resolução desses exercícios só deve ser escrita depois da aprovação explícita da lista de adjacência.

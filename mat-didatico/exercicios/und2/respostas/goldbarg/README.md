@@ -7,7 +7,7 @@ Não há resolução autoral, comentário didático, complementação interpreta
 ## Fonte
 
 - PDF: `livros/Goldbarg2012.pdf`.
-- Enunciados de referência: `mat/exs/und2/goldbarg.md`.
+- Enunciados de referência: `mat-didatico/exercicios/und2/goldbarg.md`.
 - Faixas consultadas: cap. 1 p. 632-640; cap. 4 p. 660-674; cap. 5 p. 675-685; cap. 7 p. 695-703; cap. 9 p. 705-706.
 
 ## Arquivos

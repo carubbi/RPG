@@ -1519,7 +1519,7 @@ sorvedouro `5`:
 
 Trace computado das estruturas de dados a partir da implementação de caminho
 aumentante mais curto em `algs4.FordFulkerson` usando
-`mat/exs/und3/FordFulkerson/FordFulkersonTrace.java`. Como o caminho aumentante é
+`mat-didatico/exercicios/und3/FordFulkerson/FordFulkersonTrace.java`. Como o caminho aumentante é
 encontrado por BFS na rede residual, essa implementação segue a estratégia de
 Edmonds-Karp.
 

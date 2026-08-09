@@ -130,7 +130,7 @@ Neste repositório, `algs4-java` funciona como base Java simplificada para a dis
 - comparar com o subconjunto Python em `algs4-py`
 - reutilizar ideias, nomes e convenções do livro em exercícios e aulas
 
-Ele não substitui o material de exercícios em `mat/exs/`.
+Ele não substitui o material de exercícios em `mat-didatico/exercicios/`.
 
 ## Como executar
 
