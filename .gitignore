@@ -1,20 +1,17 @@
-# Ignorar arquivos e pastas específicos
-.venv
-.DS_Store
-.env
-__pycache__
-.codex
-
-# pastas locais
-docs/
-plan/
-/bkp/
-/prof/
-/algs4-java/tests/
-/build/
+# conteúdo local e configurações de ferramentas
+/.interno/
+/.codex/
 /.vscode/
 
-# artefatos compilados
+# ambientes, segredos e arquivos do sistema
+/.venv/
+.env
+.DS_Store
+
+# caches e artefatos gerados
+__pycache__/
+*.py[cod]
+/build/
 *.class
 
 # datasets oficiais grandes do algs4
