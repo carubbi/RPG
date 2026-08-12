@@ -3,45 +3,45 @@
 ## Agosto
 
 **Data:** 03/08/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Apresentação da disciplina, metodologia e avaliações; introdução à modelagem de problemas com grafos.
+**Conteúdo/Avaliação:** Apresentação da disciplina, metodologia e avaliações; modelagem de situações como grafos pela identificação de entidades, relações, vértices e arestas.
 **Projeto de ensino:** 01.01
 
 **Data:** 05/08/2026 (quarta-feira)
-**Conteúdo/Avaliação:** Conceitos iniciais: vértices, arestas, ordem, tamanho, densidade, grau, adjacência, incidência, ponte, subgrafo e ciclo.
+**Conteúdo/Avaliação:** Construção manual de grafos; cálculo de ordem, tamanho, grau e densidade; identificação de adjacência, incidência, pontes, subgrafos e ciclos.
 **Projeto de ensino:** 01.01; 01.02
 
 **Data:** 10/08/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Tipos e propriedades de grafos: grafos simples, multigrafos, dígrafos, grafos ponderados, completos, bipartidos, planares e conexos.
+**Conteúdo/Avaliação:** Classificação justificada de grafos quanto a orientação, pesos, rótulos, laços, arestas paralelas, regularidade, completude, bipartição, planaridade e conectividade.
 **Projeto de ensino:** 01.01; 01.02
 
 **Data:** 12/08/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T1 - modelagem do problema, configuração do ambiente e acompanhamento da formulação inicial.
+**Conteúdo/Avaliação:** T1 - definição do enunciado, entrada, saída, restrições, vértices, arestas e tipo do grafo; configuração do ambiente e registro da modelagem inicial.
 **Projeto de ensino:** 01.01; 01.02
 
 **Data:** 17/08/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Representações computacionais: matrizes e listas de adjacência e incidência; custos de espaço e operações.
+**Conteúdo/Avaliação:** Comparação entre matrizes e listas de adjacência e incidência; análise dos custos de armazenamento, inserção, consulta e percurso dos vizinhos.
 **Projeto de ensino:** 01.02; 01.03
 
 **Data:** 19/08/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T1 - construção e validação da representação computacional do problema.
+**Conteúdo/Avaliação:** T1 - implementação da leitura da entrada e da representação do grafo; validação da estrutura com uma instância pequena.
 **Projeto de ensino:** 01.02; 01.03
 
 **Data:** 24/08/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Busca em profundidade: estados de visita, árvore de busca, tempos, alcançabilidade, caminhos, correção e complexidade.
+**Conteúdo/Avaliação:** Construção e rastreamento da busca em profundidade; registro de estados, predecessores e tempos; análise de alcançabilidade, caminhos, correção e complexidade.
 **Projeto de ensino:** 02.01
 
 **Data:** 26/08/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T1 - aplicação e rastreamento da busca em profundidade no problema atribuído.
+**Conteúdo/Avaliação:** T1 - adaptação da busca em profundidade ao problema atribuído; execução manual, teste de alcançabilidade e registro da aplicabilidade da busca.
 **Projeto de ensino:** 02.01
 
 **Data:** 31/08/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Busca em largura: níveis, predecessores, distâncias, reconstrução de caminhos, correção e complexidade.
+**Conteúdo/Avaliação:** Construção e rastreamento da busca em largura com fila; cálculo de níveis, distâncias e predecessores; reconstrução de caminhos e comparação com DFS.
 **Projeto de ensino:** 02.01
 
 ## Setembro
 
 **Data:** 02/09/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T1 - aplicação de BFS, conclusão, testes e revisão dos conteúdos da AT1.
+**Conteúdo/Avaliação:** T1 - adaptação de BFS ou justificativa da escolha por DFS; integração da solução, testes, análise de complexidade e revisão da AT1.
 **Projeto de ensino:** 01.01; 01.02; 01.03; 02.01
 
 **Data:** 07/09/2026 (segunda-feira)
@@ -57,33 +57,33 @@
 **Projeto de ensino:** 01.01; 01.02; 01.03; 02.01
 
 **Data:** 16/09/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T2 - atribuição do problema, modelagem inicial e relação com DFS/BFS.
+**Conteúdo/Avaliação:** T2 - modelagem do problema atribuído, identificação da propriedade estrutural necessária e construção de uma instância pequena relacionada a DFS ou BFS.
 **Projeto de ensino:** 02.01
 
 **Data:** 21/09/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Percursos e conectividade: passeio, trilha, caminho, ciclo, circuito, componentes, pontes e articulações.
+**Conteúdo/Avaliação:** Formalização de passeios, trilhas, caminhos, ciclos e circuitos; identificação de componentes, ciclos, pontes e articulações por busca em profundidade.
 **Projeto de ensino:** 02.01; 02.02
 
 **Data:** 23/09/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T2 - aplicação de propriedades de conectividade, execução manual, adaptação e testes.
+**Conteúdo/Avaliação:** T2 - adaptação da propriedade de conectividade pertinente; execução na instância pequena, testes e registro do resultado.
 **Projeto de ensino:** 02.01; 02.02
 
 **Data:** 28/09/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Grafos eulerianos e hamiltonianos; Fleury; Hierholzer; caixeiro viajante e carteiro chinês.
+**Conteúdo/Avaliação:** Verificação das condições de existência de caminhos e circuitos eulerianos; execução de Hierholzer; delimitação de problemas hamiltonianos, caixeiro viajante e carteiro chinês.
 **Projeto de ensino:** 02.02
 
 **Data:** 30/09/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T2 - aplicação de propriedades de percursos, adaptação da solução e testes.
+**Conteúdo/Avaliação:** T2 - adaptação do algoritmo ou critério de percurso pertinente; execução manual, integração da solução, testes e análise de complexidade.
 **Projeto de ensino:** 02.02
 
 ## Outubro
 
 **Data:** 05/10/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Coloração, emparelhamento e isomorfismo: conceitos, critérios e delimitação dos problemas.
+**Conteúdo/Avaliação:** Execução de 2-coloração; identificação de caminhos aumentantes em emparelhamentos; uso de invariantes estruturais e delimitação do isomorfismo geral.
 **Projeto de ensino:** 02.03
 
 **Data:** 07/10/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T2 - aplicação de relações estruturais, testes, conclusão e preparação da apresentação.
+**Conteúdo/Avaliação:** T2 - adaptação do critério estrutural pertinente; integração da solução, testes, análise de complexidade e preparação da apresentação.
 **Projeto de ensino:** 02.03
 
 **Data:** 12/10/2026 (segunda-feira)
@@ -95,11 +95,11 @@
 **Projeto de ensino:** 02.01; 02.02; 02.03
 
 **Data:** 19/10/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Árvore geradora mínima: propriedade do corte, Kruskal, Prim, Union-Find, correção e complexidade.
+**Conteúdo/Avaliação:** Construção de árvores geradoras mínimas com Kruskal e Prim; aplicação da propriedade do corte, uso de Union-Find e comparação das complexidades.
 **Projeto de ensino:** 03.01
 
 **Data:** 21/10/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/MST - formulação e modelagem do problema (40 min); revisão da AT2 (60 min).
+**Conteúdo/Avaliação:** T3/MST - formulação do problema, construção de uma instância pequena e adaptação inicial de Kruskal ou Prim ao grafo ponderado (40 min); resolução comentada de problemas da AT2 (60 min).
 **Projeto de ensino:** 02.01; 02.02; 02.03; 03.01
 
 **Data:** 26/10/2026 (segunda-feira)
@@ -117,19 +117,19 @@
 **Projeto de ensino:**
 
 **Data:** 04/11/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3 - devolutiva de MST e preparação do repositório de caminho mínimo.
+**Conteúdo/Avaliação:** T3 - análise da entrega de MST; distinção entre custo de conexão e custo de rota; criação do repositório e preparação da entrada do problema de caminho mínimo.
 **Projeto de ensino:** 03.01; 03.02
 
 **Data:** 09/11/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Caminhos mínimos: relaxamento, Dijkstra, fila de prioridade, correção, complexidade e aplicabilidade.
+**Conteúdo/Avaliação:** Execução de relaxamentos e de Dijkstra com fila de prioridade; construção da árvore de caminhos mínimos e análise da restrição de pesos não negativos.
 **Projeto de ensino:** 03.02
 
 **Data:** 11/11/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/caminho mínimo - formulação, modelagem, instância pequena e validação da representação.
+**Conteúdo/Avaliação:** T3/caminho mínimo - formulação de origem, destino, direção e pesos; construção de uma instância pequena; implementação do grafo ponderado e adaptação inicial de Dijkstra.
 **Projeto de ensino:** 03.02
 
 **Data:** 16/11/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Bellman-Ford e Floyd-Warshall: pesos negativos, ciclos negativos, todos os pares, correção e complexidade.
+**Conteúdo/Avaliação:** Rastreamento de Bellman-Ford e Floyd-Warshall; detecção de ciclos negativos, atualização das distâncias entre todos os pares e comparação com Dijkstra.
 **Projeto de ensino:** 03.02
 
 **Data:** 18/11/2026 (quarta-feira)
@@ -137,15 +137,15 @@
 **Projeto de ensino:** 03.02
 
 **Data:** 23/11/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Fluxo máximo: capacidades, conservação, rede residual, caminhos aumentantes, Ford-Fulkerson, Edmonds-Karp e corte mínimo.
+**Conteúdo/Avaliação:** Construção da rede residual; execução de caminhos aumentantes e gargalos com Ford-Fulkerson e Edmonds-Karp; relação entre fluxo máximo e corte mínimo.
 **Projeto de ensino:** 03.03
 
 **Data:** 25/11/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/fluxo máximo - formulação, modelagem, instância pequena e representação da rede.
+**Conteúdo/Avaliação:** T3/fluxo máximo - formulação da fonte, sorvedouro, capacidades e conservação; construção de uma instância pequena; implementação da rede capacitada e adaptação inicial de Ford-Fulkerson.
 **Projeto de ensino:** 03.03
 
 **Data:** 30/11/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Revisão da AT3: MST, caminhos mínimos, fluxo máximo, aplicabilidade, correção e complexidade.
+**Conteúdo/Avaliação:** Revisão da AT3 por resolução comentada de problemas que exigem selecionar o algoritmo, verificar sua aplicabilidade e determinar correção e complexidade.
 **Projeto de ensino:** 03.01; 03.02; 03.03
 
 ## Dezembro
