@@ -185,119 +185,114 @@
 
 ### Unidade III — Otimizar grafos ponderados (38h)
 
-#### Semana 12 — Revisão teórica para a AT2 e início do T3 — 19–22/10
+#### Semana 12 — MST, formulação do T3 e revisão da AT2 — 19–22/10
 
 - **Datas:** teórica em 19/10 (seg.); prática em 21/10 (qua.).
-- **Aula teórica — revisão teórica para a AT2:** buscas; percursos; conectividade; componentes; cortes; grafos eulerianos e hamiltonianos; problemas clássicos; coloração; emparelhamento; isomorfismo; correção; complexidade; dúvidas.
-- **Aula prática — formulação e representação preliminar do T3:** classes de otimização; seleção e atribuição dos problemas; objetivo; entrada; saída; restrições; vértices; arestas; direção; pesos ou capacidades; classe preliminar de otimização; orientação do marco 1.
-- **Acompanhamento 1 — Formulação e representação preliminar (evidência pontuada):** problema atribuído; objetivo; entrada; saída; restrições; modelo do grafo; pesos ou capacidades; classe preliminar; instância pequena; validação oral e registro no repositório.
-- **Projeto de ensino:** 02.01 — Algoritmos de busca (revisão); 02.02 — Grafos não dirigidos e dirigidos (revisão); 02.03 — Introdução aos problemas clássicos (revisão); 03.01 — Problema da árvore de cobertura mínima (modelagem preliminar); 03.02 — Problema do caminho mínimo (modelagem preliminar); 03.03 — Problema do fluxo máximo em redes (modelagem preliminar).
+- **Aula teórica — árvores geradoras mínimas:** propriedade do corte; Kruskal; Prim; Union-Find; correção; complexidade; execução guiada.
+- **Aula prática — formulação de MST e revisão da AT2:** 40 minutos para objetivo, entrada, saída, restrições, vértices, arestas, pesos e instância pequena do problema de MST; 60 minutos para revisão de buscas, conectividade, percursos, problemas clássicos, correção e complexidade.
+- **Acompanhamento — Formulação e modelagem de MST (evidência pontuada):** problema atribuído; objetivo; entrada; saída; restrições; modelo ponderado; instância pequena; validação oral e registro no repositório de MST.
+- **Projeto de ensino:** 02.01 — Algoritmos de busca (revisão); 02.02 — Grafos não dirigidos e dirigidos (revisão); 02.03 — Introdução aos problemas clássicos (revisão); 03.01 — Problema da árvore de cobertura mínima.
 - **Recursos:**
   - **Estruturas de dados:** [`Bag.java`](../../algs4-java/algs4/Bag.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
   - **Estruturas e representações:** [`Edge.java`](../../algs4-java/algs4/Edge.java), [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java), [`EdgeWeightedGraph.java`](../../algs4-java/algs4/EdgeWeightedGraph.java) e [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java).
   - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt), [`largeEWG.txt`](https://algs4.cs.princeton.edu/43mst/largeEWG.txt), [`tinyEWD.txt`](../../dataset/tinyEWD.txt), [`mediumEWD.txt`](../../dataset/mediumEWD.txt) e [`largeEWD.txt`](https://algs4.cs.princeton.edu/44sp/largeEWD.txt).
-- **Produto/evidência:** revisão da Unidade II; problema atribuído; formulação; representação preliminar; instância pequena.
+- **Produto/evidência:** formulação e modelagem de MST; instância pequena; revisão da AT2.
 
-#### Semana 13 — AT2 e introdução a MST no T3 — 26–29/10
+#### Semana 13 — AT2 e apresentação de MST — 26–29/10
 
-- **Datas:** AT2 em 26/10 (seg.); prática integrada em 28/10 (qua.).
+- **Datas:** AT2 em 26/10 (seg.); apresentação em 28/10 (qua.).
 - **Aula teórica — AT2:** dez questões objetivas estilo ENADE; AVA/Moodle; conectividade; grafos dirigidos e não dirigidos; problemas clássicos; encontro integral; liberação posterior da nota e das justificativas.
-- **Aula prática — introdução a MST e representação do T3:** 40 minutos: conexão global de custo mínimo; árvore geradora; peso total; distinção entre MST e caminhos mínimos; 60 minutos: representação computacional; instância pequena; entrada e saída esperada; orientação do marco 2.
-- **Acompanhamento 2 — Representação e validação (evidência pontuada):** representação computacional; instância pequena; entrada e saída esperada; classe de otimização; validação oral e registro no repositório.
-- **Projeto de ensino:** 02.01 — Algoritmos de busca (avaliação); 02.02 — Grafos não dirigidos e dirigidos (avaliação); 02.03 — Introdução aos problemas clássicos (avaliação); 03.01 — Problema da árvore de cobertura mínima (introdução); 03.02 — Problema do caminho mínimo (representação preliminar); 03.03 — Problema do fluxo máximo em redes (representação preliminar).
+- **Aula prática — apresentação e entrega de MST em 28/10:** encontro integral destinado às apresentações; envio do link do repositório de MST no AVA/Moodle até 23h59.
+- **Avaliação da entrega de MST:** formulação; modelagem; algoritmo; complexidade; testes; `Accepted`; organização e reprodutibilidade do repositório; comunicação.
+- **Projeto de ensino:** 02.01 — Algoritmos de busca (avaliação); 02.02 — Grafos não dirigidos e dirigidos (avaliação); 02.03 — Introdução aos problemas clássicos (avaliação); 03.01 — Problema da árvore de cobertura mínima (aplicação).
 - **Recursos:**
   - **Estruturas de dados:** [`Bag`](../../algs4-py/algs4/bag.py), [`Bag.java`](../../algs4-java/algs4/Bag.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
   - **Estruturas e representações:** [`Edge.java`](../../algs4-java/algs4/Edge.java), [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java), [`EdgeWeightedGraph`](../../algs4-py/algs4/edge_weighted_graph.py), [`EdgeWeightedGraph.java`](../../algs4-java/algs4/EdgeWeightedGraph.java), [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py) e [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java).
   - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt), [`largeEWG.txt`](https://algs4.cs.princeton.edu/43mst/largeEWG.txt), [`tinyEWD.txt`](../../dataset/tinyEWD.txt), [`mediumEWD.txt`](../../dataset/mediumEWD.txt) e [`largeEWD.txt`](https://algs4.cs.princeton.edu/44sp/largeEWD.txt).
-- **Produto/evidência:** registro da AT2; representação computacional validada; classe de otimização reconhecida.
+- **Produto/evidência:** registro da AT2; apresentação de MST; primeiro repositório entregue.
 
-#### Semana 14 — Árvores geradoras mínimas e desenvolvimento do T3 — 02–05/11
+#### Semana 14 — Feriado, devolutiva de MST e preparação para caminhos mínimos — 02–05/11
 
 - **Datas:** **02/11 — Dia de Finados — feriado, sem aula**; prática integrada em 04/11 (qua.).
 - **Aula teórica — feriado:** sem encontro.
-- **Aula prática — árvores geradoras mínimas e aplicação integrada:** 60 minutos: propriedade do corte; Kruskal; Prim; Union-Find; correção; complexidade; 40 minutos: execução guiada.
-- **Acompanhamento 3 — Escolha do algoritmo de MST (evidência pontuada):** algoritmo; aplicabilidade; propriedade central; execução manual; complexidade; validação oral e registro no repositório.
-- **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima.
+- **Aula prática — devolutiva de MST e preparação para caminhos mínimos:** análise dos resultados da primeira entrega; distinção entre custo de conexão global e custo de uma rota; preparação dos ambientes e repositórios da segunda entrega.
+- **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (devolutiva); 03.02 — Problema do caminho mínimo (preparação).
 - **Recursos:**
   - **Estruturas de dados:** `collections.deque`, [`MinPQ`](../../algs4-py/algs4/min_pq.py), [`MinPQ.java`](../../algs4-java/algs4/MinPQ.java), [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py), [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java), [`Queue.java`](../../algs4-java/algs4/Queue.java), [`UF`](../../algs4-py/algs4/uf.py) e [`UF.java`](../../algs4-java/algs4/UF.java).
   - **Algoritmos:** [`KruskalMST`](../../algs4-py/algs4/kruskal_mst.py), [`KruskalMST.java`](../../algs4-java/algs4/KruskalMST.java), [`PrimMST`](../../algs4-py/algs4/prim_mst.py), [`PrimMST.java`](../../algs4-java/algs4/PrimMST.java) e [`LazyPrimMST.java`](../../algs4-java/algs4/LazyPrimMST.java).
   - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt), [`largeEWG.txt`](https://algs4.cs.princeton.edu/43mst/largeEWG.txt), [`tinyUF.txt`](../../dataset/tinyUF.txt), [`mediumUF.txt`](../../dataset/mediumUF.txt), [`largeUF.txt`](https://algs4.cs.princeton.edu/15uf/largeUF.txt) e [`tinyPQ.txt`](../../dataset/tinyPQ.txt).
-- **Produto/evidência:** escolha algorítmica; execução manual; árvore e custo validados; adaptação parcial.
+- **Produto/evidência:** devolutiva de MST; preparação do repositório de caminho mínimo.
 
-#### Semana 15 — Dijkstra e caminhos mínimos no T3 — 09–12/11
+#### Semana 15 — Dijkstra e formulação de caminhos mínimos — 09–12/11
 
 - **Datas:** teórica em 09/11 (seg.); prática em 11/11 (qua.).
 - **Aula teórica — caminhos mínimos com Dijkstra:** origem; destino; minimização da soma dos pesos; caminho e custo; relaxamento; Dijkstra; fila de prioridade indexada; pesos não negativos; correção; complexidade.
-- **Aula prática — Dijkstra e conclusão de MST no T3:** relaxações; rastreamento; adaptação de MST; orientação dos marcos 3 e 4 de caminhos mínimos; comparação de objetivos com fluxo máximo.
-- **Acompanhamento 4 — Adaptação e integração de MST (evidência pontuada):** implementação de referência; alterações justificadas; dependências; execução reproduzível; testes; validação oral e registro no repositório.
-- **Acompanhamento 3 — Escolha do algoritmo de caminhos mínimos (evidência pontuada):** algoritmo; aplicabilidade; relaxamento; complexidade; validação oral e registro no repositório.
-- **Acompanhamento 4 — Adaptação e integração de caminhos mínimos (evidência pontuada):** implementação de referência; alterações justificadas; dependências; execução reproduzível; validação oral e registro no repositório.
-- **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (aplicação); 03.02 — Problema do caminho mínimo (Dijkstra).
+- **Aula prática — formulação e modelagem de caminho mínimo:** objetivo; origem e destino; entrada; saída; restrições; direção; pesos; instância pequena; entrada e saída esperada; escolha preliminar da representação.
+- **Acompanhamento — Formulação e modelagem de caminho mínimo (evidência pontuada):** problema atribuído; modelo; instância pequena; condição de aplicabilidade; validação oral e registro no repositório de caminho mínimo.
+- **Projeto de ensino:** 03.02 — Problema do caminho mínimo (Dijkstra e aplicação).
 - **Recursos:**
   - **Estruturas de dados:** [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py), [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
   - **Algoritmos:** [`DijkstraSP`](../../algs4-py/algs4/dijkstra_sp.py), [`DijkstraSP.java`](../../algs4-java/algs4/DijkstraSP.java) e [`DijkstraUndirectedSP.java`](../../algs4-java/algs4/DijkstraUndirectedSP.java).
   - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWD.txt`](../../dataset/tinyEWD.txt), [`mediumEWD.txt`](../../dataset/mediumEWD.txt), [`largeEWD.txt`](https://algs4.cs.princeton.edu/44sp/largeEWD.txt), [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt) e [`largeEWG.txt`](https://algs4.cs.princeton.edu/43mst/largeEWG.txt).
-- **Produto/evidência:** MST: adaptação e testes; caminhos mínimos: escolha algorítmica, relaxamentos, adaptação parcial e condição de aplicabilidade; fluxo máximo: comparação de objetivos.
+- **Produto/evidência:** formulação e modelagem de caminho mínimo; instância pequena; representação validada.
 
-#### Semana 16 — Fluxo máximo e redes no T3 — 16–19/11
+#### Semana 16 — Aprofundamento e apresentação de caminhos mínimos — 16–19/11
 
 - **Datas:** teórica em 16/11 (seg.); prática em 18/11 (qua.).
-- **Aula teórica — fluxo máximo em redes:** fonte; sorvedouro; capacidade; conservação; maximização do fluxo; capacidade residual; arestas residuais diretas e reversas; caminhos aumentantes; gargalo; atualização do fluxo; corte mínimo; Ford-Fulkerson; Edmonds-Karp por BFS; correção; complexidade.
-- **Aula prática — aplicação de fluxo máximo no T3:** construção da rede com `FlowEdge` e `FlowNetwork`; caminhos aumentantes; gargalos; atualização do fluxo; execução manual; orientação dos marcos 3 e 4 de fluxo máximo; comparação de objetivos com MST e caminhos mínimos.
-- **Acompanhamento 3 — Escolha do algoritmo de fluxo máximo (evidência pontuada):** algoritmo; aplicabilidade; operação central; complexidade; validação oral e registro no repositório.
-- **Acompanhamento 4 — Adaptação e integração de fluxo máximo (evidência pontuada):** implementação de referência; alterações justificadas; rede residual; execução reproduzível; validação oral e registro no repositório.
-- **Projeto de ensino:** 03.03 — Problema do fluxo máximo em redes (Ford-Fulkerson).
+- **Aula teórica — Bellman–Ford e Floyd–Warshall:** pesos negativos; relaxamento repetido; detecção de ciclos negativos; caminhos mínimos entre todos os pares; atualização da matriz de distâncias; correção; complexidade; comparação com Dijkstra.
+- **Aula prática — apresentação e entrega de caminho mínimo em 18/11:** encontro integral destinado às apresentações; envio do link do repositório de caminho mínimo no AVA/Moodle até 23h59.
+- **Avaliação da entrega de caminho mínimo:** formulação; modelagem; algoritmo; complexidade; testes; `Accepted`; organização e reprodutibilidade do repositório; comunicação.
+- **Projeto de ensino:** 03.02 — Problema do caminho mínimo (Bellman–Ford, Floyd–Warshall e aplicação).
+- **Recursos:**
+  - **Estruturas de dados:** `collections.deque`, [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java), [`Queue.java`](../../algs4-java/algs4/Queue.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
+  - **Estruturas e representações:** [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java), [`DirectedEdge`](../../algs4-py/algs4/directed_edge.py), [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java) e [`AdjMatrixEdgeWeightedDigraph.java`](../../algs4-java/algs4/AdjMatrixEdgeWeightedDigraph.java).
+  - **Algoritmos:** [`BellmanFordSP`](../../algs4-py/algs4/bellman_ford_sp.py), [`BellmanFordSP.java`](../../algs4-java/algs4/BellmanFordSP.java), [`FloydWarshall.java`](../../algs4-java/algs4/FloydWarshall.java) e [`DijkstraAllPairsSP.java`](../../algs4-java/algs4/DijkstraAllPairsSP.java).
+  - **Dados:** [`tinyEWDn.txt`](../../dataset/tinyEWDn.txt), [`tinyEWDnc.txt`](../../dataset/tinyEWDnc.txt) e [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
+- **Produto/evidência:** apresentação de caminho mínimo; segundo repositório entregue.
+
+#### Semana 17 — Fluxo máximo e formulação da terceira entrega — 23–26/11
+
+- **Datas:** teórica em 23/11 (seg.); prática em 25/11 (qua.).
+- **Aula teórica — fluxo máximo em redes:** fonte; sorvedouro; capacidade; conservação; rede residual; caminhos aumentantes; gargalo; corte mínimo; Ford-Fulkerson; Edmonds-Karp; correção; complexidade.
+- **Aula prática — formulação e modelagem de fluxo máximo:** objetivo; fonte; sorvedouro; capacidades; conservação; instância pequena; entrada e saída esperada; representação da rede.
+- **Acompanhamento — Formulação e modelagem de fluxo máximo (evidência pontuada):** problema atribuído; modelo da rede; instância pequena; validação oral e registro no repositório de fluxo máximo.
+- **Projeto de ensino:** 03.03 — Problema do fluxo máximo em redes.
 - **Recursos:**
   - **Estruturas de dados:** [`Bag.java`](../../algs4-java/algs4/Bag.java) e [`Queue.java`](../../algs4-java/algs4/Queue.java).
   - **Estruturas e representações:** [`FlowEdge.java`](../../algs4-java/algs4/FlowEdge.java) e [`FlowNetwork.java`](../../algs4-java/algs4/FlowNetwork.java).
   - **Algoritmos:** [`FordFulkerson.java`](../../algs4-java/algs4/FordFulkerson.java).
-  - **Dados:** [`tobe.txt`](../../dataset/tobe.txt) e [`tinyFN.txt`](../../dataset/tinyFN.txt).
-- **Produto/evidência:** fluxo máximo: escolha algorítmica, caminhos aumentantes, gargalos, fluxo parcial e rede residual; MST e caminhos mínimos: comparação de objetivos; acompanhamento.
+  - **Dados:** [`tinyFN.txt`](../../dataset/tinyFN.txt).
+- **Produto/evidência:** formulação e modelagem de fluxo máximo; instância pequena; rede validada.
 
-#### Semana 17 — Bellman–Ford, Floyd–Warshall e validação do T3 — 23–26/11
-
-- **Datas:** teórica em 23/11 (seg.); prática em 25/11 (qua.).
-- **Aula teórica — caminhos mínimos com Bellman–Ford e Floyd–Warshall:** 50 minutos: pesos negativos; relaxamento repetido; Bellman-Ford; detecção de ciclos negativos; 40 minutos: caminhos mínimos entre todos os pares; vértices intermediários; atualização da matriz de distâncias; Floyd-Warshall; ciclo negativo pela diagonal; 10 minutos: comparação com Dijkstra.
-- **Aula prática — validação do T3:** testes; diagnóstico; orientação do marco 5.
-- **Acompanhamento 5 — Testes e análise (evidência pontuada):** instância pequena; casos-limite; impossibilidade quando aplicável; diagnóstico; complexidade; validação oral e registro no repositório.
-- **Projeto de ensino:** 03.02 — Problema do caminho mínimo (Bellman-Ford e Floyd-Warshall); 03.03 — Problema do fluxo máximo em redes (aplicação).
-- **Recursos:**
-  - **Estruturas de dados:** `collections.deque`, [`Bag`](../../algs4-py/algs4/bag.py), [`Bag.java`](../../algs4-java/algs4/Bag.java), [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java), [`Queue.java`](../../algs4-java/algs4/Queue.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
-  - **Estruturas e representações:** [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java), [`DirectedEdge`](../../algs4-py/algs4/directed_edge.py), [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java) e [`AdjMatrixEdgeWeightedDigraph.java`](../../algs4-java/algs4/AdjMatrixEdgeWeightedDigraph.java).
-  - **Algoritmos:** [`BellmanFordSP`](../../algs4-py/algs4/bellman_ford_sp.py), [`BellmanFordSP.java`](../../algs4-java/algs4/BellmanFordSP.java), [`EdgeWeightedDirectedCycle.java`](../../algs4-java/algs4/EdgeWeightedDirectedCycle.java), [`FloydWarshall.java`](../../algs4-java/algs4/FloydWarshall.java) e [`DijkstraAllPairsSP.java`](../../algs4-java/algs4/DijkstraAllPairsSP.java).
-  - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWDn.txt`](../../dataset/tinyEWDn.txt), [`tinyEWDnc.txt`](../../dataset/tinyEWDnc.txt), [`tinyEWD.txt`](../../dataset/tinyEWD.txt), [`mediumEWD.txt`](../../dataset/mediumEWD.txt) e [`largeEWD.txt`](https://algs4.cs.princeton.edu/44sp/largeEWD.txt).
-- **Produto/evidência:** conjunto de testes; diagnóstico de divergências; comparação entre algoritmos; complexidade revisada.
-
-#### Semana 18 — Revisão teórica para a AT3 e conclusão do T3 — 30/11–02/12
+#### Semana 18 — Revisão para a AT3 e apresentação de fluxo máximo — 30/11–02/12
 
 - **Datas:** teórica em 30/11 (seg.); prática em 02/12 (qua.).
 - **Aula teórica — revisão teórica para a AT3:** MST; propriedade do corte; Kruskal; Prim; caminhos mínimos; relaxamento; Dijkstra; Bellman-Ford; Floyd-Warshall; fluxo máximo; Ford-Fulkerson; aplicabilidade; correção; complexidade; dúvidas.
-- **Aula prática — conclusão do T3 em 02/12:** verificação final; orientação do marco 6.
-- **Acompanhamento 6 — Submissão e comunicação (evidência pontuada; 02/12):** `Accepted`; `README.md`; evidência da submissão; organização do repositório; ensaio; validação oral e registro no repositório.
+- **Aula prática — apresentação e entrega de fluxo máximo em 02/12:** encontro integral destinado às apresentações; envio do link do repositório de fluxo máximo no AVA/Moodle até 23h59.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (síntese); 03.02 — Problema do caminho mínimo (síntese); 03.03 — Problema do fluxo máximo em redes (síntese).
 - **Recursos:**
-  - **Conclusão:** repositórios; resultados; evidências de submissão; apresentações.
-- **Produto/evidência:** síntese comparativa; submissão; comunicação; repositórios congelados.
+  - **Apresentação:** repositórios de fluxo máximo; resultados; evidências de submissão.
+- **Produto/evidência:** apresentação de fluxo máximo; terceiro repositório entregue; AP3 concluída.
 
-#### Semana 19 — AT3 e apresentação final do T3 — 07–09/12
+#### Semana 19 — AT3, devolutiva da AP3 e encerramento — 07–09/12
 
-- **Datas:** AT3 em 07/12 (seg.); apresentação em 09/12 (qua.).
+- **Datas:** AT3 em 07/12 (seg.); devolutiva e encerramento em 09/12 (qua.).
 - **Aula teórica — AT3:** dez questões objetivas estilo ENADE; AVA/Moodle; MST; caminhos mínimos; fluxo máximo; encontro integral; liberação posterior da nota e das justificativas.
-- **Aula prática — apresentação excepcional da AP3 em 09/12:** apresentações; avaliação; devolutiva; encerramento; encontro integral.
+- **Aula prática — devolutiva da AP3 em 09/12:** devolutiva das três entregas; síntese comparativa; encerramento.
 - **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (avaliação); 03.02 — Problema do caminho mínimo (avaliação); 03.03 — Problema do fluxo máximo em redes (avaliação).
 - **Recursos:**
   - **Apresentação e avaliação:** repositórios; apresentações; rubrica comum.
-- **Produto/evidência:** registro da AT3; avaliação da AP3; encerramento.
+- **Produto/evidência:** registro da AT3; devolutiva da AP3; encerramento.
 
 ## 5. Avaliações e entregas
 
 ### Regras gerais
 
-- A AP será composta pelo acompanhamento processual e pela apresentação de T1, T2 ou T3. Na semana 1, o encontro de quarta-feira será teórico e não integrará a AP1. Os encontros práticos oferecidos de 12/08 em diante e anteriores à apresentação produzirão evidência verificável.
+- A AP será composta pelo acompanhamento processual e pelas apresentações previstas em T1, T2 ou T3. Na semana 1, o encontro de quarta-feira será teórico e não integrará a AP1. Os encontros práticos oferecidos de 12/08 em diante e anteriores à respectiva apresentação produzirão evidência verificável.
 - Nenhum acompanhamento exigirá conceitos-base ainda não ensinados. Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos.
 - Cada apresentação ocupará um encontro prático integral. Para aproximadamente dez grupos, serão usados 10 minutos de abertura, dez ciclos de até 5 minutos de apresentação e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados.
 - Cada AT ocupará um encontro teórico integral e terá dez questões objetivas contextualizadas no estilo ENADE, aplicadas no AVA/Moodle. A nota e as justificativas serão liberadas somente após o encerramento.
-- A apresentação antecederá a AT, exceto na AV3, cuja apresentação ocorrerá em 09/12 após a AT3 por causa da janela institucional de 03 a 09/12.
+- No T3, cada uma das três apresentações ocupará um encontro prático integral e encerrará a entrega da classe correspondente.
 
 ### AV1
 
@@ -317,7 +312,7 @@
 
 ### AV3
 
-- **AP3/T3:** acompanhamentos de 21/10 a 25/11; acompanhamento final em 02/12; apresentação em 09/12.
+- **AP3/T3:** formulações em 21/10, 11/11 e 25/11; apresentações e entregas em 28/10, 18/11 e 02/12; devolutiva em 09/12.
 - **AT3:** 07/12; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** árvore geradora mínima, caminhos mínimos e fluxo máximo.
@@ -349,7 +344,7 @@ As janelas de segunda chamada não substituem automaticamente encontros regulare
 
 **Enunciado:** [T3 — Otimização em grafos](../trabalhos/T3.md).
 
-**Função:** AP3 processual com três classes de otimização e dez opções por grupo: MST, caminhos mínimos e fluxo máximo; aproximadamente dez problemas serão selecionados por oferta.
+**Função:** AP3 processual composta por três problemas por grupo, três repositórios independentes e três apresentações integrais: MST, caminhos mínimos e fluxo máximo.
 
 Os demais trabalhos da Unidade II serão usados como materiais complementares e não constituirão entregas avaliativas adicionais.
 

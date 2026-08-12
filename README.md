@@ -6,14 +6,16 @@ Material didático, implementações, datasets e trabalhos da disciplina.
 
 1. Confira as [turmas e os horários](mat-didatico/ensino/turmas_2026_2.md).
 2. Abra o cronograma correspondente: [turmas 09/19 e 62/63 — segundas e quartas](mat-didatico/ensino/cronograma_2026_2_turmas_09-19_62-63.md) ou [turmas 16/17 e 30/31 — terças e quintas](mat-didatico/ensino/cronograma_2026_2_turmas_16-17_30-31.md).
-3. Escolha a linguagem e execute o primeiro exemplo: [Python](algs4-py/guia_pratico.md) ou [Java](algs4-java/guia_pratico.md).
-4. Consulte o [índice dos trabalhos práticos](mat-didatico/trabalhos/README.md).
+3. Consulte o plano resumido da sua turma para lançamento no AVA: [turmas 09/19 e 62/63](mat-didatico/ensino/plano_ensino_2026_2_turmas_09-19_62-63.md) ou [turmas 16/17 e 30/31](mat-didatico/ensino/plano_ensino_2026_2_turmas_16-17_30-31.md).
+4. Escolha a linguagem e execute o primeiro exemplo: [Python](algs4-py/guia_pratico.md) ou [Java](algs4-java/guia_pratico.md).
+5. Consulte o [índice dos trabalhos práticos](mat-didatico/trabalhos/README.md).
 
 ## Disciplina e calendário
 
 - [Projeto de ensino 2026.2](mat-didatico/ensino/proj_ensino_2026.md)
 - [Calendário acadêmico 2026.2](mat-didatico/ensino/calendario_2026_2.md)
 - [Turmas e horários](mat-didatico/ensino/turmas_2026_2.md)
+- Planos resumidos: [turmas 09/19 e 62/63](mat-didatico/ensino/plano_ensino_2026_2_turmas_09-19_62-63.md) e [turmas 16/17 e 30/31](mat-didatico/ensino/plano_ensino_2026_2_turmas_16-17_30-31.md)
 
 ## Materiais de ensino
 

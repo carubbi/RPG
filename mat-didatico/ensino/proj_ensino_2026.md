@@ -192,12 +192,12 @@
 
 - **AT (Avaliação Teórica):** ocupará um encontro teórico integral e será composta por dez questões objetivas contextualizadas, de múltipla escolha e no estilo ENADE, aplicadas no AVA/Moodle, com ponderação de 70%. A nota e as justificativas das respostas serão disponibilizadas somente após o encerramento da avaliação.
 
-- **AP (Avaliação Prática):** será composta pelo acompanhamento processual e pela apresentação de um trabalho em grupo, desenvolvido em Java ou Python, com ponderação de 30%.
+- **AP (Avaliação Prática):** será composta pelo acompanhamento processual e por uma ou mais apresentações de trabalhos em grupo, desenvolvidos em Java ou Python, com ponderação de 30%.
 
   - **Construção guiada:** os algoritmos serão desenvolvidos e analisados pelo professor e disponibilizados como implementações de referência. Os grupos deverão compreender, rastrear, integrar e adaptar essas implementações ao problema atribuído, justificando as alterações. Não será exigida implementação integral a partir do zero.
   - **Equivalência entre linguagens:** a adaptação somente será exigida quando houver implementação de referência na linguagem escolhida. Na ausência dela, o professor deverá fornecê-la antes do acompanhamento ou restringir a atribuição.
   - **Acompanhamento processual:** ocorrerá nos encontros práticos oferecidos antes da apresentação. Cada encontro deverá atestar um conhecimento previamente ensinado por meio de evidência verificável, como modelagem, execução manual, representação, adaptação, integração, testes, análise de complexidade ou diagnóstico de erro.
-  - **Apresentação:** ocupará um encontro prático integral e avaliará modelagem, estratégia algorítmica, complexidade, casos especiais e comunicação da solução.
+  - **Apresentação:** ocupará um encontro prático integral e avaliará modelagem, estratégia algorítmica, complexidade, casos especiais e comunicação da solução. No T3, cada uma das três classes terá apresentação própria.
 
 - **AV (Avaliação Somativa):** resultante da composição entre a avaliação teórica AT e a avaliação prática AP.
 
@@ -205,20 +205,22 @@
 
 - **AV1:** AT sobre fundamentos da teoria dos grafos, tipos, representação computacional e algoritmos de busca; AP correspondente ao T1, transversal entre a Unidade I e o início da Unidade II, organizada em quatro marcos comuns de modelagem, representação computacional, aplicação básica de DFS e aplicação básica de BFS com conclusão.
 - **AV2:** AT sobre propriedades de grafos dirigidos e não dirigidos, conectividade e problemas clássicos; AP correspondente ao T2, organizada em bancos temáticos de buscas e conectividade, percursos e estruturas de ordem e relações estruturais.
-- **AV3:** AT sobre algoritmos de otimização em grafos ponderados; AP correspondente ao T3, organizada nas classes de árvore geradora mínima, caminhos mínimos e fluxo máximo.
+- **AV3:** AT sobre algoritmos de otimização em grafos ponderados; AP correspondente ao T3, composta por três problemas, três repositórios independentes e três apresentações: árvore geradora mínima, caminhos mínimos e fluxo máximo.
 
 ### Organização dos problemas
 
 - O T1 terá aproximadamente dez problemas distintos. Cada grupo receberá um problema que exija modelagem, representação computacional e aplicação básica de ao menos uma busca, com escolha justificada entre DFS e BFS, sem exigir o tratamento formal de percursos, conectividade ou propriedades estruturais da Unidade II.
 - O T2 terá dez problemas no total: quatro de buscas e conectividade, três de percursos e estruturas de ordem e três de relações estruturais.
-- O T3 manterá dez problemas em cada classe de otimização, totalizando trinta opções. Aproximadamente dez problemas serão selecionados em cada oferta, com equilíbrio de dificuldade e carga.
-- Cada grupo resolverá somente um problema por AP. A AT verificará a abrangência conceitual da unidade, enquanto a AP verificará a aplicação aprofundada no problema atribuído.
+- O T3 manterá dez problemas em cada classe de otimização, totalizando trinta opções. Cada grupo receberá um problema de árvore geradora mínima, um de caminhos mínimos e um de fluxo máximo, combinados com equilíbrio de dificuldade e carga.
+- Cada grupo resolverá somente um problema na AP1 e um problema na AP2. Na AP3, cada grupo resolverá três problemas e manterá um repositório público, independente e autocontido para cada solução.
+- No T3, cada problema será apresentado em um encontro prático integral. O link do respectivo repositório será enviado no AVA/Moodle até 23h59 do dia da apresentação. Não haverá repositório agregador nem apresentação final comum.
+- A AT verificará a abrangência conceitual da unidade, enquanto a AP verificará a aplicação aprofundada nos problemas atribuídos.
 - Cada problema deverá explicitar o conhecimento teórico aferido, a razão pela qual ele é necessário, a evidência de acompanhamento e a complexidade esperada.
 
 ### Observações
 
 - As avaliações ocorrem preferencialmente em ambiente controlado com Safe Exam Browser.
-- A apresentação da AP ocorrerá antes da AT sempre que houver encontro prático regular dentro da janela institucional. Na AV3 das turmas de quarta-feira, a apresentação ocorrerá excepcionalmente em 09/12/2026, após a AT, porque a janela da AV3 começa em 03/12/2026 e não existe outro encontro regular de quarta-feira no período.
+- As apresentações das entregas de MST, caminhos mínimos e fluxo máximo ocorrerão antes da AT3. A aula prática de 09/12/2026 das turmas de quarta-feira será destinada à devolutiva da AP3 e ao encerramento.
 - Os problemas de T1, T2 e T3 serão selecionados de plataformas com submissão verificável, como UVA/Online Judge, Kattis, Codeforces, CSES ou equivalentes, com dificuldade crescente entre os trabalhos.
 - Nenhum acompanhamento exigirá conteúdo ainda não ensinado. O `Accepted` comprovará a correção computacional, mas não substituirá a aferição de modelagem, fundamentação teórica, correção e complexidade.
 - A AV2 verificará se os alunos estão aptos, quanto aos fundamentos, à modelagem e à adaptação algorítmica, para resolver os problemas de otimização da AV3.
