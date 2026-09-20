@@ -2,6 +2,7 @@
 /.interno/
 /.codex/
 /.vscode/
+/AGENTS.md
 
 # ambientes, segredos e arquivos do sistema
 /.venv/
