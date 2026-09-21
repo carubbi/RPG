@@ -36,6 +36,7 @@ class CC:
     def __init__(self, G):
         self.marked = [False for _ in range(G.V)]
         self.id = [0 for _ in range(G.V)]
+        self._size = [0 for _ in range(G.V)]
         self.count = 0
 
         for s in range(G.V):
@@ -46,12 +47,19 @@ class CC:
     def dfs(self, G, v):
         self.marked[v] = True
         self.id[v] = self.count
+        self._size[self.count] += 1
         for w in G.adj[v]:
             if not self.marked[w]:
                 self.dfs(G, w)
 
     def connected(self, v, w):
         return self.id[v] == self.id[w]
+
+    def size(self, v):
+        if v < 0 or v >= len(self.marked):
+            raise ValueError("vertex %s is not between 0 and %s" %
+                             (v, len(self.marked) - 1))
+        return self._size[self.id[v]]
 
 if __name__ == "__main__":
     import sys
