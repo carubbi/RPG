@@ -1,0 +1,46 @@
+<h2>Desafio ENADE Unifor</h2>
+
+<h3>Descrição</h3>
+<p>Esta questão integra as ações da Missão ENADE Unifor e busca desenvolver a análise e a interpretação de algoritmos em grafos. <strong>Esta atividade valerá 0,5 ponto na AV1</strong>.</p>
+
+<h3>Contexto da questão</h3>
+<p>Em uma rede de comunicação modelada por uma árvore não direcionada e sem pesos, pode ser necessário identificar o par de vértices cuja distância é a maior da rede. Essa distância, medida pelo número de arestas do caminho entre os vértices, é chamada de <strong>diâmetro</strong> da árvore.</p>
+
+<h3>Enunciado</h3>
+<p>Considere uma árvore <code>T</code>, não vazia, não direcionada e sem pesos, representada por <strong>lista de adjacência</strong>. O algoritmo a seguir utiliza duas buscas em largura (BFS) para encontrar um caminho cujo comprimento corresponde ao diâmetro da árvore:</p>
+<pre>DIAMETRO(T):
+    escolha um vértice qualquer s
+    u = vértice mais distante de s por BFS
+    (v, pred) = vértice mais distante de u por BFS (guardando o vetor de predecessores)
+    retorne o caminho de u até v usando o vetor pred</pre>
+<p>O vértice <code>s</code> inicia a primeira BFS; <code>u</code> é um vértice de distância máxima a partir de <code>s</code>; e <code>v</code> é um vértice de distância máxima a partir de <code>u</code>. Na segunda BFS, <code>pred[x]</code> registra o vértice a partir do qual <code>x</code> foi descoberto, exceto para a raiz <code>u</code>, que não possui predecessor. Em caso de empate nas distâncias máximas, qualquer um dos vértices empatados pode ser escolhido.</p>
+<p>Na análise de complexidade, considere <code>V</code> o número de vértices e <code>E</code> o número de arestas.</p>
+
+<h3>Questão discursiva</h3>
+<p>Analise a correção e a complexidade do algoritmo, desenvolvendo os seguintes pontos:</p>
+<ol type="a">
+    <li>Explique por que a estratégia de duas BFS encontra um caminho de comprimento igual ao diâmetro de uma árvore, mesmo quando o vértice inicial <code>s</code> é escolhido arbitrariamente.</li>
+    <li>Descreva como utilizar o vetor de predecessores <code>pred</code>, produzido pela segunda BFS, para reconstruir o caminho de <code>u</code> até <code>v</code>.</li>
+    <li>Justifique a complexidade total de tempo <code>O(V + E)</code>, considerando as duas buscas e a reconstrução do caminho.</li>
+    <li>Explique por que a mesma estratégia não garante encontrar o diâmetro em qualquer grafo conexo não direcionado e sem pesos que possa conter ciclos.</li>
+</ol>
+
+<h3>Instruções</h3>
+<p>Apresente sua resposta discursiva em um vídeo de até <strong>5 minutos</strong>, abordando os quatro pontos solicitados. Priorize uma explicação conceitual, clara e justificada; não é necessária uma demonstração formal.</p>
+
+<h3>Critérios de avaliação</h3>
+<p>Os percentuais abaixo compõem a nota da atividade, cujo valor máximo é de <strong>0,5 ponto na AV1</strong>. Cada critério poderá receber pontuação parcial, conforme a correção e a completude da resposta.</p>
+<ul>
+    <li><strong>Correção do algoritmo — 35%:</strong> explica adequadamente por que as duas BFS encontram o diâmetro em árvores;</li>
+    <li><strong>Reconstrução do caminho — 15%:</strong> descreve corretamente a reconstrução do caminho pelo vetor de predecessores;</li>
+    <li><strong>Análise de complexidade — 25%:</strong> justifica a complexidade total, incluindo as duas buscas e a reconstrução do caminho;</li>
+    <li><strong>Limitações do método — 20%:</strong> explica a limitação do método em grafos conexos que podem conter ciclos;</li>
+    <li><strong>Clareza e duração — 5%:</strong> apresenta a resposta com clareza e respeita o limite de duração do vídeo.</li>
+</ul>
+
+<h3>Entrega</h3>
+<p>O envio deverá ser feito no AVA exclusivamente por meio de <strong>link de vídeo não listado no YouTube</strong>.</p>
+<p>O link deve permitir visualização pelo professor sem necessidade de solicitar autorização adicional.</p>
+
+<h3>Observação</h3>
+<p>O não envio do link, o envio de link inválido, o envio em formato diferente de vídeo não listado no YouTube ou a impossibilidade de acesso ao vídeo pelo professor acarretará a anulação da questão.</p>
