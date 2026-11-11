@@ -183,116 +183,114 @@
   - **Apresentação e avaliação:** repositórios; apresentações; rubrica da AP2.
 - **Produto/evidência:** apresentação; avaliação da AP2; repositório congelado.
 
-### Unidade III — Otimizar grafos ponderados (38h)
+### Unidade III - Otimizar grafos ponderados (38h)
 
-#### Semana 12 — MST, formulação do T3 e revisão da AT2 — 19–22/10
+Os conteúdos avançarão a cada encontro, utilizando as aulas teóricas e práticas em sequência: Kruskal; Prim; Dijkstra; Bellman-Ford e Floyd-Warshall; fundamentos de fluxo máximo; Ford-Fulkerson. Os conceitos, o rastreamento e as implementações algs4 serão abordados antes do lançamento e de qualquer marco do T3. A sequência de algoritmos será concluída em 11/11.
+
+O T3 começará em 16/11, com um problema por grupo e distribuição balanceada entre árvore geradora mínima, caminhos mínimos e fluxo máximo. Os acompanhamentos ocorrerão tanto nas aulas teóricas quanto nas práticas. O marco 6 será acompanhado junto da revisão para a AT3 em 30/11; a apresentação e a entrega final permanecerão em 02/12.
+
+#### Semana 12 - Árvore geradora mínima: Kruskal e Prim - 19 a 22/10
 
 - **Datas:** teórica em 19/10 (seg.); prática em 21/10 (qua.).
-- **Aula teórica — árvores geradoras mínimas:** propriedade do corte; Kruskal; Prim; Union-Find; correção; complexidade; execução guiada.
-- **Aula prática — formulação de MST e revisão da AT2:** 40 minutos para objetivo, entrada, saída, restrições, vértices, arestas, pesos e instância pequena do problema de MST; 60 minutos para revisão de buscas, conectividade, percursos, problemas clássicos, correção e complexidade.
-- **Acompanhamento — Formulação e modelagem de MST (evidência pontuada):** problema atribuído; objetivo; entrada; saída; restrições; modelo ponderado; instância pequena; validação oral e registro no repositório de MST.
-- **Projeto de ensino:** 02.01 — Algoritmos de busca (revisão); 02.02 — Grafos não dirigidos e dirigidos (revisão); 02.03 — Introdução aos problemas clássicos (revisão); 03.01 — Problema da árvore de cobertura mínima.
+- **Aula teórica - Kruskal:** conceitos; propriedade do corte; ordenação das arestas; Union-Find; execução guiada; correção; complexidade; análise da implementação algs4.
+- **Aula prática - Prim:** conceitos; crescimento da árvore; filas de prioridade; execução guiada; correção; complexidade; análise das implementações algs4.
+- **Natureza das atividades:** ensino e prática guiada, anteriores ao lançamento e aos marcos do T3.
+- **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima.
 - **Recursos:**
-  - **Estruturas de dados:** [`Bag.java`](../../algs4-java/algs4/Bag.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
-  - **Estruturas e representações:** [`Edge.java`](../../algs4-java/algs4/Edge.java), [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java), [`EdgeWeightedGraph.java`](../../algs4-java/algs4/EdgeWeightedGraph.java) e [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java).
-  - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt), [`largeEWG.txt`](https://algs4.cs.princeton.edu/43mst/largeEWG.txt), [`tinyEWD.txt`](../../dataset/tinyEWD.txt), [`mediumEWD.txt`](../../dataset/mediumEWD.txt) e [`largeEWD.txt`](https://algs4.cs.princeton.edu/44sp/largeEWD.txt).
-- **Produto/evidência:** formulação e modelagem de MST; instância pequena; revisão da AT2.
-
-#### Semana 13 — AT2 e apresentação de MST — 26–29/10
-
-- **Datas:** AT2 em 26/10 (seg.); apresentação em 28/10 (qua.).
-- **Aula teórica — AT2:** dez questões objetivas estilo ENADE; AVA/Moodle; conectividade; grafos dirigidos e não dirigidos; problemas clássicos; encontro integral; liberação posterior da nota e das justificativas.
-- **Aula prática — apresentação e entrega de MST em 28/10:** encontro integral destinado às apresentações; envio do link do repositório de MST no AVA/Moodle até 23h59.
-- **Avaliação da entrega de MST:** formulação; modelagem; algoritmo; complexidade; testes; `Accepted`; organização e reprodutibilidade do repositório; comunicação.
-- **Projeto de ensino:** 02.01 — Algoritmos de busca (avaliação); 02.02 — Grafos não dirigidos e dirigidos (avaliação); 02.03 — Introdução aos problemas clássicos (avaliação); 03.01 — Problema da árvore de cobertura mínima (aplicação).
-- **Recursos:**
-  - **Estruturas de dados:** [`Bag`](../../algs4-py/algs4/bag.py), [`Bag.java`](../../algs4-java/algs4/Bag.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
-  - **Estruturas e representações:** [`Edge.java`](../../algs4-java/algs4/Edge.java), [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java), [`EdgeWeightedGraph`](../../algs4-py/algs4/edge_weighted_graph.py), [`EdgeWeightedGraph.java`](../../algs4-java/algs4/EdgeWeightedGraph.java), [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py) e [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java).
-  - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt), [`largeEWG.txt`](https://algs4.cs.princeton.edu/43mst/largeEWG.txt), [`tinyEWD.txt`](../../dataset/tinyEWD.txt), [`mediumEWD.txt`](../../dataset/mediumEWD.txt) e [`largeEWD.txt`](https://algs4.cs.princeton.edu/44sp/largeEWD.txt).
-- **Produto/evidência:** registro da AT2; apresentação de MST; primeiro repositório entregue.
-
-#### Semana 14 — Feriado, devolutiva de MST e preparação para caminhos mínimos — 02–05/11
-
-- **Datas:** **02/11 — Dia de Finados — feriado, sem aula**; prática integrada em 04/11 (qua.).
-- **Aula teórica — feriado:** sem encontro.
-- **Aula prática — devolutiva de MST e preparação para caminhos mínimos:** análise dos resultados da primeira entrega; distinção entre custo de conexão global e custo de uma rota; preparação dos ambientes e repositórios da segunda entrega.
-- **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (devolutiva); 03.02 — Problema do caminho mínimo (preparação).
-- **Recursos:**
-  - **Estruturas de dados:** `collections.deque`, [`MinPQ`](../../algs4-py/algs4/min_pq.py), [`MinPQ.java`](../../algs4-java/algs4/MinPQ.java), [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py), [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java), [`Queue.java`](../../algs4-java/algs4/Queue.java), [`UF`](../../algs4-py/algs4/uf.py) e [`UF.java`](../../algs4-java/algs4/UF.java).
+  - **Estruturas de apoio:** [`UF`](../../algs4-py/algs4/uf.py), [`UF.java`](../../algs4-java/algs4/UF.java), [`MinPQ`](../../algs4-py/algs4/min_pq.py), [`MinPQ.java`](../../algs4-java/algs4/MinPQ.java), [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py) e [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java).
+  - **Representações:** [`Edge`](../../algs4-py/algs4/edge.py), [`Edge.java`](../../algs4-java/algs4/Edge.java), [`EdgeWeightedGraph`](../../algs4-py/algs4/edge_weighted_graph.py) e [`EdgeWeightedGraph.java`](../../algs4-java/algs4/EdgeWeightedGraph.java).
   - **Algoritmos:** [`KruskalMST`](../../algs4-py/algs4/kruskal_mst.py), [`KruskalMST.java`](../../algs4-java/algs4/KruskalMST.java), [`PrimMST`](../../algs4-py/algs4/prim_mst.py), [`PrimMST.java`](../../algs4-java/algs4/PrimMST.java) e [`LazyPrimMST.java`](../../algs4-java/algs4/LazyPrimMST.java).
-  - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt), [`largeEWG.txt`](https://algs4.cs.princeton.edu/43mst/largeEWG.txt), [`tinyUF.txt`](../../dataset/tinyUF.txt), [`mediumUF.txt`](../../dataset/mediumUF.txt), [`largeUF.txt`](https://algs4.cs.princeton.edu/15uf/largeUF.txt) e [`tinyPQ.txt`](../../dataset/tinyPQ.txt).
-- **Produto/evidência:** devolutiva de MST; preparação do repositório de caminho mínimo.
+  - **Dados:** [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt) e [`tinyUF.txt`](../../dataset/tinyUF.txt).
+- **Produto/evidência:** rastreamento de Kruskal e Prim; análise das estruturas de apoio e das implementações.
 
-#### Semana 15 — Dijkstra e formulação de caminhos mínimos — 09–12/11
+#### Semana 13 - AT2 e caminhos mínimos: Dijkstra - 26 a 29/10
+
+- **Datas:** AT2 em 26/10 (seg.); prática em 28/10 (qua.).
+- **Aula teórica - AT2:** dez questões objetivas estilo ENADE; AVA/Moodle; conectividade; grafos dirigidos e não dirigidos; problemas clássicos; encontro integral; liberação posterior da nota e das justificativas.
+- **Aula prática - Dijkstra:** conceitos; origem; destino; soma dos pesos; relaxamento; fila de prioridade indexada; pesos não negativos; reconstrução de caminhos; execução guiada; correção; complexidade; análise da implementação algs4.
+- **Projeto de ensino:** 02.01 - Algoritmos de busca (avaliação); 02.02 - Grafos não dirigidos e dirigidos (avaliação); 02.03 - Introdução aos problemas clássicos (avaliação); 03.02 - Problema do caminho mínimo.
+- **Recursos:**
+  - **Estruturas e representações:** [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java), [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java) e [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java).
+  - **Algoritmos:** [`DijkstraSP`](../../algs4-py/algs4/dijkstra_sp.py) e [`DijkstraSP.java`](../../algs4-java/algs4/DijkstraSP.java).
+  - **Dados:** [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
+  - **Avaliação:** questões da AT2.
+- **Produto/evidência:** registro da AT2; rastreamento e análise da implementação de Dijkstra.
+
+#### Semana 14 - Caminhos mínimos: Bellman-Ford e Floyd-Warshall - 02 a 05/11
+
+- **Datas:** **02/11 - Dia de Finados - feriado, sem aula**; prática em 04/11 (qua.).
+- **Aula teórica - feriado:** sem encontro.
+- **Aula prática - Bellman-Ford e Floyd-Warshall:** conceitos; pesos negativos; relaxamento repetido; detecção de ciclos negativos; caminhos mínimos entre todos os pares; atualização da matriz de distâncias; rastreamento; correção; complexidade; análise das implementações algs4.
+- **Natureza das atividades:** ensino e prática guiada; conclusão da família de caminhos mínimos antes dos marcos do T3.
+- **Projeto de ensino:** 03.02 - Problema do caminho mínimo.
+- **Recursos:**
+  - **Representações:** [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java), [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java) e [`AdjMatrixEdgeWeightedDigraph.java`](../../algs4-java/algs4/AdjMatrixEdgeWeightedDigraph.java).
+  - **Algoritmos:** [`BellmanFordSP`](../../algs4-py/algs4/bellman_ford_sp.py), [`BellmanFordSP.java`](../../algs4-java/algs4/BellmanFordSP.java) e [`FloydWarshall.java`](../../algs4-java/algs4/FloydWarshall.java).
+  - **Dados:** [`tinyEWDn.txt`](../../dataset/tinyEWDn.txt) e [`tinyEWDnc.txt`](../../dataset/tinyEWDnc.txt).
+- **Produto/evidência:** rastreamento de Bellman-Ford e Floyd-Warshall; comparação das condições de aplicação com Dijkstra.
+
+#### Semana 15 - Fluxo máximo: fundamentos e Ford-Fulkerson - 09 a 12/11
 
 - **Datas:** teórica em 09/11 (seg.); prática em 11/11 (qua.).
-- **Aula teórica — caminhos mínimos com Dijkstra:** origem; destino; minimização da soma dos pesos; caminho e custo; relaxamento; Dijkstra; fila de prioridade indexada; pesos não negativos; correção; complexidade.
-- **Aula prática — formulação e modelagem de caminho mínimo:** objetivo; origem e destino; entrada; saída; restrições; direção; pesos; instância pequena; entrada e saída esperada; escolha preliminar da representação.
-- **Acompanhamento — Formulação e modelagem de caminho mínimo (evidência pontuada):** problema atribuído; modelo; instância pequena; condição de aplicabilidade; validação oral e registro no repositório de caminho mínimo.
-- **Projeto de ensino:** 03.02 — Problema do caminho mínimo (Dijkstra e aplicação).
-- **Recursos:**
-  - **Estruturas de dados:** [`IndexMinPQ`](../../algs4-py/algs4/index_min_pq.py), [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
-  - **Algoritmos:** [`DijkstraSP`](../../algs4-py/algs4/dijkstra_sp.py), [`DijkstraSP.java`](../../algs4-java/algs4/DijkstraSP.java) e [`DijkstraUndirectedSP.java`](../../algs4-java/algs4/DijkstraUndirectedSP.java).
-  - **Dados:** [`tobe.txt`](../../dataset/tobe.txt), [`tinyEWD.txt`](../../dataset/tinyEWD.txt), [`mediumEWD.txt`](../../dataset/mediumEWD.txt), [`largeEWD.txt`](https://algs4.cs.princeton.edu/44sp/largeEWD.txt), [`tinyEWG.txt`](../../dataset/tinyEWG.txt), [`mediumEWG.txt`](../../dataset/mediumEWG.txt) e [`largeEWG.txt`](https://algs4.cs.princeton.edu/43mst/largeEWG.txt).
-- **Produto/evidência:** formulação e modelagem de caminho mínimo; instância pequena; representação validada.
-
-#### Semana 16 — Aprofundamento e apresentação de caminhos mínimos — 16–19/11
-
-- **Datas:** teórica em 16/11 (seg.); prática em 18/11 (qua.).
-- **Aula teórica — Bellman–Ford e Floyd–Warshall:** pesos negativos; relaxamento repetido; detecção de ciclos negativos; caminhos mínimos entre todos os pares; atualização da matriz de distâncias; correção; complexidade; comparação com Dijkstra.
-- **Aula prática — apresentação e entrega de caminho mínimo em 18/11:** encontro integral destinado às apresentações; envio do link do repositório de caminho mínimo no AVA/Moodle até 23h59.
-- **Avaliação da entrega de caminho mínimo:** formulação; modelagem; algoritmo; complexidade; testes; `Accepted`; organização e reprodutibilidade do repositório; comunicação.
-- **Projeto de ensino:** 03.02 — Problema do caminho mínimo (Bellman–Ford, Floyd–Warshall e aplicação).
-- **Recursos:**
-  - **Estruturas de dados:** `collections.deque`, [`IndexMinPQ.java`](../../algs4-java/algs4/IndexMinPQ.java), [`Queue.java`](../../algs4-java/algs4/Queue.java) e [`Stack.java`](../../algs4-java/algs4/Stack.java).
-  - **Estruturas e representações:** [`EdgeWeightedDigraph`](../../algs4-py/algs4/edge_weighted_digraph.py), [`EdgeWeightedDigraph.java`](../../algs4-java/algs4/EdgeWeightedDigraph.java), [`DirectedEdge`](../../algs4-py/algs4/directed_edge.py), [`DirectedEdge.java`](../../algs4-java/algs4/DirectedEdge.java) e [`AdjMatrixEdgeWeightedDigraph.java`](../../algs4-java/algs4/AdjMatrixEdgeWeightedDigraph.java).
-  - **Algoritmos:** [`BellmanFordSP`](../../algs4-py/algs4/bellman_ford_sp.py), [`BellmanFordSP.java`](../../algs4-java/algs4/BellmanFordSP.java), [`FloydWarshall.java`](../../algs4-java/algs4/FloydWarshall.java) e [`DijkstraAllPairsSP.java`](../../algs4-java/algs4/DijkstraAllPairsSP.java).
-  - **Dados:** [`tinyEWDn.txt`](../../dataset/tinyEWDn.txt), [`tinyEWDnc.txt`](../../dataset/tinyEWDnc.txt) e [`tinyEWD.txt`](../../dataset/tinyEWD.txt).
-- **Produto/evidência:** apresentação de caminho mínimo; segundo repositório entregue.
-
-#### Semana 17 — Fluxo máximo e formulação da terceira entrega — 23–26/11
-
-- **Datas:** teórica em 23/11 (seg.); prática em 25/11 (qua.).
-- **Aula teórica — fluxo máximo em redes:** fonte; sorvedouro; capacidade; conservação; rede residual; caminhos aumentantes; gargalo; corte mínimo; Ford-Fulkerson; Edmonds-Karp; correção; complexidade.
-- **Aula prática — formulação e modelagem de fluxo máximo:** objetivo; fonte; sorvedouro; capacidades; conservação; instância pequena; entrada e saída esperada; representação da rede.
-- **Acompanhamento — Formulação e modelagem de fluxo máximo (evidência pontuada):** problema atribuído; modelo da rede; instância pequena; validação oral e registro no repositório de fluxo máximo.
-- **Projeto de ensino:** 03.03 — Problema do fluxo máximo em redes.
+- **Aula teórica - fundamentos de fluxo máximo:** redes de fluxo; fonte e sorvedouro; capacidades e conservação; rede residual; caminhos aumentantes; gargalo; exemplos conceituais e rastreamento manual.
+- **Aula prática - Ford-Fulkerson:** conceitos; atualização do fluxo e da rede residual; execução guiada; relação entre fluxo máximo e corte mínimo; correção; complexidade; análise da implementação algs4, que utiliza BFS para selecionar caminhos aumentantes (Edmonds-Karp).
+- **Natureza das atividades:** ensino e prática guiada; conclusão dos algoritmos da Unidade III antes dos marcos do T3.
+- **Projeto de ensino:** 03.03 - Problema do fluxo máximo em redes.
 - **Recursos:**
   - **Estruturas de dados:** [`Bag.java`](../../algs4-java/algs4/Bag.java) e [`Queue.java`](../../algs4-java/algs4/Queue.java).
-  - **Estruturas e representações:** [`FlowEdge.java`](../../algs4-java/algs4/FlowEdge.java) e [`FlowNetwork.java`](../../algs4-java/algs4/FlowNetwork.java).
-  - **Algoritmos:** [`FordFulkerson.java`](../../algs4-java/algs4/FordFulkerson.java).
+  - **Representações:** [`FlowEdge.java`](../../algs4-java/algs4/FlowEdge.java) e [`FlowNetwork.java`](../../algs4-java/algs4/FlowNetwork.java).
+  - **Algoritmo:** [`FordFulkerson.java`](../../algs4-java/algs4/FordFulkerson.java), com busca em largura dos caminhos aumentantes.
   - **Dados:** [`tinyFN.txt`](../../dataset/tinyFN.txt).
-- **Produto/evidência:** formulação e modelagem de fluxo máximo; instância pequena; rede validada.
+- **Produto/evidência:** fluxo e rede residual rastreados; compreensão dos conceitos e da implementação de Ford-Fulkerson.
 
-#### Semana 18 — Revisão para a AT3 e apresentação de fluxo máximo — 30/11–02/12
+#### Semana 16 - T3: lançamento e marcos 1, 2 e 3 - 16 a 19/11
 
-- **Datas:** teórica em 30/11 (seg.); prática em 02/12 (qua.).
-- **Aula teórica — revisão teórica para a AT3:** MST; propriedade do corte; Kruskal; Prim; caminhos mínimos; relaxamento; Dijkstra; Bellman-Ford; Floyd-Warshall; fluxo máximo; Ford-Fulkerson; aplicabilidade; correção; complexidade; dúvidas.
-- **Aula prática — apresentação e entrega de fluxo máximo em 02/12:** encontro integral destinado às apresentações; envio do link do repositório de fluxo máximo no AVA/Moodle até 23h59.
-- **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (síntese); 03.02 — Problema do caminho mínimo (síntese); 03.03 — Problema do fluxo máximo em redes (síntese).
-- **Recursos:**
-  - **Apresentação:** repositórios de fluxo máximo; resultados; evidências de submissão.
-- **Produto/evidência:** apresentação de fluxo máximo; terceiro repositório entregue; AP3 concluída.
+- **Datas:** lançamento e marcos 1 e 2 em 16/11 (seg.); marco 3 em 18/11 (qua.).
+- **Aula teórica - lançamento e marcos 1 e 2:** atribuição de um problema por grupo, com distribuição balanceada entre árvore geradora mínima, caminhos mínimos e fluxo máximo; formulação do problema, objetivo, entrada, saída e restrições; representação do grafo; leitura e construção da instância; validação de uma instância pequena.
+- **Aula prática - marco 3:** escolha e justificativa do algoritmo; condições de aplicação; funcionamento; operação central; invariantes; correção; complexidade.
+- **Acompanhamento processual:** evidências no repositório único do grupo, com desenvolvimento também entre as aulas; validação do marco 3 antes da adaptação do marco 4.
+- **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (aplicação); 03.02 - Problema do caminho mínimo (aplicação); 03.03 - Problema do fluxo máximo em redes (aplicação).
+- **Recursos:** [enunciado e marcos do T3](../trabalhos/T3.md); implementações de referência disponibilizadas para a classe e a linguagem do problema atribuído; repositório único de cada grupo; instâncias pequenas e casos de teste.
+- **Produto/evidência:** problema atribuído; formulação; representação validada; algoritmo justificado.
 
-#### Semana 19 — AT3, devolutiva da AP3 e encerramento — 07–09/12
+#### Semana 17 - T3: marcos 4 e 5 - 23 a 26/11
+
+- **Datas:** marco 4 em 23/11 (seg.); marco 5 e orientação do marco 6 em 25/11 (qua.).
+- **Aula teórica - marco 4:** adaptação e integração da implementação de referência ao problema atribuído; justificativa das alterações; dependências diretas; execução reproduzível.
+- **Aula prática - marco 5 e orientação do marco 6:** testes da instância pequena, casos-limite e impossibilidade quando aplicável; diagnóstico de divergências; análise de resultados, tempo e memória. Orientação da submissão, do `README.md` e da apresentação.
+- **Acompanhamento processual:** as evidências avançarão nos encontros e entre as aulas. O marco 6 será acompanhado em 30/11, junto da revisão para a AT3; sua conclusão e o `Accepted` serão exigidos até a apresentação em 02/12.
+- **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (aplicação); 03.02 - Problema do caminho mínimo (aplicação); 03.03 - Problema do fluxo máximo em redes (aplicação).
+- **Recursos:** [enunciado e marcos do T3](../trabalhos/T3.md); implementações de referência disponibilizadas para a classe e a linguagem do problema atribuído; repositório único de cada grupo; instâncias pequenas e casos de teste.
+- **Produto/evidência:** implementação adaptada e integrada; testes e análise registrados.
+
+#### Semana 18 - Revisão para a AT3, marco 6 e apresentação do T3 - 30/11 a 03/12
+
+- **Datas:** revisão para a AT3 e acompanhamento do marco 6 em 30/11 (seg.); apresentação em 02/12 (qua.).
+- **Aula teórica - revisão para a AT3 e acompanhamento do marco 6:** revisão de árvore geradora mínima, caminhos mínimos e fluxo máximo; condições de aplicação, correção e complexidade dos algoritmos; dúvidas. Acompanhamento da submissão, do `README.md`, das evidências e da preparação da apresentação no mesmo encontro.
+- **Prazo do marco 6:** o acompanhamento em 30/11 não antecipa o prazo final; o marco 6 deverá estar concluído e o `Accepted` obtido até a apresentação em 02/12.
+- **Aula prática - apresentação e entrega do T3 em 02/12:** encontro integral destinado às apresentações dos problemas únicos dos grupos, contemplando as três classes; até cinco minutos por grupo; envio do link do repositório único no AVA/Moodle até 23h59.
+- **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (síntese e apresentação); 03.02 - Problema do caminho mínimo (síntese e apresentação); 03.03 - Problema do fluxo máximo em redes (síntese e apresentação).
+- **Recursos:** repositórios únicos dos grupos; apresentações; evidências de submissão; rubrica da AP3 no [T3](../trabalhos/T3.md); implementações e exemplos da Unidade III.
+- **Produto/evidência:** revisão da unidade; acompanhamento do marco 6; apresentação única de cada grupo; repositório entregue; AP3 concluída.
+
+#### Semana 19 - AT3, devolutiva da AP3 e encerramento - 07 a 09/12
 
 - **Datas:** AT3 em 07/12 (seg.); devolutiva e encerramento em 09/12 (qua.).
-- **Aula teórica — AT3:** dez questões objetivas estilo ENADE; AVA/Moodle; MST; caminhos mínimos; fluxo máximo; encontro integral; liberação posterior da nota e das justificativas.
-- **Aula prática — devolutiva da AP3 em 09/12:** devolutiva das três entregas; síntese comparativa; encerramento.
-- **Projeto de ensino:** 03.01 — Problema da árvore de cobertura mínima (avaliação); 03.02 — Problema do caminho mínimo (avaliação); 03.03 — Problema do fluxo máximo em redes (avaliação).
-- **Recursos:**
-  - **Apresentação e avaliação:** repositórios; apresentações; rubrica comum.
+- **Aula teórica - AT3:** dez questões objetivas estilo ENADE; AVA/Moodle; árvore geradora mínima, caminhos mínimos e fluxo máximo para todos os alunos, independentemente do problema desenvolvido no T3; encontro integral; liberação posterior da nota e das justificativas.
+- **Aula prática - devolutiva da AP3 em 09/12:** devolutiva do problema único desenvolvido por cada grupo; síntese comparativa dos trabalhos das três classes; encerramento.
+- **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (avaliação); 03.02 - Problema do caminho mínimo (avaliação); 03.03 - Problema do fluxo máximo em redes (avaliação).
+- **Recursos:** questões da AT3; AVA/Moodle; repositórios e apresentações do T3; rubrica comum.
 - **Produto/evidência:** registro da AT3; devolutiva da AP3; encerramento.
 
 ## 5. Avaliações e entregas
 
 ### Regras gerais
 
-- A AP será composta pelo acompanhamento processual e pelas apresentações previstas em T1, T2 ou T3. Na semana 1, o encontro de quarta-feira será teórico e não integrará a AP1. Os encontros práticos oferecidos de 12/08 em diante e anteriores à respectiva apresentação produzirão evidência verificável.
-- Nenhum acompanhamento exigirá conceitos-base ainda não ensinados. Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos.
+- A AP será composta pelo acompanhamento processual e pelas apresentações previstas em T1, T2 ou T3. Na semana 1, o encontro de quarta-feira será teórico e não integrará a AP1. Nos T1 e T2, os encontros práticos oferecidos de 12/08 em diante e anteriores à respectiva apresentação produzirão evidência verificável. No T3, a AP3 será acompanhada apenas nos marcos iniciados após o ensino completo dos algoritmos; os encontros anteriores de ensino e prática guiada terão caráter formativo.
+- Nenhum acompanhamento exigirá conceitos-base ainda não ensinados. Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos. No T3, todos os marcos começarão somente após o ensino das três classes de otimização.
 - Cada apresentação ocupará um encontro prático integral. Para aproximadamente dez grupos, serão usados 10 minutos de abertura, dez ciclos de até 5 minutos de apresentação e 1 minuto de transição, 20 minutos de avaliação e devolutiva e 10 minutos de contingência. Os materiais deverão estar previamente carregados.
 - Cada AT ocupará um encontro teórico integral e terá dez questões objetivas contextualizadas no estilo ENADE, aplicadas no AVA/Moodle. A nota e as justificativas serão liberadas somente após o encerramento.
-- No T3, cada uma das três apresentações ocupará um encontro prático integral e encerrará a entrega da classe correspondente.
+- No T3, cada grupo fará uma apresentação de seu problema único no encontro prático final, que reunirá trabalhos das três classes e antecederá a AT3.
 
 ### AV1
 
@@ -312,7 +310,7 @@
 
 ### AV3
 
-- **AP3/T3:** formulações em 21/10, 11/11 e 25/11; apresentações e entregas em 28/10, 18/11 e 02/12; devolutiva em 09/12.
+- **AP3/T3:** um problema, um repositório e uma apresentação por grupo; lançamento e marcos 1 e 2 em 16/11; marco 3 em 18/11; marco 4 em 23/11; marco 5 e orientação do marco 6 em 25/11; revisão para a AT3 e acompanhamento do marco 6 em 30/11; marco 6 concluído e `Accepted` obtido até a apresentação em 02/12; entrega do link até 23h59 do mesmo dia; devolutiva em 09/12.
 - **AT3:** 07/12; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** árvore geradora mínima, caminhos mínimos e fluxo máximo.
@@ -344,7 +342,7 @@ As janelas de segunda chamada não substituem automaticamente encontros regulare
 
 **Enunciado:** [T3 — Otimização em grafos](../trabalhos/T3.md).
 
-**Função:** AP3 processual composta por três problemas por grupo, três repositórios independentes e três apresentações integrais: MST, caminhos mínimos e fluxo máximo.
+**Função:** AP3 processual com um problema de otimização por grupo, um repositório e uma apresentação; distribuição balanceada entre MST, caminhos mínimos e fluxo máximo; seis marcos comuns iniciados após o ensino completo dos algoritmos da unidade.
 
 Os demais trabalhos da Unidade II serão usados como materiais complementares e não constituirão entregas avaliativas adicionais.
 
@@ -354,3 +352,4 @@ Os demais trabalhos da Unidade II serão usados como materiais complementares e 
 - MIT OpenCourseWare. *6.006 Introduction to Algorithms*. Progressão de BFS/DFS para caminhos mínimos. Disponível em: <https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/calendar>.
 - Stanford University. *CS161 — Design and Analysis of Algorithms*. Progressão de buscas e SCC para caminhos mínimos, MST e fluxo máximo. Disponível em: <https://web.stanford.edu/class/archive/cs/cs161/cs161.1182/schedule.html>.
 - Bibliografia completa: [Projeto de ensino da T290](proj_ensino_2026.md#6-bibliografia).
+
