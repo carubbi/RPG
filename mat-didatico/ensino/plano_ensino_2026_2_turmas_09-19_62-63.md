@@ -99,7 +99,7 @@
 **Projeto de ensino:** 03.01
 
 **Data:** 21/10/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/MST - formulação do problema, construção de uma instância pequena e adaptação inicial de Kruskal ou Prim ao grafo ponderado (40 min); resolução comentada de problemas da AT2 (60 min).
+**Conteúdo/Avaliação:** Prática guiada de árvores geradoras mínimas com Kruskal e Prim em instâncias pequenas (40 min); revisão da AT2 por resolução comentada de problemas (60 min).
 **Projeto de ensino:** 02.01; 02.02; 02.03; 03.01
 
 **Data:** 26/10/2026 (segunda-feira)
@@ -107,8 +107,8 @@
 **Projeto de ensino:** 02.01; 02.02; 02.03
 
 **Data:** 28/10/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/MST - apresentação e entrega do repositório no AVA até 23h59.
-**Projeto de ensino:** 03.01
+**Conteúdo/Avaliação:** Devolutiva da AT2 e resolução comentada de problemas da Unidade II: buscas, conectividade, percursos e problemas clássicos.
+**Projeto de ensino:** 02.01; 02.02; 02.03
 
 ## Novembro
 
@@ -117,32 +117,32 @@
 **Projeto de ensino:**
 
 **Data:** 04/11/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3 - análise da entrega de MST; distinção entre custo de conexão e custo de rota; criação do repositório e preparação da entrada do problema de caminho mínimo.
-**Projeto de ensino:** 03.01; 03.02
+**Conteúdo/Avaliação:** Preparação das estruturas de apoio: representação de grafos ponderados e leitura da entrada; operações de MinPQ e IndexMinPQ em exercícios formativos.
+**Projeto de ensino:** 01.03; 03.01; 03.02
 
 **Data:** 09/11/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Execução de relaxamentos e de Dijkstra com fila de prioridade; construção da árvore de caminhos mínimos e análise da restrição de pesos não negativos.
+**Conteúdo/Avaliação:** Execução de relaxamentos e de Dijkstra com fila de prioridade; construção da árvore de caminhos mínimos, reconstrução de caminhos, restrição de pesos não negativos, correção e complexidade (100 min).
 **Projeto de ensino:** 03.02
 
 **Data:** 11/11/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/caminho mínimo - formulação de origem, destino, direção e pesos; construção de uma instância pequena; implementação do grafo ponderado e adaptação inicial de Dijkstra.
+**Conteúdo/Avaliação:** Rastreamento de Bellman-Ford e Floyd-Warshall; detecção de ciclos negativos, atualização das distâncias entre todos os pares e comparação de aplicabilidade, correção e complexidade com Dijkstra (100 min).
 **Projeto de ensino:** 03.02
 
 **Data:** 16/11/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Rastreamento de Bellman-Ford e Floyd-Warshall; detecção de ciclos negativos, atualização das distâncias entre todos os pares e comparação com Dijkstra.
-**Projeto de ensino:** 03.02
+**Conteúdo/Avaliação:** Fundamentos de fluxo máximo: fonte, sorvedouro, capacidades, conservação e rede residual; execução de caminhos aumentantes e gargalos com Ford-Fulkerson; relação entre fluxo máximo e corte mínimo (100 min).
+**Projeto de ensino:** 03.03
 
 **Data:** 18/11/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/caminho mínimo - apresentação e entrega do repositório no AVA até 23h59.
-**Projeto de ensino:** 03.02
+**Conteúdo/Avaliação:** Execução de Edmonds-Karp com BFS; rastreamento e atualização da rede residual; análise de correção e complexidade de Ford-Fulkerson e Edmonds-Karp (100 min).
+**Projeto de ensino:** 03.03
 
 **Data:** 23/11/2026 (segunda-feira)
-**Conteúdo/Avaliação:** Construção da rede residual; execução de caminhos aumentantes e gargalos com Ford-Fulkerson e Edmonds-Karp; relação entre fluxo máximo e corte mínimo.
-**Projeto de ensino:** 03.03
+**Conteúdo/Avaliação:** T3 único - distribuição de um problema por grupo entre MST, caminhos mínimos e fluxo máximo, com diferença máxima de um grupo entre classes e comparação de dificuldade e esforço; acompanhamento dos marcos 1 a 3: formulação, representação e validação, escolha justificada do algoritmo.
+**Projeto de ensino:** 03.01; 03.02; 03.03
 
 **Data:** 25/11/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/fluxo máximo - formulação da fonte, sorvedouro, capacidades e conservação; construção de uma instância pequena; implementação da rede capacitada e adaptação inicial de Ford-Fulkerson.
-**Projeto de ensino:** 03.03
+**Conteúdo/Avaliação:** T3 único - acompanhamento dos marcos 4 e 5: adaptação e integração, testes e análise; orientação do marco 6 para submissão, obtenção de Accepted, documentação e apresentação, com continuidade entre aulas e conclusão até a entrega final.
+**Projeto de ensino:** 03.01; 03.02; 03.03
 
 **Data:** 30/11/2026 (segunda-feira)
 **Conteúdo/Avaliação:** Revisão da AT3 por resolução comentada de problemas que exigem selecionar o algoritmo, verificar sua aplicabilidade e determinar correção e complexidade.
@@ -151,7 +151,7 @@
 ## Dezembro
 
 **Data:** 02/12/2026 (quarta-feira)
-**Conteúdo/Avaliação:** T3/fluxo máximo - apresentação e entrega do repositório no AVA até 23h59; conclusão da AP3.
+**Conteúdo/Avaliação:** T3 único - apresentação única de até cinco minutos por grupo e conclusão da AP3; conclusão do marco 6, com Accepted, e entrega de um único repositório por grupo no AVA até 23h59.
 **Projeto de ensino:** 03.01; 03.02; 03.03
 
 **Data:** 07/12/2026 (segunda-feira)
@@ -159,5 +159,6 @@
 **Projeto de ensino:** 03.01; 03.02; 03.03
 
 **Data:** 09/12/2026 (quarta-feira)
-**Conteúdo/Avaliação:** Devolutiva da AP3, síntese dos resultados e encerramento da disciplina.
+**Conteúdo/Avaliação:** Devolutiva da AP3 referente ao T3 único, síntese dos resultados e encerramento da disciplina.
 **Projeto de ensino:** 03.01; 03.02; 03.03
+

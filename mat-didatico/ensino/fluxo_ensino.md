@@ -6,7 +6,7 @@
 - Cada grupo resolverá apenas um problema por avaliação prática.
 - O T1 terá aproximadamente dez problemas distintos, desenvolvidos por quatro marcos comuns.
 - O T2 terá dez problemas distribuídos entre três bancos temáticos.
-- A Unidade III terá dez problemas em cada classe de otimização; aproximadamente dez problemas serão selecionados e atribuídos aos grupos em cada oferta.
+- A Unidade III terá um banco de trinta problemas, dez em cada classe de otimização; um problema será selecionado e atribuído a cada grupo em cada oferta.
 - Nenhum acompanhamento exigirá conceitos-base ainda não ensinados.
 - Os problemas poderão exigir integração, transferência e descoberta de estratégias a partir desses conhecimentos.
 - Os algoritmos serão apresentados por construção guiada e disponibilizados como implementações de referência; os grupos deverão compreendê-los, rastreá-los, integrá-los e adaptá-los, sem implementação integral a partir do zero.
@@ -137,22 +137,40 @@ O T2 constitui uma única AP com dez problemas no total.
 
 # Unidade III — Otimizar grafos ponderados
 
-## Turma teórica
+## Ensino dos algoritmos
 
-- Problema da árvore geradora mínima: Kruskal, Prim e Union-Find.
-- Problema do caminho mínimo: relaxamento; Dijkstra; Bellman-Ford; Floyd-Warshall por atualização da matriz com vértices intermediários.
-- Problema do fluxo máximo: capacidade residual; caminhos aumentantes; Ford-Fulkerson; Edmonds-Karp por BFS.
+Cada tema ocupará uma semana de conteúdo, com ensino e prática guiada nos encontros previstos. Em 21/10 e 22/10, serão destinados 40 minutos à prática guiada de MST e 60 minutos à revisão da AT2, conforme os cronogramas. Todos os algoritmos da Unidade III serão ensinados antes do lançamento e de qualquer marco do T3.
 
-## Turma prática
+| Tema e conteúdos | Turmas de quarta-feira | Turmas de quinta-feira |
+| --- | --- | --- |
+| Árvore geradora mínima: Kruskal, Prim e Union-Find | 19/10 e 21/10 | 20/10 e 22/10 |
+| Caminhos mínimos: relaxamento; Dijkstra; Bellman-Ford; Floyd-Warshall por atualização da matriz com vértices intermediários | 09/11 e 11/11 | 10/11 e 12/11 |
+| Fluxo máximo: capacidade residual; caminhos aumentantes; Ford-Fulkerson; Edmonds-Karp por BFS | 16/11 e 18/11 | 17/11 e 19/11 |
 
-- Lançamento do T3, apresentação das classes de otimização e distribuição dos problemas selecionados.
-- Acompanhamento progressivo conforme cada família algorítmica for ensinada.
-- Execução manual, escolha do algoritmo, adaptação, integração, testes e análise de complexidade.
-- Submissão na plataforma, preparação e apresentação final do T3.
+A revisão e a AT3 abrangerão todos esses conteúdos, independentemente da classe de problema atribuída ao grupo.
+
+## Desenvolvimento e avaliação do T3
+
+O acompanhamento ocorrerá nos encontros de 23/11 e 25/11, para as turmas de quarta-feira, ou de 24/11 e 26/11, para as turmas de quinta-feira, com produção de evidências também entre as aulas.
+
+| Etapa | Turmas de quarta-feira | Turmas de quinta-feira |
+| --- | --- | --- |
+| Lançamento, distribuição dos problemas e marcos 1 a 3 | 23/11 | 24/11 |
+| Marcos 4 e 5 e orientação do marco 6 | 25/11 | 26/11 |
+| Revisão integral da Unidade III para a AT3 | 30/11 | 01/12 |
+| Conclusão do marco 6, apresentação final e entrega até 23h59 | 02/12 | 03/12 |
+| AT3 | 07/12 | 08/12 |
+| Devolutiva da AP3 e encerramento | 09/12 | Não se aplica |
+
+Cada grupo terá um único repositório público e autocontido e realizará uma única apresentação de até 5 minutos. O `Accepted` e a conclusão do marco 6 serão exigidos até a apresentação final; o link do repositório deverá ser enviado ao AVA/Moodle até 23h59 desse mesmo dia. A orientação do marco 6 em 25/11 ou 26/11 não antecipará esse prazo.
+
+A AP3 manterá 4,0 pontos pelo acompanhamento dos seis marcos, 2,0 pontos pela solução adaptada com `Accepted` e pelo repositório e 4,0 pontos pela apresentação. A AV3 manterá a ponderação de 70% para a AT3 e 30% para a AP3. As regras detalhadas constam no [T3](../trabalhos/T3.md).
 
 ## Classes de otimização do T3
 
-O T3 constitui uma única AP. Cada classe manterá um banco com dez problemas, totalizando trinta opções. Em cada oferta, aproximadamente dez problemas serão selecionados e distribuídos entre os grupos.
+O T3 constitui uma única AP. Cada classe manterá um banco com dez problemas, totalizando trinta opções. Cada grupo receberá um único problema de uma das classes, e a quantidade de grupos entre as classes deverá diferir no máximo em um. Para dez grupos, uma distribuição possível será 4/3/3 entre MST, caminhos mínimos e fluxo máximo.
+
+Antes da distribuição, os problemas deverão ser selecionados comparando esforço total, dificuldade de modelagem, carga de adaptação, conceitos necessários e testes, além da disponibilidade de implementação de referência na linguagem escolhida. A seleção deverá equilibrar dificuldade e carga entre os grupos.
 
 ### [Árvore geradora mínima](../trabalhos/T3.md#árvore-geradora-mínima)
 
@@ -176,8 +194,16 @@ O T3 constitui uma única AP. Cada classe manterá um banco com dez problemas, t
 
 ## Progressão do T3
 
-- Cada grupo iniciará pela formulação e representação do problema atribuído.
-- A adaptação específica da classe somente será exigida depois do ensino do algoritmo correspondente.
-- `FlowEdge` e `FlowNetwork` somente serão apresentados após os conceitos fundamentais de fluxo máximo.
-- Os grupos cujo conteúdo algorítmico ainda não foi ensinado continuarão produzindo evidências comuns de modelagem, representação e comparação de objetivos.
-- A seleção dos problemas de cada oferta deverá equilibrar dificuldade, carga de adaptação e profundidade teórica.
+Os seis marcos serão comuns a todos os grupos e aplicados ao único problema atribuído:
+
+1. Formulação: problema, entrada, saída, restrições, modelagem e instância pequena.
+2. Representação e validação: estrutura computacional, instância representada e resultado esperado.
+3. Escolha do algoritmo: justificativa, condições de aplicabilidade, operação ou propriedade central e complexidade.
+4. Adaptação e integração: implementação de referência, alterações justificadas, dependências e execução reproduzível.
+5. Testes e análise: instância pequena, casos-limite, diagnóstico de divergências e complexidade de tempo e memória.
+6. Submissão e comunicação: `Accepted`, `README.md`, evidência da submissão e preparação da apresentação.
+
+- Os marcos 1 a 3 começarão somente após o ensino completo das três famílias algorítmicas.
+- `FlowEdge` e `FlowNetwork` serão apresentados após os conceitos fundamentais de fluxo máximo, durante o ensino da família e antes do lançamento do T3.
+- Os grupos manterão evidências progressivas no repositório durante os encontros de acompanhamento e entre as aulas, concluindo o marco 6 até a apresentação final.
+
