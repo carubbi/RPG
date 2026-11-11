@@ -185,10 +185,6 @@
 
 ### Unidade III - Otimizar grafos ponderados (38h)
 
-Os conteúdos avançarão a cada encontro, utilizando as aulas teóricas e práticas em sequência: Kruskal; Prim; Dijkstra; Bellman-Ford e Floyd-Warshall; fundamentos de fluxo máximo; Ford-Fulkerson. Os conceitos, o rastreamento e as implementações algs4 serão abordados antes do lançamento e de qualquer marco do T3. A sequência de algoritmos será concluída em 11/11.
-
-O T3 começará em 16/11, com um problema por grupo e distribuição balanceada entre árvore geradora mínima, caminhos mínimos e fluxo máximo. Os acompanhamentos ocorrerão tanto nas aulas teóricas quanto nas práticas. O marco 6 será acompanhado junto da revisão para a AT3 em 30/11; a apresentação e a entrega final permanecerão em 02/12.
-
 #### Semana 12 - Árvore geradora mínima: Kruskal e Prim - 19 a 22/10
 
 - **Datas:** teórica em 19/10 (seg.); prática em 21/10 (qua.).
