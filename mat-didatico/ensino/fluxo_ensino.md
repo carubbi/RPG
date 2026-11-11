@@ -139,30 +139,37 @@ O T2 constitui uma única AP com dez problemas no total.
 
 ## Ensino dos algoritmos
 
-Cada tema ocupará uma semana de conteúdo, com ensino e prática guiada nos encontros previstos. Em 21/10 e 22/10, serão destinados 40 minutos à prática guiada de MST e 60 minutos à revisão da AT2, conforme os cronogramas. Todos os algoritmos da Unidade III serão ensinados antes do lançamento e de qualquer marco do T3.
+O ensino avançará a cada encontro, tanto nas aulas teóricas quanto nas práticas, conforme a sequência abaixo. Todos os algoritmos da Unidade III serão ensinados antes do lançamento e de qualquer marco do T3.
 
-| Tema e conteúdos | Turmas de quarta-feira | Turmas de quinta-feira |
+| Tema e conteúdos | Turmas de segunda e quarta | Turmas de terça e quinta |
 | --- | --- | --- |
-| Árvore geradora mínima: Kruskal, Prim e Union-Find | 19/10 e 21/10 | 20/10 e 22/10 |
-| Caminhos mínimos: relaxamento; Dijkstra; Bellman-Ford; Floyd-Warshall por atualização da matriz com vértices intermediários | 09/11 e 11/11 | 10/11 e 12/11 |
-| Fluxo máximo: capacidade residual; caminhos aumentantes; Ford-Fulkerson; Edmonds-Karp por BFS | 16/11 e 18/11 | 17/11 e 19/11 |
+| Árvore geradora mínima: Kruskal e Union-Find | 19/10 | 20/10 |
+| Árvore geradora mínima: Prim | 21/10 | 22/10 |
+| Caminhos mínimos: relaxamento e Dijkstra | 28/10 | 29/10 |
+| Caminhos mínimos: Bellman-Ford e Floyd-Warshall por atualização da matriz com vértices intermediários | 04/11 | 03/11 |
+| Fundamentos de fluxo máximo: capacidades, conservação, rede residual e caminhos aumentantes | 09/11 | 05/11 |
+| Fluxo máximo: Ford-Fulkerson, incluindo a busca por BFS na implementação de referência | 11/11 | 10/11 |
+
+A AT2 ocorrerá em 26/10, para as turmas de segunda e quarta, e em 27/10, para as turmas de terça e quinta. Em 02/11, não haverá aula devido ao feriado de Finados. Em 12/11, não haverá aula nas turmas de terça e quinta devido à inauguração do Museu da Unifor.
 
 A revisão e a AT3 abrangerão todos esses conteúdos, independentemente da classe de problema atribuída ao grupo.
 
 ## Desenvolvimento e avaliação do T3
 
-O acompanhamento ocorrerá nos encontros de 23/11 e 25/11, para as turmas de quarta-feira, ou de 24/11 e 26/11, para as turmas de quinta-feira, com produção de evidências também entre as aulas.
+O acompanhamento avançará tanto nos encontros teóricos quanto nos práticos, começando em 16/11, para as turmas de segunda e quarta, ou em 17/11, para as turmas de terça e quinta. As evidências também serão produzidas entre as aulas.
 
-| Etapa | Turmas de quarta-feira | Turmas de quinta-feira |
+| Etapa | Turmas de segunda e quarta | Turmas de terça e quinta |
 | --- | --- | --- |
-| Lançamento, distribuição dos problemas e marcos 1 a 3 | 23/11 | 24/11 |
-| Marcos 4 e 5 e orientação do marco 6 | 25/11 | 26/11 |
-| Revisão integral da Unidade III para a AT3 | 30/11 | 01/12 |
+| Lançamento, distribuição balanceada dos problemas e marcos 1 e 2 | 16/11 | 17/11 |
+| Marco 3: escolha do algoritmo | 18/11 | 19/11 |
+| Marco 4: adaptação e integração | 23/11 | 24/11 |
+| Marco 5: testes e análise | 25/11, com orientação do marco 6 | 26/11 |
+| Revisão para a AT3 e acompanhamento do marco 6 | 30/11 | 01/12 |
 | Conclusão do marco 6, apresentação final e entrega até 23h59 | 02/12 | 03/12 |
 | AT3 | 07/12 | 08/12 |
 | Devolutiva da AP3 e encerramento | 09/12 | Não se aplica |
 
-Cada grupo terá um único repositório público e autocontido e realizará uma única apresentação de até 5 minutos. O `Accepted` e a conclusão do marco 6 serão exigidos até a apresentação final; o link do repositório deverá ser enviado ao AVA/Moodle até 23h59 desse mesmo dia. A orientação do marco 6 em 25/11 ou 26/11 não antecipará esse prazo.
+Cada grupo terá um único repositório público e autocontido e realizará uma única apresentação de até 5 minutos. O `Accepted` e a conclusão do marco 6 serão exigidos até a apresentação final; o link do repositório deverá ser enviado ao AVA/Moodle até 23h59 desse mesmo dia. A orientação do marco 6 e seu acompanhamento no encontro compartilhado com a revisão para a AT3, em 30/11 ou 01/12, não anteciparão esse prazo.
 
 A AP3 manterá 4,0 pontos pelo acompanhamento dos seis marcos, 2,0 pontos pela solução adaptada com `Accepted` e pelo repositório e 4,0 pontos pela apresentação. A AV3 manterá a ponderação de 70% para a AT3 e 30% para a AP3. As regras detalhadas constam no [T3](../trabalhos/T3.md).
 
@@ -203,7 +210,7 @@ Os seis marcos serão comuns a todos os grupos e aplicados ao único problema at
 5. Testes e análise: instância pequena, casos-limite, diagnóstico de divergências e complexidade de tempo e memória.
 6. Submissão e comunicação: `Accepted`, `README.md`, evidência da submissão e preparação da apresentação.
 
-- Os marcos 1 a 3 começarão somente após o ensino completo das três famílias algorítmicas.
+- Os marcos 1 e 2 começarão em 16/11 ou 17/11, somente após o ensino completo das três famílias algorítmicas; o marco 3 será acompanhado em 18/11 ou 19/11.
 - `FlowEdge` e `FlowNetwork` serão apresentados após os conceitos fundamentais de fluxo máximo, durante o ensino da família e antes do lançamento do T3.
-- Os grupos manterão evidências progressivas no repositório durante os encontros de acompanhamento e entre as aulas, concluindo o marco 6 até a apresentação final.
+- Os grupos manterão evidências progressivas no repositório durante os encontros teóricos e práticos de acompanhamento e entre as aulas. O marco 6 será acompanhado junto da revisão para a AT3 em 30/11 ou 01/12 e concluído até a apresentação final.
 
