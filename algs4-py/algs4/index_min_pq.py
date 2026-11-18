@@ -18,7 +18,7 @@ class IndexMinPQ:
         self.swim(self.qp[i])
 
     def contains(self, index):
-        return index in self.keys
+        return self.qp[index] != -1
 
     def delete(self, i):
         index = self.qp[i]
