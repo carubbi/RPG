@@ -22,8 +22,10 @@ class IndexMinPQ:
 
     def delete(self, i):
         index = self.qp[i]
-        item = self.pq[index]
+        item = i
         self.pq[index], self.pq[-1] = self.pq[-1], self.pq[index]
+        self.qp[self.pq[index]] = index
+        self.pq.pop()
         self.swim(index)
         self.sink(index)
         self.keys[i] = None
@@ -45,10 +47,11 @@ class IndexMinPQ:
     def del_min(self):
         m = self.pq[0]
         self.pq[0], self.pq[-1] = self.pq[-1], self.pq[0]
-        self.pq = self.pq[:-1]
-        self.sink(0)
-
+        self.pq.pop()
         self.qp[m] = -1
+        if self.pq:
+            self.qp[self.pq[0]] = 0
+            self.sink(0)
         return m
 
     def is_empty(self, ):
@@ -57,10 +60,14 @@ class IndexMinPQ:
     def size(self, ):
         return len(self.pq)
 
+    def _trocar(self, i, j):
+        self.pq[i], self.pq[j] = self.pq[j], self.pq[i]
+        self.qp[self.pq[i]] = i
+        self.qp[self.pq[j]] = j
+
     def swim(self, k):
         while k > 0 and self.greater((k - 1) // 2, k):
-            self.pq[k], self.pq[
-                (k - 1) // 2] = self.pq[(k - 1) // 2], self.pq[k]
+            self._trocar(k, (k - 1) // 2)
             k = (k - 1) // 2
 
     def sink(self, k):
@@ -74,5 +81,5 @@ class IndexMinPQ:
             if not self.greater(k, j):
                 break
 
-            self.pq[k], self.pq[j] = self.pq[j], self.pq[k]
+            self._trocar(k, j)
             k = j
