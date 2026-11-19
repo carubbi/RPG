@@ -26,8 +26,9 @@ class IndexMinPQ:
         self.pq[index], self.pq[-1] = self.pq[-1], self.pq[index]
         self.qp[self.pq[index]] = index
         self.pq.pop()
-        self.swim(index)
-        self.sink(index)
+        if index < len(self.pq):
+            self.swim(index)
+            self.sink(index)
         self.keys[i] = None
         self.qp[i] = -1
         return item
