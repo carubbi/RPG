@@ -242,21 +242,21 @@
 #### Semana 16 - T3: lançamento e marcos 1, 2 e 3 - 16 a 19/11
 
 - **Datas:** lançamento e marcos 1 e 2 em 16/11 (seg.); marco 3 em 18/11 (qua.).
-- **Aula teórica - lançamento e marcos 1 e 2:** atribuição de um problema por grupo, com distribuição balanceada entre árvore geradora mínima, caminhos mínimos e fluxo máximo; formulação do problema, objetivo, entrada, saída e restrições; representação do grafo; leitura e construção da instância; validação de uma instância pequena.
-- **Aula prática - marco 3:** escolha e justificativa do algoritmo; condições de aplicação; funcionamento; operação central; invariantes; correção; complexidade.
+- **Aula teórica - lançamento e marcos 1 e 2:** atribuição de um problema por grupo, com distribuição balanceada entre árvore geradora mínima, caminhos mínimos e fluxo máximo; formulação do problema, objetivo, entrada, saída e restrições; escolha e justificativa do algoritmo; representação do grafo e da instância pequena; validação da entrada e saída esperada; justificativa da complexidade de pior caso de tempo e espaço.
+- **Aula prática - marco 3:** rastreamento manual; identificação das estruturas de dados e de seus estados iniciais na algs4; operações e atualizações das estruturas; justificativa das decisões e do resultado; explicação individual de uma etapa no código algs4.
 - **Acompanhamento processual:** evidências no repositório único do grupo, com desenvolvimento também entre as aulas; validação do marco 3 antes da adaptação do marco 4.
 - **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (aplicação); 03.02 - Problema do caminho mínimo (aplicação); 03.03 - Problema do fluxo máximo em redes (aplicação).
-- **Recursos:** [enunciado e marcos do T3](../trabalhos/T3.md); implementações de referência disponibilizadas para a classe e a linguagem do problema atribuído; repositório único de cada grupo; instâncias pequenas e casos de teste.
-- **Produto/evidência:** problema atribuído; formulação; representação validada; algoritmo justificado.
+- **Recursos:** [enunciado e marcos do T3](../trabalhos/T3.md); implementações de referência algs4 disponibilizadas para a classe e a linguagem do problema atribuído; repositório único de cada grupo; instâncias pequenas e casos de teste.
+- **Produto/evidência:** problema atribuído; formulação; representação validada; algoritmo e complexidade justificados; rastreamento manual e explicação individual registrados.
 
 #### Semana 17 - T3: marcos 4 e 5 - 23 a 26/11
 
 - **Datas:** marco 4 em 23/11 (seg.); marco 5 e orientação do marco 6 em 25/11 (qua.).
-- **Aula teórica - marco 4:** adaptação e integração da implementação de referência ao problema atribuído; justificativa das alterações; dependências diretas; execução reproduzível.
+- **Aula teórica - marco 4:** adaptação e integração da implementação de referência algs4 ao problema atribuído; justificativa das alterações; dependências diretas; execução reproduzível.
 - **Aula prática - marco 5 e orientação do marco 6:** testes da instância pequena, casos-limite e impossibilidade quando aplicável; diagnóstico de divergências; análise de resultados, tempo e memória. Orientação da submissão, do `README.md` e da apresentação.
 - **Acompanhamento processual:** as evidências avançarão nos encontros e entre as aulas. O marco 6 será acompanhado em 30/11, junto da revisão para a AT3; sua conclusão e o `Accepted` serão exigidos até a apresentação em 02/12.
 - **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (aplicação); 03.02 - Problema do caminho mínimo (aplicação); 03.03 - Problema do fluxo máximo em redes (aplicação).
-- **Recursos:** [enunciado e marcos do T3](../trabalhos/T3.md); implementações de referência disponibilizadas para a classe e a linguagem do problema atribuído; repositório único de cada grupo; instâncias pequenas e casos de teste.
+- **Recursos:** [enunciado e marcos do T3](../trabalhos/T3.md); implementações de referência algs4 disponibilizadas para a classe e a linguagem do problema atribuído; repositório único de cada grupo; instâncias pequenas e casos de teste.
 - **Produto/evidência:** implementação adaptada e integrada; testes e análise registrados.
 
 #### Semana 18 - Revisão para a AT3, marco 6 e apresentação do T3 - 30/11 a 03/12
