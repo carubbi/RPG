@@ -187,7 +187,7 @@
 
 Os conteúdos avançarão a cada encontro, utilizando as aulas teóricas e práticas em sequência: Kruskal; Prim; Dijkstra; Bellman-Ford e Floyd-Warshall; fundamentos de fluxo máximo; Ford-Fulkerson. Os conceitos, o rastreamento e as implementações algs4 serão abordados antes do lançamento e de qualquer marco do T3. A sequência de algoritmos será concluída em 10/11.
 
-O T3 começará em 17/11, com um problema por grupo e distribuição balanceada entre árvore geradora mínima, caminhos mínimos e fluxo máximo. Os acompanhamentos ocorrerão tanto nas aulas teóricas quanto nas práticas. O marco 6 será acompanhado junto da revisão para a AT3 em 01/12; a apresentação e a entrega final permanecerão em 03/12.
+O T3 tem um problema por grupo, distribuído entre árvore geradora mínima, caminhos mínimos e fluxo máximo. O marco 4 consolida a adaptação e os testes no encontro de revisão da AT3 em 01/12. A entrega e a apresentação ocorrem em 03/12.
 
 #### Semana 12 - Árvore geradora mínima: Kruskal e Prim - 19 a 22/10
 
@@ -249,33 +249,34 @@ O T3 começará em 17/11, com um problema por grupo e distribuição balanceada 
 
 #### Semana 16 - T3: lançamento e marcos 1, 2 e 3 - 16 a 19/11
 
-- **Datas:** lançamento e marcos 1 e 2 em 17/11 (ter.); marco 3 em 19/11 (qui.).
+- **Datas previstas:** lançamento e marcos 1 e 2 em 17/11 (ter.); marco 3 em 19/11 (qui.), com acompanhamento e orientação da apresentação em 26/11 (qui.), na semana 17. Na 30/31, o marco 1 foi realizado em 17/11.
 - **Aula teórica - lançamento e marcos 1 e 2:** atribuição de um problema por grupo, com distribuição balanceada entre árvore geradora mínima, caminhos mínimos e fluxo máximo; formulação do problema, objetivo, entrada, saída e restrições; escolha e justificativa do algoritmo; representação do grafo e da instância pequena; validação da entrada e saída esperada; justificativa da complexidade de pior caso de tempo e espaço.
 - **Aula prática - marco 3:** rastreamento manual; identificação das estruturas de dados e de seus estados iniciais na algs4; operações e atualizações das estruturas; justificativa das decisões e do resultado; explicação individual de uma etapa no código algs4.
-- **Acompanhamento processual:** evidências no repositório único do grupo, com desenvolvimento também entre as aulas; validação do marco 3 antes da adaptação do marco 4.
+- **Acompanhamento processual:** evidências no repositório único do grupo, com desenvolvimento também entre as aulas; usar o rastreamento do marco 3 para justificar as decisões de adaptação no marco 4.
 - **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (aplicação); 03.02 - Problema do caminho mínimo (aplicação); 03.03 - Problema do fluxo máximo em redes (aplicação).
 - **Recursos:** [enunciado e marcos do T3](../trabalhos/T3.md); implementações de referência algs4 disponibilizadas para a classe e a linguagem do problema atribuído; repositório único de cada grupo; instâncias pequenas e casos de teste.
-- **Produto/evidência:** problema atribuído; formulação; representação validada; algoritmo e complexidade justificados; rastreamento manual e explicação individual registrados.
+- **Produto/evidência:** problema atribuído, formulação, instância validada e algoritmo e complexidade justificados. O registro do rastreamento manual e da explicação individual será conferido no acompanhamento do marco 3.
 
-#### Semana 17 - T3: marcos 4 e 5 - 23 a 26/11
+#### Semana 17 - T3: acompanhamento do marco 3 e preparação do marco 4 - 23 a 27/11
 
-- **Datas:** marco 4 em 24/11 (ter.); marco 5 em 26/11 (qui.).
-- **Aula teórica - marco 4:** adaptação e integração da implementação de referência algs4 ao problema atribuído; justificativa das alterações; dependências diretas; execução reproduzível.
-- **Aula prática - marco 5:** testes da instância pequena, casos-limite e impossibilidade quando aplicável; diagnóstico de divergências; análise de resultados, tempo e memória.
-- **Acompanhamento processual:** as evidências avançarão nos encontros e entre as aulas. O marco 6 será acompanhado em 01/12, junto da revisão para a AT3; sua conclusão e o `Accepted` serão exigidos até a apresentação em 03/12.
+- **Datas:** adaptação da referência algs4 prevista para 24/11 (ter.); acompanhamento do marco 3 em 26/11 (qui.); checagem formativa pelo repositório em 27/11 (sex.).
+- **Preparação do marco 4:** adaptar e integrar a referência algs4, incluir as dependências e executar a instância pequena validada no marco 2.
+- **Aula prática de 26/11 - marco 3:** acompanhar o rastreamento manual e a explicação individual de uma etapa no código algs4, incluindo eventuais pendências do marco 2. Reservar os 15 minutos finais para orientar a apresentação de até cinco minutos por grupo e indicar a evidência esperada no marco 4. Consultar o [roteiro da apresentação](../trabalhos/T3.md#apresentações).
+- **Checagem formativa de 27/11:** Conferir pelo repositório se o grupo já carrega a entrada e consegue executar a instância pequena ou se registrou um bloqueio. A checagem orienta o trabalho e não cria prazo avaliativo.
 - **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (aplicação); 03.02 - Problema do caminho mínimo (aplicação); 03.03 - Problema do fluxo máximo em redes (aplicação).
 - **Recursos:** [enunciado e marcos do T3](../trabalhos/T3.md); implementações de referência algs4 disponibilizadas para a classe e a linguagem do problema atribuído; repositório único de cada grupo; instâncias pequenas e casos de teste.
-- **Produto/evidência:** implementação adaptada e integrada; testes e análise registrados.
+- **Produto/evidência:** rastreamento manual, explicação individual e retorno formativo sobre a implementação.
 
-#### Semana 18 - Revisão para a AT3, marco 6 e apresentação do T3 - 30/11 a 03/12
+#### Semana 18 - Revisão para a AT3, marco 4 e apresentação do T3 - 30/11 a 03/12
 
-- **Datas:** revisão para a AT3 e acompanhamento do marco 6 em 01/12 (ter.); apresentação em 03/12 (qui.).
-- **Aula teórica - revisão para a AT3 e acompanhamento do marco 6:** revisão de árvore geradora mínima, caminhos mínimos e fluxo máximo; condições de aplicação, correção e complexidade dos algoritmos; dúvidas. Acompanhamento da submissão, do `README.md`, das evidências e da preparação da apresentação no mesmo encontro.
-- **Prazo do marco 6:** o acompanhamento em 01/12 não antecipa o prazo final; o marco 6 deverá estar concluído e o `Accepted` obtido até a apresentação em 03/12.
+- **Datas:** revisão para a AT3 e marco 4 em 01/12 (ter.); entrega e apresentação em 03/12 (qui.).
+- **Aula teórica de 01/12:** 50 minutos (50% do encontro) para a revisão da AT3, com exercícios comentados de árvore geradora mínima, caminhos mínimos e fluxo máximo, com foco em aplicabilidade, correção e complexidade, e 50 minutos (50%) para o marco 4 consolidado.
+- **Marco 4 - adaptação, integração e testes:** verificar a leitura da entrada da instância pequena, a construção do grafo, a integração com a referência algs4 e a comparação entre a saída esperada e a obtida. Registrar a evidência e as pendências no repositório.
+- **Preparação para a entrega final:** concluir a documentação, registrar a evidência da submissão e obter o `Accepted` até a apresentação de 03/12.
 - **Aula prática - apresentação e entrega do T3 em 03/12:** encontro integral destinado às apresentações dos problemas únicos dos grupos, contemplando as três classes; até cinco minutos por grupo; envio do link do repositório único no AVA/Moodle até 23h59.
 - **Projeto de ensino:** 03.01 - Problema da árvore de cobertura mínima (síntese e apresentação); 03.02 - Problema do caminho mínimo (síntese e apresentação); 03.03 - Problema do fluxo máximo em redes (síntese e apresentação).
 - **Recursos:** repositórios únicos dos grupos; apresentações; evidências de submissão; rubrica da AP3 no [T3](../trabalhos/T3.md); implementações e exemplos da Unidade III.
-- **Produto/evidência:** revisão da unidade; acompanhamento do marco 6; apresentação única de cada grupo; repositório entregue; AP3 concluída.
+- **Produto/evidência:** revisão da unidade, evidência de implementação no marco 4, repositório entregue e apresentação única de cada grupo.
 
 #### Semana 19 - AT3 - 08/12
 
@@ -314,7 +315,7 @@ O T3 começará em 17/11, com um problema por grupo e distribuição balanceada 
 
 ### AV3
 
-- **AP3/T3:** um problema, um repositório e uma apresentação por grupo; lançamento e marcos 1 e 2 em 17/11; marco 3 em 19/11; marco 4 em 24/11; marco 5 em 26/11; revisão para a AT3 e acompanhamento do marco 6 em 01/12; marco 6 concluído e `Accepted` obtido até a apresentação em 03/12; entrega do link até 23h59 do mesmo dia.
+- **AP3/T3:** um problema, um repositório e uma apresentação por grupo. Acompanhamento e entrega conforme as semanas 16 a 19. AP3 com 4,0 pontos pelo acompanhamento e pelas evidências dos marcos 1 a 4 (1,0 ponto por marco), 2,0 pontos pela solução adaptada com `Accepted` e pelo repositório e 4,0 pontos pela apresentação.
 - **AT3:** 08/12; encontro teórico integral; dez questões objetivas estilo ENADE no AVA/Moodle.
 - **Composição:** AT 70% + AP 30%.
 - **Conteúdo:** árvore geradora mínima, caminhos mínimos e fluxo máximo.
@@ -346,7 +347,7 @@ As janelas de segunda chamada não substituem automaticamente encontros regulare
 
 **Enunciado:** [T3 — Otimização em grafos](../trabalhos/T3.md).
 
-**Função:** AP3 processual com um problema de otimização por grupo, um repositório e uma apresentação; distribuição balanceada entre MST, caminhos mínimos e fluxo máximo; seis marcos comuns iniciados após o ensino completo dos algoritmos da unidade.
+**Função:** AP3 processual com um problema de otimização por grupo, um repositório e uma apresentação. Os quatro marcos de acompanhamento começam após o ensino completo dos algoritmos da unidade.
 
 Os demais trabalhos da Unidade II serão usados como materiais complementares e não constituirão entregas avaliativas adicionais.
 
